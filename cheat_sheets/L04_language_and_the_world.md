@@ -172,8 +172,8 @@ Across all five thinkers the same lesson appears: language **classifies and eval
 
 ## 5. List of past-year exam questions
 
-- **2024 (Q3):** Discuss the links between language and inequality. How can sociologists help to address the problem?
 - **2025 (Q4):** "Language, power and modernity are all interrelated." Critically analyse this statement.
+- **2024 (Q3):** Discuss the links between language and inequality. How can sociologists help to address the problem?
 - **2023 (Q4):** Identify and explain how language is tied up with wider questions of power.
 - **2022 (Q4):** Can language create inequality?
 - **2021 (Q4):** "Inequalities in language represent inequalities in the world." Critically explain this statement.
@@ -199,29 +199,7 @@ Across all five thinkers the same lesson appears: language **classifies and eval
 
 ## 7. Essay answers
 
-### Essay 1 / 2024 (Q3): *Discuss the links between language and inequality. How can sociologists help to address the problem?*
-
-I want to argue two things. First, language and inequality are linked in three overlapping ways (*classification*, *evaluation*, and *erasure*) and the lecture's slogan that "problems with inequality in language are also problems within the world" (Lecture 4 slide 4) captures this neatly. Second, sociologists can help, but only if they treat language as embedded in the world rather than as a separable surface that can be cleaned up by vocabulary reform alone.
-
-**Language classifies.** This is the core insight of the Sapir-Whorf hypothesis as the lecture presents it: speakers of a shared language are "partners to an agreement to perceive and think of the world in a certain way" (Brown, 1968: 230). Every language carves the world into categories ("doctor" and "patient", "citizen" and "alien", "man" and "woman") and those categories are unequal in their consequences. Dale Spender shows that English carves humanity into "those who are plus male and those who are minus male" (Spender, 1980: 145). The generic *he*, the older default *mankind*, the ladder of titles *Mr / Mrs / Miss*, all encode an asymmetry: the man is the default human, the woman a variation. Medical language is a powerful example: gender-based diagnostic bias means that women presenting with heart attacks were for decades misclassified as anxious because the "textbook" patient was male. The classification scheme is unequal before any individual clinician makes a choice.
-
-**Language evaluates.** Classification almost always smuggles in a hierarchy. Ngũgĩ wa Thiong'o argues that English entered Africa as the language of "the Bible and the sword" (Ngũgĩ, 1993: 31), at once a label and a verdict. "Eskimo", the lecture's recurring example, is not just inaccurate; it expresses a relation of power between the namer and the named. The computer science vocabulary of *master* and *slave* drives, or *blacklist* and *whitelist*, evaluates as it classifies. In law, the figure of the "reasonable man", only re-named "reasonable person" recently, built the male perspective into the very test of negligence.
-
-**Language erases.** Some realities are made unspeakable. Simone de Beauvoir's complaint that "a man would never set out to write a book on the peculiar situation of the human male" (de Beauvoir, 1988: 15) is precisely this: the male perspective passes for the universal, so its particularity disappears from view. Trans and non-binary speakers report a similar erasure in pronoun systems that admit only *he* or *she*. Ngũgĩ describes a more brutal erasure: African children in colonial schools were punished with "plaques inscribed with the words 'I am stupid'" (Ngũgĩ, 1993: 33) for speaking their first languages. The Welsh and Gaelic revivals are responses to the same pattern of internal colonial erasure.
-
-**So what can sociologists do?** First, *describe* the patterns with care. Spender's archival work on grammarians from Wilson (1553) to Kirkby (1746) shows that the "man-made" character of English is not a vague impression but a documentable history of prescription. Sociologists can do similar archaeology for medical, legal and technical vocabularies, tracing, say, how DSM categories changed, or how social-media content-moderation algorithms perform much worse on non-English languages, generating new digital inequalities.
-
-Second, *connect* language work to material consequences. De Beauvoir and Irigaray both insist that words alone are not the whole problem. Halewood puts it bluntly: "Tinkering with language to avoid or remove words or phrases that are considered inappropriate or offensive is not enough" (Halewood, 2021: 126). The point of pronoun debates, English-only education policy in former colonies, or campaigns to retire master/slave terminology is not the words as such but the social distributions the words sustain.
-
-Third, sociologists can *amplify counter-voices*. Achebe's strategy of Africanising English ("fashioning an English that is at once universal and able to carry his peculiar experience" (Achebe, 1997: 347)) is a model: rather than purifying the language, you refashion it for new uses. Sociologists studying Welsh-medium education, dual-language radio in postcolonial states, or the digital revival of Gaelic show that languages can be repaired and extended.
-
-Fourth, sociologists should be *self-critical* about jargon. The discipline's own language can naturalise inequality (the smooth use of "race" as a variable, "informal economy" as a residue, "third world" as a destination). I think we should follow Haraway's warning that "all dreams for a perfectly true language… are totalizing and imperialist" (Haraway, 1991: 173). We should not assume our vocabulary is a neutral grid.
-
-So: language and inequality are linked through classification, evaluation and erasure. Sociologists help when they document the histories, link words to material distributions, support communities refashioning their own languages, and police their own vocabulary as carefully as everyone else's. They fail when they treat language reform as a substitute for redistribution.
-
-*Word count: ~735.*
-
-### Essay 2 / 2025 (Q4): *"Language, power and modernity are all interrelated." Critically analyse this statement.*
+### Essay 1 / 2025 (Q4): *"Language, power and modernity are all interrelated." Critically analyse this statement.*
 
 I agree with the statement, but only when "modernity" is read in the specific sense the SC301 module has been building: modernity as a *colonial* project that travelled with particular European languages and that re-described the rest of the world in its own vocabulary. Read that way, language is not an add-on to modernity but one of its load-bearing technologies.
 
@@ -241,6 +219,28 @@ I agree with the statement, but only when "modernity" is read in the specific se
 - *Legal "reasonable man" tests* and *medical diagnostic categories*: modernity's flagship institutions (law and medicine) encode male defaults at the level of vocabulary.
 
 **Conclusion.** Language, power and modernity are interrelated because modernity is the historical settlement in which certain European languages became the default vocabulary of progress, science and citizenship. The strong version of this claim risks essentialising European languages as inherently oppressive (Achebe rightly resists that). The weak version, that "the languages of Europe… were taught as if they were our own languages" (Ngũgĩ, 1993: 35), is the version I find most useful, and it is enough to vindicate the exam quotation.
+
+*Word count: ~735.*
+
+### Essay 2 / 2024 (Q3): *Discuss the links between language and inequality. How can sociologists help to address the problem?*
+
+I want to argue two things. First, language and inequality are linked in three overlapping ways (*classification*, *evaluation*, and *erasure*) and the lecture's slogan that "problems with inequality in language are also problems within the world" (Lecture 4 slide 4) captures this neatly. Second, sociologists can help, but only if they treat language as embedded in the world rather than as a separable surface that can be cleaned up by vocabulary reform alone.
+
+**Language classifies.** This is the core insight of the Sapir-Whorf hypothesis as the lecture presents it: speakers of a shared language are "partners to an agreement to perceive and think of the world in a certain way" (Brown, 1968: 230). Every language carves the world into categories ("doctor" and "patient", "citizen" and "alien", "man" and "woman") and those categories are unequal in their consequences. Dale Spender shows that English carves humanity into "those who are plus male and those who are minus male" (Spender, 1980: 145). The generic *he*, the older default *mankind*, the ladder of titles *Mr / Mrs / Miss*, all encode an asymmetry: the man is the default human, the woman a variation. Medical language is a powerful example: gender-based diagnostic bias means that women presenting with heart attacks were for decades misclassified as anxious because the "textbook" patient was male. The classification scheme is unequal before any individual clinician makes a choice.
+
+**Language evaluates.** Classification almost always smuggles in a hierarchy. Ngũgĩ wa Thiong'o argues that English entered Africa as the language of "the Bible and the sword" (Ngũgĩ, 1993: 31), at once a label and a verdict. "Eskimo", the lecture's recurring example, is not just inaccurate; it expresses a relation of power between the namer and the named. The computer science vocabulary of *master* and *slave* drives, or *blacklist* and *whitelist*, evaluates as it classifies. In law, the figure of the "reasonable man", only re-named "reasonable person" recently, built the male perspective into the very test of negligence.
+
+**Language erases.** Some realities are made unspeakable. Simone de Beauvoir's complaint that "a man would never set out to write a book on the peculiar situation of the human male" (de Beauvoir, 1988: 15) is precisely this: the male perspective passes for the universal, so its particularity disappears from view. Trans and non-binary speakers report a similar erasure in pronoun systems that admit only *he* or *she*. Ngũgĩ describes a more brutal erasure: African children in colonial schools were punished with "plaques inscribed with the words 'I am stupid'" (Ngũgĩ, 1993: 33) for speaking their first languages. The Welsh and Gaelic revivals are responses to the same pattern of internal colonial erasure.
+
+**So what can sociologists do?** First, *describe* the patterns with care. Spender's archival work on grammarians from Wilson (1553) to Kirkby (1746) shows that the "man-made" character of English is not a vague impression but a documentable history of prescription. Sociologists can do similar archaeology for medical, legal and technical vocabularies, tracing, say, how DSM categories changed, or how social-media content-moderation algorithms perform much worse on non-English languages, generating new digital inequalities.
+
+Second, *connect* language work to material consequences. De Beauvoir and Irigaray both insist that words alone are not the whole problem. Halewood puts it bluntly: "Tinkering with language to avoid or remove words or phrases that are considered inappropriate or offensive is not enough" (Halewood, 2021: 126). The point of pronoun debates, English-only education policy in former colonies, or campaigns to retire master/slave terminology is not the words as such but the social distributions the words sustain.
+
+Third, sociologists can *amplify counter-voices*. Achebe's strategy of Africanising English ("fashioning an English that is at once universal and able to carry his peculiar experience" (Achebe, 1997: 347)) is a model: rather than purifying the language, you refashion it for new uses. Sociologists studying Welsh-medium education, dual-language radio in postcolonial states, or the digital revival of Gaelic show that languages can be repaired and extended.
+
+Fourth, sociologists should be *self-critical* about jargon. The discipline's own language can naturalise inequality (the smooth use of "race" as a variable, "informal economy" as a residue, "third world" as a destination). I think we should follow Haraway's warning that "all dreams for a perfectly true language… are totalizing and imperialist" (Haraway, 1991: 173). We should not assume our vocabulary is a neutral grid.
+
+So: language and inequality are linked through classification, evaluation and erasure. Sociologists help when they document the histories, link words to material distributions, support communities refashioning their own languages, and police their own vocabulary as carefully as everyone else's. They fail when they treat language reform as a substitute for redistribution.
 
 *Word count: ~735.*
 

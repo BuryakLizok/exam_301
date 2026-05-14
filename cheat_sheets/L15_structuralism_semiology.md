@@ -105,18 +105,18 @@ Structuralism and semiology argue that meaning in language and culture is not na
 
 ## §6. Quick exam scaffolds
 
+**The "do we need a theory of signs to understand capitalism?" scaffold (2023-style):**
+1. State the question: is semiology necessary, or are political economy / class structure / commodity form sufficient?
+2. Show what semiology adds (advertising, branding, cultural commodification, late-capitalist style cycles).
+3. Show its limits (production, labour, class).
+4. Argue for a Hall-style synthesis: semiology + Marxism + ideology theory.
+
 **The "is X mythological?" scaffold (2022-style):**
 1. Define myth as third-order signification that naturalises history.
 2. Pick two or three contemporary examples.
 3. Apply denotation -> connotation -> myth.
 4. Critique: production, audience, polysemy, polyvalence, ideology.
 5. Verdict: how convincing is the diagnosis?
-
-**The "do we need a theory of signs to understand capitalism?" scaffold (2023-style):**
-1. State the question: is semiology necessary, or are political economy / class structure / commodity form sufficient?
-2. Show what semiology adds (advertising, branding, cultural commodification, late-capitalist style cycles).
-3. Show its limits (production, labour, class).
-4. Argue for a Hall-style synthesis: semiology + Marxism + ideology theory.
 
 **The "popular culture is ideological" scaffold (2021-style):**
 1. Define Barthes's claim: myth is the form of bourgeois ideology because it transforms the historical into the natural.

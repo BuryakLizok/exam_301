@@ -155,13 +155,31 @@ The pay-off for SC301 is methodological. The lecture argues that mainstream soci
 
 ## 8. Past-Exam Questions (Verbatim)
 
-- **2024 (Q9)**: How did European modernity benefit from unequal race relations? Discuss with reference to two theorists.
 - **2025 (Q10)**: What is meant by 'scientific racism'? How have sociologists tried to counter this concept?
+- **2024 (Q9)**: How did European modernity benefit from unequal race relations? Discuss with reference to two theorists.
 - **2023 (Q10)**: What is meant by "scientific racism"? How have sociologists tried to counter this concept?
 - **2022 (Q12)**: Drawing from at least two of W.E.B Du Bois, Toni Morrison and Paul Gilroy, discuss the implications of "race" for contemporary society.
 - **2021 (Q12)**: Du Bois asked: "How does it feel to be a problem?" Outline and assess his response to this question.
 
 ## 9. Past-Q Essay Answers
+
+### Past Q 2025. What is meant by 'scientific racism'? How have sociologists tried to counter this concept?
+
+In this essay I define scientific racism as the nineteenth-century project of grounding racial classification in supposedly biological fact, and I show how sociologists from Du Bois through Morrison to Gilroy have countered it by treating race as a social, historical and political construction.
+
+I begin with definition. The lecture is explicit that the word "race" had no biological referent before the nineteenth century. Its etymology is benign: the French "racine" (root) or Arabic "ras" (head, beginning). "It was only in the 19th century that it was incorporated into biology and seemed to refer to a particular biological group or type or category" (Lecture 8 slide 3). Scientific racism is the doctrine that there are "real, fixed, differences in terms of character, intelligence or morals between different 'types' of humans" (slide 3). I trace its origin through two figures. Linnaeus's *Systema Naturae* (1735) divided Homo sapiens into Europaeus, Afer, Asiaticus and Americanus, claiming not only morphological but also temperamental and psychological differences. Blumenbach (1775) refined this into a five-race typology: Caucasian, Mongolian, Malayan, Negroid, American, supposedly evidenced by skull shape. This is the lineage of nineteenth-century craniometry, of Galton's eugenics, of the Nazi racial measurements photographed in the 1933 image on the lecture slide, and of the Tuskegee syphilis experiments (1932-1972).
+
+I then identify what makes the project specifically "scientific." Following Foucault, the lecture frames scientific racism as power-knowledge: "Science claimed to 'observe' racial differences. The classifications they produced appeared to give them knowledge … This power-knowledge 'produced' ways of viewing people which still have effects today" (slide 9). Gilroy makes the same point: "'race' was a primary object of knowledge and power" (Gilroy, 1998: 252), and the "truths of race were produced 'performatively' from the hat that biological science provided, like so many startled rabbits in front of a noisy, eager, imperial crowd" (Gilroy, 1998: 253). Scientific racism is not the application of neutral science to racial questions; it is the manufacture of racial reality by classificatory institutions tied to colonial and slaveholding power.
+
+The first sociological counter-move is Du Bois's. In *Dusk of Dawn* he concedes that biology cannot ground race: "the difference in skin color was vastly overemphasized and intrinsically trivial" (Du Bois, 1940: 136); yet refuses the easy conclusion that race is therefore unreal. Instead he relocates its reality: "Race is a cultural, sometimes a historical fact … the black man is a person who must ride 'Jim Crow' in Georgia" (Du Bois, 1940: 153). I read this as the first sociological anti-essentialism about race: the reality of race lies in legal and social practices of unequal treatment, not in skulls or genes. This is the move that Critical Race Theory later names "racial realism": race is real as social fact, fictive as biology.
+
+The second counter-move is Toni Morrison's. In *The Origin of Others* she presses the question: "What is race (other than genetic imagination) and why does it matter?" (Morrison, 2017: 15). Her answer is twofold. First, citing Bruce Baum, "Race, in short, is an effect of power" (Morrison, 2017: 25). Second, race functions through Othering: "The necessity of rendering the slave a foreign species appears to be a desperate attempt to confirm one's own self as normal" (Morrison, 2017: 29). I take this to identify the affective and identarian motor of scientific racism: the dominant group needs racial others to stabilise its own normality. Whiteness, on this account, is not the absence of race but the unmarked form of racial power.
+
+The third counter-move is Gilroy's. In 'Race Ends Here' (1998) he argues that scientific racism rested on a specific perceptual regime: the "Euclidean anatomy" of comparative racial measurement, which has been outflanked by molecular biology and digital imaging. "Scientific and biological, historical and cultural, rational and irrational, skin, bone and even blood are no longer primary referents of racial discourse" (Gilroy, 1998: 254). Where racial difference vanishes at the resolution of MRI or genome sequencing, "'race' might best be approached as an after-image" (Gilroy, 1998: 253). I treat Gilroy's polemic as the sharpest scientific counter: the science that produced scientific racism has now superseded its own object.
+
+There are caveats. Counter-arguing scientific racism in the lab does not abolish racism in the street. Du Bois, Morrison and Gilroy all stress that racism persists as institutional and cultural fact even after biology repudiates it. The lecture conclusion makes this point sharply: "Races do not exist. But the experiences constituted by the belief, practices, history and economics of 'race' do … forms of racism … are present in, for example, institutions, art galleries, music, and ways of seeing" (slide 30). Concrete examples confirm this: the UK Macpherson Report (1999) on the Stephen Lawrence inquiry found "institutional racism" in policing; UK Stop & Search ratios remain wildly disproportionate; Black maternal mortality in the UK and US is several times the white rate; the Windrush scandal weaponised state bureaucracy against legitimate Black British citizens.
+
+I conclude that scientific racism is the modern project of dressing racial hierarchy in biological clothing, and that sociologists have countered it by relocating race's reality to social structure (Du Bois), to the affective work of othering (Morrison) and to the changing technologies of vision (Gilroy). The counter is unfinished because the legacy of scientific racism is sedimented in institutions and habits of perception that survive the discrediting of its biological premises.
 
 ### Past Q 2024. How did European modernity benefit from unequal race relations? Discuss with reference to two theorists.
 
@@ -179,7 +197,7 @@ Finally, I press Gilroy's normative implication. If modernity benefited from sla
 
 I conclude that European modernity benefited from unequal race relations in three reinforcing ways: economically through unpaid labour, culturally through the prestige of "scientific" racial classification, and politically through the self-image of a free Europe defined against unfree others. Du Bois and Gilroy together show that race and modernity are inextricably linked and that the dividend has never fully been repaid.
 
-### Past Q 2025/2023. What is meant by 'scientific racism'? How have sociologists tried to counter this concept?
+### Past Q 2023. What is meant by "scientific racism"? How have sociologists tried to counter this concept?
 
 In this essay I define scientific racism as the nineteenth-century project of grounding racial classification in supposedly biological fact, and I show how sociologists from Du Bois through Morrison to Gilroy have countered it by treating race as a social, historical and political construction.
 
