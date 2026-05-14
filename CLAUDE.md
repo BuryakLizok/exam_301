@@ -23,11 +23,22 @@ The full execution plan lives in `PLAN.md` (this folder). This file is short on 
 ## Style rules for all essay answers
 
 - **Length:** 650–750 words each
-- **Voice:** user's own voice; not LLM-generic
-- **Direct quotes ARE allowed** from readings, short, with full citation `(Author, *Work*, p. N)`. Uncertain page numbers marked `[VERIFY p.?]` for joint review.
-- **Named technical concepts** (docile bodies, double consciousness, culture is ordinary, hegemony, culture industry, public sphere, biopower, Black Atlantic, standpoint epistemology, structures of feeling, the male gaze, imagined community, symbolic violence, cathexis, the carceral, etc.) — used unquoted because they are concept names, not quotations.
+- **Voice:** user's own voice; not LLM-generic. No em-dashes (`—`); use commas, colons, parentheses, or sentence breaks instead.
+- **Citation format:** Harvard `(Author, Year: Page)` — colon between year and page, no `p.` prefix, no work title in parentheses. Examples: `(Habermas, 2006: 73)`, `(Fraser, 1992: 119)`, `(Habermas, 1989: 142, 232)`. When the author is named in narrative, use `Author (Year: Page)`. Book titles in narrative: italics. Article titles in narrative: single quotes.
+- **Uncertain pages:** marked `[VERIFY PAGE?]` inline for joint pre-exam review.
+- **Named technical concepts** (docile bodies, double consciousness, culture is ordinary, hegemony, culture industry, public sphere, biopower, Black Atlantic, standpoint epistemology, structures of feeling, the male gaze, etc.) — used unquoted because they are concept names, not quotations.
 - **Brief attribution** on first concept use: e.g., *"Foucault's notion of biopower…"*.
-- **Concrete examples mandatory** when prompt says "discuss with examples"; strongly recommended otherwise. Example mappings: panopticon → modern surveillance / school discipline; culture industry → streaming algorithms / Hollywood franchises; Black Atlantic → music & diaspora; standpoint epistemology → care work / women in STEM; etc.
+- **Concrete examples are mandatory** when the prompt says "discuss with examples", strongly recommended otherwise.
+
+## ⚠️ Course-sources-only rule (strict)
+
+**Every author, concept, and example used in the cheat sheets must come from the SC301 course materials.** Do NOT use general-knowledge contemporary examples (news events, court cases, technologies, political figures, brand names, etc.) UNLESS they actually appear in the lecture slides, readings, teacher summaries, revision documents, or additions. This is an open-book exam where the user can only defend claims that come from material she has studied.
+
+**Forbidden (unless explicitly in materials):** contemporary news events the lecturer didn't cite; specific court cases not in the slides; tech specifics (ChatGPT, Fitbit, Cambridge Analytica, etc.) not in the slides; political figures not on the slides; brand-name "concrete examples" of theoretical concepts that the lecturer didn't supply.
+
+**Allowed:** the specific cases the lecturer or assigned authors use; the historical events cited in the readings; the named contemporary cases on the slides (e.g., Punk/Drill on L11 slides; Trump/Mexican-Americans on L8 slide 23; Branson/Virgin Records on L12 slides; *Love Thy Neighbour* on L14 slide; Disneyland/Watergate/Gulf War on L16 slides per Baudrillard; Wall Street-Silicon Valley bloc on L17 via *Hegemony Now*).
+
+When in doubt, **lean on theoretical engagement with the named thinkers** (their internal arguments, tensions, critiques) rather than inventing illustrations.
 
 ## Source priority (when drafting)
 
