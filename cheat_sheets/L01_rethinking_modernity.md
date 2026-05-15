@@ -156,35 +156,53 @@ The main argumentative thread of the L1 reading and lecture is that **modernity 
 
 ## 6. List of mock exam questions
 
-M1. "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it." Critically discuss with reference to Halewood's account of bifurcation.
+**The first seven (M1-M7) follow the lecturer's actual exam-question-construction pattern most closely; they are built by fusing 2-3 slide-bullet-questions from §3 / the revision doc into a single composite question, using the lecturer's own vocabulary. They are the most exam-realistic items in this section.**
 
-M2. Critically assess Halewood's argument in *Rethinking the Social through Durkheim, Marx, Weber and Whitehead* that twentieth-century sociology has forgotten the open-endedness of the classical canon.
+**M1.** How does modernity both promise rationality and rely on coercion and unequal exchange? Critically discuss the "myth of progress" with reference to Du Bois's 1915 account of the slave trade.
 
-M3. What does Halewood mean by bifurcation, and why does he treat it as the cornerstone of modernity?
+**M2.** To what extent does our understanding of modernity depend on recognising non-European peoples as constitutive of its making, in both support and resistance? Answer with reference to Howard French's *Born in Blackness* (2021).
 
-M4. Compare and contrast Du Bois's account of slavery in *The Negro* (1915) with Marx's account of the slavery-cotton-industry chain in *Capital*.
+**M3.** Is the rethinking of the sociological canon a matter of adding diversity or of reshaping theoretical frameworks? Critically discuss with reference to the inclusion of Du Bois and the question of power and privilege in the production of sociological knowledge.
 
-M5. How does the concept of bifurcation help us analyse the contemporary divide between climate science and climate politics?
+**M4.** How can the sociological imagination become an active part of reinterpreting and changing the world, especially against the grain of "common sense"? Discuss with reference to Beauvoir and Mills.
 
-M6. Is the fact-value distinction a coherent epistemological position or an ideological alibi? Discuss.
+**M5.** How can critique both expose the bifurcations of modern thought and point towards alternative futures? Critically discuss with reference to one or more modernist bifurcations (e.g. fact/value, "race"/ethnicity, language/world).
 
-M7. Critique or criticism?
+**M6.** Is language a neutral medium of description or a tool of power that reinforces hierarchies and determines which knowledges are taken to be valid? Discuss with reference to the language/world bifurcation and the production of sociological knowledge.
 
-M8. The myth of progress in 2026: does the concept still do critical work?
+**M7.** To what extent is modernity a "global and relational phenomenon" rather than a result of European exceptionalism? Discuss with reference to Dussel's critique of Eurocentric modernity and the role of transnational flows of people, goods, capital and ideas.
 
-M9. Does the rise of generative AI vindicate or refute Whitehead's claim that "ideas are things"?
+**M8-M22** [the previous M1-M15, renumbered]:
 
-M10. How convincing do you find Simmel's account of sociation? Use specific examples.
+**M8.** "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it." Critically discuss with reference to Halewood's account of bifurcation.
 
-M11. Why has the sociological canon been so resistant to the inclusion of Du Bois? Answer with reference to Howard French, *Born in Blackness* (2021).
+**M9.** Critically assess Halewood's argument in *Rethinking the Social through Durkheim, Marx, Weber and Whitehead* that twentieth-century sociology has forgotten the open-endedness of the classical canon.
 
-M12. Using the work of at least two authors, critically assess the claim that "the manner of association" is what is sociologically interesting about modern societies.
+**M10.** What does Halewood mean by bifurcation, and why does he treat it as the cornerstone of modernity?
 
-M13. Can sociology think outside the categories of European modernity?
+**M11.** Compare and contrast Du Bois's account of slavery in *The Negro* (1915) with Marx's account of the slavery-cotton-industry chain in *Capital*.
 
-M14. The sociological imagination at third year.
+**M12.** How does the concept of bifurcation help us analyse the contemporary divide between climate science and climate politics?
 
-M15. Compare and contrast Durkheim's living-cell analogy in *The Rules of Sociological Method* with Marx's butyric-acid/propyl-formate analogy in *Capital*. What does each do for its respective sociology?
+**M13.** Is the fact-value distinction a coherent epistemological position or an ideological alibi? Discuss.
+
+**M14.** Critique or criticism?
+
+**M15.** The myth of progress in 2026: does the concept still do critical work?
+
+**M16.** Does the rise of generative AI vindicate or refute Whitehead's claim that "ideas are things"?
+
+**M17.** How convincing do you find Simmel's account of sociation? Use specific examples.
+
+**M18.** Why has the sociological canon been so resistant to the inclusion of Du Bois? Answer with reference to Howard French, *Born in Blackness* (2021).
+
+**M19.** Using the work of at least two authors, critically assess the claim that "the manner of association" is what is sociologically interesting about modern societies.
+
+**M20.** Can sociology think outside the categories of European modernity?
+
+**M21.** The sociological imagination at third year.
+
+**M22.** Compare and contrast Durkheim's living-cell analogy in *The Rules of Sociological Method* with Marx's butyric-acid/propyl-formate analogy in *Capital*. What does each do for its respective sociology?
 
 ---
 
@@ -250,7 +268,143 @@ The most important counter-argument is that the neo-Kantian inheritance is preci
 
 In conclusion, the neo-Kantians have influenced sociology in three main ways: they bequeathed the methodological apparatus of meaning-oriented social science (*Verstehen*, ideal types, value-relevance); they installed the fact-value distinction as a cornerstone of the discipline; and they shaped the canon through the channels of Weber and Simmel. The first contribution remains valuable, the second is the source of recurring crisis, and the third has had to be supplemented by recovering thinkers (Du Bois, Dussel, Whitehead) who were never inside the neo-Kantian conversation. To answer the question properly is therefore not just to *describe* the influence but to *critique* it (in the lecture's strong sense) and to point to the alternatives that a non-bifurcated philosophy of the social would open up.
 
-### M1: "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it." Critically discuss with reference to Halewood's account of bifurcation.
+### M1: How does modernity both promise rationality and rely on coercion and unequal exchange? Critically discuss the "myth of progress" with reference to Du Bois's 1915 account of the slave trade.
+
+I argue that modernity does not merely *combine* rationality with coercion as if these were two separate ingredients; rather, the promise of rationality and the practice of coercion are produced by the same operation, and the "myth of progress" is the narrative device that allows them to be presented as separable. My thesis, drawing on Du Bois (1915) and Halewood's bifurcation thesis, is that we should refuse the standard story by which European rationality is described first and colonial coercion appended as regrettable context. The two are constitutive of one another, and the myth of progress is what hides this constitution.
+
+The first move is to recover what the conventional story says. Modernity, in the textbook telling, is the long European achievement of rationality and industrialisation: from feudal superstition to scientific reason, from local trade to factory production. This is the story sociology was assembled to explain, with Marx on capitalism, Weber on rationality and bureaucracy, and Durkheim on the move from mechanical to organic solidarity. The story is not false but it is partial. It treats modernity as Europe's accomplishment and treats colonisation as a later application, when in fact, on Du Bois's account, the four hundred years from 1450 to 1850 constitute a single global system in which "European civilization carried on a systematic trade in human beings" (Du Bois, 1915: 89-90) at the same time as it produced "the beginnings of the modern organization of industry" (Du Bois, 1915: 89-90).
+
+The second move is to take Du Bois's chronology seriously. He names the same period for both faces of modernity. Shakespeare, Luther and Raphael are contemporaries of the slave ship; Lincoln is contemporaneous with the closing decade of the Atlantic trade. "These were not days of decadence" (Du Bois, 1915: 89-90); they were the centuries of the modern. The implication is structural: the rationality the standard story celebrates is not separable from the coercion it brackets. Marx makes the conceptual chain explicit: "Without slavery you have no cotton; without cotton you have no modern industry. It is slavery that gave the colonies their value; it is the colonies that created world trade and it is world trade that is the pre-condition of large-scale industry" (Marx, 1977: 203). The mill in Manchester runs on the plantation in Barbados; the same operation produces both.
+
+The third move is to name the myth of progress as the operation that hides this. The myth tells modernity as a single forward arc and files the harms under a separate heading marked "regrettable past". Halewood's bifurcation thesis lets us specify what the myth actually does: it splits the description of modernity into a fact side (industry, science, rationalisation) and a value side (slavery, racial extraction, coloniality), and treats the two as belonging to separate realms. "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it" (Whitehead, 1933: 217). The myth keeps the slave ship on the far side of the gulf from the steam engine.
+
+A concrete contemporary illustration. When commentators tell the story of modern global supply chains, they typically front-load the rational planning, the algorithmic logistics, the AI-assisted scheduling, and back-load the labour conditions and resource extraction as questions of "ethics" to be addressed in a separate audit. The shape of the narrative is the same shape Du Bois diagnosed: rationality up front, coercion as appendix. Brexit-era debates about Britain's "great industrial heritage" reproduce the operation by celebrating cotton-mill engineering while keeping the cotton's provenance offstage.
+
+A counter-argument worth taking seriously: treating modernity as essentially coercive risks anti-progress nihilism. I reject the dichotomy. Du Bois did not deny that modernity produced Shakespeare; he insisted it produced the slave trade in the same breath. Dussel (in L2) makes the same move: the critique is not refusal but historicisation, breaking the "myth of modernity" so that emancipation and violence can be told together (Dussel, 1993). Harding (in L6) refines this methodologically: conventional value-freedom is "*not rigorous or objectifying enough*" (Harding, 2004: 128) precisely because it lets the conditions of rationality sit on the further side of the bifurcation.
+
+In conclusion, modernity does both, and the myth of progress is the bifurcation that makes this look like two separate questions when it is one. Rationality and coercion in modernity are co-produced; sociology's job is to refuse the bifurcation rather than to choose a side. Du Bois's 1915 paragraph is still the cleanest statement of that refusal.
+
+(744 words)
+
+### M2: To what extent does our understanding of modernity depend on recognising non-European peoples as constitutive of its making, in both support and resistance? Answer with reference to Howard French's *Born in Blackness* (2021).
+
+I argue that our understanding of modernity depends on this recognition completely, not partially. My thesis is that non-European peoples are not "factors" we can include or omit when describing modernity; they are constitutive of the manner of association by which modernity took shape, and the work of French's *Born in Blackness* (2021) is to make the empirical case for this constitutive role so densely that the standard sociology of modernity becomes unrepairable without it. The recognition required is therefore not additive but inversive.
+
+The first move is to specify the contrast. In the standard story, modernity is an internal European achievement that subsequently affected other parts of the world through trade, colonisation, missionary work and migration. Non-European peoples are positioned as recipients (of progress) or obstacles (to it). French's argument is the opposite. Africa is not added in to a story whose centre is Europe; rather, the African coastal trade and the Atlantic plantation system are part of what made the European centre a centre. The Portuguese were shipping gold from West Africa by the 1490s (French, 2021); enslaved people taken from Central Africa were in Bolivia and Peru by the 1620s, sufficiently established that a Kimbundu-Spanish grammar was being printed for use in the Andes; forty per cent of all plantation-enslaved people went from Africa to Brazil (French, 2021). These are not background details; they are the empirical scaffolding of the global mercantile and industrial system that the standard sociology treats as a later European product.
+
+The second move is conceptual. Halewood's bifurcation thesis lets us see what the standard sociology was doing when it excluded these facts. The discipline split modernity into a European core and a non-European periphery, and then treated the periphery as a sphere of "values" (cultural impact, ethical concern, post-colonial conscience) rather than as a sphere of "facts" about the same system. "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it" (Whitehead, 1933: 217). The bifurcation organised the discipline's ignorance. The Cantino Planisphere of 1502 (a Portuguese map that already foregrounds coasts, oceans and links between continents) is the visual emblem. The standard art-historical commentary mentions slavery only briefly. The map shows the system; the commentary hides it.
+
+The third move is to specify support and resistance, because the lecturer's framing names both. Non-European peoples were not just supports of modernity in the sense of enslaved labour; they were also makers of its languages, its commodities, its routes and its forms of trade. The Kimbundu grammar is not a curiosity; it is evidence that Central African languages were carried across the Atlantic and adapted as media of administration in colonial Spanish America. Resistance is equally constitutive: from the maroon communities of Brazil to the Haitian revolution to the long anti-colonial struggles of the twentieth century, resistance set the terms by which modernity was reorganised at each step. Du Bois's *The Negro* (1915) names both registers in a single argument; *The Souls of Black Folk* (1903) gives the phenomenological account at the level of the modern racialised self.
+
+A concrete contemporary illustration. The cost-of-living crisis in Britain has been narrated as a domestic problem of energy prices, supply-chain disruption and post-pandemic recovery. French's frame asks the longer question: which global circuits make British household consumption possible, and who works under what conditions in those circuits. The answer is not exotic; it is the same kind of answer Du Bois gave about cotton in 1915. To treat the cost-of-living crisis as a problem internal to British political economy is to repeat the bifurcation French diagnoses for the original modernity.
+
+A counter-argument: it might be objected that French's project is historical rather than sociological, supplying facts the discipline can incorporate without restructuring. I reject this. The disciplinary point is precisely that the empirical baseline determines the conceptual apparatus. A sociology assembled around a different baseline will produce different concepts of "society", "industry", "the modern". L2's engagement with Dussel makes the same argument philosophically: dating modernity to 1492 rather than 1789 reorganises the categories. L8's recovery of Du Bois places the racialised modern self at the level of generality Weber gave the unitary actor.
+
+In conclusion, the recognition is constitutive and inversive. To understand modernity is to begin from the African coast, the Brazilian plantation and the Andean mission alongside the European factory and the metropolitan university. French's empirical density is what makes this no longer an optional emphasis.
+
+(745 words)
+
+### M3: Is the rethinking of the sociological canon a matter of adding diversity or of reshaping theoretical frameworks? Critically discuss with reference to the inclusion of Du Bois and the question of power and privilege in the production of sociological knowledge.
+
+I argue that the rethinking of the sociological canon is a matter of reshaping theoretical frameworks, not of adding diversity, and that treating it as the latter risks reproducing the very operation of power and privilege the rethinking was meant to address. My thesis is that the difference between "adding" and "reshaping" is the difference between leaving the discipline's centre of gravity in place and shifting it; the inclusion of Du Bois is the test case.
+
+The first move is to make the distinction precise. To add diversity is to extend the reading list, the special issue, the centenary commemoration, while leaving the conceptual apparatus untouched. The added thinker becomes a supplement to the canon, illustrative rather than constitutive. To reshape theoretical frameworks is to let the included thinker change what the discipline's central concepts are. Du Bois is included on the syllabus; the question is whether the discipline's account of modernity, action, the social self, or the nation-state has changed in consequence.
+
+The second move is genealogical. The classical canon (Marx, Weber, Durkheim) was assembled in European universities whose self-understanding was Eurocentric. Sociology was supposed to explain Europe's modernisation; this presupposed that modernity was Europe's accomplishment. The classical apparatus reflects this: the social action, the division of labour, the iron cage, all conceived around the European industrial economy. The revision-doc framing is precise: the production of sociological knowledge is shaped by power and privilege. The exclusion of Du Bois was not personal indifference; it was a structural feature.
+
+The third move is to specify what reshaping would entail with Du Bois. *The Souls of Black Folk* (Du Bois, 1903) proposes "double consciousness", "always looking at one's self through the eyes of others" (Du Bois, 1903: 5), as a structural feature of the modern racialised self. This is a concept at the same level of generality as Weber's social action. To take it seriously is not to add a chapter; it is to revise the discipline's account of selfhood. *The Negro* (Du Bois, 1915) places the slave trade at the heart of modern industry, at the same level of generality as Marx's chain-statement. Including this argument is not a reading-list move; it changes which empirical facts are foundational for the concept of "modernity". Howard French's *Born in Blackness* (2021) reinforces the empirical baseline.
+
+The fourth move is to name what is at stake. Halewood's bifurcation thesis lets us see the operation. The fact-value bifurcation organises which thinkers count as "founders" of social science and which count as "moral commentators". Du Bois's 1915 essay is dense with empirical claims (dates, populations, commodities, routes) and dense with moral indictment ("the most inexcusable and despicable blot on modern human history", Du Bois, 1915: 89-90). On the bifurcated reading, the moral register makes him a public intellectual rather than a sociological theorist. Refusing the bifurcation lets the same essay be read as the theoretical proposal it is.
+
+A concrete illustration. Black Lives Matter as a cultural moment has prompted many universities to advertise their inclusion of Black scholars on syllabi. The "additive" version of this is what L1's revision doc warns against: "not just to add 'diversity' but reshapes theoretical frameworks." The deeper question is whether the inclusion has changed what is taught about modernity itself, whether Weber and Du Bois now sit at the same theoretical level, or whether Du Bois is the optional supplement to Weber. The honest answer is mixed.
+
+A counter-argument: adding diverse voices is the necessary first step and reshaping follows in time. I partly accept this. The objection to "diversity" as the framing is that it sets a low ceiling: if the test is representation alone, the work can be declared complete without the conceptual apparatus moving. L6's engagement with Harding sharpens the methodological point. Conventional value-free objectivity is "*not rigorous or objectifying enough*" (Harding, 2004: 128) precisely because it polices researcher disagreements while leaving culture-wide assumptions intact. Reshaping requires putting those assumptions on the table. Halewood's Whiteheadian commitment to "fearlessness of revision" (Whitehead, 1927: 88) is the disciplinary alternative to slow accretion.
+
+In conclusion, the rethinking of the canon is properly a matter of reshaping theoretical frameworks, with Du Bois as the central test case. The diversity-framing risks making the work declarable-complete before it has been done. Reshaping is the slow, structural, conceptual work third-year sociology asks for.
+
+(721 words)
+
+### M4: How can the sociological imagination become an active part of reinterpreting and changing the world, especially against the grain of "common sense"? Discuss with reference to Beauvoir and Mills.
+
+I argue that the sociological imagination becomes active when it stops doing only descriptive-linking work (joining individual biography to social structure) and starts doing generative-counterfactual work (picturing what social theory and the world could look like if previously excluded categories were taken seriously from the start). My thesis, following the lecturer's Beauvoirian framing, is that the active imagination is the imagination that points somewhere, not the imagination that only diagnoses; and "common sense" is the chief obstacle because it sells the present as the only possible arrangement.
+
+The first move is to set out the Millsian baseline. Mills's *The Sociological Imagination* (Mills, 1959) gave the discipline its still-useful first lesson: see how individual biography is shaped by historical structure, how personal trouble is bound up with public issue. The unemployed person in a downturn is not a personal failure but a casualty of a structural condition. This move is indispensable; it is also incomplete. It teaches the student to *see* what is. It does not yet teach the student to *imagine* what could be.
+
+The second move is the Beauvoirian addition the lecture foregrounds. Beauvoir "imagined what the world and social theory would look like if it took women seriously." The verb is imagined. She did not merely describe the structural conditioning of women's lives; she pictured what social theory would have been if women had been a foundational category from the start. *The Second Sex* (1949) is generative-counterfactual in this sense: it re-imagines the conceptual apparatus, not just the empirical content. L6's standpoint-theoretical tradition continues the work methodologically: Harding insists that "starting from women's lives" yields "better, more robust" knowledge (Harding, 2004: 6), and that the knower is "multiple, heterogeneous, and contradictory" (Harding, 2004: 134).
+
+The third move is to specify why this matters against common sense. Common sense is the silent partner of every bifurcation. It is the operation that makes the current arrangement appear natural, inevitable, the only sensible one. The lecture's revision-doc framing is precise: imagination is key to theoretical innovation "against common sense modes of thinking". Halewood's bifurcation thesis explains the mechanism: once a split has been institutionalised across generations, it stops looking like a split and starts looking like the structure of reality. The fact-value split, the public-private split, the human-animal split, the European-non-European split each pass into common sense in the same way. Imagination is what restores their contingency.
+
+The fourth move is to specify what active imagination looks like in practice. Three features. First, it pictures alternatives rather than only diagnosing problems. Beauvoir does not only describe women's subordination; she imagines a social theory grounded in women's experience. Du Bois (a Beauvoirian avant la lettre) does not only describe the slave trade; in *The Negro* he reorganises the timeline of modernity itself, dating it to 1450 and placing the African coast at the centre. Second, it makes the operation of common sense visible. Beauvoir's account makes the assumption "men are the human, women are the other" available for criticism. Third, it commits to revision: Whitehead's "the art of free society consists [...] in fearlessness of revision" (Whitehead, 1927: 88) is the methodological corollary.
+
+A concrete illustration. The cost-of-living crisis in Britain has been narrated through a common-sense vocabulary of "tightening belts", "living within means", "trade-offs". The Millsian first move is to see how household trouble is structurally produced (energy markets, real-wage stagnation, distributional choices). The Beauvoirian move is harder and more important: to picture what an economic order organised around social reproduction (care work, ecological limits, intergenerational time) rather than financial markets would look like. Without the second move, the first reads as merely critical, in the lecture's degraded sense.
+
+A counter-argument worth pressing: the generative-counterfactual move risks utopianism, free-floating speculation untethered from analysis. I accept the warning but reject the dichotomy. Beauvoir's *Second Sex* is empirically dense at the same time as it is generative; the imagination is the imaginative supplement to analysis, not its replacement. Marx's *Theses on Feuerbach* XI applies: "the philosophers have only interpreted the world, in various ways; the point is to change it" (Marx, 1977: 158). The hinge is the word *change*; without it, sociology halts at description.
+
+In conclusion, the sociological imagination is active when it pictures alternatives, when it makes common sense available for question, and when it commits to revision rather than to summary. Beauvoir is the model; Mills is the floor not the ceiling.
+
+(732 words)
+
+### M5: How can critique both expose the bifurcations of modern thought and point towards alternative futures? Critically discuss with reference to one or more modernist bifurcations (e.g. fact/value, "race"/ethnicity, language/world).
+
+I argue that critique, in the lecturer's strong sense, performs these two operations in a single move rather than as two stages. My thesis is that exposing a modernist bifurcation already pictures what the un-bifurcated alternative looks like, and refusing to do the second step (pointing to alternatives) reduces critique to criticism, in the degraded sense the lecture rejects. The example I will run through is the "race"/ethnicity bifurcation, which the autumn arc (especially L8) makes central.
+
+The first move is to recall the lecturer's distinction. "Criticise" means to find fault; "critique" means to evaluate the structure, to see what works, to suggest clarifications, and to suggest improvements. Critique is structural, generative and future-oriented; criticism is fault-finding and exhausts itself when the fault is named. Halewood's bifurcation thesis pins down what critique evaluates the *structure* of: a splitting of one thing into two branches, the institutionalisation of the splitting, and the gulf produced. "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it" (Whitehead, 1933: 217).
+
+The second move is to specify the "race"/ethnicity bifurcation. The standard modernist move treats "race" as biological and superseded, and ethnicity as cultural and respectable. The bifurcation does work. It allows the discipline to speak of ethnic diversity, ethnic enterprise, ethnic festivals while shelving the structural-racial questions on the further side of the gulf as "old-fashioned" or "ideological". The institutionalisation runs through census categories, equality monitoring, university hiring, journal subfields. Once split, the two sides stop asking after each other.
+
+The third move is to show what critique does next. Exposing the bifurcation is the first half. Pointing to the alternative is the second half, and it is built into the first. To say that "race" and ethnicity have been split is already to point to a sociology that would treat them as one operation, the operation by which colonial-modern hierarchies were materialised and renamed. Du Bois (in L8) had done this work in 1903 with "double consciousness", "always looking at one's self through the eyes of others" (Du Bois, 1903: 5), which is a concept that refuses to let the bifurcation organise the description of the self. Carter and Charles (in L3, though I borrow the methodological move only) extend the same critical operation across the human/animal binary, calling for "a reconceptualization of society that recognizes that animals are constitutive of it rather than part of a 'nature' with which sociologists are unconcerned" (Carter and Charles, 2018: 80). The "alternative future" is the un-bifurcated description: a sociology that treats race-and-ethnicity as one history of categorisation rather than as two analytic compartments.
+
+The fourth move is conceptual. Why does pointing to alternatives matter so much for critique? Because without it, the exposure of bifurcations stalls into a posture of disappointment: modern thought is broken, modern institutions are bifurcated, the gulf is wide. This is criticism in the lecture's degraded sense. Critique avoids the stall by producing the *next* description, the un-bifurcated one. Marx is the model. *Theses on Feuerbach* XI: "the philosophers have only interpreted the world, in various ways; the point is to change it" (Marx, 1977: 158). The hinge is the word change; without it, the exposure is academic in the pejorative sense.
+
+A concrete illustration. *Black Mirror* as a cultural moment frequently exposes contemporary bifurcations (the human/algorithmic, the private/public, the lived/recorded) but rarely points to alternatives; the typical episode closes in resignation. The discipline can do better. The exposure of, say, the fact/value bifurcation in technology policy ("we just build the tool; what to do with it is a values question") is incomplete until the next description is produced: a sociology of design in which the values are visible in the artefact itself, in the engineering choices and the deployment routes.
+
+A counter-argument: pointing to alternatives risks prescriptive overreach, the sociologist as policy advisor or moralist. I take this seriously. The reply is that critique points to the *structure* of the alternative, not the policy detail. Du Bois did not legislate; he reorganised the categories. Dussel (in L2) does the same with "trans-modernity": he names what a non-bifurcated modernity would look like at the level of concept (Dussel, 1993). The alternative is conceptual; the policy work is downstream.
+
+In conclusion, critique exposes bifurcations and points to alternative futures in one move, because the alternative is implicit in the exposure. To stop at exposure is to fall back into criticism. The disciplinary task is to do both, every time.
+
+(749 words)
+
+### M6: Is language a neutral medium of description or a tool of power that reinforces hierarchies and determines which knowledges are taken to be valid? Discuss with reference to the language/world bifurcation and the production of sociological knowledge.
+
+I argue that language is not a neutral medium but a tool of power that reinforces hierarchies and determines which knowledges are taken to be valid, and that the standard view of language as neutral is itself an effect of one of Halewood's six modernist bifurcations, the language/world split. My thesis is that this bifurcation does for language what the fact/value split does for science: it lets language appear to stand outside the world it describes, when in fact it is one of the materials out of which the world is made.
+
+The first move is to specify the bifurcation. The L1 slide-list names six pairings (fact/value, public/private, sex/gender, race/ethnicity, language/world, science/humanities), and the language/world pair organises every attempt to treat language as a transparent window onto reality. Once split, "language" sits on one side and "the world" on the other; language reports from outside. Whitehead's diagnostic is precise: "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it" (Whitehead, 1933: 217). Words are filed as representation; politics, power and the materiality of usage are filed elsewhere.
+
+The second move synthesises the revision-doc bullets on Language, Knowledge and Power. Three propositions read together: language is "not neutral but a tool of power and representation"; it "reinforces hierarchies and determines which knowledge(s) are taken to be valid"; and it "shapes how reality is perceived and lived". Singly, each could be heard as a minor qualification. Together they specify the bifurcation: the standard story treats validity, hierarchy, and the texture of lived perception as if they sat outside the medium, when they are inside it.
+
+The third move anchors this in the L1 archive. The Cantino Planisphere of 1502 is the lecture's emblem of a colonial-modern world whose linguistic apparatus already organises a hierarchy of knowable peoples. French documents the conjoint mobility of language and power: by 1629 a Kimbundu-Spanish grammar was being printed for use in Bolivia and Peru (French, 2021: 288), a tool of administration and labour-control, not a curiosity. Du Bois's 1915 essay refuses the conventions that let "European civilization" narrate its goods without its harms; when he writes "the most inexcusable and despicable blot on modern human history" (Du Bois, 1915: 89-90), language refuses the alibi.
+
+The fourth move connects the bifurcation to the production of sociological knowledge. The revision-doc framing is precise: the production of sociological knowledge is shaped by power and privilege, and rethinking the canon "is not just to add 'diversity' but reshapes theoretical frameworks". The vocabulary in which the discipline was assembled (society, individual, modernisation, rationality) is not a neutral inventory of social facts; it is a set of linguistic operators that pre-shape which questions count as sociological. Du Bois's "double consciousness" (Du Bois, 1903: 5) is a concept at the same level of generality as Weber's social action, but the canonical vocabulary treated it as moral commentary rather than theoretical apparatus. The linguistic hierarchy did the gate-keeping the formal hierarchy could not openly do (L8).
+
+A contemporary illustration. Large-language-model technology propagates linguistic regularities at industrial scale. The naive framing treats the output as a neutral medium evaluable for accuracy. The Halewoodian reading is sharper: the output reproduces the hierarchies in the training corpus (which languages, which authors, which forms count as legitimate text) and re-inscribes them as if they were facts about language. The bifurcation between language and world is what lets the model appear as a neutral reporter while in fact ranking knowledges.
+
+A counter-argument: a strict linguistic-determinism position overshoots, sliding into the "words for snow" cartoon the revision doc warns against. I accept the warning. The bifurcation-critique is not determinism. The claim is not that language fixes reality but that language is one of the materials with which hierarchical knowledge is built. Harding makes the same point at the level of method: the conventional value-free ideal is "*not rigorous or objectifying enough*" (Harding, 2004: 128) because it polices only researcher disagreements while leaving language-wide assumptions in place (L6).
+
+In conclusion, language is a tool of power and representation, and the view that it is a neutral medium is itself an effect of the language/world bifurcation. Refusing the bifurcation does not abolish the working contrast between word and world; it refuses the two-realms picture and lets the manner of association by which language and world co-constitute each other come into view. The payoff is that the production of sociological knowledge is no longer outside the analysis.
+
+(746 words)
+
+### M7: To what extent is modernity a "global and relational phenomenon" rather than a result of European exceptionalism? Discuss with reference to Dussel's critique of Eurocentric modernity and the role of transnational flows of people, goods, capital and ideas.
+
+I argue that modernity is a global and relational phenomenon in a strong sense, and that the European-exceptionalism account is not a partial truth waiting for international context but a structurally misleading framing. My thesis is that once Dussel's critique is taken seriously and the transnational flows French documents are placed at the centre, the apparatus of "European modernity plus its applications elsewhere" cannot be repaired; it has to be replaced.
+
+The first move names the two framings as the revision doc names them. Modernity is conventionally "associated with rationality and industrialisation as part of the economic / social / cultural development of Europe". The contrasting account is that "modernity is hence a global and relational phenomena, not just a result of European (or American) exceptionalism" and that modernity "involves relationships of global interdependence" through "trade (including slave trade) and transnational flows of people, goods, capital and ideas". The two framings are not emphases. They license different sociologies.
+
+The second move specifies Dussel's critique. The revision doc reports it cleanly: "dominant theories suggest that modernity is exclusively European rather than global" and "assume that there is one, Eurocentric, route to economic growth, social development and cultural enrichment" (Dussel, 1993). Two features matter. First, Dussel insists modernity "presents itself as rational and emancipatory, but it involves domination and is exploitative. European modernity is based on violence". The exceptionalist account is the cover-story that lets the violence be coded as a regrettable adjunct. Second, Dussel turns the diagnosis on the canonical philosophical lineage: "Kant associates the enlightenment with the use of reason by European people, and dismisses those from other racial groups. Hegel presents the movement of world history through the progressive dialectic of ideas based in Europe" (Dussel, 1993). The exceptionalism is built into the categories, not just into the data (L2).
+
+The third move puts empirical flesh on the relational thesis. French's *Born in Blackness* (2021) is the lecture's resource. Portugal was shipping nearly 600 kilograms of gold per year from West Africa by the 1490s (French, 2021: 288); 40% of plantation-enslaved people went from Africa to Brazil (French, 2021: 177); the Kimbundu-Spanish grammar of 1629 records Central African enslaved people in Bolivia and Peru (French, 2021: 288). The Cantino Planisphere of 1502 already shows a coastal, oceanic, mercantile world. Modernity in 1502 is already global; the exceptionalist story was assembled later to obscure this.
+
+The fourth move is conceptual. Halewood's bifurcation thesis lets us specify what the exceptionalist account does. It splits modernity into a European core (industry, science, rationality) and a non-European periphery (trade, slavery, colonial administration), and treats the second as receiving the first. Whitehead's diagnostic applies: "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it" (Whitehead, 1933: 217). The European-core sociology cannot see the relational thesis because the bifurcation is doing the seeing for it. Du Bois's 1915 frame is the alternative: "European civilization carried on a systematic trade in human beings" contemporaneous with "the beginnings of the modern organization of industry" (Du Bois, 1915: 89-90). Marx adds the chain: "Without slavery you have no cotton; without cotton you have no modern industry. It is slavery that gave the colonies their value; it is the colonies that created world trade and it is world trade that is the pre-condition of large-scale industry" (Marx, 1977: 203). The relational thesis is built into the structure of the argument.
+
+A contemporary illustration. The 2020s discourse on supply-chain resilience and "near-shoring" reproduces the exceptionalist bifurcation by treating European and North American industrial bases as the centre and the global production network as a logistical periphery. The Dusselian reframing asks: which transnational flows are the actual unit of analysis?
+
+A counter-argument: the relational framing risks dissolving modernity into undifferentiated world history. I reject the dichotomy. The relational account does not dissolve specificity; it relocates it. Modernity is the manner of association by which European industrial and intellectual centres are produced through, not after, transnational extractive flows. The specificity is in the operation, not the geography. Carter and Charles (L3) make the cognate move across the species line, refusing to let "nature" serve as periphery.
+
+In conclusion, modernity is a global and relational phenomenon, and European exceptionalism is the cover-story that hides the relational fact. Dussel names the operation; French supplies empirical density; Du Bois and Marx already had the conceptual apparatus. The task is to let the relational account reshape the categories rather than supplement them.
+
+(748 words)
+
+### M8: "The worst of a gulf is, that it is very difficult to know what is happening of the further side of it." Critically discuss with reference to Halewood's account of bifurcation.
 
 I take Whitehead's sentence from *Adventures of Ideas* (Whitehead, 1933: 217) as the conceptual hinge of Halewood's whole project. My thesis is that the quote is exactly right but only becomes critically useful once one notices what it *does not* say: it does not say that the two sides of a gulf are incommunicable, only that they are *opaque* to one another. Halewood's account of bifurcation builds on this asymmetry. The gulfs of modernity (fact/value, sex/gender, science/humanities, race/ethnicity, language/world, public/private) are not impassable, they are *forgetful*. Each side stops asking what the other is doing. The job of critique is to remember the question.
 
@@ -266,7 +420,7 @@ A deeper objection: the metaphor assumes there *was* something single before the
 
 In conclusion, Whitehead's gulf-quote is correct, and Halewood's account of bifurcation is the right gloss. The opacity of the further side is not a failure of perception; it is the productive ignorance that modern institutions require. Critique in the strong lecture-sense (evaluate the structure, suggest alternatives) is precisely the work of refusing the gulf, of asking what is happening on the further side and how the splitting itself came to organise our knowledge. The cheat-sheet payoff: every bifurcation thesis is also a Whiteheadian one.
 
-### M2: Critically assess Halewood's argument in *Rethinking the Social through Durkheim, Marx, Weber and Whitehead* that twentieth-century sociology has forgotten the open-endedness of the classical canon.
+### M9: Critically assess Halewood's argument in *Rethinking the Social through Durkheim, Marx, Weber and Whitehead* that twentieth-century sociology has forgotten the open-endedness of the classical canon.
 
 I argue that Halewood's argument is largely correct: the twentieth-century reception of Durkheim, Marx and Weber turned each into the author of a *settled* doctrine about "society," when in fact each was struggling with the very concept. My thesis is that the forgetting was a *disciplinary* necessity: sociology needed a clean object to legitimate itself as a university discipline, and the price was the suppression of the canon's most interesting tensions. To rethink the social today is to remember what classical sociology *almost* said but did not finish saying.
 
@@ -284,7 +438,7 @@ A counter-argument: maybe twentieth-century sociology was right to settle the co
 
 In conclusion, Halewood's argument is well-evidenced and politically timely. It allows us to read Durkheim, Marx, Weber and Simmel as resources for *current* disputes rather than as monuments. The recovery has to be done carefully (the founders were not pre-emptive Whiteheadians) but Halewood's textual scrupulousness is the right way to do the work.
 
-### M3: What does Halewood mean by bifurcation, and why does he treat it as the cornerstone of modernity?
+### M10: What does Halewood mean by bifurcation, and why does he treat it as the cornerstone of modernity?
 
 I take the question in two parts. The first is conceptual: what is bifurcation, as Halewood uses the term? The second is structural: why does the concept earn the status of *cornerstone*? My thesis is that Halewood means by bifurcation a specific *operation*, the splitting of one thing into two such that a gulf opens, and that he treats it as the cornerstone because this operation produces both the cognitive architecture of modern thought *and* the institutional architecture of modern life, in a single move.
 
@@ -304,7 +458,7 @@ A second objection: is the cornerstone metaphor itself dangerously architectural
 
 In conclusion, by bifurcation Halewood means the operation of splitting one phenomenon into two branches separated by a gulf, naturalised over time. He treats it as the cornerstone of modernity because it aligns the cognitive, institutional and political architecture of the modern world in a single move. The way forward is the adverbial sociology Part 2 of *Rethinking the Social* outlines: sociology done in the mode of the *how* rather than the *what*, with the manner of association as the proper object of the discipline.
 
-### M4: Compare and contrast Du Bois's account of slavery in *The Negro* (1915) with Marx's account of the slavery-cotton-industry chain in *Capital*.
+### M11: Compare and contrast Du Bois's account of slavery in *The Negro* (1915) with Marx's account of the slavery-cotton-industry chain in *Capital*.
 
 I argue that the two accounts are *parallel but incommensurable*: they agree that slavery is constitutive of modern industry, but differ in *how* they constitute it. My thesis is that Marx's chain-of-conditions argument is a *causal-structural* claim and Du Bois's "blot on modern human history" argument is a *moral-civilisational* claim, and the most powerful reading of modernity requires holding both at once without collapsing one into the other.
 
@@ -324,7 +478,7 @@ A counter-argument: Marx's structural-causal account is *more rigorous* and Du B
 
 In conclusion, Du Bois and Marx converge in refusing to bifurcate slavery from modern industry and diverge in the structure of the argument they offer for the refusal. Both are needed: the chain to identify the structural targets of change, the indictment to keep the question of modern civilisation's debt unforgettable. The lecture's "what would sociology be like if we had taken Du Bois (not just Marx) seriously?" is best answered by holding the two accounts together, not by choosing.
 
-### M5: How does the concept of bifurcation help us analyse the contemporary divide between climate science and climate politics?
+### M12: How does the concept of bifurcation help us analyse the contemporary divide between climate science and climate politics?
 
 I argue that the divide between climate science and climate politics is a textbook case of modern bifurcation: fact/value, science/humanities, and (most fundamentally) the bifurcation between nature and the social that Halewood diagnoses as constitutive of modern thought. My thesis is that Halewood's concept lets us see *why* the description of a planetary threat does not translate into political response: not because the public is irrational, but because the institutional architecture of modern knowledge has spent two centuries learning to separate description from decision, fact from value, the natural from the social, and is now incapable of treating the planet and the polity as a single problem.
 
@@ -340,7 +494,7 @@ A counter-argument worth taking seriously: maybe the divide between description 
 
 In conclusion, Halewood's concept of bifurcation diagnoses the climate impasse with unusual precision. The fact/value and nature/society bifurcations together produce the contemporary divide, and this divide is not primarily a communication failure but a structural feature of modern knowledge. The way forward is an adverbial sociology that treats the planetary and the political as a single manner of association rather than as two realms whose translation can be deferred.
 
-### M6: Is the fact-value distinction a coherent epistemological position or an ideological alibi? Discuss.
+### M13: Is the fact-value distinction a coherent epistemological position or an ideological alibi? Discuss.
 
 I argue that the fact-value distinction is *both* a coherent epistemological position (at the level of working methodological contrast) *and* an ideological alibi (at the level of metaphysical bifurcation), and that the trick is to distinguish the two levels rather than to choose between them. My thesis is that Halewood's bifurcation thesis lets us hold this double judgement: keep the working contrast, refuse the bifurcated metaphysics, name the alibi-function precisely where the metaphysics is doing the political work.
 
@@ -360,7 +514,7 @@ A second counter-argument. A pragmatist might say the alibi-charge is overblown 
 
 In conclusion, the fact-value distinction is a coherent epistemological position at the level of working methodological contrast and an ideological alibi at the level of metaphysical bifurcation. Halewood's diagnostic (keep the contrast, refuse the bifurcation) is the right one. Any question framed as "Is X coherent or ideological?" should be answered by *distinguishing the levels at which X operates* rather than by picking one of the two horns. That is what critique-not-criticism looks like.
 
-### M7: Critique or criticism?
+### M14: Critique or criticism?
 
 I argue that the question forces a choice it should not force: critique and criticism are not equally weighted alternatives but an asymmetric pair in which critique is the disciplined sociological operation and criticism its degraded cousin. My thesis is that sociology at its best is *critique* and that the disciplinary slogan "be critical" has slowly translated into the more impoverished "find fault," with measurable costs.
 
@@ -384,7 +538,7 @@ A second objection: the discipline needs *more* criticism. Criticism is cheap; i
 
 In conclusion, the answer is critique, not because criticism is wrong but because critique includes everything criticism does and more. The four-point checklist (structure, what works, clarifications, improvements) is the disciplinary form of synoptic vision. Every answer should close by *pointing somewhere*, not by listing what is wrong. That is what makes the writing critique.
 
-### M8: The myth of progress in 2026: does the concept still do critical work?
+### M15: The myth of progress in 2026: does the concept still do critical work?
 
 I argue that the myth of progress still does critical work, and that the work is essentially the work Du Bois named in 1915: to identify the operation by which modernity tells the story of its goods without telling the story of its constitutive harms. My thesis is that the concept, read through Halewood's bifurcation thesis, names a *split* between the parts of modern history we are willing to count as progress and the parts we file as collateral, and this operation is alive whenever modernity narrates itself as a single arc of improvement.
 
@@ -410,7 +564,7 @@ A second counter-argument: the concept is itself Eurocentric. I disagree. Du Boi
 
 In conclusion, the myth of progress still does critical work: it keeps visible the bifurcation by which modernity narrates its goods without its harms. The tool was sharpened by Du Bois in 1915; the empirical evidence extended by French; Halewood's bifurcation thesis names the deeper operation.
 
-### M9: Does the rise of generative AI vindicate or refute Whitehead's claim that "ideas are things"?
+### M16: Does the rise of generative AI vindicate or refute Whitehead's claim that "ideas are things"?
 
 I argue that Whitehead's claim, as Halewood reconstructs it, is intended to do conceptual work that the rise of any technology (including generative AI) might *illustrate* but cannot *settle*: the claim is metaphysical, not predictive. My thesis is that asking whether generative AI vindicates or refutes "ideas are things" is the wrong question; the right question is what Whitehead's claim asks us to *see* in a phenomenon like generative AI that we would otherwise miss. Read this way, the claim is neither vindicated nor refuted by new technology; it is *put to work* by it, and the work is to dissolve a bifurcation, not to make a forecast.
 
@@ -430,7 +584,7 @@ A second objection: ascribing "ideas" to a non-human thing risks reification. I 
 
 In conclusion, generative AI does not vindicate or refute Whitehead's claim that "ideas are things"; it puts the claim to work by making the bifurcation between thought and stuff hard to maintain. Whitehead's metaphysics is a conceptual tool for rethinking the social, not a forecast about technology. The exam payoff: refuse the framing that turns a metaphysical claim into a predictive hypothesis; ask what the claim asks us to *see* in a phenomenon that we would otherwise miss.
 
-### M10: How convincing do you find Simmel's account of sociation? Use specific examples.
+### M17: How convincing do you find Simmel's account of sociation? Use specific examples.
 
 I find Simmel's account of sociation broadly convincing as a *negative* move (it correctly refuses the reification of "society" into a quasi-agent) and only partially convincing as a *positive* one, because the dyadic-and-triadic toolkit undersells the macro-structural features sociology needs to name. My thesis is that the sociation concept is necessary but insufficient, and Halewood is right to use it as a stepping stone toward a Whiteheadian account that retains the anti-reification while regaining macrostructural traction.
 
@@ -452,7 +606,7 @@ A second objection: maybe "society" *is* a real thing, and Durkheim was right. I
 
 In conclusion, I find Simmel's account of sociation convincing in the work it does and unconvincing in the work it refuses to do. The dyadic-triadic toolkit captures reciprocal interaction beautifully; the secret-example is the conceptual demonstration that the form of association is the social fact; but the colonial-plantation-modernity Halewood foregrounds requires a macrostructural tool Simmel does not supply. The Whiteheadian alternative keeps Simmel's anti-reification while regaining the macro-scale. Halewood himself signals this when he says Simmel "does not set out a coherent philosophical approach to the problems of the social" but his ideas "are suggestive as to what a 'philosophy of the social' might entail" (Halewood, 2014: 137). The answer to "how convincing" is not yes-or-no but *at what scale and for what kind of relation*.
 
-### M11: Why has the sociological canon been so resistant to the inclusion of Du Bois? Answer with reference to Howard French, *Born in Blackness* (2021).
+### M18: Why has the sociological canon been so resistant to the inclusion of Du Bois? Answer with reference to Howard French, *Born in Blackness* (2021).
 
 I argue that the canon's resistance to Du Bois has not been an oversight; it has been a *structural feature* of how sociology was constituted, and French's *Born in Blackness* (French, 2021) names exactly the structural reason: the Eurocentric narrative of modernity which the discipline took as its empirical object excluded the African pre-history of capitalism that Du Bois's 1915 essay had already begun to reconstruct. My thesis is that including Du Bois requires more than a reading list change; it requires inverting the empirical baseline against which the canon was assembled.
 
@@ -476,7 +630,7 @@ A second counter-argument: the resistance might be intellectual rather than stru
 
 In conclusion, the canon has been resistant to Du Bois because its empirical baseline, geographical centre, and methodological commitments were all assembled around a Eurocentric narrative of modernity. French's *Born in Blackness* supplies the empirical reconstruction that would force the inversion. To include Du Bois is not to add him; it is to re-found the canon on the empirical ground he was already standing on in 1915.
 
-### M12: Using the work of at least two authors, critically assess the claim that "the manner of association" is what is sociologically interesting about modern societies.
+### M19: Using the work of at least two authors, critically assess the claim that "the manner of association" is what is sociologically interesting about modern societies.
 
 I argue, drawing primarily on Durkheim and Whitehead with supporting work from Marx and Simmel, that the manner of association is *almost* what is sociologically interesting about modern societies. The qualifier matters because the four canonical accounts of manner-of-association converge less than Halewood's synthesis suggests, and the live disagreements among them are themselves part of what is sociologically interesting. My thesis is that the adverbial recovery is the right *first* move but it conceals a *second* set of disagreements about which the discipline still needs to choose.
 
@@ -498,7 +652,7 @@ A second counter-argument: modernity may be the wrong scale for the tool, which 
 
 In conclusion, manner-of-association is what is *first* sociologically interesting about modern societies, but the move conceals a live disagreement between Durkheim (humanistic, centripetal, moral) and Whitehead (metaphysical, mutual-prehension, post-humanistic) about which adverbial sociology we are doing. Halewood sides with Whitehead; I think he is right, but the choice should be explicit. Any two-author manner-of-association answer should specify *which* account it uses and what is gained and lost by the choice.
 
-### M13: Can sociology think outside the categories of European modernity?
+### M20: Can sociology think outside the categories of European modernity?
 
 I argue that sociology can think outside the categories of European modernity, but only with considerable effort and only by treating the limits of its inherited vocabulary as data rather than as scenery. My thesis is that the categories of European modernity (society, the individual, the state, the public, the private, the rational, the religious) are not just descriptors; they are *operations* of the bifurcation Halewood diagnoses, and thinking outside them requires interrogating the operation, not just substituting different nouns.
 
@@ -522,7 +676,7 @@ Where I land. Sociology can think outside the categories of European modernity, 
 
 In conclusion, sociology can think outside the categories of European modernity to the extent that it is willing to do the threefold work of canonical recovery, voice-inclusion, and category-historicisation. The work is necessarily *inside* the discipline and necessarily *against* it. Each European-modern category is a bifurcation, and refusing the bifurcation is what thinking outside looks like.
 
-### M14: The sociological imagination at third year.
+### M21: The sociological imagination at third year.
 
 I argue that the sociological imagination at third year has to do something different from what it does at first year, and the difference is not merely difficulty but *kind*. My thesis, following the lecture's Beauvoirian framing, is that first-year sociological imagination is *descriptive-linking* (Mills: connecting personal trouble to public issue) and third-year is *generative-counterfactual* (Beauvoir: picturing what social theory would look like if it took a previously excluded category seriously). The shift is not optional; it is what makes third-year sociology *third-year*.
 
@@ -548,7 +702,7 @@ A second counter-argument: third-year students might lack the *empirical mastery
 
 In conclusion, the sociological imagination at third year is the strong, Beauvoirian, generative-counterfactual move: picture what social theory would look like if a previously excluded category were taken seriously from the start. The Millsian descriptive-linking move remains in the toolkit but is no longer the centre. Every third-year essay should close with an imagined alternative configuration of the discipline, not just a diagnosis of the present.
 
-### M15: Compare and contrast Durkheim's living-cell analogy in *The Rules of Sociological Method* with Marx's butyric-acid/propyl-formate analogy in *Capital*. What does each do for its respective sociology?
+### M22: Compare and contrast Durkheim's living-cell analogy in *The Rules of Sociological Method* with Marx's butyric-acid/propyl-formate analogy in *Capital*. What does each do for its respective sociology?
 
 I argue that Durkheim's living-cell analogy and Marx's butyric-acid/propyl-formate analogy do the *same* fundamental work (they assert that the manner of association is the proper sociological object) but are deployed against *different* opponents and license *different* downstream sociologies. My thesis is that Halewood is right to read the two analogies together as evidence of the canon's shared adverbial commitment, but the differences in polemical deployment matter for what each tradition can do.
 

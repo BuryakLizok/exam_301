@@ -212,21 +212,33 @@ Critically: the colonial attitude is not an embarrassing relic. The lecturer's p
 
 ---
 
-## 6. Mock Exam Questions
+## 7. List of mock exam questions
 
-- **M1.** How convincing do you find Dussel's seven-step myth of modernity?
-- **M2.** "Without slavery you have no cotton; without cotton you have no modern industry." Discuss with reference to Marx.
-- **M3.** Eurocentrism in classical sociology: blind spot or constitutive premise?
-- **M4.** How does the concept of the colonial attitude help us understand contemporary university league tables and the British Museum?
-- **M5.** Critically assess Howard French's argument in *Born in Blackness*.
-- **M6.** What does Hall mean by "the West and the Rest", and why does he treat it as a discourse of power rather than a geographical description?
-- **M7.** Compare Kant's account of non-European peoples with Hegel's.
-- **M8.** Multiple modernities: useful pluralism or empty inclusion?
-- **M9.** Does the climate crisis vindicate or refute Dussel's myth of modernity?
-- **M10.** Using the work of at least two authors, assess the case for reparations as a modernity-internal demand.
-- **M11.** Can sociology be decolonised without abandoning its classical canon?
-- **M12.** Trans-modernity in 2026, programme or pious wish?
-- **M13.** "Modernity is a Janus-faced project: emancipation for some, the colonial wound for others." Discuss.
+**M1-M5 below follow the lecturer's actual exam-question-construction pattern most closely. They fuse 2-3 slide-bullet-questions from §2 / the revision doc into a single composite, using the lecturer's own vocabulary.**
+
+- **M1.** How can sociology be both a creature of modernity and a producer of the colonial attitude, especially through Durkheim's account of the shift from mechanical to organic solidarity?
+- **M2.** Does the rest of the world have history? Critically discuss the relationship between modernity's view of time and the colonial attitude with reference to Hegel's account of Universal History.
+- **M3.** To what extent does Dussel's critique of Eurocentric modernity depend on Kant's account of guilty immaturity for understanding the myth of modernity as both rational emancipation and irrational violence?
+- **M4.** How can the colonial attitude both survive political independence and continue to shape contemporary judgements of music, sport and "the best universities"? Discuss with reference to cultural universalism.
+- **M5.** Is the West a geography or a discourse? Critically discuss with reference to Hall's analysis of binary opposition and Howard French's claim that Africa is constitutive of the modern world.
+- **M6.** "It is slavery that gave the colonies their value; it is the colonies that created world trade." Using Marx's "one possible exception" sentence alongside Du Bois on Negroland, the Haitian Revolution and the European working class invited to share in colonial exploitation, discuss how far transnational slavery and resource extraction are constitutive of modernity rather than incidental to it.
+- **M7.** Sociology presents modernity as "unsettling, dynamic, on-going" in which "everything can and must be constantly re-evaluated" (and this "does not apply to those countries which were colonized"). Critically discuss the myth of progress as a colonial structure with reference to Dussel's fallacy of developmentalism and the revision-doc claim that "modernity is not a neutral process but one involving coercion and unequal exchange".
+
+**M8-M20** (existing mocks, renumbered):
+
+- **M8.** How convincing do you find Dussel's seven-step myth of modernity? *(was M1, then M6)*
+- **M9.** "Without slavery you have no cotton; without cotton you have no modern industry." Discuss with reference to Marx. *(was M2, then M7)*
+- **M10.** Eurocentrism in classical sociology: blind spot or constitutive premise? *(was M3, then M8)*
+- **M11.** How does the concept of the colonial attitude help us understand contemporary university league tables and the British Museum? *(was M4, then M9)*
+- **M12.** Critically assess Howard French's argument in *Born in Blackness*. *(was M5, then M10)*
+- **M13.** What does Hall mean by "the West and the Rest", and why does he treat it as a discourse of power rather than a geographical description? *(was M6, then M11)*
+- **M14.** Compare Kant's account of non-European peoples with Hegel's. *(was M7, then M12)*
+- **M15.** Multiple modernities: useful pluralism or empty inclusion? *(was M8, then M13)*
+- **M16.** Does the climate crisis vindicate or refute Dussel's myth of modernity? *(was M9, then M14)*
+- **M17.** Using the work of at least two authors, assess the case for reparations as a modernity-internal demand. *(was M10, then M15)*
+- **M18.** Can sociology be decolonised without abandoning its classical canon? *(was M11, then M16)*
+- **M19.** Trans-modernity in 2026, programme or pious wish? *(was M12, then M17)*
+- **M20.** "Modernity is a Janus-faced project: emancipation for some, the colonial wound for others." Discuss. *(was M13, then M18)*
 
 ---
 
@@ -358,7 +370,145 @@ So yes, modernity has colonial roots, and the implication is that periodisation,
 
 ---
 
-### M1: How convincing do you find Dussel's seven-step myth of modernity?
+### M1: How can sociology be both a creature of modernity and a producer of the colonial attitude, especially through Durkheim's account of the shift from mechanical to organic solidarity?
+
+The lecturer's slide "Sociology and Modernity" describes sociology as "a creature of modernity" that "tries to explain what it means to be modern" and "also helped create the colonial attitude". My answer is that the two descriptions are not in tension but are two sides of one operation. Sociology emerges to explain modern Europe to itself, and in choosing the questions it asks (what is industrialisation? what holds modern society together? what is rational social action?) it inherits modernity's habit of bifurcated thinking. Durkheim's mechanical-to-organic schema is the cleanest example, and I work through it in three moves before answering an obvious counter.
+
+Begin with the creature claim. Sociology arose, the lecture insists, within modernity: Marx writing about commodification and alienation, Weber about rationalisation and disenchantment, Durkheim about solidarity and anomie. The discipline was created in the modern era to account for industrialisation, urbanisation and individualisation. Halewood's diagnosis of the classical canon converges: "the problem of the social" was set by the founders and inherited by twentieth-century sociology without the founders' open-endedness preserved (Halewood, 2014: 131). The discipline is a child of the conditions it studies.
+
+The colonial-attitude claim is what makes the creature suspect. The colonial attitude, the lecture argues, is the habit of ranking societies as superior or inferior, modern or backward, and of taking the European outcome as the universal measure. Sociology helped create this attitude by treating modernity as a break with the past and by reading off non-European societies as still located in that past. Durkheim's distinction between mechanical and organic solidarity is the lecturer's worked example. Mechanical solidarity binds simple, homogeneous societies through likeness; organic solidarity binds complex, differentiated societies through interdependence. The transition is the modern transition. Read this way, the schema is a piece of value-neutral typology. But the slide is explicit about its effect: "this suggests that other societies around the world are still 'pre-modern' / behind / backward" (lecture slides). The typology operationalises the bifurcation the revision doc names: "bifurcation is a dominant mode of modern thought involving splitting a phenomenon into binary / often opposing categories" (revision doc).
+
+The colonial attitude rides in on the developmental schema. Dussel calls this the fallacy of developmentalism: "the path of Europe's modern development must be followed unilaterally by every other culture" (Dussel, 1993: 67-68). For Hegel, an underdeveloped country is "not-modern, pre-Aufklärung" (Dussel, 1993: 68). Durkheim's typology converts that philosophical assumption into a usable sociological measure. Once mechanical is coded as "earlier" and organic as "later", the comparison runs in only one direction. Other societies are positioned on a developmental ladder whose top rung is northwestern Europe.
+
+The third move is to recognise that this is not an accident but a structure. Hall reads it as a discourse: the West functions as "a system of representation" with four operations, including classification and evaluation, in which "western = developed = good" and "non-western = under-developed = bad" (Hall, 1992: 277). Durkheim's classificatory machinery slots into the discourse's first function and feeds the others. Dussel diagnoses the same structure as the myth of modernity: step 1 is European superiority, step 3 is that the path of development is Europe's path, step 6 is that the laggard is at fault for the lag (Dussel, 1993: 75). Sociology hands the myth a vocabulary.
+
+A reasonable counter says that Durkheim's typology can be used non-evaluatively, and that the colonial attitude is a reading rather than a property of the schema itself. Marx's cotton-slavery sentence ("Without slavery you have no cotton; without cotton you have no modern industry", Marx, 1977: 203) shows that classical sociology can name the colonial relation directly when it chooses. The reply is that this concedes the lecture's point. The schema admits non-colonial use only by stepping outside its developmental ordering, which means decolonising the discipline requires more than reading the founders differently. It requires reading the canon with its colonial archive, supplementing it with Du Bois, who recorded that "in the fifteenth century there was no great disparity between the civilization of Negroland and that of Europe" (Du Bois, 1970: 86), and rewriting the founding question so that the unit of analysis is the Atlantic system rather than the European nation-state. This is also the move L8 makes with Gilroy's Black Atlantic.
+
+Sociology is, then, both creature and producer, because the conditions that called it into being also gave it the bifurcations it now needs to outgrow.
+
+(~734 words)
+
+---
+
+### M2: Does the rest of the world have history? Critically discuss the relationship between modernity's view of time and the colonial attitude with reference to Hegel's account of Universal History.
+
+The slide "Time and history" ends with the lecturer's pointed question: "Europe and the West have history. Does the rest of the world?" My answer is that, inside the discourse modernity constructs, the rest of the world has been denied history precisely because history has been re-defined as the forward-moving time of European industrial capitalism. The colonial attitude is the operational form of that denial. I argue this in three moves, with Hegel as the philosophical fulcrum, then answer a counter.
+
+Begin with the modern view of time the slide names. Modernity, for the lecturer, treats time as forward-moving, accelerating, productive. The economy is always growing; communication is getting faster; fashion changes weekly; the experience is one of speed. History means change, and change has a direction. By contrast, the slide "Modernity, time, and 'colonialism'" describes non-modern societies as cyclical, tradition-bound, repeating: "the cycles of harvests; tradition; things always stay the same (this is one reason we go to visit on holiday!)" (lecture slides). The structure is asymmetric. Forward-moving time is history; cyclical or repeating time is timelessness. The grammar of the discourse will not allow both to be history at once.
+
+Hegel supplies the philosophical charter. World History, for Hegel, is "the development of the consciousness that the Spirit has of its freedom" (cited in Dussel, 1993: 68), and the development is geographically directed: "The movement of Universal History goes from the East to the West. Europe is the absolute end of Universal History. Asia is its beginning" (Hegel, 1837: 243, cited in Dussel, 1993: 69). The directional arrow is built into the concept. Two consequences follow inside Hegel's text. Latin America is the "land of the future", that is, outside the present of Spirit. Africa is excluded more brutally: "Africa... does not have history as such. Consequently we abandon Africa, to never mention it again" (Hegel, 1837, cited in Dussel, 1993: 70). To have history, on this account, you must occupy the moving point of Spirit. Everywhere else is timelessness.
+
+The colonial attitude is the everyday translation of this philosophical move. The revision doc names it: "Colonialism and modernity produce a hierarchical understanding of time / historical development and consciousness with some societies assumed to be static or cyclical and others progressive. Temporality plays an important part in continued hierarchies" (revision doc). Once history is monopolised by the modern, anyone who is not modern has no history; and anyone who has no history has no claim against the moderns who have arrived. This is the discursive condition for Dussel's seven-step myth (Dussel, 1993: 75): step 1 (Europeans are most developed) and step 3 (the path is Europe's path) presuppose the temporal monopoly Hegel installs.
+
+The third move is to register what the monopoly does today. Howard French's *Born in Blackness* shows that the standard textbook chronology (Renaissance, Reformation, Enlightenment, Industrial Revolution) loses fifteenth-century African polities (Mali under Mansa Musa, Songhai, Kongo, Benin) by treating them as outside history (French, 2021). Hegel's "we abandon Africa" survives in the periodisation. Said extends the analysis into the present: the discourse of the modern West "produces" the non-modern other "politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-89), so the temporal hierarchy continues to operate even when nobody is quoting Hegel out loud. Brexit-era talk of returning Britain to "global" leadership and cost-of-living debates that scold post-colonial economies for not industrialising "fast enough" run on the same temporal grammar.
+
+A counter says the question is empirically settled: of course every society has a past, and history as a discipline now studies all of them. This is true at the descriptive level. But the lecturer's question is about the discourse, not the descriptive record. Hall makes the discursive point precisely: the West is a "system of representation" whose operations include classification, condensation, comparison and evaluation (Hall, 1992: 277). Even when we record other histories descriptively, we slot them into the comparative ladder the discourse maintains. Du Bois's reminder that "in the fifteenth century there was no great disparity between the civilization of Negroland and that of Europe" (Du Bois, 1970: 86) only registers as surprising because the discourse has trained us to expect otherwise.
+
+So the rest of the world has history, but the discourse of modernity does not yet know it. That is the colonial attitude in temporal form.
+
+(~718 words)
+
+---
+
+### M3: To what extent does Dussel's critique of Eurocentric modernity depend on Kant's account of guilty immaturity for understanding the myth of modernity as both rational emancipation and irrational violence?
+
+Dussel's *Eurocentrism and Modernity* compresses its central thesis into a two-layer reading: modernity contains "a rational concept of emancipation that we affirm and subsume", but it also develops "an irrational myth, a justification for genocidal violence" (Dussel, 1993: 66). The question is how far his diagnosis depends on Kant's specific formulation of Enlightenment as exodus from "guilty immaturity". My argument is that Kant is necessary but not sufficient. The Kantian formula gives Dussel the doubled structure of the myth, but Hegel supplies its historical schema and Marx its economic chain. Without Kant the diagnosis would lose its rhetorical hinge; without Hegel and Marx it would have no historical body.
+
+Start with what Kant gives Dussel. The Enlightenment slogan reads, on the surface, as a universal emancipation: "Enlightenment is the exodus of humanity by its own effort from the state of guilty immaturity. Laziness and cowardice are the reasons why the greater part of humanity remains pleasurably in this state of immaturity" (Kant, cited in Dussel, 1993: 68). The word is "humanity"; the offer is in principle open. This is the rational kernel Dussel preserves. But the same author writes that "the Negroes of Africa have by nature no feeling that rises above the ridiculous" (Kant, 1798: 59). The universal promise is silently qualified by a racial hierarchy that puts most of the species outside the rational vocation it advertises. Dussel asks: should "an African in Africa or as a slave in the United States... an Indian in Mexico or a Latin American mestizo... be considered to reside in a state of guilty immaturity?" (Dussel, 1993: 68). The question exposes step 6 of the seven-step myth (the victim is at fault for resisting modernity) by reading it out of Kant's two texts (Dussel, 1993: 75).
+
+Without the Kantian formula, Dussel would still have a critique, but a different one. The Kantian text is the place where modernity's universal promise and its racial exclusion sit on the same page. Strip out the immaturity formula and Dussel could still cite Hegel and document the conquest, but he could not show as cleanly how the rational kernel and the irrational myth coexist inside modern reason itself.
+
+Hegel does the second job. He turns Kant's diagnostic into a historical schema. World History is geographically directed (Hegel, 1837: 243, cited in Dussel, 1993: 69); Africa is outside it altogether (Hegel, 1837, cited in Dussel, 1993: 70); and the people that bears Spirit has "an absolute right" against which "the spirit of other peoples has no rights" (Hegel, 1837, cited in Dussel, 1993: 73). Step 4 of the myth (violence in the last instance) is Hegelian. Without Hegel, Kant alone would underwrite a paternalist civilising mission but not its philosophical sacralisation as the working-out of Reason.
+
+Marx does the third job. The cotton-slavery sentence ("Without slavery you have no cotton; without cotton you have no modern industry. It is slavery that gave the colonies their value", Marx, 1977: 203) gives the myth its economic body, and Howard French's *Born in Blackness* fleshes that body in: African gold, the trans-Atlantic slave trade, the sugar-plantation complex from Madeira to São Tomé to Brazil and the Caribbean, and the cotton circuit feeding Lancashire (French, 2021). Du Bois reinforces both with the observation that the new colonial theory delivered "extraordinary profit from the exploitation of backward races", and that the European working class was "practically invited to share in this new exploitation" (Du Bois, 1970: 107). The slide on Marx as "a possible exception" registers exactly this contribution.
+
+So the diagnosis is genuinely composite. Kant supplies the diagnostic hinge; Hegel supplies the schema; Marx (and French and Du Bois) supplies the chain.
+
+A counter says Dussel could ground the myth in the conquest of Mexico alone, treating Cortés as the prototype (Dussel, 1993: 74). This holds at the level of the event, but it loses the explanation of why educated Europeans went on participating in the colonial relation with a clean conscience. The Kantian formula tells the European subject that the unequal relation she profits from is a service to the universal. Read alongside Fanon's record of the racial gaze ("I am being dissected under white eyes... I am fixed", Fanon, 1967: 325, L9 reading) the dependence is clear.
+
+Dussel needs Kant, then, but only as one indispensable component of a three-part diagnosis.
+
+(~722 words)
+
+---
+
+### M4: How can the colonial attitude both survive political independence and continue to shape contemporary judgements of music, sport and "the best universities"? Discuss with reference to cultural universalism.
+
+The lecturer's slide "A Colonial 'Attitude'" makes a strong claim: there is more to colonialism than an attitude, but the attitude survives the end of empire. The follow-up slides press the case with contemporary examples (Western Classical Music treated as universal while gamelan and samba are filed as "World Music"; "the best universities" question; sport and fashion). My argument is that the attitude survives because its host is not the colonial state but the discourse of cultural universalism, which the revision doc names as "claims about cultural universalism that shape knowledge production and the formation of ideas and theories" (revision doc). I defend this in three moves before answering an obvious counter.
+
+Begin with what makes survival possible. Political independence removes the colonial administration; it does not touch the categories the administration used. The colonial attitude is a habit of bifurcated thinking, the revision doc's "splitting a phenomenon into binary / often opposing categories" (revision doc), in which European outputs are coded as universal and non-European outputs as particular. Once that bifurcation is embedded in how we evaluate music, sport, and scholarship, the formal end of empire leaves it intact. The Boris Johnson clip the lecture cites as "a legacy of colonialism" lands because the discourse continues to license the attitude even when the speaker has no colony to administer.
+
+The first case is music. The lecturer's slide is explicit: Bach, Beethoven and Mozart are taught as "universal" while gamelan and samba are filed as "World Music". Hall names the operation: the West is "a system of representation" that classifies, condenses, compares and evaluates on the binary "western = developed = good" versus "non-western = under-developed = bad" (Hall, 1992: 277). Universality is the rhetorical reward for placing inside the first column. The lecturer's joke, that we should hear Beethoven and Bach as "local, ethnic musicians", is the diagnostic move: strip the universal label and the music is one tradition among others. Streaming platforms reproduce the asymmetry by making Hollywood the unmarked default and filing Nigerian or Korean cinema under "international".
+
+The second case is sport. The slide "But surely 'we' don't think such things now?" invites us to test the colonial attitude against current practice. Football is a useful instance. The English Premier League is treated as a global standard while African leagues are coded as developmental; players are described as "graduating" from one to the other. The grammar comes from Dussel's fallacy of developmentalism: "the path of Europe's modern development must be followed unilaterally by every other culture" (Dussel, 1993: 67-68). The Black Lives Matter taking-the-knee protests that swept stadiums after 2020 are intelligible inside the same frame: a public refusal of the racial coding the attitude routinely performs.
+
+The third case is universities. The lecturer's prompt, "which are the best universities in the world, and why?", is the cleanest. Year after year, the rankings list Anglo-American and northern European institutions at the top, on criteria that look neutral (publications, citations in English-language journals, research income, reputation surveys drawn from the same Anglo-European networks) but reproduce the geography of empire. Dussel's seven-step myth (Dussel, 1993: 75) gives the structure: step 1 (Europe is most developed) and step 3 (the path is Europe's path: publish in English on Anglo-American models) underwrite step 6 (lower-ranked universities are "at fault" for their position). The metric is the inheritance.
+
+The link across the three cases is cultural universalism. To call Bach universal, the English Premier League the global standard, or Harvard the best university, is to perform Hall's evaluation function under cover of methodology. The colonial attitude does not need an empire to do this. It needs only the bifurcated category and the habit of judging.
+
+A counter says these are contingent rankings that change over time, and that the colonial attitude is at most one explanation among many. The reply is the lecturer's: notice that the changes always happen inside the binary. K-pop, Bollywood, Premier League finals in Riyadh: each can join the "universal" without disturbing the operation by which others are still filed as "world". Until the bifurcation itself is dismantled, the rotation of who is included only refreshes the discourse. Dussel's proposal of trans-modernity (Dussel, 1993: 76) is precisely the move past inclusion-as-branding to the co-realisation of modernity and its negated alterity, which Gilroy's Black Atlantic in L8 makes operative for music.
+
+The colonial attitude survives, then, by changing host. The empire is gone; cultural universalism inherited the work.
+
+(~740 words)
+
+---
+
+### M5: Is the West a geography or a discourse? Critically discuss with reference to Hall's analysis of binary opposition and Howard French's claim that Africa is constitutive of the modern world.
+
+The question forces a choice that the lecture's two main readings refuse. For Hall, "the West" is not primarily a geography; it is "a system of representation" with four functions (Hall, 1992: 277). For Howard French, the West can only be reconstructed as a geography once Africa is restored to the story. My argument is that the West is a discourse first and a geography second, and that French's Atlantic history is what shows why. I defend this in three moves and then answer a counter.
+
+Begin with Hall's case for discourse. "The so-called uniqueness of the West was, in part, produced by Europe's contact and self-comparison with other, non-western, societies (the Rest)" (Hall, 1992: 278). The West is constituted relationally, not territorially. Hall offers two telling pieces of evidence. First, the category cuts across the map: "Japan is 'western', though on our mental map it is about as far 'East' as you can get" and "much of Latin America, which is in the western hemisphere, belongs economically to the Third World" (Hall, 1992: 276). A geographical description would not produce this map. Second, the Rest is a single bloc only because the West needs it to be one: it "lumps together... the Middle East, the Far East, Africa, Latin America, indigenous North America and Australasia... as if they shared a single common identity" (Hall, 1992: 280). Hall's verdict is that the discourse "draws crude and simplistic distinctions and constructs an over-simplified conception of 'difference'" (Hall, 1992: 280). The binary is the product, not the precondition.
+
+The second move is to show what the discourse does. Hall's four functions interlock. Classification sorts the world into West and Rest. Condensation builds the composite. Comparison places other societies on a ladder leading to the West. Evaluation grants the West the value: "western = developed = good" and "non-western = under-developed = bad" (Hall, 1992: 277). Dussel reads the same operation as the myth of modernity, whose seven steps code the laggard as guilty and the victim's suffering as inevitable (Dussel, 1993: 75). The discourse is productive: it organises museums, university rankings, and the everyday judgements the lecturer's slides surface (Bach as universal, gamelan as World Music). Said sharpens the point: a discourse can "manage, and even produce, the Orient politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-89). The West is in the same business.
+
+The third move is the one French enforces. The discourse can read as airy until the economic history under it is restored. *Born in Blackness* shows that the territorial West of the textbook (a self-developing northwest Europe) is unintelligible once African gold, African slave labour, and the sugar-cotton-tobacco circuit are tracked. The first Atlantic sugar mill went up on Madeira in the 1420s; São Tomé became a major sugar producer using enslaved African labour by the 1520s; the plantation complex jumped to Brazil, Barbados and Saint Domingue; African gold from Mali ran through coastal forts like Elmina (French, 2021). Marx's compressed claim is the conceptual summary: "Without slavery you have no cotton; without cotton you have no modern industry. It is slavery that gave the colonies their value; it is the colonies that created world trade and it is world trade that is the pre-condition of large-scale industry" (Marx, 1977: 203). The geography of "the West" is a node in a wider system. Du Bois had said as much: "in the fifteenth century there was no great disparity between the civilization of Negroland and that of Europe" (Du Bois, 1970: 86). The bifurcation that places one above the other is discursive work performed on a more even historical surface.
+
+A counter says we still need "West" as a geographical shorthand for a recognisable cluster of practices (industrial capitalism, liberal democracy, rationalist science). This is fair as a working description, but it concedes the point. Hall's term for that cluster is precisely a "system of representation" (Hall, 1992: 277), and Eisenstadt's multiple modernities literature shows that the same cluster can be assembled elsewhere on different paths (Eisenstadt, 2000). Once we admit that the cluster is the unit of analysis, the geography is downstream. The L1 reading on the canon (Halewood, 2014) makes the same point inside sociology: the discipline's apparent universality is the achievement of a particular discursive position, not a feature of the territory.
+
+So the West is a discourse. French restores the geography the discourse depends on, and the dependency is what the discourse has to hide.
+
+(~742 words)
+
+---
+
+### M6: "It is slavery that gave the colonies their value; it is the colonies that created world trade." Using Marx's "one possible exception" sentence alongside Du Bois on Negroland, the Haitian Revolution and the European working class invited to share in colonial exploitation, discuss how far transnational slavery and resource extraction are constitutive of modernity rather than incidental to it.
+
+The lecturer titles his Marx slide "one possible exception" and pairs it, in the very next slide, with Du Bois under the caution "BUT BE CAREFUL". The juxtaposition is the question. Marx supplies the structural sentence; Du Bois supplies the wider Atlantic frame that Marx leaves implicit. Read together, they show that transnational slavery and resource extraction are constitutive of modernity rather than incidental to it. I defend this in three moves and answer a counter.
+
+The starting point is Marx's compressed claim: "Without slavery you have no cotton; without cotton you have no modern industry. It is slavery that gave the colonies their value; it is the colonies that created world trade and it is world trade that is the pre-condition of large-scale industry" (Marx, 1977: 203). The grammar is causal, not decorative. Modern industry requires cotton; cotton requires slavery; world trade requires the colonies. Each clause names a relation that the standard internalist story of modernity (factories, urbanisation, individualisation, the three categories the lecture slide lists under "Sociology and Modernity (2)") leaves outside the frame. The "creature of modernity" that is sociology, in the lecturer's phrase, was created to explain the factories, but the factories ran on Atlantic raw materials. The omission is not minor.
+
+Du Bois converts the chain into a historical account. The lecture quotes the lines: "in the fifteenth century there was no great disparity between the civilization of Negroland and that of Europe" (Du Bois, 1970: 86); the Haitian Revolution of 1790-1804 had "enormous" consequences, prompting Napoleon to "give up his ideas of an empire in America and sell Louisiana for nothing" (Du Bois, 1970: 103, 105); "the chief island domain of English slavery was Jamaica" (Du Bois, 1970: 107). The fifteenth-century parity is the diagnostic move: it undoes the assumption that Europe was always ahead. The Haitian point shows the colonies as agents whose revolt restructured the metropolitan map. And the Jamaica line restores the imperial centre's identifiable institutional involvement, with Cromwell sending the expedition. Modernity is not a European achievement extended outward; it is an Atlantic system in which the periphery acts, profits and resists.
+
+The third move is the most consequential for class analysis. Du Bois writes that "the new colonial theory transferred the reign of commercial privilege and extraordinary profit from the exploitation of backward races under the political domination of Europe", and that "the European and white American working class was practically invited to share in this new exploitation, and particularly were flattered by popular appeals to their inherent superiority" (Du Bois, 1970: 107). This breaks the standard Marxist picture in which the European proletariat is the universal subject of emancipation. The European working class is, on Du Bois's reading, partly a beneficiary of the colonial relation, not just a victim of capitalism. Gilroy makes the same move from L8: the Black Atlantic is "the primal history of modernity... narrated from the slaves' point of view" (Gilroy, 1993: 55), and racial terror is not a stain on occidental rationality but a co-author of it. The slavery-cotton chain, once followed through Du Bois and Gilroy, restructures who counts as having made modernity.
+
+Three contemporary registers show the chain still operative. The cost-of-living crisis falls hardest on populations whose ancestors were brought to Britain on the routes Du Bois traces; the Brexit appeal to a Britain "open to the world" was sold against the same internal others Hall flags within the metropole (Hall, 1992: 280); and the Black Lives Matter wave after 2020 was, in part, a public refusal of the racial coding the European working class was once "flattered" into accepting. The continuities are with the colonial relation Marx named in the cotton sentence and Du Bois fleshed out.
+
+A counter says that Marx's sentence is a single passage from a journalistic source and that Marx's mature theory remains Eurocentric. The reply is the lecturer's framing, "one possible exception". The cotton sentence does not redeem the whole of Marx; it shows that even the most Eurocentric founder of classical sociology, when he looked directly at cotton, saw the colonial chain. Dussel acknowledges the inheritance: "from Hegel, the category of 'development' passed to Marx, and from there to its usage in current sociology and economic theory" (Dussel, 1993: 68 n.2). The cotton sentence is the moment Marx's own framework points past itself. The lecturer's "BE CAREFUL" warning on Du Bois operates similarly: Du Bois is genuinely radical, but he writes Atlantic history with the colonial vocabulary he is trying to undo, including "backward races". The cautions matter; they do not undo the structural claim. Slavery and resource extraction are constitutive of modernity, and reading Marx with Du Bois is the surest route to seeing why classical sociology kept the constitution out of view.
+
+(~720 words)
+
+---
+
+### M7: Sociology presents modernity as "unsettling, dynamic, on-going" in which "everything can and must be constantly re-evaluated" (and this "does not apply to those countries which were colonized"). Critically discuss the myth of progress as a colonial structure with reference to Dussel's fallacy of developmentalism and the revision-doc claim that "modernity is not a neutral process but one involving coercion and unequal exchange".
+
+The lecture slide on modernity as "unsettling, dynamic, on-going (and 'Western')" lists what must be "constantly re-evaluated" (traditions, history, fashion, culture, life) and then adds the parenthetical caveat that exposes the discourse: "This does not apply to those countries which were colonized" (lecture slides). The dynamism is a privilege. The revision doc names the structure plainly: "modernity is not a neutral process but one involving coercion and unequal exchange", and includes "myth of progress" among the contested concepts that organise the lecture (revision doc). My argument is that the myth of progress is a colonial structure, not a neutral feature of modern self-understanding. I defend this in three moves and answer a counter.
+
+Begin with the form of the myth. The slide describes modernity as motion: time moves forward, the economy is always growing, communication accelerates, fashion changes monthly, history means change. The grammar is asymmetric. Forward motion is progress; staying still is backwardness. The next slide makes the colonial implication explicit: non-modern societies are seen as cyclical, repeating, tradition-bound, "one reason we go to visit on holiday" (lecture slides). The lecturer's parenthetical caveat ("this does not apply to those countries which were colonized") shows that the dynamism modernity celebrates is reserved for the metropole. The colonised remain available for inspection precisely because they are coded outside the time of progress.
+
+The second move places this inside Dussel's diagnosis. Dussel calls the operation the "fallacy of developmentalism": "the path of Europe's modern development must be followed unilaterally by every other culture. Development is taken as a category that is not only sociological but also ontological" (Dussel, 1993: 67-68). For Hegel, an "underdeveloped" country is "not-modern, pre-Aufklärung" (cited in Dussel, 1993: 68). The myth of progress, on Dussel's reading, is not just a confident assertion that things are getting better. It is the ranking of cultures on a single axis whose origin is European industrialisation and whose terminus is European modernity. The seven-step myth (Dussel, 1993: 75) reads this as a structure: step 1 (Europe is most developed), step 2 (Europe is obliged to civilise), step 3 (the path is Europe's path), step 6 (the laggard is at fault) and step 7 (the suffering is inevitable) together compose the progress narrative. The revision doc's phrasing ("modernity is not a neutral process but one involving coercion and unequal exchange") is the sociological short form of the same claim.
+
+The third move shows how the myth is operationalised. Eisenstadt's "multiple modernities" literature pushes against the unilinear ranking by acknowledging that there are several routes to becoming modern (Eisenstadt, 2000), but the pluralisation does not by itself undo the progress structure if the West continues to act as the classifying position. Hall explains the mechanism. The West is "a system of representation" with four functions, including comparison ("how close to or far from the West?") and evaluation ("western = developed = good = desirable", Hall, 1992: 277). The progress ranking is one of those evaluations made visible. The colonised societies are "lumped together" as the Rest (Hall, 1992: 280), and that grouping is what allows the progress axis to run in only one direction. Howard French's *Born in Blackness* supplies the empirical correction: the fifteenth-century Mali of Mansa Musa, Songhai, Kongo and Benin were sophisticated polities trading with Europe on their own terms (French, 2021). The progress narrative had to forget them.
+
+Three contemporary registers show the myth still operating. Brexit-era talk of "global Britain" recycles the developmental imagery: the metropole leads, others follow. The cost-of-living debate often scolds post-colonial economies for not "catching up", while ignoring the historical chain Marx traced: "without slavery you have no cotton; without cotton you have no modern industry" (Marx, 1977: 203). And the Black Lives Matter movement's public refusal of racial hierarchy can be read as a refusal of the progress narrative that coded the colonised as belated. Said's analysis sharpens the point: the discourse "produces" the non-modern other "politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-89). The myth of progress is a productive discourse, not a neutral description.
+
+A counter says progress is a real phenomenon. Life expectancy has risen; literacy has spread; absolute poverty has fallen. To call progress a myth is to deny the gains. Dussel anticipates the reply. He "affirms and subsumes" modernity's rational concept of emancipation; what he negates is the irrational myth that travels with it (Dussel, 1993: 66). The gains are real. The myth is the move that codes the gains as a European inheritance the rest of the world must wait to receive. Halewood's L1 diagnosis of the canon converges here: the founding question "what is the social?" was held open by the founders and closed by the discipline after them (Halewood, 2014: 131). Closure converted plural openings into a single developmental story. Reopening the question, reading Du Bois into the canon next to Marx, treating the Atlantic system rather than the European nation-state as the unit of analysis, retains the gains and discards the colonial coding. The myth of progress is a colonial structure precisely because it makes the gains unavailable to those whose ancestors were used to produce them. Naming the structure is the first step to extending the gains.
+
+(~745 words)
+
+---
+
+### M8: How convincing do you find Dussel's seven-step myth of modernity?
 
 Enrique Dussel's *Eurocentrism and Modernity* (1993) compresses an enormous theoretical claim into seven numbered steps. I find the structure convincing on three of its standard tests (fit with canonical texts, portability across cases, and explanatory yield) but vulnerable on a fourth: historical mechanism. I'll work through each step, score it, and reach a verdict.
 
@@ -382,7 +532,7 @@ My verdict: convincing as a diagnostic, less convincing as a complete theory. Th
 
 ---
 
-### M2: "Without slavery you have no cotton; without cotton you have no modern industry." Discuss with reference to Marx.
+### M9: "Without slavery you have no cotton; without cotton you have no modern industry." Discuss with reference to Marx.
 
 Marx writes, in the passage the lecture quotes: "Without slavery you have no cotton; without cotton you have no modern industry. It is slavery that gave the colonies their value; it is the colonies that created world trade and it is world trade that is the pre-condition of large-scale industry" (Marx, 1977: 203). The sentence is the most consequential admission in classical sociology that capitalist modernity is constitutively colonial. I want to take Marx at his word, trace the causal chain he sets out, and then assess where Marx's own framework remains Eurocentric despite the admission.
 
@@ -406,7 +556,7 @@ What survives, then, is a serious critique of Eurocentric sociology embedded in 
 
 ---
 
-### M3: Eurocentrism in classical sociology: blind spot or constitutive premise?
+### M10: Eurocentrism in classical sociology: blind spot or constitutive premise?
 
 A blind spot is a defect: something missed that, once seen, can be corrected. A constitutive premise is a foundation: something built into the structure that cannot be removed without rebuilding the whole. My answer is that the disjunction is sharper than it looks. For Durkheim and most of Weber, Eurocentrism is constitutive: it organises the founding questions. For Marx and parts of late Weber, it is closer to a blind spot. The verdict matters because the two diagnoses imply different remedies.
 
@@ -428,7 +578,7 @@ My verdict: the disjunction is too clean for any one founder. Durkheim's Eurocen
 
 ---
 
-### M4: How does the concept of the colonial attitude help us understand contemporary university league tables and the British Museum?
+### M11: How does the concept of the colonial attitude help us understand contemporary university league tables and the British Museum?
 
 The colonial attitude, as the lecture uses the term, is the habit of bifurcated thinking that ranks the world into a developed European/Western core and a backward non-European periphery, and that takes the core's standards as the universal measure. The colonies are gone; the attitude continues to organise institutions that present themselves as neutral or scholarly. Two test cases (university league tables and the British Museum's continued holding of African royal regalia such as the Benin bronzes) show how the concept does explanatory work that other vocabularies cannot.
 
@@ -450,7 +600,7 @@ Why does the concept of the colonial attitude do work that other vocabularies mi
 
 ---
 
-### M5: Critically assess Howard French's argument in *Born in Blackness*.
+### M12: Critically assess Howard French's argument in *Born in Blackness*.
 
 Howard W. French's *Born in Blackness* (2021) argues a single thesis with empirical density: Africa, not Europe and not the Americas, is the constitutive ground of the modern world. I set out the argument in its three strongest claims, evaluate its evidence, and identify two limitations a sociologist needs to register.
 
@@ -478,7 +628,7 @@ My verdict: *Born in Blackness* is an important book that does decisively what s
 
 ---
 
-### M6: What does Hall mean by "the West and the Rest", and why does he treat it as a discourse of power rather than a geographical description?
+### M13: What does Hall mean by "the West and the Rest", and why does he treat it as a discourse of power rather than a geographical description?
 
 Two questions, one analytic. What Hall means by "the West and the Rest" cannot be detached from why he treats it as a discourse. A geographical description records what is there; a discourse produces what counts as there. Hall's argument is that "the West" was never primarily a region. It is a position from which the world has been classified, ranked and acted upon, and the position has effects whether or not the geography supports it.
 
@@ -502,7 +652,7 @@ Why does Hall insist on this framing? Because treating "the West" as a geographi
 
 ---
 
-### M7: Compare Kant's account of non-European peoples with Hegel's.
+### M14: Compare Kant's account of non-European peoples with Hegel's.
 
 Kant and Hegel are the two pillars Dussel uses to show that the colonial relation is built into the architecture of canonical modern philosophy. They make the same kind of move through different mechanisms. The differences determine which forms of recuperation are available today.
 
@@ -528,7 +678,7 @@ But both readings are possible. Dussel's seven-step "myth of modernity" (Dussel,
 
 ---
 
-### M8: Multiple modernities: useful pluralism or empty inclusion?
+### M15: Multiple modernities: useful pluralism or empty inclusion?
 
 The phrase "multiple modernities" gestures at a family of modernities rather than a single European original to which others must conform. Within L2's source materials the cognate move is Dussel's: he rejects "the fallacy of developmentalism", the assumption that "the path of Europe's modern development must be followed unilaterally by every other culture" (Dussel, 1993: 67-68), and proposes "trans-modernity" as an alternative (Dussel, 1993: 76). The question is whether the pluralism such proposals offer is theoretically useful or merely papers over the asymmetries Dussel, Hall and French analyse.
 
@@ -556,7 +706,7 @@ So: useful pluralism, yes, if it knows it is unfinished. Empty inclusion if it c
 
 ---
 
-### M9: Does the climate crisis vindicate or refute Dussel's myth of modernity?
+### M16: Does the climate crisis vindicate or refute Dussel's myth of modernity?
 
 The climate crisis is a useful test case for Dussel's seven-step "myth of modernity" (Dussel, 1993: 75). If the diagnosis describes a real structure, the way the climate crisis is currently being framed and managed should map onto its seven steps. My argument is that the framing vindicates Dussel's diagnosis more than it refutes it, but uncomfortably enough to push the framework somewhere Dussel did not take it.
 
@@ -592,7 +742,7 @@ So my answer: vindicates more than refutes. The crisis confirms that the structu
 
 ---
 
-### M10: Using the work of at least two authors, assess the case for reparations as a modernity-internal demand.
+### M17: Using the work of at least two authors, assess the case for reparations as a modernity-internal demand.
 
 A reparations demand is usually framed as extra-modern: a moral claim made against modernity from somewhere outside it. I want to argue, using Marx and Dussel together with Howard French in support, that the demand is better read as modernity-internal: a debt that modernity's own rational kernel makes payable once its irrational myth is stripped away. Modernity's universal claims (property, contract, restitution for wrongful taking, equal moral worth) generate the obligation as soon as they are extended to the people from whom they were originally withheld.
 
@@ -614,7 +764,7 @@ So: reparations is modernity-internal because it uses modernity's own legal and 
 
 ---
 
-### M11: Can sociology be decolonised without abandoning its classical canon?
+### M18: Can sociology be decolonised without abandoning its classical canon?
 
 The question turns on what "decolonising" sociology actually demands. The strong version says: the canonical founders are so deeply Eurocentric that decolonising the discipline requires displacing them. The weak version says: the founders can be read critically and supplemented. I argue for an intermediate position. Sociology can be decolonised without abandoning the canon, but only on three conditions: that the canon is read with its colonial archive, that the canon is supplemented with the voices it excluded, and that the discipline's founding question is rewritten.
 
@@ -642,7 +792,7 @@ So my answer: yes, sociology can be decolonised without abandoning its classical
 
 ---
 
-### M12: Trans-modernity in 2026, programme or pious wish?
+### M19: Trans-modernity in 2026, programme or pious wish?
 
 Dussel ends *Eurocentrism and Modernity* with the proposal of trans-modernity: "a process that will transcend modernity as such, a trans-modernity, in which both modernity and its negated alterity (the victims) co-realize themselves in a process of mutual creative fertilization" (Dussel, 1993: 76). The vocabulary is ambitious; the proposal is sketched in a single paragraph. The question is whether it is a genuine programme or a pious wish that decorates academic essays. My argument is that trans-modernity is a programme in the strong sense, that Dussel, Hall and French between them already supply most of the conceptual scaffolding, and that its weakness is institutional follow-through rather than intellectual coherence.
 
@@ -666,7 +816,7 @@ My verdict: trans-modernity in 2026 is a programme in the sense that matters for
 
 ---
 
-### M13: "Modernity is a Janus-faced project: emancipation for some, the colonial wound for others." Discuss.
+### M20: "Modernity is a Janus-faced project: emancipation for some, the colonial wound for others." Discuss.
 
 The Janus image, two faces opposite, one head, is exactly right for modernity. Any honest account of the modern world has to look both ways at once. Modernity emancipated Europeans from arbitrary monarchy, hereditary status and material scarcity. Modernity inflicted what the proposition calls the colonial wound on Africans, Asians and indigenous Americans: chattel slavery, conquest, extraction, racial hierarchy. The two faces share a head. I defend this reading by working through the emancipation face, the colonial-wound face, and the structural reasons the two are inseparable.
 

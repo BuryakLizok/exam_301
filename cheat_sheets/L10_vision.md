@@ -73,9 +73,38 @@ Magritte's *The Treachery of Images* (1948) and *The Key of Dreams* (Berger, 197
 
 ---
 
-## 7. Past-year exam essays
+## 7. Mock exam questions (22 total)
 
-### 2025 Q12 / 2023 Q12 - Donna Haraway stated 'How we see the world is always a matter of power'. Explain and discuss its relevance for sociology today.
+*Note: M1-M7 are new slide-recipe composites built from L10 slide titles, slide-bullet vocabulary and the teacher's "Feminist media theory" summary; M8-M22 are the existing mocks renumbered.*
+
+1. "To gaze implies more than to look at" (Schroeder). Drawing on Slide 7's pairing of Schroeder with modernity, inequality, colonisation and slavery, discuss vision as a relation of power.
+2. Human Zoos. How does the slide's account of nineteenth- and early-twentieth-century World Fairs, where colonial powers "imported" people from places they had colonised in order to "exhibit" them, help us read the colonial gaze?
+3. "In the worse circumstances of domination, the ability to manipulate one's gaze opens up the possibility of agency" (hooks). Discuss the oppositional gaze in light of the slides on slavery's denial of the right to gaze.
+4. "There is no researcher 'in the picture'" (Slide 13). Discuss Haraway's claim that knowledge is always situated, drawing on the bird's-eye view as the god trick of the dominant unmarked group.
+5. "And what of 'woman'?" Discuss Kember's claim that "the body of the woman exists only as a vehicle for scientific information", with reference to the slide-bullets on woman as a problem for vision/knowledge and woman as invisible.
+6. "Media pleasure itself became politically suspect." Can women take pleasure in popular culture without reproducing their own oppression? Discuss with reference to Mulvey's male gaze.
+7. "Media are no longer just representational systems but infrastructures through which power, pleasure, and governance operate." Assess this claim about digital culture in light of Haraway's situated knowledge and Foucault's panoptic gaze.
+8. "Men act and women appear" (Berger). Discuss.
+9. Critically assess Berger's argument in *Ways of Seeing*.
+10. What does Haraway mean by the god trick, and why does she treat it as the central failure of Western epistemology?
+11. Compare Mulvey's male gaze with hooks's oppositional gaze.
+12. How does the panoptic gaze help us understand contemporary regimes of visibility?
+13. Is the gaze possession or recognition? Discuss.
+14. Mercator, Gall-Peters and the cartography of empire.
+15. Does Berger's claim that "seeing comes before words" still hold?
+16. How convincing do you find Mulvey's claim that mainstream cinema operates a heterosexual male gaze?
+17. Discuss the politics of the medical gaze, with reference to Kember's *Virtual Anxiety*.
+18. Using at least two authors, evaluate whether the male gaze has fragmented in modern visual culture.
+19. Can a vision be sociological without being political?
+20. "Visibility is a trap" (Foucault). Discuss.
+21. How does the imperial gaze of the nineteenth-century Human Zoos help us read modernity's visual order?
+22. Counter-currents to the male gaze: hooks, Haraway and the limits of refusal.
+
+---
+
+## 8. Essay answers
+
+### Past-Q 2025 Q12 / 2023 Q12 - Donna Haraway stated 'How we see the world is always a matter of power'. Explain and discuss its relevance for sociology today.
 
 Haraway's claim is the keystone of a feminist epistemology that breaks with the modern dream of disembodied objectivity. To say "how we see the world is always a matter of power" is to insist that vision is an active, embodied, historically located practice. I unpack what Haraway means, place her in the lineage of theorists of vision and power, and argue her position is more sociologically urgent today than in 1988.
 
@@ -93,7 +122,7 @@ There are limits. Situated knowledge can be misread as relativism and used to de
 
 Haraway's statement is not a slogan but a research programme. Every dataset is also a gaze, every theory a position, every photograph a way of seeing. To take it seriously is to make sociology answerable for what it learns how to see.
 
-### 2022 Q14 - Critically examine the links between vision, power and knowledge.
+### Past-Q 2022 Q14 - Critically examine the links between vision, power and knowledge.
 
 Vision, power and knowledge form an inseparable triad in modern sociology, and ways of seeing is the most productive way to grasp it. I move from Berger through Foucault, Mulvey and hooks to Haraway, before pulling them together around the course's examples.
 
@@ -113,7 +142,7 @@ The triad has limits. Foucault's panopticon can over-determine subjects as docil
 
 Still, the central insight holds. Vision, power and knowledge are mutually constitutive. Every photograph is a position; every dataset is a gaze; every map is an argument. Sociology's task is to make these positions visible, refuse the god trick and take responsibility for how it learns to see.
 
-### 2021 Q14 - 'There are various ways of seeing the world, but they are all linked to questions of power.' Critically analyse.
+### Past-Q 2021 Q14 - 'There are various ways of seeing the world, but they are all linked to questions of power.' Critically analyse.
 
 The statement names the most important insight of the sociology of vision: pluralism of perspectives does not dissolve power but expresses it. I unpack the claim, defend it against simple relativism and explore where it leads.
 
@@ -133,13 +162,171 @@ There are objections. The claim can sound deterministic; I respond that "linked 
 
 The statement holds. Plurality of ways of seeing is the condition of the modern visual field; power is what organises and weights that plurality. Sociology's task is to map the field, expose the god trick and amplify the subjugated gazes that have always been positioned within it.
 
-### 2021 Q14 (variant phrasing) - see above
+### Past-Q 2021 Q14 (variant phrasing) - see above
 
 ---
 
-## 8. Mock exam essays
+### Mock 1 - "To gaze implies more than to look at" (Schroeder). Drawing on Slide 7's pairing of Schroeder with modernity, inequality, colonisation and slavery, discuss vision as a relation of power.
 
-### Mock 1 - "Men act and women appear" (Berger). Discuss.
+Slide 7 frames the entire lecture by pairing Schroeder's structural statement with a list of social registers. Schroeder writes that "to gaze implies more than to look at, it signifies a ... relation of power, in which the gazer is superior to the object of the gaze" (Schroeder, 1998). The slide adds that if how we see is tied up with power, it can be linked to "how we see and think of the world, and to modernity, inequality and colonization, slavery". I unpack Schroeder's claim, then trace it through the four registers, drawing on Berger, hooks, Foucault and Haraway.
+
+Schroeder's claim is structural rather than psychological. To gaze is not just to look but to look from a position of superiority. The asymmetry is built into the act. Berger's surveyor/surveyed split (Berger, 1972: 46) gives the interior mechanism: the gazer's position is internalised by the object as her own continuous self-monitoring. "Men act and women appear" (Berger, 1972: 47) is the gendered case Schroeder's general statement covers.
+
+Modernity. The slide places gaze within modernity for a reason. Modern visual technologies, the projection map, the photograph, the printed plate, the screen, made the asymmetric look reproducible at scale. Berger's claim that "every image embodies a way of seeing" (Berger, 1972: 10) makes the point general. Modern vision is not enhanced perception but a particular regime in which Schroeder's asymmetry becomes systematic. The Snellen eye chart and the *voir/savoir* etymology encode the binding of seeing and knowing into a modern apparatus.
+
+Inequality. The asymmetric gaze constitutes the inequalities it appears merely to register. Berger's European nude tradition is the gallery exhibit: the painted woman is arranged for the unpainted male spectator owner. The Calvin Klein "Obsession" advertisements show the convention persisting into twentieth-century print marketing. Instagram filters and TikTok aesthetics intensify it into digital self-surveillance, with the surveyor inside the user. Disney princesses operate the same default. Inequality of looking is reproduced as inequality of social presence.
+
+Colonisation. The lecture pairs Schroeder with the Human Zoos at nineteenth- and early-twentieth-century World Fairs in France, the UK, Belgium, Spain and the US (Slide 8). The European spectator stood as unmarked observer; the colonised person was constituted as marked spectacle. Said's discursive companion describes the apparatus by which Europe set itself off against the Orient as a "surrogate and even underground self" (Said, 1978: 89), gaining its identity through that contrast (cross-link to L9). The Mercator Projection performs the cartographic version: Greenland inflated, Africa miniaturised. Schroeder's structural superiority of gazer over object is the cartographic and the spectacular gesture at once.
+
+Slavery. hooks gives the most direct application. "White slave-owners (men, women, and children) punished enslaved black people for looking" (hooks, 1992: 115). "Slaves were denied their right to gaze". The slave owner exercised the asymmetric gaze Schroeder names while prohibiting the gaze in return. Du Bois had already named the interior consequence as double consciousness, "this sense of always looking at one's self through the eyes of others" (Du Bois, 1903: 5); the racial veil is the gaze worn from the inside (cross-link to L8). hooks's oppositional gaze, "Not only will I stare. I want my look to change reality" (hooks, 1992: 116), reclaims the prohibited look.
+
+Foucault generalises the structure. The disciplinary gaze "produces a way of seeing ... a way of distributing light" (Foucault, 1977: 316) across schoolchildren, patients and criminals. "Visibility is a trap" (Foucault, 1977: 200). The panoptic principle institutionalises Schroeder's asymmetry within prisons, schools, hospitals and now CCTV networks. Disciplinary vision is "about more than the male gaze" but operates the same structural superiority. Haraway names the meta-move by which the gazer pretends to be nowhere, "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189); Schroeder's structural superiority is performed under the cover of neutrality.
+
+Kember anchors the medical case. "The body of the woman exists only as a vehicle for scientific information" (Kember, 1998). Mammography and facial recognition extend the same logic into contemporary screening and surveillance.
+
+Critical limits. The structural reading can flatten differences between scopic regimes; the male gaze, the colonial gaze and the medical gaze share a logic but operate distinct distributions of light. Schroeder's diagnosis does not on its own theorise the return-look hooks supplies.
+
+Slide 7 does the work of the whole lecture in three lines. To gaze is asymmetric; the asymmetry binds modernity, inequality, colonisation and slavery; sociology's task is to make the asymmetry visible and to amplify the looks that refuse it.
+
+### Mock 2 - Human Zoos. How does the slide's account of nineteenth- and early-twentieth-century World Fairs, where colonial powers "imported" people from places they had colonised in order to "exhibit" them, help us read the colonial gaze?
+
+Slide 8 is sparse and precise. "In the 19th century and into the 20th century, a number of World Fairs or Expositions were held by major European Countries such as France, the UK, Belgium and Spain, as well as the US. As part of this, some colonial powers 'imported' people from the places that they had colonised, in order to 'exhibit' them." The vocabulary is telling: "imported" treats persons as cargo; "exhibit" treats them as objects of display. I unpack the slide, then read it through Schroeder, Berger, hooks, Haraway and Foucault.
+
+The vocabulary first. To "import" is to take from one site to another in the grammar of commodities. To "exhibit" is to arrange for a paying spectator. The slide's quotation marks signal that the lecturer refuses these terms as neutral description; they are the imperial regime's own self-description, retained in scare quotes so the reader can see the operation. The act named is the conversion of colonised persons into objects of metropolitan vision.
+
+Schroeder anchors the analysis. "To gaze implies more than to look at, it signifies a ... relation of power, in which the gazer is superior to the object of the gaze" (Schroeder, 1998). The architecture of the World Fair made the asymmetry literal: paths, platforms, fencing, ticketing. The European or US spectator paid; the colonised person was paid for as exhibit. Schroeder's structural superiority of gazer over object is the operating principle of the entire installation.
+
+hooks gives the racial counter-history. "White slave-owners (men, women, and children) punished enslaved black people for looking" (hooks, 1992: 115). "The politics of slavery, of racialized power relations, were such that slaves were denied their right to gaze" (hooks, 1992: 115). The Human Zoo is the metropolitan-public counterpart. The European visitor exercised an unimpeded look at colonised persons whose right to return the look was denied by the apparatus. From this prohibition emerges the oppositional gaze: "Not only will I stare. I want my look to change reality" (hooks, 1992: 116). Du Bois had named the interior register of this denial as "always looking at one's self through the eyes of others" (Du Bois, 1903: 5); double consciousness is the subjective residue of the visual regime the Human Zoo industrialised (cross-link to L8).
+
+Berger extends. The painted woman in the European nude tradition is arranged for the unpainted male spectator (Berger, 1972: 47); the displayed colonised person at the World Fair is arranged for the unmarked European spectator. Both are "to-be-looked-at." Berger's contrast with "Indian art, Persian art, African art, Pre-Columbian art", where "nakedness is never supine in this way" (Berger, 1972: 53), makes the European convention legible as European.
+
+Haraway names the meta-move. The Human Zoo performed "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189) at exposition scale. The European visitor's standpoint was unmarked; the colonised person's was over-marked as ethnographic specimen. The visitor's body, history and interests vanished into the role of observer; the displayed person's body, history and prior life collapsed into "specimen". Her injunction to "become answerable for what we learn how to see" (Haraway, 1991: 190) is exactly what the exposition refused. Said's *Orientalism* supplies the discursive frame: the Human Zoo is one of the spectacular sites where the European cultural apparatus produced the East as visible object (cross-link to L9).
+
+Foucault's disciplinary gaze illuminates the institutional logic. The exposition "distributes light" (Foucault, 1977: 316) across colonised populations. "Visibility is a trap" (Foucault, 1977: 200): the displayed person was rendered visible to be classified, photographed and measured. The disciplinary gaze "enables us to see some kinds of subject and to analyse them as objects". The Human Zoo and the prison are not the same institution, but they share the analytic principle.
+
+Reading the present. The imperial gaze did not end with the closure of the expositions. The museum gaze on Indigenous remains is the contemporary residue; facial recognition systems and airport biometrics extend the classification of bodies by phenotype into algorithmic form. The Mercator Projection abstracts the territory; the zoo displayed the inhabitants. Both perform the imperial gaze.
+
+Critical limits. The Human Zoo is unusually spectacular; many contemporary forms of imperial vision are mundane and dispersed. The analytic claim is not that all imperial vision is identical but that the colonial gaze persists as a structural pattern across distinct visual regimes.
+
+Slide 8's sparse vocabulary delivers the lecture's argument: modernity's visual order is constitutively imperial, and sociology's task is to refuse the unmarked European spectator the slide diagrams.
+
+### Mock 3 - "In the worse circumstances of domination, the ability to manipulate one's gaze opens up the possibility of agency" (hooks). Discuss the oppositional gaze in light of the slides on slavery's denial of the right to gaze.
+
+Slides 9 to 11 develop hooks's oppositional gaze through three quoted passages from *Black Looks* (1992). The lecturer takes the reader from a child's punishment for staring, through the historical denial of the right to gaze under slavery, to the formulation of the oppositional gaze as agency. I unpack the slide sequence, then read it through Schroeder, Berger, Foucault, Du Bois and Haraway.
+
+The first slide opens with autobiography. "When thinking about black female spectators, I remember being punished as a child for staring, for those hard intense direct looks children would give grown-ups, looks that were seen as confrontational, as gestures of resistance, challenges to authority. The 'gaze' has always been political in my life ... Afraid to look, but fascinated by the gaze. There is power in looking" (hooks, 1992: 115). hooks begins from a specific embodied moment of being disciplined for looking, and names that moment as political.
+
+The second slide gives the historical genealogy. "The first time I read in history classes that white slave-owners (men, women, and children) punished enslaved black people for looking, I wondered how this traumatic relationship to the gaze had informed ... black spectatorship" (hooks, 1992: 115). "The politics of slavery, of racialized power relations, were such that slaves were denied their right to gaze" (hooks, 1992: 115). The child's discipline for staring is the residue of a longer history in which the prohibition was enforced through violence.
+
+The third slide formulates the counter-current. "All attempts to repress our/black peoples' right to gaze had produced in us an overwhelming longing to look, a rebellious desire, an oppositional gaze. By courageously looking, we defiantly declared: 'Not only will I stare. I want my look to change reality.' Even in the worse circumstances of domination, the ability to manipulate one's gaze in the face of structures of domination that would contain it, opens up the possibility of agency" (hooks, 1992: 116). Agency emerges precisely from the prohibition.
+
+Schroeder anchors the structural background. "To gaze ... signifies a ... relation of power, in which the gazer is superior to the object of the gaze" (Schroeder, 1998). The slave owner exercised the asymmetric gaze; the prohibition was its corollary. The oppositional gaze reclaims the prohibited side of the asymmetry.
+
+Berger's surveyor/surveyed split (Berger, 1972: 46) supplies the gendered analogue. Women are "almost continually accompanied by [their] own image of [themselves]" and "taught and persuaded to survey [themselves] continually." hooks's oppositional gaze names the refusal of an internalised gaze. But the racial structure differs: where Berger's surveyor is male, hooks's surveyor is white and male, and the prohibition is enforced not only socially but historically through slavery and Jim Crow. Du Bois had named the interior register a century earlier: "this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5). The veiled subject "ever feels his twoness"; the oppositional gaze is the active counter-move to that doubled consciousness, turning the internalised white look into a returned black one (cross-link to L8).
+
+Foucault sharpens the institutional dimension. "Visibility is a trap" (Foucault, 1977: 200); the disciplinary gaze "produces a way of seeing ... a way of distributing light" (Foucault, 1977: 316). hooks adds the racial supplement Foucault under-theorised: the trap was asymmetric, since enslaved persons were forced into visibility as objects of disciplinary surveillance while denied the visibility that constitutes a subject (cross-link to L7).
+
+Haraway gives the methodological synthesis. Situated knowledge refuses "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189). The oppositional gaze is situated by definition: it is the look of a particular spectator from a particular history. "We might become answerable for what we learn how to see" (Haraway, 1991: 190); the oppositional gaze is answerable in exactly this sense.
+
+Contemporary instances. Beyoncé's *Lemonade* visual album is a cultural performance of the oppositional gaze.
+
+Critical limits. The oppositional gaze can be commodified, as countercultural styles are sold back as brand identity. Its operating site is spectatorship; it does not on its own dismantle the disciplinary gazes Foucault and Kember name.
+
+hooks's slides condense the lecture's most powerful claim. The right to gaze was historically denied; that denial produced the longing that became the oppositional gaze; agency is possible in the worst circumstances precisely as the refusal to be captured by the look that would contain one.
+
+### Mock 4 - "There is no researcher 'in the picture'" (Slide 13). Discuss Haraway's claim that knowledge is always situated, drawing on the bird's-eye view as the god trick of the dominant unmarked group.
+
+Slide 13 places Leonardo's 1502 *Map of Imola* alongside a sequence of Haraway bullets. The bird's-eye view, in research, is "a view that claims to be pure/from nowhere"; "there is no researcher 'in the picture'"; this is "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189); "in fact it is the subjective view of the dominant (unmarked) group, passed off as universal"; "knowledge that is un-locatable is also knowledge that is irresponsible"; "we might become answerable for what we learn how to see" (Haraway, 1991: 190). The slide ends with the all-capital declaration: "KNOWLEDGE IS ALWAYS SITUATED." I unpack the bullets, then test through the lecture's exhibits.
+
+The bird's-eye view. Leonardo's *Map of Imola* shows a perspective no human eye can occupy: a vertical view onto a city, with no observer and no body and no shadow of the cartographer's instruments. When a researcher presents data as if from no particular position, the position has not vanished; it has been hidden. The pretence of disembodiment is itself a position.
+
+The god trick. Haraway's term names the move by which a particular standpoint, embodied, located and partial, presents itself as a view from nowhere. The cartographer, the anatomist, the ethnographer and the statistician each present what they see as if no body, no history and no funding stream had selected it. Knowledge that pretends to be "un-locatable" is "irresponsible" precisely because it cannot be questioned about its location. To "become answerable for what we learn how to see" (Haraway, 1991: 190) is to refuse the trick.
+
+Whose standpoint is universalised. The slide is explicit: the god trick performs "the subjective view of the dominant (unmarked) group, passed off as universal". "Unmarked" is the key term. The "human" of the rights tradition was the European male propertied human; the unmarked spectator of Berger's European nude tradition is the same figure. Each universal turns out to be a particular wearing a god trick. Hartsock supplies the labour-historical version (cross-link to L6): a standpoint from below is "an achievement won from political struggle" rather than a spontaneous gift; the dominant group's view "structures the world for everyone" until the achievement of a counter-standpoint exposes it (Hartsock, 1983). Haraway radicalises the same principle: "the standpoints of the subjugated ... are preferred because in principle they are least likely to allow denial of the critical and interpretive core of all knowledge"; "the only way to find a larger vision is to be somewhere in particular" (Haraway, 1991: 196).
+
+The Mercator Projection. Mercator presents itself as "the world" while inflating Europe and miniaturising Africa. The conformal projection performs cartographic god trick; its political conventions of orientation and proportion are hidden behind apparent accuracy. The Gall-Peters Projection and the "World Turned Upside Down" map declare their choices; only Mercator hides them.
+
+The Human Zoos. The European visitor's standpoint was unmarked; the colonised person's was over-marked as ethnographic specimen. The exposition operated the god trick at industrial scale: a particular European audience constituted itself as universal observer at the expense of those it displayed.
+
+The medical gaze. Kember's ultrasound shows the technological apparatus appearing as transparent access to the foetus while the pregnant woman is reduced to vehicle: "the body of the woman exists only as a vehicle for scientific information" (Kember, 1998). Sonography performs the god trick at the scale of the reproductive body. Mammography operates the analogous logic.
+
+The disciplinary gaze. Foucault's "visibility is a trap" (Foucault, 1977: 200) names the institutional analogue (cross-link to L7). The Panopticon's tower is presented as natural architecture; the inspector's position is unverifiable. The god trick is the move by which the apparatus disguises its position.
+
+Van Eyck's convex mirror. The detail from *The Arnolfini Marriage* (1434) on the slide makes the counter-image inside a painting: vision is reflected from somewhere; the painter is visible in the room. Situated cartography would put the maker and the silenced names back into the image.
+
+In *Staying with the Trouble* Haraway adds "it matters what ideas we use to think other ideas (with)" (Haraway, 2016: 12).
+
+Critical limits. Situated knowledge can be misread as relativism. Strong objectivity is built from acknowledged partiality plus accountability plus structural preference for subjugated standpoints. Situatedness can collapse into identitarian closure; Haraway prefers webs of partial connection.
+
+The all-caps declaration on Slide 13 is the lecture's epistemological keystone. Knowledge is always situated; the god trick is the central enabling fiction of Western epistemology; refusing the trick is the start of accountable sociology.
+
+### Mock 5 - "And what of 'woman'?" Discuss Kember's claim that "the body of the woman exists only as a vehicle for scientific information", with reference to the slide-bullets on woman as a problem for vision/knowledge and woman as invisible.
+
+Slide 22 is the lecture's pivot from disciplinary vision to the gendered visual order. The header asks: "And what of 'woman'?" The slide shows an obstetric ultrasound image and quotes Sarah Kember: "The scanning process eliminates the mother's body from view and the doctor has unmediated access to the image of the foetus. The body of the woman exists only as a vehicle for scientific information." Two bullet-headers underneath: "Woman as a problem for vision/knowledge" and "Woman as invisible". Source: *Virtual Anxiety*. I unpack Kember, then read her through Foucault, Berger, Haraway and hooks.
+
+Kember's claim is precise. The pregnant body is rendered ambient. The foetus is foregrounded as the visible subject; the woman is structurally infrastructural. Two moves at once. Phenomenologically, the image organises clinician and public attention onto the foetus before any caption arrives. Politically, the foetus made visually present becomes a candidate for moral and clinical attention in a way the pregnant woman is not. Vision produces persons; the persons it produces have political weight.
+
+The slide-bullet "Woman as a problem for vision/knowledge" names the persistent issue across Berger, Mulvey and Kember. Woman has been a problem for vision because the European visual tradition has had to find ways to display her body without granting her the position of subject. Berger's tour of the European nude is the catalogue: Mabuse's *Adam and Eve*, Tintoretto's *Susannah and the Elders*, Memling's *Vanity*, Cranach's and Rubens's *Judgement of Paris*, Lely's portrait of Nell Gwynne, Bronzino's *Allegory of Time and Love*. The painted woman is arranged for the unpainted male spectator. "Men act and women appear" (Berger, 1972: 47).
+
+The slide-bullet "Woman as invisible" names the more radical move Kember diagnoses. The clinical apparatus does not represent the pregnant woman; it removes her from view. Foucault's disciplinary gaze "produces a way of seeing ... a way of distributing light" (Foucault, 1977: 316). The medical gaze on the pregnant body illuminates the foetus while rendering the woman structurally invisible. "Visibility is a trap" (Foucault, 1977: 200); the trap operates here through enforced visibility of the foetus and enforced invisibility of the woman (cross-link to L7).
+
+Berger's surveyor/surveyed split intersects. The ultrasound image becomes shareable: printout, announcement, keepsake. The pregnant body is doubled into lived body experiencing pregnancy and visual body broadcasting the foetus. Berger's claim that the woman is "almost continually accompanied by her own image of herself" (Berger, 1972: 46) finds a sonographic analogue. Mammography operates the analogous logic in screening regimes that render one bodily region visible while the rest is treated as infrastructural support.
+
+Haraway gives the meta-frame. The ultrasound presents itself as transparent but is a particular technological mediation: sonographer-operated, machine-calibrated, image-processed. Haraway names this "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189). Situated obstetrics would "become answerable for what we learn how to see" (Haraway, 1991: 190). Leonardo's *Map of Imola* and the ultrasound are kin: vertical views no human eye can occupy, both presented as transparent access.
+
+hooks supplies the racial supplement. "Slaves were denied their right to gaze" (hooks, 1992: 115); the disciplinary medical gaze on black women has a particular history that intersects with this denial. Kember's general claim is intensified for black women: the gaze that sees a body without recognising the person is the same gaze that historically denied black persons the right to look back. The oppositional gaze, "I want my look to change reality" (hooks, 1992: 116), names the counter-practice the clinical encounter does not on its own theorise.
+
+Schroeder anchors the asymmetry. "To gaze ... signifies a ... relation of power, in which the gazer is superior to the object of the gaze" (Schroeder, 1998). The clinical gaze on the pregnant body instantiates the relation: the apparatus is superior to its object; the pregnant woman is rendered object so the foetus becomes subject.
+
+Reading the present. Deepfakes radicalise the question of what counts as visible evidence; facial recognition systems extend population-level imaging into surveillance. Snapchat dysmorphia is the digital cousin of the surveyor inside the woman.
+
+Critical limits. Kember's analysis can be read deterministically. In practice midwives and pregnant women negotiate the technology, and many report the scan as a moment of connection rather than alienation. The medical gaze is also an instrument of care; the sociological reading situates it rather than condemns it.
+
+Slide 22's header is the lecture's most compressed feminist question. Vision produces some persons as subjects and others as infrastructure; the politics is in the distribution.
+
+### Mock 6 - "Media pleasure itself became politically suspect." Can women take pleasure in popular culture without reproducing their own oppression? Discuss with reference to Mulvey's male gaze.
+
+The question pairs Slide 23's account of "The Male Gaze" with the second-wave/psychoanalytic feminist diagnosis that "media pleasure itself became politically suspect" because it is "bound up with patriarchal power and unconscious fantasy", and the resulting debate over "whether women could take pleasure in popular culture without simply reproducing their own oppression". The pairing names a real political problem. I unpack Mulvey, then test through Berger, hooks, Foucault and Haraway.
+
+Slide 23 gives the working definition. "The Male Gaze" is "a term invented by feminist film critic Laura Mulvey" (Mulvey, 1975). Audiences are "invited (made) to view films from the point of view of a (heterosexual) male"; "the camera lingers on the woman as an object not a subject"; "the camera (and the viewer) 'enjoys' and 'controls' the woman as object." Mulvey's machinery is psychoanalytic-Marxist: scopophilia (pleasure in looking) and ego-identification organise the spectator's enjoyment. The diagnosis is that mainstream cinema's visual pleasure is structured by patriarchal fantasy, and so the pleasure itself is implicated in the structure of oppression.
+
+The political problem follows. If women take pleasure in popular culture organised by a male gaze, are they participating in their own subordination? Two registers of answer.
+
+The pessimistic register runs through Mulvey and Berger. Berger's surveyor/surveyed split anchors it: women are "almost continually accompanied by [their] own image of [themselves]" (Berger, 1972: 46) and "taught and persuaded to survey [themselves] continually". "Men act and women appear" (Berger, 1972: 47). The pleasure women take in popular culture often turns out to be the pleasure of approximating the image they are surveyed by. The Calvin Klein "Obsession" advertisements show the convention crossing into print marketing; Instagram filters, Snapchat dysmorphia and TikTok aesthetics extend the regime into digital self-surveillance. The pleasure is the trap. Disney princesses as cultural touchstones operate the same default: identification with woman-as-appearance.
+
+The optimistic register runs through hooks, Berger and Haraway. hooks's oppositional gaze refuses the male gaze from within (cross-link to L5): "Not only will I stare. I want my look to change reality" (hooks, 1992: 116). Black female spectatorship has never been Hollywood's assumed audience; "the 'gaze' has always been political in my life" (hooks, 1992: 115). Pleasure is taken in popular culture, but the pleasure is a re-reading that exposes the regime. Beyoncé's *Lemonade* visual album is the cultural performance of pleasure reclaimed for the oppositional gaze. Berger's pedagogy of demystification is the analytic version: he teaches the reader to read Memling's *Vanity* as the painter's enjoyment disguised as moral condemnation, and Tintoretto's mirror version of *Susannah and the Elders* as Susannah's enrolment as spectator of herself. To take pleasure in these images while seeing how they work is not to reproduce them.
+
+Foucault sharpens the question (cross-link to L7). The disciplinary gaze "produces a way of seeing ... a way of distributing light" (Foucault, 1977: 316). "Visibility is a trap" (Foucault, 1977: 200); the pleasures of mainstream visibility train the subject who consumes them. The Met Gala is the spectacular instance: visibility as both pleasure and trap. Foucault also insists vision is "about more than the male gaze"; pleasure can operate within other scopic regimes (medical, disciplinary, colonial) which do not reduce to gender.
+
+Haraway adds the methodological frame. "The god-trick of seeing everything from nowhere" (Haraway, 1991: 189) is the move that lets dominant pleasures pass as universal. To "become answerable for what we learn how to see" (Haraway, 1991: 190) is the demand the second-wave suspicion of pleasure makes operational. A pleasure that knows its position is different from a pleasure that disavows it. The debate is not resolved by the choice between yes and no; it is resolved by the demand for accountability.
+
+Critical limits. The pessimistic register can be moralistic, presenting all women's pleasure as false consciousness. The optimistic register can over-credit individual re-reading at the expense of structural critique. Haraway's accountability and hooks's oppositional gaze are the analytic resources that hold the two in tension.
+
+My answer. Yes and no. Yes, women can take pleasure in popular culture without simply reproducing their own oppression, provided the pleasure is held in tension with critique. No, they cannot do so by ignoring the regime. Mulvey diagnosed the regime; hooks named the counter-practice; Berger gave the pedagogy; Haraway gave the method.
+
+### Mock 7 - "Media are no longer just representational systems but infrastructures through which power, pleasure, and governance operate." Assess this claim about digital culture in light of Haraway's situated knowledge and Foucault's panoptic gaze.
+
+The cyberfeminist and fourth-wave feminist diagnosis is that contemporary digital media operate as infrastructures rather than representational systems. New media technologies reshape "embodiment, identity, and power"; cyberspace is "a potential site for disrupting gender binaries, biological essentialism, and patriarchal authority, though also as a space of intensified surveillance and control"; social media, influencer culture and digital activism are "arenas where visibility, self-branding, and affect are central". I test the diagnosis through Haraway's situated knowledge and Foucault's panoptic gaze, with supplementary readings from Berger, hooks and Kember.
+
+The infrastructure thesis names a shift in scale and function. Representational systems display images; infrastructures organise the conditions through which images are made, circulated and consumed. To say media are infrastructures is to say they have moved from the foreground of culture to its background, while continuing to shape the foreground.
+
+Foucault's panoptic gaze illuminates the surveillance face of the infrastructure (cross-link to L7). "Visibility is a trap" (Foucault, 1977: 200). The disciplinary gaze "produces a way of seeing ... a way of distributing light" (Foucault, 1977: 316) and "has infiltrated the others ... making it possible to bring the effects of power to the most minute and distant elements". The contemporary infrastructure of digital media instantiates the diagram. The user is continuously seeable to platforms and to other users; the platforms' actual operation is "visible and unverifiable" in Bentham's sense. The user behaves as if always watched. Instagram filters, Snapchat dysmorphia and TikTok aesthetics intensify Berger's surveyor inside the user: "she has been taught and persuaded to survey herself continually" (Berger, 1972: 46). The cyberfeminist line about "intensified surveillance and control" is the panoptic principle on platform scale. Facial recognition systems extend the same logic into public space; deepfakes radicalise the question of what counts as visible evidence.
+
+Haraway gives the situated-knowledge frame. "The god-trick of seeing everything from nowhere" (Haraway, 1991: 189) is performed by the platform algorithm: the recommendation engine appears as neutral sorter while in fact operating "the subjective view of the dominant (unmarked) group, passed off as universal". The "For You" page is presented as a personal feed and operates as a population-level apparatus. "Knowledge that is un-locatable is also knowledge that is irresponsible"; the algorithm refuses to disclose its location. Haraway's positive injunction, "we might become answerable for what we learn how to see" (Haraway, 1991: 190), is the demand the cyberfeminist diagnosis presses against platform capitalism. "It matters what ideas we use to think other ideas (with)" (Haraway, 2016: 12); the categories built into recommendation engines are themselves consequential.
+
+The cyberfeminist tradition argues digital infrastructures are also sites of disruption. Hartsock's labour-historical reading of standpoint (cross-link to L6) sharpens the point: an oppositional standpoint built from within the platform is "an achievement won from political struggle" (Hartsock, 1983), not a spontaneous gift of digital connectivity. The infrastructure trains the user; the user can also train counter-practices into the infrastructure.
+
+hooks's oppositional gaze translates into digital cultural production. "I want my look to change reality" (hooks, 1992: 116). Beyoncé's *Lemonade* visual album demonstrates that distribution can serve oppositional vision. The Met Gala is the spectacular fashion instance; the infrastructure circulates the look back. But the look back is conditioned by the infrastructure that circulates it.
+
+Kember anchors the gendered case. "The body of the woman exists only as a vehicle for scientific information" (Kember, 1998); platform algorithms operate the analogous logic: the user becomes vehicle for engagement data. Influencer culture intensifies the surveyor/surveyed split into a continuous performance of self for distributed spectators.
+
+Schroeder's structural statement holds. "To gaze ... signifies a ... relation of power, in which the gazer is superior to the object of the gaze" (Schroeder, 1998). The platform is gazer; the user is the object whose attention, affect and behaviour are extracted as data.
+
+Critical limits. The infrastructure thesis can over-determine the user as captured subject; counter-practices are real, as the oppositional gaze and Berger's pedagogy of demystification show. The thesis can also flatten differences between platforms; surveillance on a dating app is not the same as surveillance on a search engine. The thesis can romanticise the disruptive potential of cyberspace; Haraway's cyborg politics already rejected utopianism.
+
+The cyberfeminist diagnosis is largely defensible. Contemporary media are infrastructural; the infrastructure performs Foucault's panoptic distribution of light and Haraway's god trick at platform scale. Counter-practices exist but are not automatic. Sociology's task is to make the infrastructure visible as an apparatus of vision, knowledge and power.
+
+### Mock 8 - "Men act and women appear" (Berger). Discuss.
 
 Berger's aphorism, "Men act and women appear" (Berger, 1972: 47), is the most compressed statement in modern visual sociology of how gender hierarchies are reproduced through looking. I unpack the line, place it against Mulvey and hooks, test it against the lecture's exhibits and weigh objections.
 
@@ -157,7 +344,7 @@ There are objections. First, Berger universalises from European oil painting; he
 
 Despite the complications, the core diagnosis holds. The surveyor/surveyed split, anchored from the medieval Adam-and-Eve cycles through Mabuse and Slevogt to Bronzino and Lely, is reproduced through Berger's conventions. The aphorism remains the indispensable starting point for analysing gendered vision, provided we situate it racially with hooks, cinematically with Mulvey and institutionally with Foucault and Kember. To take the line seriously is to refuse the convention by which one half of humanity acts and the other half merely appears.
 
-### Mock 2 - Critically assess Berger's argument in *Ways of Seeing*.
+### Mock 9 - Critically assess Berger's argument in *Ways of Seeing*.
 
 Berger's *Ways of Seeing* (1972) is the foundational text. I assess its argument on its own terms and through Mulvey, hooks, Foucault and Haraway. The book is extraordinarily rich on the surveyor/surveyed split, on photographic reproduction and on the politics of taste, but needs supplementation on race, institutional vision and method.
 
@@ -175,7 +362,7 @@ Critical limits. The surveyor/surveyed split assumes a unified European traditio
 
 Despite these limits, *Ways of Seeing* remains the indispensable handbook for the sociology of vision. It named, with precision and concrete visual evidence, the conventions by which the European visual order produces gendered, classed knowledge. Its critical lesson, refuse the apparent innocence of images, expose the conventions, ask whose look is encoded, remains the analytic the field requires.
 
-### Mock 3 - What does Haraway mean by the god trick, and why does she treat it as the central failure of Western epistemology?
+### Mock 10 - What does Haraway mean by the god trick, and why does she treat it as the central failure of Western epistemology?
 
 Two questions follow. What does Haraway mean by "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189)? Why does she treat it as the central failure of Western epistemology? I take the parts in turn, then sketch the positive programme.
 
@@ -195,7 +382,7 @@ Critical limits. Haraway's framework can be misread as licensing identitarian cl
 
 The diagnosis holds. The god trick is the central failure because it is the foundation move on which other epistemic violences depend. To refuse the trick is to begin sociology properly: as a discipline that knows where it stands, that names its instruments, that owns its standpoint.
 
-### Mock 4 - Compare Mulvey's male gaze with hooks's oppositional gaze.
+### Mock 11 - Compare Mulvey's male gaze with hooks's oppositional gaze.
 
 Mulvey and hooks both write about cinema and looking, and both treat the screen as a site where power is exercised through visual conventions. I compare them on five axes and argue hooks does not refute Mulvey but racialises her diagnosis and supplies the resistance her account lacked.
 
@@ -213,7 +400,7 @@ Critical points. Mulvey's account has been faulted for heterosexism, psychoanaly
 
 Conclusion. Mulvey gives the diagnostic vocabulary; hooks racialises the diagnosis and supplies the politics of refusal. Read together, they show mainstream cinema operates a heterosexual white male gaze, that this gaze is internalised but contestable, and that the oppositional gaze names vision that refuses to be captured. The sociology of cinematic vision needs both, read through Berger, Schroeder, Foucault and Haraway.
 
-### Mock 5 - How does the panoptic gaze help us understand contemporary regimes of visibility?
+### Mock 12 - How does the panoptic gaze help us understand contemporary regimes of visibility?
 
 Foucault's panoptic gaze is the most influential analysis of vision in modern sociology. I argue it remains indispensable for understanding contemporary regimes of visibility, drawing from *Discipline and Punish* through Berger, Kember, hooks and Haraway.
 
@@ -239,7 +426,7 @@ Critical limits. Foucault's panopticon imagined one central watcher; contemporar
 
 Foucault nonetheless remains indispensable. "Visibility is a trap" is the founding diagnosis. Read alongside Berger, hooks, Kember and Haraway, the panoptic gaze is the analytic the contemporary visual order requires.
 
-### Mock 6 - Is the gaze possession or recognition? Discuss.
+### Mock 13 - Is the gaze possession or recognition? Discuss.
 
 The disjunctive maps two tendencies. The "gaze as possession" tendency runs through Schroeder, Berger, Mulvey and Foucault: to gaze is to claim, classify, dominate. The "gaze as recognition" tendency runs through hooks and Haraway: to look back, to acknowledge one's position. I argue the disjunctive is real but not exclusive (the same act of looking can be both) and that sociology's task is to map when looking tips one way or the other.
 
@@ -261,7 +448,7 @@ Critical limits. The opposition can become moralistic (possession bad, recogniti
 
 The gaze is both possession and recognition, never one without the trace of the other. Sociology's task is to map the gradient: which institutions and technologies tip looking toward possession, and which open the possibility of a look that wants to change reality.
 
-### Mock 7 - Mercator, Gall-Peters and the cartography of empire.
+### Mock 14 - Mercator, Gall-Peters and the cartography of empire.
 
 The map is one of the oldest visual technologies of empire. I treat Mercator and Gall-Peters not as alternative projections of "the same" world but as cartographic arguments about what kind of world the viewer should imagine, and show how the contrast lights up the wider relation between vision, power and knowledge.
 
@@ -285,7 +472,7 @@ Critical limits. The Mercator/Gall-Peters opposition can be misread as a contest
 
 Mercator and Gall-Peters together make the lecture's central claim concrete. Cartography is a technology of vision; the imperial gaze used it to inflate the centre and miniaturise the periphery; the counter-gaze reorganises proportions and orientations. The sociological reading of any map asks who drew it, for whom, with what projection, against what alternatives, and to what effect.
 
-### Mock 8 - Does Berger's claim that "seeing comes before words" still hold?
+### Mock 15 - Does Berger's claim that "seeing comes before words" still hold?
 
 Berger opens *Ways of Seeing* with "seeing comes before words. The child looks and recognizes before it can speak" (Berger, 1972: 7). I test the claim against the lecture's theorists and the visual regimes the course examines. The claim holds, read as Berger meant it (developmental, phenomenological and epistemic) rather than as metaphysical priority.
 
@@ -307,7 +494,7 @@ Critical complications. Vision is not innocent of mediation. The point is not th
 
 Berger's claim holds. Seeing comes before words; the relation between what we see and what we know is never settled. The political question is which words we then have, and that is what Mulvey, hooks, Foucault, Kember and Haraway answer.
 
-### Mock 9 - How convincing do you find Mulvey's claim that mainstream cinema operates a heterosexual male gaze?
+### Mock 16 - How convincing do you find Mulvey's claim that mainstream cinema operates a heterosexual male gaze?
 
 Mulvey's 1975 essay "Visual Pleasure and Narrative Cinema" introduced the concept that has organised feminist film criticism for half a century. Classical Hollywood cinema operates a heterosexual male gaze: the camera is positioned as male spectator, the woman as object of looking, narrative identification routed through the male protagonist. I assess the claim on three axes (theoretical machinery, relation to Berger, links to the wider lecture) and conclude it remains substantially convincing while requiring qualification by hooks, Foucault and Haraway.
 
@@ -329,7 +516,7 @@ Critical limits. The male gaze on its own struggles with three categories. First
 
 I find Mulvey substantially convincing for mainstream cinema's default mode, requiring qualification by hooks on race, Berger on the wider European tradition, Foucault on non-cinematic disciplinary gazes, and Haraway on reflexivity. The heterosexual male gaze is not the only gaze in visual culture; it remains a structuring default the lecture's other theorists confirm and complicate.
 
-### Mock 10 - Discuss the politics of the medical gaze, with reference to Kember's *Virtual Anxiety*.
+### Mock 17 - Discuss the politics of the medical gaze, with reference to Kember's *Virtual Anxiety*.
 
 Sarah Kember's *Virtual Anxiety* (Kember, 1998) is the lecture's anchor text on medical imaging and the female body. Her central claim is that contemporary obstetric ultrasound "eliminates the mother's body from view" so that "the body of the woman exists only as a vehicle for scientific information." I take Kember's claim as the starting point, locate it in Foucault's disciplinary vision, extend it through Haraway, Berger and hooks, and consider critical limits.
 
@@ -349,7 +536,7 @@ Critical limits. Kember's analysis can be read deterministically. In practice, m
 
 The medical gaze remains one of the densest sites where vision, power and knowledge intersect. Kember named the contemporary form; Foucault gave the analytic; Berger and hooks supplied the gendered and racial dimensions; Haraway gave the epistemological frame. Sociology's task is to render the medical gaze accountable: situated, attentive to the body the imaging technology makes invisible, answerable for what it learns how to see.
 
-### Mock 11 - Using at least two authors, evaluate whether the male gaze has fragmented in modern visual culture.
+### Mock 18 - Using at least two authors, evaluate whether the male gaze has fragmented in modern visual culture.
 
 I argue the male gaze as Mulvey and Berger described it has been multiplied across new exhibits and supplemented by competing scopic regimes, but the core mechanism (surveyor/surveyed split, woman as appearing object, spectator as superior gazer) persists. I evaluate through Mulvey and Berger, with hooks, Foucault and Haraway as supplementary voices.
 
@@ -377,7 +564,7 @@ Critical limits. The "fragmentation" thesis can over-egg the dispersal: the unde
 
 The male gaze has been multiplied across visual regimes but not dissolved. Mulvey's mechanism survives in altered form. Berger's surveyor inside the woman persists. hooks's racial supplement remains necessary. Foucault's institutional inventory expands the field. Sociology's reading of any visual order must ask: whose look is encoded, what scopic regime is operating, what alternatives are situated alongside? The male gaze has not been dissolved; it has been situated among its siblings.
 
-### Mock 12 - Can a vision be sociological without being political?
+### Mock 19 - Can a vision be sociological without being political?
 
 The question asks whether a sociologically valid account of vision can be politically neutral. My answer is that the political is constitutive (not as ideology but as the situatedness of every act of looking) and that "neutral" sociology of vision is a contradiction in terms. I argue through Haraway, Foucault, Berger and hooks, then defend against the objection that the position collapses into advocacy.
 
@@ -403,7 +590,7 @@ Critical limits. The position can over-politicise: not every visual choice is co
 
 A vision cannot be sociological without being political, because sociological vision is constitutively positioned. The question is not whether to have a politics but whether to have one openly. Haraway's answerability, Foucault's disclosure, Berger's demystification and hooks's oppositional naming are the modes by which sociology of vision becomes political and rigorous.
 
-### Mock 13 - "Visibility is a trap" (Foucault). Discuss.
+### Mock 20 - "Visibility is a trap" (Foucault). Discuss.
 
 Foucault's epigram "visibility is a trap" (Foucault, 1977: 200) named the mechanism of the Panopticon. I argue the epigram organises the lecture's account of vision more broadly: it names the panoptic gaze itself but also reads forward into Berger, Kember, hooks and Haraway.
 
@@ -423,7 +610,7 @@ Critical limits. Foucault may overstate compliance. Counter-practices abound: ho
 
 The epigram holds. "Visibility is a trap" reads through the panopticon, the surveyor inside the woman, the obstetric ultrasound, the colonial exposition and the cartographic projection. Foucault's diagnosis is the lecture's most compressed claim: vision distributes power, and the distribution is asymmetric.
 
-### Mock 14 - How does the imperial gaze of the nineteenth-century Human Zoos help us read modernity's visual order?
+### Mock 21 - How does the imperial gaze of the nineteenth-century Human Zoos help us read modernity's visual order?
 
 The lecture pairs the Mercator Projection with Human Zoos to make a single argument: modernity's visual order is constitutively imperial. I argue the Human Zoos at nineteenth- and early-twentieth-century European and US expositions are not a footnote but the imperial gaze made spectacular, and that Foucault, Berger, hooks and Haraway help us read it.
 
@@ -447,7 +634,7 @@ Critical limits. The continuity argument can flatten differences. The Human Zoo 
 
 The imperial gaze has not been dismantled by the end of the Human Zoos; it has been reorganised. The lecture's juxtaposition tells us the visual order of modernity is constitutively imperial, that the post-imperial counter-gazes (Gall-Peters, oppositional gaze, situated knowledge) are necessary, and that the sociological reading of any contemporary visual order must ask what kind of imperial gaze it inherits.
 
-### Mock 15 - Counter-currents to the male gaze: hooks, Haraway and the limits of refusal.
+### Mock 22 - Counter-currents to the male gaze: hooks, Haraway and the limits of refusal.
 
 I argue hooks's oppositional gaze and Haraway's situated knowledge name the principal counter-currents to the male gaze, that they presuppose rather than refute the gaze they contest, and that the limits of refusal sharpen rather than weaken the sociological reading.
 

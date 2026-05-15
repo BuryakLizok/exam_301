@@ -166,20 +166,47 @@ There are **no past-year questions specifically on Gramsci and Hegemony in the 2
 
 ---
 
-## §7. Mock Exam Questions (12)
+## §7. Mock Exam Questions (19)
 
-1. "Power = coercion + hegemony." Critically discuss with reference to Gramsci.
-2. Why did the turn to Gramsci displace both Frankfurt School pessimism and structuralist analysis of popular culture? Answer with reference to Bennett.
-3. What does Gramsci mean by civil society, and why does he treat it as the principal terrain of struggle in advanced capitalist societies?
-4. How does Gramsci's distinction between common sense and good sense help us analyse contemporary media?
-5. "Hegemony is generated from below, not imposed from above." Discuss with concrete examples.
-6. Evaluate the claim that media professionals are organic intellectuals. Use specific contemporary examples.
-7. "Common sense is the central battleground of contemporary politics." Discuss with reference to the conjunctural crisis described in Williams and Gilbert's *Hegemony Now*.
-8. How does Stuart Hall extend Gramsci's framework to race? Answer with reference to *Policing the Crisis* and 'The Whites of Their Eyes'.
-9. Compare the war of manoeuvre and the war of position. Which better captures contemporary left strategy, and why?
-10. To what extent does Williams and Gilbert's *Hegemony Now* update Gramsci for the era of platform capitalism?
-11. "Subcultures and fandoms are counter-hegemonic only until they are commodified." Discuss.
-12. Is Gramsci's framework still useful for analysing digital media, or does the algorithmic platform require a different theory of power?
+**Note:** Mocks M1–M7 below are slide-recipe composites, each built directly from a Lecture 17 slide title or a heading in the teacher's *Gramsci and the turn to hegemony* summary, with vocabulary tracked back to specific bullets. They are designed to mirror the patterns the lecturer and teacher have already foregrounded in their own framings. Mocks M8–M19 are the existing prompts (formerly M1–M12), renumbered.
+
+**M1.** "A social group can, and indeed must, exercise 'leadership' before winning government power … even if it holds it firmly in its grasp, it must continue to 'lead' as well" (Gramsci, *Prison Notebooks*: 57–8). Discuss Gramsci's distinction between domination and intellectual and moral leadership, and explain why a ruling group must lead before, during and after taking power.
+
+**M2.** "Hegemony involves the more or less active consent of large sections of the population" and is "not something imposed on society from above so much as generated from below" (Lecture 17 slides). To what extent does this Gramscian account of consent depart from the dominant ideology thesis, and what does it mean to say that hegemony "must be continuously produced and renewed"?
+
+**M3.** "Are the Media the Principal Instruments of Hegemony?" (Lecture 17 slides). Discuss with reference to Gramsci's account of the means of mental production, the role of media in civil society, and the claim that "the nuts and bolts of social knowledge are put together and adjusted by people in ordinary practical activities".
+
+**M4.** "Civil society is the social space which both distances us from and connects us to the State … the key place where ideas and practical behaviours are directly knitted together" (Lecture 17 slides). Using Gramsci's distinction between political society and civil society, discuss why he treats civil society as the principal terrain of hegemonic struggle in advanced capitalist societies.
+
+**M5.** "Common sense is the everyday, taken-for-granted set of beliefs through which people understand the world … historically produced, often contradictory, and shaped by dominant groups" (Lecture 17 slides; teacher summary). Discuss the conceptual pair of common sense and good sense, and explain how it helps a Gramscian analyst read contemporary popular culture.
+
+**M6.** "Media professionals (journalists, editors, cultural producers) can function as organic intellectuals by shaping narratives, values, and social norms" (Lecture 17 slides; teacher summary). Discuss Gramsci's distinction between traditional and organic intellectuals, with reference to media institutions and cultural production.
+
+**M7.** "A war of position refers to a long-term struggle within civil society to reshape culture, values, and common sense" (Lecture 17 slides). Drawing on Hall's reading of encoding/decoding as "hegemony and counter-hegemony" (Lecture 17 slides), discuss the war of position as the dominant strategic horizon for cultural politics in advanced capitalist societies.
+
+**M8.** "Power = coercion + hegemony." Critically discuss with reference to Gramsci.
+
+**M9.** Why did the turn to Gramsci displace both Frankfurt School pessimism and structuralist analysis of popular culture? Answer with reference to Bennett.
+
+**M10.** What does Gramsci mean by civil society, and why does he treat it as the principal terrain of struggle in advanced capitalist societies?
+
+**M11.** How does Gramsci's distinction between common sense and good sense help us analyse contemporary media?
+
+**M12.** "Hegemony is generated from below, not imposed from above." Discuss with concrete examples.
+
+**M13.** Evaluate the claim that media professionals are organic intellectuals. Use specific contemporary examples.
+
+**M14.** "Common sense is the central battleground of contemporary politics." Discuss with reference to the conjunctural crisis described in Williams and Gilbert's *Hegemony Now*.
+
+**M15.** How does Stuart Hall extend Gramsci's framework to race? Answer with reference to *Policing the Crisis* and 'The Whites of Their Eyes'.
+
+**M16.** Compare the war of manoeuvre and the war of position. Which better captures contemporary left strategy, and why?
+
+**M17.** To what extent does Williams and Gilbert's *Hegemony Now* update Gramsci for the era of platform capitalism?
+
+**M18.** "Subcultures and fandoms are counter-hegemonic only until they are commodified." Discuss.
+
+**M19.** Is Gramsci's framework still useful for analysing digital media, or does the algorithmic platform require a different theory of power?
 
 ---
 
@@ -187,7 +214,153 @@ There are **no past-year questions specifically on Gramsci and Hegemony in the 2
 
 ---
 
-### Essay 1. "Power = coercion + hegemony." Critically discuss with reference to Gramsci.
+### Essay M1. "A social group can, and indeed must, exercise 'leadership' before winning government power … even if it holds it firmly in its grasp, it must continue to 'lead' as well" (Gramsci, *Prison Notebooks*: 57–8). Discuss Gramsci's distinction between domination and intellectual and moral leadership, and explain why a ruling group must lead before, during and after taking power.
+
+Gramsci's claim in the General Idea of Hegemony section of the *Prison Notebooks* compresses the conceptual revolution that defines L17. Power, in advanced capitalist societies, is composed of two interlocking modalities: domination and intellectual and moral leadership. The slide quotation makes the temporal sequence explicit. Leadership is required before government power can be won, leadership is sustained while power is held, and the failure of leadership precipitates the unravelling of domination itself. The argument transforms classical Marxism by inserting cultural and ethical work into the very definition of class rule.
+
+The opening move is the redefinition of supremacy. Gramsci writes that "the supremacy of a social group manifests itself in two ways, as 'domination' and as 'intellectual and moral leadership'" (Gramsci, 1971: 57). Domination is exercised over antagonistic groups, sometimes by armed force, while leadership is exercised over kindred and allied groups. These are not alternatives but two faces of one apparatus. The slide on Hegemony and Consent crystallises this as the equation "Power = coercion + hegemony" (Lecture 17 slides). Coercion remains real: police, courts and the military operate. But under settled conditions they recede into the background, activated only when leadership falters.
+
+The temporal claim is the most striking part. A group "can, and indeed must, exercise 'leadership' before winning government power" (Gramsci, 1971: 57). Hegemony is therefore a condition for state power, not merely a consequence of it. The bourgeoisie did not seize the modern state by frontal assault on a feudal apparatus; it first organised cultural, moral and intellectual leadership across the institutions of civil society, in literary academies, newspapers, professional associations, religious reform, and only then assumed political command. The teacher's summary captures this when it notes that hegemony "must be continuously produced and renewed" (GramsciandHegemony teacher summary). Renewal is not optional maintenance; it is the work that keeps the bloc intact.
+
+The second temporal move is just as important. Once a group "becomes dominant", Gramsci insists, "it must continue to 'lead' as well" (Gramsci, 1971: 58). The ruling class does not get to stop leading once it has won. This is why the lecturer pairs the slide quotation with the equation "Power = coercion + hegemony" (Lecture 17 slides) rather than "Power = coercion or hegemony". The two terms operate simultaneously and in proportion to the conjuncture. Where leadership is strong, coercion is muted. Where leadership weakens, coercion comes forward, and visible coercion is itself a sign of hegemonic crisis.
+
+Bennett's reading sharpens the analytical payoff. For Gramsci, the cultural and ideological relations between ruling and subordinate classes "consist less in the *domination* of the latter by the former than in the struggle for *hegemony*, that is, for moral, cultural, intellectual and, thereby, political leadership over the whole of society" (Bennett, 1986: xiv). The thereby is the key word. Political leadership *follows* moral, cultural and intellectual leadership. The terrain on which politics is decided is the terrain of common sense.
+
+What kinds of practices count as leadership? The lecture lists schools, churches, families, newspapers, advertising and broadcasting. The teacher's summary adds that "newspapers, films, television, education, and everyday language all play a role in shaping how people understand the world" (GramsciandHegemony teacher summary). These are not afterthoughts to economic struggle but the texture in which class projects either secure consent or lose it. Reality television's celebration of entrepreneurial selfhood, the cultural prestige of business-influencer formats and the everyday idiom of self-help and aspiration are the daily reproduction of a leadership claim by the dominant bloc.
+
+The model has cross-lecture links. Where the Frankfurt School (L12) presents the culture industry as imposing dominant ideology from above, Gramsci foregrounds active consent generated from below. Where Habermas (L13) idealises the bourgeois public sphere as a domain of rational-critical debate, Gramsci sees the same institutional terrain as already saturated with leadership work. Where Williams (L14) describes culture as ordinary, Gramsci shows why that ordinariness is politically loaded: it is the medium of hegemonic articulation.
+
+The strategic implication is significant. Counter-hegemonic projects cannot simply seek state power; they must first do the long work of moral, cultural and intellectual leadership in civil society. Hall's later reading of the political right's hegemonic success in the 1980s confirms the inverse case: a project that does this work patiently wins durably (Hall, 1988: 6). Leadership is the longest game, but the only game that secures durable transformation.
+
+[Word count: ~725]
+
+---
+
+### Essay M2. "Hegemony involves the more or less active consent of large sections of the population" and is "not something imposed on society from above so much as generated from below" (Lecture 17 slides). To what extent does this Gramscian account of consent depart from the dominant ideology thesis, and what does it mean to say that hegemony "must be continuously produced and renewed"?
+
+The Hegemony and Consent slide compresses two claims that, taken together, mark the most decisive break in twentieth-century Marxist theory of culture. First, hegemony is not the imposition of a coherent ideology on a passive population but a process of negotiation that requires the active consent of large social blocs. Second, this consent is generated from below as much as from above, drawn from materials already circulating in everyday life. The slide's bullet that hegemony "must be continuously produced and renewed" (Lecture 17 slides; teacher summary) makes the point dynamic: hegemony is always a project in motion, never a finished settlement.
+
+The departure from the dominant ideology thesis is sharp. As Bennett summarises the orthodoxy Gramsci breaks with, "the sphere of cultural and ideological practices [is] governed by a dominant ideology, essentially and monolithically bourgeois in its characteristics, which, albeit with varying degrees of success, is imposed from without, as an alien force, on the subordinate classes" (Bennett, 1986: xiii). On that older model, ruling ideas descend from a unified ruling class onto a recipient population. The role of cultural analysis is to expose the obfuscation. The political subject of the model is the analyst.
+
+Gramsci dismantles this picture in three steps. First, hegemony is not an ideology. The slide is precise: hegemony "does not designate a particular ideology or even the ruling ideas in society but rather a process of management and administration" (Lecture 17 slides). The shift from system of ideas to process of administration is critical. Hegemonic work happens in routines, institutional practices, classroom drills, news bulletins, family dinners and now in algorithmic feeds. It is not a doctrine; it is a daily craft.
+
+Second, hegemony works through inclusion. The slide contrasts the two logics: "The idea of the dominant ideology is one of exclusion (it excludes and suppresses all opposition). Hegemony, on the other hand, involves processes of inclusion" (Lecture 17 slides). Hegemonic projects must offer something. Bennett puts the implication directly: bourgeois hegemony "is secured not via the obliteration of working class culture, but via its *articulation to* bourgeois culture and ideology so that, in being associated with and expressed in the forms of the latter, its political affiliations are altered in the process" (Bennett, 1986: xiv–xv). Welfare provisions, anti-discrimination law, partial cultural recognition: these are hegemonic instruments, not capitulations.
+
+Third, hegemony is generated from below as much as from above. The slide formulates this as a polemic against top-down imposition: "Hegemony is not something imposed on society from above so much as generated from below" (Lecture 17 slides). This must be read carefully. It does not mean hegemonic projects are spontaneous expressions of popular will. It means they are *assembled* out of materials already circulating in popular common sense. Williams and Gilbert give the contemporary specification: a hegemonic bloc forms when shared material interests are organised "across different sectors of society", drawing on dispositions encouraged across schools, reality television and influencer cultures (Williams & Gilbert, 2022: 6). These are good-sense kernels recoded for political ends.
+
+What does it mean to say hegemony "must be continuously produced and renewed" (Lecture 17 slides)? Three things. First, that hegemonic settlements are temporally vulnerable. The "long 1990s" of Clinton and Blair held together because the everyday cultural work of consolidation went on continuously; the post-2016 conjuncture, what Gramsci would call an interregnum (Williams & Gilbert, 2022: 1), is the moment when renewal falters. Second, that hegemony is performative. The bloc must keep performing leadership through media, education and culture; the moment performance stops, consent erodes. The slide's bullet that hegemony is "a process of negotiation or compromise on the part of the ruling elites" (Lecture 17 slides) makes the performance two-sided. Third, that opposition is permanent. Active consent is "more or less active" (Lecture 17 slides), which is to say it always shades into half-consent, withdrawal and oppositional articulation. Williams and Gilbert's account of "passive consent" (Williams & Gilbert, 2022: 5) registers the lower end of this spectrum, where consent becomes cynical resignation.
+
+Cross-links. The continuous-renewal claim contrasts with Adorno's culture-industry thesis (L12), which presents consent as already accomplished by the industrial form. It pairs with Hall's encoding/decoding (L15), where the preferred reading must be continuously encoded across texts. The dominant ideology thesis treated culture as a finished product. Gramsci treats it as a daily practice.
+
+[Word count: ~720]
+
+---
+
+### Essay M3. "Are the Media the Principal Instruments of Hegemony?" (Lecture 17 slides). Discuss with reference to Gramsci's account of the means of mental production, the role of media in civil society, and the claim that "the nuts and bolts of social knowledge are put together and adjusted by people in ordinary practical activities".
+
+The slide question, "Are the Media the Principal Instruments of Hegemony?" (Lecture 17 slides), is deliberately framed as a question rather than a thesis. The lecturer's answer, structured across the same slide, is a qualified yes that immediately widens the field. Media matter, but they are nodes within a far wider ecology of civil-society institutions and ordinary practical activities, and their work is precisely to mobilise frameworks of thought that are largely generated elsewhere. The Gramscian payoff is that media analysis must be embedded in an analysis of civil society as a whole.
+
+The slide marshals three propositions in sequence. The first is the Marxist starting point: "the class which has the means of material production at its disposal, has control at the same time over the means of mental production" (Lecture 17 slides). Ownership of the means of mental production (publishing houses, broadcasters, platforms) gives the dominant bloc structural advantage in shaping what circulates as common sense. The second is a corrective: "The media mobilise and apply frameworks of thought, ideologies if you like, which are largely generated and maintained outside them" (Lecture 17 slides). Newsrooms, editors and producers do not invent the frameworks they apply. They draw on a wider ideological field formed in education, family life, popular memory and political discourse. The third widens the conceptual field: "What Marx calls the 'means of mental production' are a far wider and more varied set of institutions and activities than those of the national media" (Lecture 17 slides). The slide closes by relocating the central work in everyday life: "The nuts and bolts of social knowledge are put together and adjusted by people in ordinary practical activities, or what Gramsci called 'civil society'" (Lecture 17 slides).
+
+Several conclusions follow. First, the answer to the slide's question is no when read narrowly. Media are not the principal instruments of hegemony if "principal" means sole or even predominant. The teacher's summary makes the point in slightly different language: "Newspapers, films, television, education, and everyday language all play a role in shaping how people understand the world" (GramsciandHegemony teacher summary). Education and everyday language are co-equal sites with media. The dinner table, the playground and the workplace canteen are sites of hegemonic work. The schoolroom is the textbook example.
+
+Second, the answer is a qualified yes in a more important sense. Media institutions are the central *mobilisers* and *applicators* of frameworks generated across civil society. They aggregate and circulate hegemonic common sense. The lecturer's slide on Media as a Site of Hegemonic Struggle makes the mechanism clear: "media does not simply transmit information; it constructs reality through framing, representation, and repetition" (Lecture 17 slides). Framing selects which structural causes are admitted, representation determines who appears as agent or problem, and repetition embeds the framing as second nature. The slide gives a paradigm example: "Media normalises particular explanations of social issues (e.g. individual responsibility over structural causes), helping to stabilise hegemonic common sense while managing dissent within acceptable limits" (Lecture 17 slides).
+
+Third, the formulation respects civil-society plurality. The slide on Hegemony as a Political Process of Social Management adds the institutional point: "All the public institutions of civil society are engaged in developing and managing the part of world with which they're concerned" (Lecture 17 slides). Schools manage curricular common sense, religious institutions manage moral common sense, professional bodies manage occupational common sense, and broadcasters manage news common sense. The job of hegemonic analysis is to map the joints between these.
+
+The Bennett reading adds a methodological caution. The Gramscian framework is at its best when it shows that "cultural elements have no fixed class-belongingness" and that articulations are "movable" (Bennett, 1986: xvi). A media artefact is not hegemonic in itself; it becomes hegemonic when articulated to a particular bloc's interests, and can be re-articulated by counter-hegemonic projects. Hall's encoding/decoding model (L15) supplies the operational diagram: producers encode preferred meanings, but reception admits "negotiated" and "oppositional" decodings (Hall, 1980: 134), and the diagram in the L17 slides explicitly flags both "counter-hegemonic representations" and "counter-hegemonic readings" (Lecture 17 slides).
+
+The cross-lecture register matters. Where Adorno and Horkheimer (L12) treat the culture industry as the principal instrument of consent, Gramsci redistributes that work across civil society. The L14 reading of Williams's "culture is ordinary" (Williams, 1958: 4) maps onto Gramsci's claim about ordinary practical activities directly. Media matter, but Gramsci insists on a wider angle.
+
+[Word count: ~730]
+
+---
+
+### Essay M4. "Civil society is the social space which both distances us from and connects us to the State … the key place where ideas and practical behaviours are directly knitted together" (Lecture 17 slides). Using Gramsci's distinction between political society and civil society, discuss why he treats civil society as the principal terrain of hegemonic struggle in advanced capitalist societies.
+
+The Hegemony and Civil Society slide gives a definition that is at once topographical and operational. Civil society is a space (it has a location) and a process (it is where ideas and practical behaviours are knitted together). The double character is the reason Gramsci's distinction between political society and civil society reorganises Marxist theory of the state, and it is also the reason advanced capitalist societies cannot be transformed by frontal assault on state power alone. The seat of hegemony is in the texture of everyday life.
+
+The slide on Political society and civil society sets the structural distinction. "Political society includes the state, law, police, courts, and military, and operates mainly through coercion. Civil society includes media, education, religion, family, and culture, and operates through persuasion and consent" (Lecture 17 slides). Together they form what Gramsci calls the integral state. Crucially the slide adds: "Media is located primarily in civil society and plays a key role in sustaining hegemony" (Lecture 17 slides). Civil society is therefore not the apolitical opposite of the state, as in liberal theory, but the medium through which the state, broadly understood, lives.
+
+What kind of space is civil society? The lecturer's slide is unusually evocative: "Civil society is where we live: it's where we behave as members of families and of local communities, where we work and relax, where we engage in social celebrations like a Millennium street party or social protests" (Lecture 17 slides). The texture is everyday. The Millennium street party is no accident: it stands for the ordinary social rituals through which hegemony is reproduced and, occasionally, contested. The slide goes further: civil society is "the key place where ideas and practical behaviours are directly knitted together" (Lecture 17 slides). This is the operational definition. Ideas are not pure mental contents; they are embedded in routines, in greetings, in work practices, in queues, in commutes. Hegemony lives in these knots.
+
+The third bullet on the slide is the structural one: civil society is "the social space which both distances us from and connects us to the State" (Lecture 17 slides). The double function matters. Civil society creates an apparent autonomy from the state (we are not at the office of government when we watch television) and at the same time integrates us into its broader regime of legitimation (the broadcaster's framings carry the state's project into the living room). This is precisely why frontal assault on state power leaves hegemony intact. Tear down a government and the broadcasters, schools, churches and family idioms continue to reproduce the bloc's leadership.
+
+Why is civil society the principal terrain of hegemonic struggle in advanced capitalist societies? Gramsci's historical argument is comparative. In societies where civil society is thin, the state is everything; the war of manoeuvre, the frontal assault, can decide things. In advanced capitalist societies civil society is dense: schools, professional bodies, churches, broadcasters, publishing houses, sporting institutions, charitable foundations, platform companies. This density absorbs shocks. Hegemonic settlements survive electoral defeats because the institutional ecology continues to ventriloquise the bloc's common sense. The lecturer's slide on the War of Position draws the strategic conclusion explicitly: "social change in advanced capitalist societies requires sustained cultural and ideological struggle, particularly through media, education, and popular culture" (Lecture 17 slides).
+
+Three implications follow. First, civil society is administrative. "All the public institutions of civil society are engaged in developing and managing the part of world with which they're concerned" (Lecture 17 slides). Hegemony is the sum of these managements. Second, civil society is the home of organic intellectuals who codify practical experience. The slide notes that "the social group who carry out these types of activities are organic intellectuals" (Lecture 17 slides). Civil society's leadership is performed by teachers, journalists, podcasters, religious figures and now influencers. Third, civil society is the privileged site of counter-hegemony. Subcultures, fandoms and oppositional movements all operate from within civil society, not against it from outside. The slide on Subcultures notes that they "resist cooption into society through ritual and style" (Lecture 17 slides), an internal opposition.
+
+Cross-links. The framing differs from Habermas's idealised public sphere (L13), which treats civil society as a rational-critical space external to power; Gramsci sees it as already saturated with hegemonic struggle. It pairs with Williams's structures of feeling (L14): the affective texture of civil society is part of how hegemony is felt. And it sets up the *Hegemony Now* claim that platforms have become a new civil-society layer (Williams & Gilbert, 2022: 5).
+
+[Word count: ~745]
+
+---
+
+### Essay M5. "Common sense is the everyday, taken-for-granted set of beliefs through which people understand the world … historically produced, often contradictory, and shaped by dominant groups" (Lecture 17 slides; teacher summary). Discuss the conceptual pair of common sense and good sense, and explain how it helps a Gramscian analyst read contemporary popular culture.
+
+The Common Sense and Good Sense slide presents a conceptual pair that does more analytical work than almost any other in Gramsci's repertoire. Its power lies in refusing both elite condescension and populist celebration. People are neither dupes nor sovereign critics. They carry sedimented, contradictory common sense within which good-sense kernels live as latent resources, awaiting articulation. For a Gramscian reading of popular culture, this opens the contested interior of the consenting subject rather than treating consent as a black box.
+
+The slide's definition is precise. "Common sense is the everyday, taken-for-granted set of beliefs through which people understand the world. It is historically produced, often contradictory, and shaped by dominant groups" (Lecture 17 slides). The teacher's summary repeats the formulation almost verbatim (GramsciandHegemony teacher summary), an indication of how central the concept is. Three features matter. First, common sense is everyday and taken for granted; it is not a doctrine that subjects could refute, because they hardly notice they hold it. Second, it is historically produced; what passes for common sense in one conjuncture was hard-won leadership in an earlier one. Third, it is contradictory; common sense does not need to be internally consistent because it is the sediment of multiple past struggles.
+
+The pair's other term saves the framework from cultural pessimism. "Good sense refers to the critical and reflective elements within common sense that can challenge dominant ideas. Hegemonic struggle involves shaping common sense while suppressing or marginalising good sense" (Lecture 17 slides). Good sense is not outside common sense and not the analyst's higher knowledge. It lives within the same reservoir that holds dominant framings. Hegemonic work is not the conjuring of false consciousness but the daily activity of foregrounding some common-sense fragments and burying others.
+
+What does this mean for reading popular culture? Three operations follow.
+
+First, the analyst reads texts for the common-sense materials they assemble. A reality-television show celebrating entrepreneurial selfhood does not invent the value of hard work; it activates a long-sedimented folk-wisdom about effort and discipline and articulates it to the bloc's preferred political programme. The lecturer's Media as a Site of Hegemonic Struggle slide gives the paradigmatic example: "Media normalises particular explanations of social issues (e.g. individual responsibility over structural causes), helping to stabilise hegemonic common sense while managing dissent within acceptable limits" (Lecture 17 slides). The good-sense kernel that personal responsibility matters in immediate life is real; the hegemonic move splices it to a framing that obscures structural causation.
+
+Second, the analyst reads for good-sense kernels available for re-articulation. The same reservoir that holds "individual responsibility" also holds "we look after each other" and "the system is rigged". Williams and Gilbert's diagnosis of the contemporary structure of feeling identifies the suppressed good sense explicitly: it includes "a conscious but ineffectual critique of capitalist selfishness" (Williams & Gilbert, 2022: 5). Most people already know the system is unfair; the question is whether a counter-hegemonic project can articulate that good sense into a hegemonising horizon. Cross-link to L13: Fraser's account of "subaltern counterpublics" (Fraser, 1992: 67) supplies the institutional setting in which submerged good-sense kernels can be circulated and re-articulated outside hegemonic broadcast.
+
+Third, the analyst reads polysemically. Hall's encoding/decoding model (L15) is essentially a methodology for good sense. Television texts "carry the institutional/political/ideological order imprinted in them" (Hall, 1980: 134) as preferred reading, but the polysemic structure of the sign means oppositional decoding remains possible. What makes oppositional reading sociologically possible, rather than wishful, is the good-sense kernel held within the same common sense the text addresses. *Coronation Street*'s long-running depiction of working-class community life, for example, encodes dominant common sense about social mobility and individual virtue, but its sedimented archive of solidarity, mutual aid and shared trouble can be decoded as a source of good sense about collective life. The text is contradictory because common sense is contradictory.
+
+The cross-lecture mapping is rich. Williams's "culture is ordinary" (Williams, 1958: 4) supplies the social ontology under the common-sense thesis: hegemony works on materials already produced by people in the texture of everyday life (L14). Hoggart's account of the hollowing-out of "the older, more vigorous popular culture" by a flattering commercial idiom (Hoggart, 1957: 246) anticipates the slide's diagnosis of how good sense is suppressed. Hall's reading of *Love Thy Neighbour* in 'The Whites of Their Eyes' shows the same common-sense work on the racial axis. The Common Sense and Good Sense pair is Gramsci's single most useful analytic for everything that follows in the L13–L16 sequence.
+
+[Word count: ~745]
+
+---
+
+### Essay M6. "Media professionals (journalists, editors, cultural producers) can function as organic intellectuals by shaping narratives, values, and social norms" (Lecture 17 slides; teacher summary). Discuss Gramsci's distinction between traditional and organic intellectuals, with reference to media institutions and cultural production.
+
+The Intellectuals and Cultural Power slide redefines intellectual work in a way that has organised cultural studies for decades. Gramsci's claim that journalists, editors and cultural producers can function as organic intellectuals is not an honorific but a structural analysis. Anyone who organises ideas and meaning in society performs intellectual work; the question is for whom. The distinction between traditional and organic intellectuals turns this into a tool for analysing media institutions, the institutional ecology of cultural production, and the historical bloc.
+
+The slide sets out the conceptual triangle. "Gramsci defines intellectuals broadly as those who organise ideas and meaning in society. Traditional intellectuals see themselves as neutral or independent. Organic intellectuals emerge from specific social groups and articulate their interests. Media professionals (journalists, editors, cultural producers) can function as organic intellectuals by shaping narratives, values, and social norms" (Lecture 17 slides). The teacher's summary reproduces the same definitions (GramsciandHegemony teacher summary). The implicit polemic is against the romantic image of the free-floating intellectual.
+
+The traditional intellectual is recognisable: priests, professors, judges, leading journalists who present themselves as standing above the fray. The slide is precise that they "see themselves as neutral or independent" (Lecture 17 slides). They are not necessarily dishonest about this; the claim to neutrality is a real institutional position. But the Gramscian analyst reads neutrality as itself a hegemonic posture. Traditional intellectuals appear neutral because the historical bloc whose interests they articulate has secured its leadership so completely that those interests have become the unmarked default. To stand outside is to stand within.
+
+The organic intellectual is the corrective concept. The slide notes that organic intellectuals "emerge from specific social groups and articulate their interests" (Lecture 17 slides). They are organic in the sense that they emerge organically from a social group, and they remain organic by continuing to articulate that group's project. A trade-union educator, a journalist who articulates the worldview of a specific class fraction, a creator who voices a community: all are organic intellectuals. The slide's important addition is that media professionals "can function as" organic intellectuals, with the modal verb signalling that not all do, that the function is conditional on the work performed.
+
+What does this analysis disclose about media institutions? Three things. First, that media work is always already political work. The BBC newsroom's craft of impartiality is not the absence of position but a particular way of taking position by refusing visible alignment. Hall's reading of the 1970s mugging panic in *Policing the Crisis* (1978) shows the mechanism: the racialised moral panic was produced not by individual racist journalists but by the routine cooperation of police press briefings, court reporting and tabloid framings (Lecture 17 slides). Organic intellectual work happens at institutional rather than individual level.
+
+Second, that the historical bloc has its own organic-intellectual ecology. Williams and Gilbert identify the contemporary version: "a set of entrepreneurial, competitive, individualist norms that are explicitly encouraged across a range of social sites, from schools to reality television shows and internet influencer culture" (Williams & Gilbert, 2022: 6). Influencers, business-success podcasters, reality-television presenters and the tabloid press perform organic-intellectual work for the techno-financial bloc, translating its position into the idiom of everyday aspiration. The slide on Hegemony as a Political Process makes the institutional claim explicit: "the social group who carry out these types of activities are organic intellectuals" (Lecture 17 slides).
+
+Third, that counter-hegemony has its own organic-intellectual lineage. The Counter-hegemony and organic intellectuals section of the lecture takes Alan Moore and Garth Ennis as exemplars, "'organic intellectuals' from working class backgrounds with radical politics" who "have reinvented the superhero genre to explore themes of corruption, ego cowardice, commodification, fascism, racism and sexism" (Lecture 17 slides). Moore's *Watchmen* and Ennis's *The Boys* (and their HBO and Prime Video television adaptations) perform organic-intellectual work for a constituency that the corporate superhero canon had hegemonically defined out of the genre. The TV *Watchmen* placing a Black, female superhero, Sister Night, at its centre, and *The Boys* on television "subverting the myth of heroism" (Lecture 17 slides), are organic-intellectual interventions inside the corporate distribution system.
+
+Cross-links. The framework pairs with Hall's encoding/decoding (L15): organic intellectuals shape the preferred reading at the encoding moment, while counter-hegemonic intellectuals work on the same texts at decoding. It also marks the distance from postmodern (L16) dispersed authorship: Gramsci insists that intellectual work is always attached to a project. The journalist who claims neutrality is the exemplar of the traditional position the framework was designed to unmask.
+
+[Word count: ~750]
+
+---
+
+### Essay M7. "A war of position refers to a long-term struggle within civil society to reshape culture, values, and common sense" (Lecture 17 slides). Drawing on Hall's reading of encoding/decoding as "hegemony and counter-hegemony" (Lecture 17 slides), discuss the war of position as the dominant strategic horizon for cultural politics in advanced capitalist societies.
+
+The slide on the War of Position offers the most strategically consequential paragraph in the lecture. The point of the distinction between war of manoeuvre and war of position is to assert that in advanced capitalist societies, frontal assault on state power is neither viable nor decisive. Power is too thickly distributed across civil society for that. The slide adds the institutional sites: media, education, popular culture. Hall's encoding/decoding diagram, which the lecturer draws under the explicit heading "hegemony and counter-hegemony" (Lecture 17 slides), turns the positional war into an operational programme.
+
+The slide's formulation is precise. "A war of position refers to a long-term struggle within civil society to reshape culture, values, and common sense. Unlike a war of manoeuvre (direct revolutionary confrontation), Gramsci argues that social change in advanced capitalist societies requires sustained cultural and ideological struggle, particularly through media, education, and popular culture" (Lecture 17 slides). Three features stand out. First, the war is long-term; settlements take decades to build. Second, it is conducted within civil society; the institutional terrain is dense and distributed, not a single citadel. Third, its target is culture, values and common sense; this is the level at which hegemony is held, and therefore the level at which counter-hegemony must be built.
+
+The contrast with the war of manoeuvre is historical and structural. In societies where civil society is thin, the state is the whole field. A successful frontal assault decides things. In advanced capitalism the state sits inside a thick institutional ecology, the integral state of political society plus civil society (Lecture 17 slides). Tearing down the political society leaves the civil-society apparatus intact, and the civil-society apparatus will reconstitute the bloc's leadership. The slide on Hegemony and Civil Society makes the consequence visible: civil society is "the key place where ideas and practical behaviours are directly knitted together" (Lecture 17 slides). Knit such things together long enough and they survive almost any government change.
+
+What does the positional war look like in practice? The slide names the three principal fronts: media, education, popular culture. Hall's encoding/decoding model gives the diagram for the first and third. The lecturer's slide reproduces it with explicit annotations: at the production end, "Possibility of counter-hegemonic representations"; at the reception end, "Possibility of counter-hegemonic readings (negotiated / oppositional)" (Lecture 17 slides). Hall's original framing is that television's preferred meaning "carries the institutional/political/ideological order imprinted in them" (Hall, 1980: 134), but the polysemic structure of the sign keeps both counter-hegemonic production and counter-hegemonic decoding alive. A positional war therefore proceeds on both ends of the diagram. At encoding, it builds counter-hegemonic media institutions and supports counter-hegemonic creators (the slide's Alan Moore, Garth Ennis, Sister Night, *The Boys* examples). At decoding, it builds the interpretive communities, fandoms and counterpublics that can read dominantly produced texts oppositionally.
+
+The strategic implication is that cultural politics is the substance, not the ornament, of political struggle. As Bennett's reading of Gramsci insists, popular culture is "a force field of relations shaped, precisely, by these contradictory pressures and tendencies" (Bennett, 1986: xiii), and the political project is therefore to articulate cultural elements differently. The hegemonic right has done this exercise repeatedly. The Thatcherite project Hall analysed in the 1980s, the long 1990s consolidation under Clinton and Blair, and the post-2016 articulation of nationalist populism (Williams & Gilbert, 2022: 4–7) were all positional victories before they were electoral ones. The left has, by Williams and Gilbert's account, lacked comparable positional infrastructure for decades.
+
+Cross-links. The war-of-position framework pairs naturally with Williams's "culture is ordinary" thesis (L14) and Hall's encoding/decoding (L15) because both insist that ordinary cultural practice is where politics actually happens. It contrasts sharply with Habermas's rational-critical public sphere (L13): Habermas locates politics in a special discursive arena, Gramsci locates it across everyday cultural practice. And the post-2016 conjuncture, what Gramsci called an "interregnum" of "morbid symptoms" (Williams & Gilbert, 2022: 1), is the moment when positional war must intensify rather than wait. The question is who will articulate the materials of late-neoliberal common sense, with its real grievances and submerged good-sense kernels, into a hegemonising horizon.
+
+The war of position is therefore not patience as withdrawal but patience as strategy. It is the only strategy whose temporal arc matches the depth of the structures it seeks to transform. Counter-hegemony is slow, distributed and continuous, or it is nothing.
+
+[Word count: ~735]
+
+---
+
+### Essay M8. "Power = coercion + hegemony." Critically discuss with reference to Gramsci.
 
 The slide equation "Power = coercion + hegemony" (Lecture 17 slides) compresses the central theoretical revolution of the *Prison Notebooks*. I read it not as additive but as redistribution: Gramsci argues that the visible apparatus of force (political society) is the smaller part of the story, and that the larger work of reproducing capitalist order happens through hegemony, the cultural and moral leadership exercised through civil society.
 
@@ -207,7 +380,7 @@ A critical caveat. The equation can over-rotate towards culture and underweight 
 
 ---
 
-### Essay 2. Why did the turn to Gramsci displace both Frankfurt School pessimism and structuralist analysis of popular culture? Answer with reference to Bennett.
+### Essay M9. Why did the turn to Gramsci displace both Frankfurt School pessimism and structuralist analysis of popular culture? Answer with reference to Bennett.
 
 Tony Bennett's introduction to *Popular Culture and Social Relations* maps why, in the late 1970s and early 1980s, cultural studies turned from Frankfurt School and structuralist inheritances and reorganised itself around Gramsci. I argue that the Gramscian turn was not a refinement of either tradition but a rejection of a shared assumption: that culture is a vehicle for a monolithic dominant ideology imposed from without.
 
@@ -229,7 +402,7 @@ Bennett concedes the framework's risk: "it is liable to the criticism that it is
 
 ---
 
-### Essay 3. What does Gramsci mean by civil society, and why does he treat it as the principal terrain of struggle in advanced capitalist societies?
+### Essay M10. What does Gramsci mean by civil society, and why does he treat it as the principal terrain of struggle in advanced capitalist societies?
 
 Gramsci's distinction between political society and civil society is the structural backbone of his theory of hegemony, and it makes his analysis applicable to advanced capitalist societies where seizure of state power has proven impossible. Civil society for Gramsci is not, as in liberal theory, the realm of voluntary association set against the state, but the institutional terrain where consent to ruling-class leadership is manufactured, contested and renewed. Recognising this redirects revolutionary strategy from frontal assault to long, sustained cultural work.
 
@@ -253,7 +426,7 @@ This is why, for Gramsci, the seizure of state power without prior victory in ci
 
 ---
 
-### Essay 4. How does Gramsci's distinction between common sense and good sense help us analyse contemporary media?
+### Essay M11. How does Gramsci's distinction between common sense and good sense help us analyse contemporary media?
 
 Gramsci's distinction between common sense and good sense is the single most analytically powerful tool in his repertoire for analysing contemporary media, more powerful even than hegemony itself, because it opens the contradictory interior of the consenting subject rather than treating consent as a black box.
 
@@ -275,7 +448,7 @@ Gramsci thus offers media analysis a non-condescending materialism. People are n
 
 ---
 
-### Essay 5. "Hegemony is generated from below, not imposed from above." Discuss with concrete examples.
+### Essay M12. "Hegemony is generated from below, not imposed from above." Discuss with concrete examples.
 
 The Gramscian claim that "hegemony is not something imposed on society from above so much as generated from below" (Lecture 17 slides) is the most counter-intuitive and the most powerful element of his framework. It is correct in two senses (hegemony requires consent from below, and its ideological materials are drawn from below) but should not be confused with the populist claim that hegemonic projects are spontaneous expressions of the people. They are constructed, by organic intellectuals, out of materials already circulating in popular common sense.
 
@@ -297,7 +470,7 @@ The strategic implication is that counter-hegemony must do the same articulation
 
 ---
 
-### Essay 6. Evaluate the claim that media professionals are organic intellectuals. Use specific contemporary examples.
+### Essay M13. Evaluate the claim that media professionals are organic intellectuals. Use specific contemporary examples.
 
 Gramsci's redefinition of "intellectual" as anyone who organises ideas and meaning in society opens a productive way of thinking about journalists, editors, podcasters, comic-book writers and influencers as functioning organic intellectuals. The claim is largely correct, but must be qualified in three ways: by recognising the limits of individual agency within media institutions, by distinguishing types of organic-intellectual work, and by acknowledging platform-mediated intellectuals whose relation to class structures is diffuse.
 
@@ -317,7 +490,7 @@ The Gramscian framework remains uniquely capable of registering all this. To say
 
 ---
 
-### Essay 7. "Common sense is the central battleground of contemporary politics." Discuss with reference to the conjunctural crisis described in Williams and Gilbert's *Hegemony Now*.
+### Essay M14. "Common sense is the central battleground of contemporary politics." Discuss with reference to the conjunctural crisis described in Williams and Gilbert's *Hegemony Now*.
 
 The proposition that common sense is the central battleground of contemporary politics is exactly right, and one of Gramsci's most important practical contributions to political analysis. I defend it through Williams and Gilbert's *Hegemony Now*, reading the neoliberal "long 1990s" as the paradigm of common-sense victory and the post-2016 "interregnum" as the moment of common-sense disturbance.
 
@@ -337,7 +510,7 @@ The Williams and Gilbert qualification sharpens the diagnosis. Late-neoliberal c
 
 ---
 
-### Essay 8. How does Stuart Hall extend Gramsci's framework to race? Answer with reference to *Policing the Crisis* and 'The Whites of Their Eyes'.
+### Essay M15. How does Stuart Hall extend Gramsci's framework to race? Answer with reference to *Policing the Crisis* and 'The Whites of Their Eyes'.
 
 Stuart Hall's extension of Gramsci to race is one of the foundational moves of British cultural studies, transforming media analysis by adding race as a constitutive axis of hegemonic struggle alongside class. Hall's two key interventions (*Policing the Crisis* and 'The Whites of Their Eyes') demonstrate how the Gramscian framework can register racial hegemony without becoming class-essentialist, and how media institutions function as prime sites where racial common sense is encoded, contested and decoded oppositionally.
 
@@ -359,7 +532,7 @@ The contemporary purchase remains undiminished. Williams and Gilbert's analysis 
 
 ---
 
-### Essay 9. Compare the war of manoeuvre and the war of position. Which better captures contemporary left strategy, and why?
+### Essay M16. Compare the war of manoeuvre and the war of position. Which better captures contemporary left strategy, and why?
 
 Gramsci's distinction between war of manoeuvre and war of position is one of the most strategically consequential in twentieth-century Marxism, and the indispensable starting point for thinking about left politics today. The war of position is overwhelmingly the right framework, but pure positional warfare risks complacency in moments of conjunctural crisis where decisive interventions are possible. The best strategy combines long-term position with readiness for moments of accelerated articulation.
 
@@ -383,7 +556,7 @@ The war of position is correct. But it must be a *fighting* position, ready to s
 
 ---
 
-### Essay 10. To what extent does Williams and Gilbert's *Hegemony Now* update Gramsci for the era of platform capitalism?
+### Essay M17. To what extent does Williams and Gilbert's *Hegemony Now* update Gramsci for the era of platform capitalism?
 
 Williams and Gilbert's *Hegemony Now* presents itself as a recovery and update of Gramscian analysis for platform capitalism, financialisation and the crisis of neoliberalism. The book makes three substantive updates: a theory of passive consent, a re-grounding in material interests, and the addition of platforms as a structural mode of hegemony. The updates extend Gramsci for a conjuncture he could not have imagined.
 
@@ -407,7 +580,7 @@ Nonetheless, *Hegemony Now* is the most significant update of Gramscian theory i
 
 ---
 
-### Essay 11. "Subcultures and fandoms are counter-hegemonic only until they are commodified." Discuss.
+### Essay M18. "Subcultures and fandoms are counter-hegemonic only until they are commodified." Discuss.
 
 The claim that subcultures and fandoms are counter-hegemonic only until commodified compresses a real tension in cultural studies between celebratory accounts of resistance and pessimistic accounts of co-optation. The claim is partially correct (commodification dilutes counter-hegemonic charge) but too binary. The Gramscian framework allows us to see that counter-hegemonic moments can persist within commodified forms, that the line between resistance and incorporation is a continuum rather than a threshold, and that commodification can itself be the medium through which counter-hegemonic ideas reach mass publics.
 
@@ -431,7 +604,7 @@ The Gramscian conclusion is therefore not that counter-hegemony fails the moment
 
 ---
 
-### Essay 12. Is Gramsci's framework still useful for analysing digital media, or does the algorithmic platform require a different theory of power?
+### Essay M19. Is Gramsci's framework still useful for analysing digital media, or does the algorithmic platform require a different theory of power?
 
 Digital platforms differ from broadcast media in important ways: they operate through algorithmic personalisation rather than mass address, monetise behavioural data rather than audience attention, and function as infrastructures of everyday life rather than discrete content channels. Gramsci's framework remains substantially useful for digital media (perhaps more useful than for broadcast) but requires the update Williams and Gilbert provide in *Hegemony Now*: a theory of passive consent, emphasis on material interests, and platforms as infrastructural hegemony alongside the ideological and cultural.
 

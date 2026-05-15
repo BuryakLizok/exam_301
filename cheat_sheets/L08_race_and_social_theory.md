@@ -184,6 +184,34 @@ The pay-off for SC301 is methodological. The lecture argues that mainstream soci
 - **2021 (Q12)**: Du Bois asked: "How does it feel to be a problem?" Outline and assess his response to this question.
 
 
+## 8b. Mock-Q List (22 total)
+
+*Note: M1-M7 are new slide-recipe composites built directly from L8 slide titles and bullet-questions (recipe: topic anchor from slide title, vocabulary from slide bullets, synthesis of 2-3 bullets, context pin, lecturer phrases verbatim). M8-M22 are the original mocks renumbered. No L8-specific teacher summary exists in the "Summaries from the teacher" folder (the L7-L10 autumn lectures are pre-Spring and were not summarised by the new teacher); the new mocks therefore draw from slides plus the L8 sections of the 2026 revision document and the 2025 Spring revision lecture's "Social Theory, 'Race' and Experience" slide.*
+
+1. "It was only in the 19th century that it was incorporated into biology" (slide 3); "Science claimed to 'observe' racial differences" and "this power-knowledge 'produced' ways of viewing people which still have effects today" (slide 9). Using these two slides, discuss the lecture's claim that scientific racism is a form of power-knowledge tied to vision rather than a discovery of biological fact.
+2. "Where are you really from?" (slide 4) and "being a problem is a strange experience" (Du Bois, 1903: 4). Using these two slide moments, explain why the lecture treats everyday racial questioning as the contemporary trace of the colour line.
+3. "Being double is the basis of the experience of the world. This differs from the sense of unity, of being a single actor, which is presumed by Weber, Goffman, Garfinkel" (slide 17). What does Du Bois add to the sociological account of the self that these theorists lack?
+4. "He simply wishes to make it possible for a man to be both a Negro and an American" (Du Bois, 1903: 5); the lecturer adds "this is not as easy as it might sound" (slide 20). Outline Du Bois's substantive demand and explain why he treats it as harder than the legal-equality framework of post-Emancipation America permitted.
+5. "We need to rethink history and modernity and not just 'include' the marginal positions that have been ignored. But to rewrite history and modernity from these positions" (slide 29). Discuss this demand with reference to Gilroy's claim that "racial terror is not merely compatible with occidental rationality but cheerfully complicit with it" (Gilroy, 1993: 56).
+6. "This unstable standpoint is to be understood in a different way from the clarion calls to … unmediated experience which sometimes appear in association with the term" (Gilroy, 1993: 56). What does Gilroy mean by an "unstable standpoint", and why does he tie it to "new conceptions of selfhood … waiting to be constructed from the slaves' standpoint"?
+7. "The necessity of rendering the slave a foreign species appears to be a desperate attempt to confirm one's own self as normal" (Morrison, 2017: 29); "the definition of 'Americanness' (sadly) remains color for many people" (Morrison, 2017: 17). Drawing the two slides together, explain Morrison's account of othering and assess how it operates in contemporary national-belonging debates.
+8. "One ever feels his twoness, an American, a Negro." Discuss this passage from Du Bois.
+9. Critically assess Gilroy's argument in *The Black Atlantic* with reference to the role of slavery in modernity.
+10. What does Du Bois mean by the "veil", and why does he treat it as constitutive of African American experience?
+11. Compare Du Bois's double consciousness with Fanon's epidermalisation as discussed by Gilroy.
+12. Using the revision document's CRT material, explain how Du Bois's "racial realism" is extended by Critical Race Theory.
+13. Is whiteness a racial identity or a structural position? Discuss.
+14. Discuss Du Bois's claim that race emerged as a labour-supply solution.
+15. Does the science Gilroy describes in 'Race Ends Here' vindicate or refute scientific racism?
+16. How convincing do you find Morrison's claim that whiteness creates the Other?
+17. Answer with reference to Gilroy's 'Race Ends Here': what does it mean to say that race has become an "after-image"?
+18. Using at least two authors, explain why "race ends here" is harder than it sounds.
+19. Can sociology abolish race without losing the analytical category?
+20. Discuss the role of the Sorrow Songs and Black cultural production in Du Bois's *Souls*.
+21. What does Gilroy mean by saying race is modernity's "most pernicious signature"?
+22. Compare Morrison and Gilroy on race as an effect of power.
+
+
 ## 9. Past-Q Essay Answers
 
 ### Past Q 2025. What is meant by 'scientific racism'? How have sociologists tried to counter this concept?
@@ -279,7 +307,133 @@ Du Bois's response is descriptively acute, conceptually transformative, and poli
 
 ## 10. Mock-Q Essay Answers
 
-### Mock 1. "One ever feels his twoness, an American, a Negro." Discuss this passage from Du Bois.
+### Mock 1. Scientific racism as power-knowledge tied to vision.
+
+In this essay I argue that the lecture treats scientific racism not as the discovery of biological fact but as a form of power-knowledge tied to vision. The slides set this out in two compressed steps. Slide 3 notes that "race" derives from the French "racine" (root) and the Arabic "ras" (head, beginning) and observes that "it was only in the 19th century that it was incorporated into biology and seemed to refer to a particular biological group or type or category" (slide 3). Slide 9 follows with the diagnostic claim: "Science claimed to 'observe' racial differences. The classifications they produced appeared to give them knowledge … This power-knowledge 'produced' ways of viewing people which still have effects today" (slide 9). The lecturer then asks "is this one reason why the question of 'colour' runs throughout discussions of 'race', as there needs to be something to be 'observed' in order to classify?" and concludes that race "is tied to questions of vision and power" (slide 9).
+
+I read this as three linked claims. First, the term "race" had no biological referent before the nineteenth century. The etymology is benign and the modern doctrine that there are "real, fixed, differences in terms of character, intelligence or morals between different 'types' of humans" (slide 3) is a recent invention, not a long-running observation. Second, the apparent biological referent was manufactured by classificatory institutions. Linnaeus's *Systema Naturae* (1735) divided Homo Sapiens into Homo Europaeus, Homo Afer, Homo Asiaticus and Homo Americanus, claiming differences in "temperament and psychology" (slide 6). Blumenbach (1775) refined the scheme into five races, supposedly evidenced by skull shape (slide 8). Third, the resulting categorisations did not describe a pre-existing reality; they produced one. Slide 9's juxtaposition of the 1868 "Apollo Belvidere / Creole Negro / Young Chimpanzee" plate with the 1933 photograph of Nazi racial measurements is the visual proof that the same classificatory logic ran from comparative anatomy to twentieth-century state machinery.
+
+Gilroy concurs. "'Race' was a primary object of knowledge and power" (Gilroy, 1998: 252) and the "truths of race were produced 'performatively' from the hat that biological science provided, like so many startled rabbits in front of a noisy, eager, imperial crowd" (Gilroy, 1998: 253). His phrasing makes the slide's diagnosis transferable: race was not seen first and named second; it was named, measured and inscribed first, and then it appeared to be seen. The L7 link is direct. Foucault's power-knowledge (Foucault, 1977) names the operation by which institutions produce the objects they claim merely to observe; race is its racial case. L7's biopower (Foucault, 1978) names the population-level technique by which modern states administer life through racial classification, so the perceptual operation slide 9 describes is also a governmental one.
+
+The vision component is what slide 9 sharpens. The lecturer's question about "colour" notes that classification needs an observable feature; the body's surface is recruited as the visible mark. Gilroy's reading of Fanon's epidermalisation as "a historically specific system for making bodies meaningful by endowing in them qualities of 'colour'" (Gilroy, 1998: 254) names the perceptual training the visual rhetoric of slide 9's plate performed. This is also why Du Bois, despite refusing biology, insists that "the difference in skin color was vastly overemphasized and intrinsically trivial. And yet this fact of racial distinction based on color was the greatest thing in my life and absolutely determined it" (Du Bois, 1940: 136). Colour was made meaningful by the institutions that decided to look at it; once made meaningful, it became binding.
+
+Three implications follow. First, refuting the biology does not abolish the perception. Slide 30's conclusion is exact: "Races do not exist. But the experiences constituted by the belief, practices, history and economics of 'race' do." Second, contemporary "ways of seeing" inherit the training. Morrison's "routine media presentations deploy images and language that narrow our views of what humans look like" (Morrison, 2017: 37) is power-knowledge in its everyday register, and Black Lives Matter mobilisations make the visual stakes legible. Third, the contemporary "Where are you really from?" question (slide 4) is the everyday performance of the classificatory operation slide 9 describes: it presumes a visible mark that requires explanation.
+
+Scientific racism is the modern manufacture of racial categorisation by classificatory institutions whose authority rested on a claim to neutral observation. The lecture's diagnostic is that this is power-knowledge in the visual register; the perceptual habits it trained outlive the doctrine that produced them.
+
+### Mock 2. "Where are you really from?" and being a problem.
+
+In this essay I argue that the lecture treats the contemporary question "Where are you really from?" (slide 4) as the everyday trace of the colour line, performing in miniature the operation Du Bois described as "being a problem". The two slide moments belong together: slide 4 lists the question alongside the lecturer's prompts on how races are identified, and slide 14 opens Du Bois's account of *The Souls of Black Folk* with "being a problem is a strange experience" (Du Bois, 1903: 4) followed by the visiting card scene where "it dawned on me with a certain suddenness that I was different from the others … shut out from their world by a vast veil" (Du Bois, 1903: 4). The slides invite the comparison.
+
+The question performs three operations. First, it presumes a visible mark that must be explained. Slide 9's diagnosis applies: the questioner has been trained to expect "something to be 'observed' in order to classify" (slide 9). The body becomes the trigger for a request to account for one's presence. Second, it doubles the answerer's location. The questioner accepts "England" or "London" only as the first answer, and pursues a "real" origin elsewhere; the addressee's national belonging is treated as derivative, with whiteness as the implicit norm. This is Morrison's mechanism: "The definition of 'Americanness' (sadly) remains color for many people" (Morrison, 2017: 17), generalised to "Britishness" by the slide's open-ended framing. Third, it positions the addressee as a problem in the precise Du Boisian sense: a presence that the questioner cannot incorporate without further information.
+
+Du Bois's response is the framework the lecture asks us to apply. "The real question, How does it feel to be a problem? I answer seldom a word" (Du Bois, 1903: 2). The visiting cards refusal is the prototype of "Where are you really from?" because both are conducted through ordinary social mechanisms (a glance, a card, a casual question) rather than overt segregation. The veil ("shut out from their world by a vast veil," Du Bois, 1903: 4) names the social barrier the question communicates. Second sight ("the Negro is a sort of seventh son, born with a veil, and gifted with second-sight in this American world," Du Bois, 1903: 4) names the addressee's resulting critical capacity: the person asked the question can see the question for what it is, while the questioner often cannot. Double consciousness ("this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity," Du Bois, 1903: 5) names the consequence: the addressee is forced into the doubled perspective the question imposes.
+
+Three contemporary implications follow. First, the question is a sorting operation. The L9 postcolonial extension sharpens this: Said's *Orientalism* (Said, 1978) shows how Western scholarship constructs "the Orient" as a knowable elsewhere, and "Where are you really from?" is the everyday version performed on bodies present in Western metropoles. Second, the question is structurally racialised even where the questioner intends no racism. Morrison's "Race, in short, is an effect of power" (Morrison, 2017: 25) names why: power needs to mark difference to confirm its own normality. Third, the question is contemporary. Brexit-era hostile-environment debates and Trump-era policy framings around "Mexican-Americans" (slide 23) show the same logic at policy scale.
+
+Objections. One reading insists the question is innocent. Du Bois's reply applies: he was the first Black Harvard PhD and still places the visiting card moment as decisive. Race operates through habits the questioner does not need to choose. A second objection claims contemporary mobility makes the question reasonable. The Du Boisian reply: the question is selective. It is asked of those whose presence is read as requiring explanation; its absence for racially unmarked bodies tells us what work it does.
+
+The everyday question "Where are you really from?" performs the operation Du Bois named "being a problem" and communicates the colour line through ordinary social interaction. The lecture's invitation to read slide 4 alongside slide 14 makes the diagnostic continuity audible: a doctrine that began with Linnaeus and Blumenbach now circulates as a polite enquiry, and the addressee is forced into the doubled perspective the question imposes.
+
+### Mock 3. What Du Bois adds beyond the unitary actor of Weber, Goffman and Garfinkel.
+
+In this essay I argue that Du Bois adds an account of the self that mainstream classical sociology cannot produce, because the racialised subject is constitutively doubled rather than unitary. Slide 17 makes the claim explicit: "Being double is the basis of the experience of the world. This differs from the sense of unity, of being a single actor, which is presumed by Weber, Goffman, Garfinkel" (slide 17). The instruction is clear, and the Spring revision slide adds: "don't just say he is like Mead or Goffman or Cooley. We want to know what Du Bois adds to the argument" (Spring revision slide on Race and Experience).
+
+The unitary actor is the tacit subject of classical and interpretivist sociology. Weber's rational actor is a single seat of meaning and motive. Goffman's dramaturgical actor manages impressions across front and back regions but presupposes a stable performer. Garfinkel's ethnomethodological member competently produces accountable action. All three presuppose a self that, however reflexive, is one. Du Bois reports a different experience. "It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5). The self is split because the social world is split.
+
+Three components specify what Du Bois adds. First, doubling is involuntary. "One ever feels his twoness, an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder" (Du Bois, 1903: 5). The classical actor chooses roles; the Du Boisian subject is imposed-upon. Second, doubling is structural, not psychological. The veil ("shut out from their world by a vast veil," Du Bois, 1903: 4) names a social barrier; the racialised actor's split self is its experiential consequence. Third, doubling generates a critical capacity: second sight. "The Negro is a sort of seventh son, born with a veil, and gifted with second-sight in this American world" (Du Bois, 1903: 4). The subject who must see themselves through the dominant world's "tape" also sees the tape.
+
+Each component challenges classical sociology. Weber's verstehen presumes a coherent actor whose motives are recoverable from a single point of view; Du Bois insists racialised motives are doubled and the recovery operation will misread one half if it presumes unity. Goffman's impression management presumes a stable backstage; Du Bois shows the racialised actor's backstage is also occupied by the dominant world's gaze, so the back/front partition does not hold. Garfinkel's accountable member is competent within shared norms; the colour line is a norm to which the Du Boisian subject's compliance is unwilling and partial. The classical actor would be a unitary self with situated impressions; the Du Boisian subject lives the impressions as constitutive of selfhood.
+
+The L7 cross-link sharpens this. Foucault's account of how power produces subjects (Foucault, 1977) supplies the missing apparatus: the institutions of slavery, Jim Crow, segregation and labour-market sorting are the machinery that produced the doubled subject Du Bois describes. Where Foucault studies the disciplinary production of docile bodies, Du Bois shows the racialised production of doubled souls.
+
+Two objections matter. First, Mead, Cooley and Goffman do allow for taking the role of the other; is Du Bois's contribution just a vivid variant? No, because role-taking in classical interactionism is reciprocal and broadly symmetrical, while Du Bois's doubling is asymmetric and coerced. Mead's generalised other is a self-organising input; Du Bois's "tape of a world that looks on in amused contempt and pity" is an instrument of subordination. Second, twoness might be transitional. The revision document's CRT note rebuts this: "racial progress is always pushed back, and only occurs through 'interest convergence'." The conditions of doubling persist.
+
+Du Bois's pay-off is methodological. The sociology of selfhood cannot universalise from the white actor and add racialised cases as deviations. The lecturer's instruction (slide 17) makes this explicit: classical sociology presupposes a unity the racialised subject cannot inhabit. Black Lives Matter after George Floyd and Breonna Taylor gives the diagnosis ongoing content. What Du Bois adds is a foundational claim that the unitary actor was always the unmarked white actor, and that a sociology of the self under the colour line must theorise constitutive doubling rather than treating it as deviation.
+
+### Mock 4. "Both a Negro and an American": why Du Bois's demand is harder than it sounds.
+
+In this essay I argue that Du Bois's demand for the doubled subject to be "both a Negro and an American" (Du Bois, 1903: 5) is harder than it sounds because the modernity that grants the legal form of equality is the same modernity that built the substantive subordination it is supposed to dissolve. Slide 20 sets the demand: "He simply wishes to make it possible for a man to be both a Negro and an American" and adds "this is not as easy as it might sound. And this is partly because of the link of modernity and slavery (which we have talked about before)" (slide 20). Slide 19's title sharpens this: "Equality in law is not enough" (slide 19).
+
+Du Bois's demand has three coordinates. First, refusal of separation. "He would not Africanize America, for America has much to teach the world" (Du Bois, 1903: 5). The Black demand is not exit from American modernity. Second, refusal of assimilation. He would not "bleach his Negro blood in a flood of white Americanism, for he knows that Negro blood has a message for the world" (Du Bois, 1903: 5). The demand is not erasure of Black particularity. Third, substantive equality. "The Nation has not yet found peace from its sins; the freedman has not yet found freedom in his promised land" (Du Bois, 1903: 7); "Work, culture, liberty, all these we need, not singly but together" (Du Bois, 1903: 11).
+
+Why is the demand harder than it sounds? Three reasons, all anchored to slide 20's "link of modernity and slavery". First, the legal form of equality was already granted and proved insufficient. Slide 13: "In 1863, during the American Civil War, Abraham Lincoln declared in the 'Emancipation Proclamation' that all slaves were free, forever. … Writing a generation after all this, in the 1890s, Du Bois asked why nothing had really changed for African Americans" (slide 13). Formal abolition did not produce substantive freedom; the Both demand sits in the gap.
+
+Second, the modernity that built the legal form also built the substantive subordination. Slide 21 reproduces Du Bois's (1898) account: "the central and all-absorbing economic need of America was the creation of a proper labor supply to develop American wealth. … Such statutes sought to solve problems of labor and not of race or color" (Du Bois, 1898: 3-4). The racial line was a labour-supply solution congealed into legal category; the institutions of modern America were built around it. Granting the vote did not reconstruct them. The L2 framing extends this: Howard French (2021) shows African labour and African gold financed European modernity; Dussel (1993) holds that "European modernity is based on violence". The Both demand is therefore a demand for reconstruction of a modernity whose architecture was racial.
+
+Third, the catalogue of obstacles is structural. Du Bois lists "the holocaust of war, the terrors of the Ku-Klux Klan, the lies of carpet-baggers, the disorganization of industry" (Du Bois, 1903: 5) as the post-Reconstruction reversal. The revision document's CRT note generalises: "racial progress is always pushed back, and only occurs through 'interest convergence'"; "the School to Prison pipeline, Prisons and the Army are a modern form of Black slavery". Each reproduces substantive subordination under the form of legal equality.
+
+Gilroy reads the difficulty more sharply. "Racial terror is not merely compatible with occidental rationality but cheerfully complicit with it" (Gilroy, 1993: 56). The Both demand is hard because the rationality of American modernity was forged in racial terror; reconfiguring it requires "the primal history of modernity to be reconstructed from the slaves' point of view" (Gilroy, 1993: 55), not merely a legal supplement. Morrison adds the affective ground: othering as "a desperate attempt to confirm one's own self as normal" (Morrison, 2017: 29) explains why dominant groups resist substantive Both-ness even where they concede formal equality.
+
+The Both demand is therefore structural, affective and rational at once. Brexit-era hostile-environment debates and Trump-era policy framings illustrate how substantive Both-ness keeps being deferred even where legal anti-discrimination is granted; cost-of-living and racialised wealth gaps illustrate why "equality in law is not enough" (slide 19). Black Lives Matter after George Floyd and Breonna Taylor names the contemporary mobilisation.
+
+Du Bois's demand is harder than it sounds because the modernity that grants the form is the modernity that built the substance, and dismantling the second requires more than amending the first. The slide 20 prompt is exact: legal Both-ness without structural Both-ness is the Du Boisian disappointment of the 1890s, repeated.
+
+### Mock 5. Rewriting, not including: Gilroy on race, modernity and racial terror.
+
+In this essay I argue that Gilroy's demand to "rewrite history and modernity from these positions" (slide 29) follows from his claim that "racial terror is not merely compatible with occidental rationality but cheerfully complicit with it" (Gilroy, 1993: 56). If terror and rationality rose together, adding marginal voices to a fundamentally white modernity narrative is not enough; the narrative needs reconstructing.
+
+Slide 29 sets out four claims Gilroy holds together. First: "Africa was not on the side-lines of the West and the development of modernity." Second: "The transnational (as evidenced in the slave trade) was always a real part of Western modernity. Hence the 'Black Atlantic.'" Third: "Ethnic/'racial' identities are not fixed but are outcomes of wider political, economic, and cultural processes." Fourth: "We need to rethink history and modernity and not just 'include' the marginal positions that have been ignored. But to rewrite history and modernity from these positions" (slide 29). The four claims are stages of one argument. Africa is constitutive, the Atlantic is the circuit, racial identity is its product, and the historiographical conclusion is reconstruction.
+
+Slide 30 supplies the polemical engine. "Racial terror is not merely compatible with occidental rationality but cheerfully complicit with it" annotated "(Think of Dussel)" (slide 30). The annotation is decisive. Dussel (1993) holds that "European modernity is based on violence" against its colonial underside; Gilroy specifies the racial register of that violence. The complicity is "cheerful" because the racially terrorising operations of slavery, colonial extraction and Atlantic shipping were not exceptions to occidental rationality; they were among its highest expressions, bureaucratised, financed and morally rationalised by the same institutions that produced Kant, Hegel and modern political economy.
+
+Three implications follow. First, periodisation. If terror and rationality are co-original, modernity cannot be dated from rational achievements without dating it from racial atrocities. The L2 framing extends this: Howard French (2021) shows African labour and African gold subsidising European modernity; Dussel (1993) treats violence as constitutive. Gilroy's "racial terror" is the form that violence takes in modernity's racial register.
+
+Second, methodology. "The time has come for the primal history of modernity to be reconstructed from the slaves' point of view" (Gilroy, 1993: 55), the slide-30 demand. The standpoint of the enslaved is not one position among many but the position that reveals what the masters' standpoint conceals. Adding Black voices to an existing modernity narrative does not change the diagnosis; reconstructing the narrative from the slaves' standpoint does. This is why slide 29's "not just 'include' … but to rewrite" is operative: inclusion preserves the master narrative; rewriting dismantles it.
+
+Third, normative content. Gilroy's reconstruction implies an "ethics of freedom to set alongside modernity's ethics of law and the new conceptions of selfhood … waiting to be constructed from the slaves' standpoint" (Gilroy, 1993: 56). Modernity's ethics of law gave Du Bois the Fifteenth Amendment without giving him freedom. An ethics of freedom would specify what Du Bois's "Work, culture, liberty, all these we need, not singly but together" (Du Bois, 1903: 11) requires institutionally. Gilroy's project is the conceptual extension of Du Bois's demand at Atlantic scale.
+
+Du Bois supplies the legal-economic anchor Gilroy generalises. The slave statutes "from Massachusetts to Georgia" (Du Bois, 1898: 3-4) show colonial law inventing race to organise labour. Gilroy reads the same evidence at higher pitch: "Plantation slavery was more than just a system of labour and a distinct mode of racial domination"; it provided "the foundations for a distinctive network of economic, social, and political relations" (Gilroy, 1993: 54). Morrison adds the affective dimension. "Race, in short, is an effect of power" (Morrison, 2017: 25); othering as "a desperate attempt to confirm one's own self as normal" (Morrison, 2017: 29) names the identarian machinery rationality requires to keep the terror cheerful.
+
+Objections. One claim is that "cheerful complicity" is rhetorically excessive. Reply: the phrase is precise. Cheerful means without the dissonance one would expect; that is the analytical claim. A second objection holds that contemporary modernity has shed its complicity. Du Bois's racial realism rebuts: "the black man is a person who must ride 'Jim Crow' in Georgia" (Du Bois, 1940: 153); the institutions persist. Black Lives Matter as a movement makes the persistence newsworthy.
+
+Gilroy's "rewrite, not include" follows necessarily from "racial terror is … cheerfully complicit with [occidental rationality]". If race built modernity, modernity cannot be made just by adding race; it must be reconstructed. The slide-29 demand is the historiographical form of the slide-30 polemic.
+
+### Mock 6. Gilroy's unstable standpoint and the new conceptions of selfhood.
+
+In this essay I argue that Gilroy's "unstable standpoint" is a deliberate refusal of the metaphysics of unmediated experience and a positive proposal for new conceptions of selfhood constructed from the slaves' standpoint. Slide 31 reproduces the key passages: "This unstable standpoint is to be understood in a different way from the clarion calls to … unmediated experience which sometimes appear in association with the term" and "in terms of contemporary politics and social theory, the value of this project lies in its promise to uncover both an ethics of freedom to set alongside modernity's ethics of law and the new conceptions of selfhood … that are waiting to be constructed from the slaves' standpoint" annotated "(Think of Du Bois)" (slide 31).
+
+Three claims follow.
+
+First, "unstable" is normative, not deficient. A stable standpoint pretends to be the unmediated voice of an essentialised experience. Gilroy refuses this. The slaves' standpoint is unstable because it is constructed historically, transmitted through cultural production, and exposed to internal heterogeneity. Stability would be a return to the essentialism the Black Atlantic project critiques. Instability is the methodological condition of a standpoint that wants to be analytically rigorous rather than identity-rhetorical.
+
+Second, "in a different way from … unmediated experience" repudiates one strand of standpoint discourse. Some uses of "standpoint" invoke the lived experience of an oppressed group as automatically revealing the truth of its oppression. Gilroy says this confuses position with privilege of perspective. A standpoint is not the unmediated voice of the position; it is the analytic angle the position makes available, conditional on developing critical perspective. The Spring revision slide on Race and Experience makes the same demand on Du Bois: "don't just say he is like Mead or Goffman or Cooley. We want to know what Du Bois adds to the argument", and Du Bois's twoness is the original instability Gilroy generalises. Black Atlantic standpoint is "unstable" because heterogeneous and constructed; this is its strength, not its weakness.
+
+Third, the project is positively constructive: "new conceptions of selfhood … waiting to be constructed from the slaves' standpoint" (Gilroy, 1993: 56). Mainstream classical sociology presupposed a unitary actor, the white actor whose situational embeddedness was unmarked. The slaves' standpoint makes a non-unitary selfhood thinkable. Du Bois's twoness is the prototype: "One ever feels his twoness, an American, a Negro; two souls, two thoughts, two unreconciled strivings" (Du Bois, 1903: 5). The annotation "Think of Du Bois" makes the genealogy explicit. The Gilroyan conception of selfhood is the Du Boisian doubling generalised diasporically.
+
+The L6 link is direct. Standpoint epistemology in L6 (Hartsock, Harding, Hill Collins) holds that the subordinated position is epistemically privileged because political struggle has won the critical perspective from which the dominant position's blind spots become visible. The Spring revision slide on Race and Experience says Du Bois's experience-of-race claim is the racial version of this argument. Hill Collins (1990) explicitly names Du Bois as ancestor of Black feminist standpoint. Gilroy's "unstable standpoint" is the disciplined version of this lineage: subordinated position plus critical development, with the explicit refusal of essentialism.
+
+What does the project deliver? Gilroy lists two outputs: an "ethics of freedom" and "new conceptions of selfhood". The first is normative: modernity's ethics of law gave Du Bois the Fifteenth Amendment without giving him substantive freedom, so an ethics of freedom must specify what emancipation requires beyond formal rights. The second is analytic: a self-concept that does not presuppose the unitary actor of Weber, Goffman and Garfinkel (slide 17). The doubled, second-sighted Du Boisian self is one version; the Black Atlantic subject is another.
+
+Two objections. First, instability looks like a hedge. Reply: stability is the hedge; it pretends to certainty the historical record cannot provide. Second, the Black Atlantic standpoint can sound too encompassing. Reply: Gilroy treats it as one orientation, not the only valid one. The L7 biopower link sharpens this: Foucault's account of population-level administration (Foucault, 1978) names the techniques the slaves' standpoint reveals as racially specific.
+
+Contemporary purchase. CRT's counter-storytelling operationalises the unstable standpoint as legal method; Black Lives Matter stages it as political mobilisation; *Selma* dramatises the new self-conceptions. The slide's "waiting to be constructed" is exact.
+
+Gilroy's unstable standpoint is a disciplined, non-essentialist standpoint epistemology of the Black Atlantic, anchored in Du Bois and oriented to constructing the new conceptions of selfhood modernity's unitary actor cannot accommodate.
+
+### Mock 7. Morrison on othering, whiteness as Americanness, and national belonging.
+
+In this essay I argue that Morrison's account of othering describes how race functions as power-effect through the affective work of confirming the dominant group as normal, with whiteness as the unmarked currency of national belonging. Slide 24 sets out the central claim: "Race is the classification of a species, and we are the human race, period [full-stop]. Then what is this other thing, the hostility, the social racism, the Othering" (Morrison, 2017: 15). She cites Baum: "Race, in short, is an effect of power" (Morrison, 2017: 25). And the operative thesis: "The necessity of rendering the slave a foreign species appears to be a desperate attempt to confirm one's own self as normal" (Morrison, 2017: 29). Slide 25 specifies the contemporary form: "immigrants to the United States understood that if they wanted to become 'real' Americans they must sever or at least downplay their ties to their native country, in order to embrace their whiteness. The definition of 'Americanness' (sadly) remains color for many people" (Morrison, 2017: 17). The lecturer annotates: "[Think also about Trump and what it means nowadays to be a 'Mexican-American']" (slide 25).
+
+Three components.
+
+First, race is an effect of power. The clause does two things at once. Negatively, it denies that race is a property of the racialised, since racialised properties are produced by the operation of power on the body. Positively, it names race as a transitive operation: race happens to people because power needs it to happen. The revision document echoes: "Race as an effect of power, for the dominant group to stabilise its own identity – whiteness." Othering is the productive mechanism.
+
+Second, othering is desperate. The word matters. Morrison's "desperate attempt" (Morrison, 2017: 29) names the affective economy: dominant identity is not securely held; it requires the manufactured difference to feel normal. The lecturer's slide 23 annotation on Trump-era "Mexican-American" reads as a contemporary illustration: the rhetorical work the policy framings performed was to confirm white-American normality by producing Latino bodies as the threatening other. Brexit-era hostile-environment debates do the same work for British whiteness. The desperation is the analytical claim: power needs othering because dominant identity is fragile without it.
+
+Third, whiteness is the unmarked form of racial power. "The definition of 'Americanness' (sadly) remains color for many people" (Morrison, 2017: 17). The parenthetical "sadly" is Morrison's diagnostic shrug at the empirical fact. Immigrants who "embrace their whiteness" enter Americanness through a racial gate. The revision document specifies the mechanism: "American identity is tied to whiteness, reinforced by media and culture / law and order / religion." Whiteness is not the absence of race but the unmarked racial currency of full national belonging.
+
+Morrison also supplies the everyday machinery. "Routine media presentations deploy images and language that narrow our views of what humans look like" (Morrison, 2017: 37). Media is the routine site of othering. The L9 postcolonial extension via Said (1978) shows how the same operation works at the level of scholarship, producing "the Orient" as a knowable body of knowledge that confirms European normality.
+
+How does this operate in contemporary national-belonging debates? Three illustrations. First, "Where are you really from?" (slide 4) performs Morrison's othering at conversational scale: whiteness as Americanness reads non-white bodies as not-yet-fully-here. Second, Trump-era framings of "Mexican-American" (the lecturer's annotation) and Brexit-era hostile-environment debates show the policy version. Third, Black Lives Matter after George Floyd and Breonna Taylor stages the counter-mobilisation; *Get Out* dramatises the affective machinery.
+
+Objections. One holds that Morrison universalises a US-specific dynamic. Reply: the colour-as-Americanness thesis is US-specific in form but its mechanism generalises. Brexit demonstrates the British version. A second objection: othering theory under-determines structural conditions. Reply: Du Bois (1898) shows the legal-economic infrastructure; Gilroy (1993) shows the Atlantic scale; Morrison shows the affective machinery.
+
+The L7 biopower cross-link sharpens this: Foucault's claim that power administers life through population-level categorisation (Foucault, 1978) names the apparatus through which Morrison's affective othering becomes institutionally durable.
+
+Morrison's account of othering specifies the affective machinery by which whiteness reproduces itself as the unmarked currency of national belonging. The slide-24 framework (race as power-effect, othering as desperate normalising work) and the slide-25 specification (Americanness as colour, with the Trump annotation) operate together. Contemporary national-belonging debates are not exceptions; they are the routine sites at which the machinery operates.
+
+### Mock 8. "One ever feels his twoness, an American, a Negro." Discuss this passage from Du Bois.
 
 In this essay I discuss Du Bois's twoness passage, "One ever feels his twoness, an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder" (Du Bois, 1903: 5). It should be read as a sociological diagnosis of what the colour line does to selfhood under formal equality, neither identity-confusion complaint nor assimilation programme.
 
@@ -299,7 +453,7 @@ Gilroy extends the passage diasporically. In *The Black Atlantic* he argues that
 
 The twoness passage is Du Bois's most concentrated diagnosis of the racialised self under formal equality. It names an imposed doubling, refuses the false choices of assimilation and separation, and grounds Black critical perception in the body that endures the strain. It anticipates the standpoint epistemology Gilroy will globalise and CRT will translate into counter-storytelling.
 
-### Mock 2. Critically assess Gilroy's argument in *The Black Atlantic* with reference to the role of slavery in modernity.
+### Mock 9. Critically assess Gilroy's argument in *The Black Atlantic* with reference to the role of slavery in modernity.
 
 In this essay I critically assess Gilroy's *The Black Atlantic* (1993) on slavery's constitutive role in modernity. Gilroy's thesis is analytically powerful and substantially correct, but its full force depends on combining it with Du Bois's legal-economic account (Du Bois, 1898) and Morrison's account of racial othering.
 
@@ -321,7 +475,7 @@ The three thinkers together show that slavery was not modernity's regrettable si
 
 Gilroy's argument in *The Black Atlantic* is analytically powerful and substantially correct. Slavery built modernity economically, legally, culturally and epistemically. Critique refines but does not undo the thesis. The corollary is that any sociology that treats slavery as an exotic past underestimates the modern present.
 
-### Mock 3. What does Du Bois mean by the "veil", and why does he treat it as constitutive of African American experience?
+### Mock 10. What does Du Bois mean by the "veil", and why does he treat it as constitutive of African American experience?
 
 In this essay I reconstruct what Du Bois means by the veil and show why he treats it as constitutive of African American experience.
 
@@ -345,7 +499,7 @@ Gilroy worries the veil might encase Black experience in fixity. In 'Race Ends H
 
 The veil names the invisible-from-one-side social barrier that produces double consciousness, second sight and doubled selfhood under formal equality. Du Bois treats it as constitutive because it is historical-structural, sociological-relational and phenomenological. The veil is what the colour line feels like from the wrong side.
 
-### Mock 4. Compare Du Bois's double consciousness with Fanon's epidermalisation as discussed by Gilroy.
+### Mock 11. Compare Du Bois's double consciousness with Fanon's epidermalisation as discussed by Gilroy.
 
 In this essay I compare Du Bois's double consciousness (1903) with Fanon's epidermalisation as Gilroy discusses it (Gilroy, 1998: 254-255). They share a structural diagnosis (the racialised subject sees themselves through the dominant world's eyes) but differ in colonial frame, bodily emphasis and political consequence.
 
@@ -374,7 +528,7 @@ Politically, both ground anti-racism in the perceptual privilege of the subordin
 Du Bois's double consciousness and Fanon's epidermalisation, as Gilroy reads it, are siblings of one Black Atlantic analytic. They share the structural diagnosis, differ in national versus colonial frame, psychological versus bodily emphasis, and reformist versus revolutionary horizon. Together they constitute the experiential foundation on which contemporary critical race theory rests.
 
 
-### Mock 5. Using the revision document's CRT material, explain how Du Bois's "racial realism" is extended by Critical Race Theory.
+### Mock 12. Using the revision document's CRT material, explain how Du Bois's "racial realism" is extended by Critical Race Theory.
 
 In this essay I explain how Critical Race Theory extends Du Bois's foundational move. CRT preserves Du Bois's anti-essentialism while generalising his diagnosis of post-Emancipation failure into a structural account of contemporary racial law.
 
@@ -400,7 +554,7 @@ The objection that CRT's pessimism overshoots Du Bois's hope misfires. Du Bois e
 
 CRT extends Du Bois's racial realism in four directions: rejecting the myth of racial progress, formalising interest convergence, specifying institutional sites of racial reproduction, and developing counter-storytelling as method. Gilroy's *Black Atlantic* extends the lineage to the diasporic scale; Morrison's *Origin of Others* supplies the affective motor; CRT supplies the institutional and methodological extension.
 
-### Mock 6. Is whiteness a racial identity or a structural position? Discuss.
+### Mock 13. Is whiteness a racial identity or a structural position? Discuss.
 
 In this essay I argue whiteness is best understood as a structural position that, in racialised societies, also becomes available as a racial identity. The two registers are connected, with the structural position generating the identity. I make the case through Morrison, Du Bois and Gilroy.
 
@@ -426,7 +580,7 @@ Du Bois's normative horizon ends *Souls* with the demand that "He simply wishes 
 
 Whiteness is both racial identity and structural position, with the structural primary. Disparities operate at the structural level; the identity register thickens when the structural position is challenged. Anti-racist politics that targets only identity without redistributing structural position will fail. Politics that redistributes structural position will dissolve the identity register because whiteness as identity is parasitic on whiteness as structure.
 
-### Mock 7. Discuss Du Bois's claim that race emerged as a labour-supply solution.
+### Mock 14. Discuss Du Bois's claim that race emerged as a labour-supply solution.
 
 In this essay I discuss Du Bois's claim in 'The Study of the Negro Problems' (1898) that race emerged in the seventeenth-century American colonies as a labour-supply solution. The claim is foundational, anticipates Gilroy's structural argument, and anchors Morrison's "race, in short, is an effect of power" (Morrison, 2017: 25).
 
@@ -452,7 +606,7 @@ Objections. First, the account is too materialist. Reply: Du Bois's later work (
 
 Du Bois's 1898 claim is foundational, accurate and generative. Race emerged as a labour-supply solution; the racial doctrine was downstream of the slave statutes; scientific racism then dressed the categorisation in biological clothing. Gilroy generalises to the Black Atlantic; Morrison adds the affective dimension; CRT extends to contemporary institutions. The 1898 essay is the empirical and legal anchor that grounds the lecture's argument that race is socially produced, not biologically discovered.
 
-### Mock 8. Does the science Gilroy describes in 'Race Ends Here' vindicate or refute scientific racism?
+### Mock 15. Does the science Gilroy describes in 'Race Ends Here' vindicate or refute scientific racism?
 
 Drawing on Gilroy's 'Race Ends Here' (1998), modern science refutes scientific racism as doctrine while creating conditions under which racial categorisation persists as an after-image. The case rests on Gilroy and on Du Bois's and Morrison's accounts of why doctrinal refutation is necessary but not sufficient.
 
@@ -480,7 +634,7 @@ Two objections. First, group genetic differences supposedly vindicate the concep
 
 The slide-30 conclusion captures the two-part answer: "Races do not exist. But the experiences constituted by the belief, practices, history and economics of 'race' do." The science refutes the doctrine; the experiences and institutions persist. The vindication is partial: scientific racism is refuted in the lab but not abolished in the institution. The intellectual war is won; the practical war is not. Gilroy's "anti-toxins" remain a normative aspiration whose conditions of possibility he is still mapping.
 
-### Mock 9. How convincing do you find Morrison's claim that whiteness creates the Other?
+### Mock 16. How convincing do you find Morrison's claim that whiteness creates the Other?
 
 In this essay I find Morrison's claim that whiteness creates the Other convincing and defend it on three grounds: it captures the historical record, explains the affective dynamics of racism, and provides a productive analytical frame for institutional analysis. I qualify the claim only by noting that it works best paired with Du Bois's structural account and Gilroy's Black Atlantic frame.
 
@@ -511,7 +665,7 @@ Examples. The slide 23 annotation on Trump-era rhetoric about "Mexican-Americans
 Morrison's claim is convincing because it fits the historical record, explains contemporary affective dynamics, and grounds productive institutional analysis. It works best paired with Du Bois's structural picture and Gilroy's Black Atlantic scale, but it identifies the affective core other accounts miss. Whiteness is a project of self-confirmation that requires manufactured difference. The project succeeds because the manufactured difference is mistaken for the explanation rather than the symptom.
 
 
-### Mock 10. Answer with reference to Gilroy's 'Race Ends Here': what does it mean to say that race has become an "after-image"?
+### Mock 17. Answer with reference to Gilroy's 'Race Ends Here': what does it mean to say that race has become an "after-image"?
 
 In this essay I explain what Gilroy means by saying race has become "an after-image" (Gilroy, 1998: 253). The metaphor combines a thesis about technological-perceptual change with a normative project of overcoming raciology; I assess its purchase against the lecture's wider analysis.
 
@@ -543,7 +697,7 @@ Du Bois tests the metaphor. *Dusk of Dawn*: "the black man is a person who must 
 
 Gilroy's after-image captures something important (race persists as perceptual reality after biological supports have collapsed) but is incomplete on its own. Race is reproduced as well as remembered; institutions, media and political mobilisations actively manufacture racial categorisation. 'Race Ends Here' is best read as a normative call rather than a descriptive claim; the fade requires the political and institutional work the metaphor hopes to provoke.
 
-### Mock 11. Using at least two authors, explain why "race ends here" is harder than it sounds.
+### Mock 18. Using at least two authors, explain why "race ends here" is harder than it sounds.
 
 In this essay I use Du Bois, Morrison and Gilroy himself to explain why Gilroy's slogan that race ends here (1998) is harder than it sounds. The slogan is right biologically and admirable normatively, but the social, institutional and affective infrastructure of race is far harder to dismantle than the doctrine that has been refuted.
 
@@ -573,7 +727,7 @@ Du Bois shows race is real because racism is real; biological refutation is nece
 
 Race ends here is harder than it sounds because race is reproduced by institutions, perceptual habits, political utility, anti-racist measurement and the historical depth of modernity. Gilroy is right about the direction; Du Bois and Morrison show why the journey is longer.
 
-### Mock 12. Can sociology abolish race without losing the analytical category?
+### Mock 19. Can sociology abolish race without losing the analytical category?
 
 In this essay I argue that sociology cannot abolish race in the present without losing analytical and political traction, but that it can and should work towards a future in which the category becomes unnecessary. The argument rests on the distinction between abolishing race as biological doctrine (already done in principle) and abolishing race as analytical category (premature, but worth aspiring to). I make the case through Du Bois, Morrison, Gilroy and CRT.
 
@@ -611,7 +765,7 @@ Sociology should work towards a future where race is no longer needed analytical
 
 Sociology cannot abolish race in the present without losing the traction needed to measure and contest disparities, but it can work towards a future where the category becomes unnecessary. The intermediate path is reflexive use: race as historical and constructed, held analytically rather than reified. Du Bois, Morrison and Gilroy support this. The end of race is a horizon, not a starting move.
 
-### Mock 13. Discuss the role of the Sorrow Songs and Black cultural production in Du Bois's *Souls*.
+### Mock 20. Discuss the role of the Sorrow Songs and Black cultural production in Du Bois's *Souls*.
 
 In this essay I discuss the role of the Sorrow Songs and Black cultural production in Du Bois's *Souls of Black Folk* (1903). I argue they function as the affirmative counterpoint to the diagnostic of the veil and double consciousness. Where double consciousness names the doubling imposed by the colour line, the Sorrow Songs name the cultural production by which the doubled subject creates something irreducible to the dominant world.
 
@@ -639,7 +793,7 @@ A second objection, that Black gifts to America assimilate the political demand,
 
 The Sorrow Songs serve three roles: evidential, methodological, and normative. Du Bois's text prefigures the Black Atlantic; Morrison's worry about media narrowing finds in Du Bois's editorial widening one of its remedies. The Sorrow Songs are the affirmative half of *Souls*: not denial of the veil, but proof that the veiled subject creates.
 
-### Mock 14. What does Gilroy mean by saying race is modernity's "most pernicious signature"?
+### Mock 21. What does Gilroy mean by saying race is modernity's "most pernicious signature"?
 
 In this essay I explain what Gilroy means by race as "modernity's most pernicious signature" (Gilroy, 1998: 252). The phrase carries three claims: racial categorisation is constitutive of modernity, integrally damaging, and articulated in a grammar linking science, nationality and political power.
 
@@ -675,7 +829,7 @@ Contemporary purchase. The revision document's CRT framing of "racial progress i
 
 Gilroy's claim carries constitution (race is integral to modernity), perniciousness (race is the most damaging defining mark), and articulation (race is the seam where reason and unreason meet). The implications are periodisation, critique and normative direction. Du Bois supplies legal-economic evidence; Morrison supplies affective machinery; CRT supplies institutional specification. Race is modernity's most pernicious signature because modernity could not have been what it became without it.
 
-### Mock 15. Compare Morrison and Gilroy on race as an effect of power.
+### Mock 22. Compare Morrison and Gilroy on race as an effect of power.
 
 In this essay I compare Morrison's race as power-effect (2017) with Gilroy's race as power-knowledge (1998, citing Foucault). The two are complementary: Morrison gives the affective machinery, Gilroy the perceptual and technoscientific. Together they specify what Du Bois's racial realism left in outline.
 

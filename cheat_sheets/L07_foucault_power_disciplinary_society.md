@@ -128,7 +128,55 @@ Behind all of this stands Foucault's polemic against traditional sociological th
 - Treating Foucault as a "postmodernist" who denies truth; he writes about regimes of truth, not the abolition of truth.
 - Forgetting the lecture's opening: ideology is not wrong, but it is "much more and much less" than what Foucault wants to analyse.
 
-## 7. Past-Year Exam Questions and Answers
+## 7. List of mock exam questions (19 total)
+
+**The first seven (M1-M7) follow the lecturer's actual exam-question-construction pattern most closely; they fuse 2-3 slide-bullet-questions or teacher-summary questions into a single composite, using the lecturer's own vocabulary. They are the most exam-realistic items in this section.**
+
+**M1.** Is power best understood as ideology or as "both much more and much less than ideology"? Discuss with reference to the Kember ultrasound and Foucault's methodological injunction that we must understand HOW power relations operate in society.
+
+**M2.** How has the way power operates changed since the nineteenth century, and is the concept of "the normal" one of the most insidious of all concepts of modernity? Discuss with reference to the shift from sovereign to disciplinary power.
+
+**M3.** Power is not just repressive, power is productive: what does it produce? Discuss with reference to the production of docile bodies in the modern capitalist economy and the claim that "we discipline ourselves, we self-regulate."
+
+**M4.** Is the panopticon a model of modernity? Discuss with reference to hierarchical observation, the formation of the conscience of the inmate, and the link between power, visibility, vision and knowledge.
+
+**M5.** "Am I different from the rest? Is everyone like me?" How does normalising judgement combine with hierarchical observation and the examination to produce the three aspects of discipline? Discuss with reference to the invention of "the normal" as the most insidious concept of modernity.
+
+**M6.** "It is our duty to keep ourselves healthy." What power mechanisms help support such a statement, and how does the consumer-culture imperative that we "produce ourselves as normal individuals, in control of ourselves" extend Foucault's analysis from disciplinary to biopolitical power?
+
+**M7.** How does Bordo's analysis of the slender body and Butler's account of power forming the subject together extend Foucault's notion of disciplinary power, and what does this tell us about the gendered specification of self-monitoring and self-normalization in contemporary consumer culture?
+
+**M8-M19** (existing mocks, renumbered):
+
+**M8.** "Visibility is a trap." Discuss with reference to Foucault.
+
+**M9.** Critically assess Foucault's argument in *Discipline and Punish*.
+
+**M10.** What does Foucault mean by power/knowledge, and why does he treat the two as inseparable?
+
+**M11.** Compare Foucault's account of disciplinary power with Marx's account of ideology.
+
+**M12.** How does Foucault's notion of biopower help us think about contemporary public-health management?
+
+**M13.** Is the panopticon a metaphor or a model? Discuss.
+
+**M14.** Bordo and the disciplinary body: from the slender norm to self-regulation.
+
+**M15.** How does Lynch's exposition of Foucault help us read the lecture's account of power?
+
+**M16.** How convincing do you find Foucault's claim that "power is everywhere"?
+
+**M17.** Using the work of at least two authors, evaluate Foucault's account of disciplinary power through the contributions of Bordo and Butler.
+
+**M18.** Can Foucault's framework be used to think about resistance, or does it foreclose it?
+
+**M19.** Compare Bordo's reading of disciplinary norms with Butler's account of the subject formed by power.
+
+---
+
+## 8. Essay answers
+
+### Past-Year Essays
 
 ### 2025 (Q9): How did Foucault challenge traditional sociological approaches to power? How convincing do you find his arguments?
 
@@ -326,9 +374,131 @@ Third, agency. If populations are constituted by biopower, what is the locus of 
 
 Assessment: Foucault's discussions of population governance through biopower are essential to contemporary social theory but not sufficient on their own. They illuminate what other vocabularies cannot: the politics of life itself, the everyday management of populations through diet, hygiene, antenatal care, vaccination, contact-tracing, and the moralisation of bodily self-management. They need supplementing with disciplinary analysis of the individual body and attention to the residual sovereign register. Used this way, biopower remains one of the most powerful concepts in the contemporary social-theoretic toolkit.
 
-## 8. Mock Exam Questions and Answers
+### Mock Essays
 
-### Mock Q1 (quote-driven): "Visibility is a trap." Discuss with reference to Foucault.
+### M1: Is power best understood as ideology or as "both much more and much less than ideology"? Discuss with reference to the Kember ultrasound and Foucault's methodological injunction that we must understand HOW power relations operate in society.
+
+Foucault opens his account of power with a methodological provocation that runs through Lecture 7. Sarah Kember's image of the obstetric ultrasound, in which "the scanning process eliminates the mother's body from view and the doctor has direct access to the image of the foetus" (Kember, 1998), looks at first like a textbook case for ideology critique. The doctor is part of a patriarchal medical system; women's bodies are erased in favour of the foetus; ideology is doing the work. The lecturer concedes the point: this account "is not exactly untrue" (Slide 5). Areas of medicine that focus on female bodies are systematically underfunded, and gendered research priorities are real. But Foucault's reply lands here: "It is both much more and much less than ideology" (Foucault, 1980: 102). My thesis is that ideology and Foucauldian power are different registers of the same problem, that ideology is not refuted by Foucault but supplemented, and that the methodological injunction to ask HOW power relations operate is the productive move.
+
+The ideology reading captures something but misses more. It identifies the doctor as agent and patriarchy as system, but it cannot describe what the scan does as a knowledge artefact: it produces the foetus as visible object, organises antenatal subjectivity around that visibility, and redistributes the maternal body's significance. The Marxist who asks "whose interests does obstetric medicine serve?" gets a partial answer (capital's, patriarchy's), but the question Foucault adds, "how does this scan organise bodies, gazes, and self-conduct?", names what ideology underdescribes. As Slide 6 puts it, "If we want to know what power is, then we need to understand HOW power relations operate in society."
+
+This is why the lecturer reaches for the polemic against Marxism. Slide 36 cites Foucault: "Power in Western capitalism was denounced by the Marxists as class domination; but the mechanics of power themselves were never analysed" (Foucault, 1980: 116). The Marxist diagnosis is not wrong; it is incomplete. It names the class effect of power without analysing the techniques through which power operates. The same applies to the liberal account (Slide 34): power as a thing possessed by specific people, dangerous because it limits freedom. Both treat what Lynch calls "terminal forms" of power as if they were essences (Lynch, 2011: 17), and both miss the capillary level.
+
+What is Foucault's positive contribution? Three moves matter. First, power is productive (Slide 13). Nineteenth-century institutions produced "new kinds of people, new kinds of subjects" through schools, prisons, and psychiatric hospitals. The ultrasound is productive in this sense: it does not just constrain women, it constitutes the antenatal subject and the visible foetus together. Second, power and knowledge are inseparable. The clinical apparatus produces knowledge of the foetus and exercises power on the maternal body in the same artefact. Slide 15 names the link in the panoptic case: "power is linked to visibility and vision and to knowledge." Third, power makes individuals subjects, in the double sense of subject-to and constituted-as (Foucault, 1982: 212). Butler radicalises this: power is "what we depend on for our existence" (Butler, 1997: 1-2), so the subject of feminist resistance is itself produced by the apparatus she contests.
+
+The political stake of the methodological shift is real. Asking only "who benefits?" can leave critique stuck at the level of denunciation. Asking "how does this apparatus work?" opens specific sites of contestation: the protocol, the screen, the antenatal class, the moralised duty to be screened. Critique can engage the mechanism rather than wait for the revolution. This connects to L17's Gramscian register: where Gramsci asks how a class secures consent through cultural leadership, Foucault asks how techniques produce self-regulating subjects (Gramsci, 1971: 12). The two are complementary registers of the same problem about how modern societies reproduce themselves without overt coercion.
+
+My counter-argument and conclusion. The risk of Foucault's framing is that it can sound as if ideology critique should be abandoned. Slide 23's flourish ("the bourgeoisie has won!") concedes that disciplinary apparatuses serve capital, and Marxist critique remains necessary for political-economic analysis the disciplinary toolkit brackets. The right reading is that ideology and the analytics of power are different registers, not rivals. Power is "both much more and much less than ideology" because ideology gets some things right and misses others. Foucault changes the question, not the answer. To ask HOW without abandoning WHO BENEFITS is the legacy of his intervention.
+
+[~728 words]
+
+### M2: How has the way power operates changed since the nineteenth century, and is the concept of "the normal" one of the most insidious of all concepts of modernity?
+
+The lecture's spine is a historical claim about a shift in how power operates. Before the nineteenth century, power in Western societies was sovereign: concentrated in the monarch, exercised through visible force, and dramatised in spectacular punishment. Foucault opens *Discipline and Punish* with the slow public execution of Damiens the regicide (Slide 8), an emblem of "the power of the monarch through the abuse of the body of the criminal." Modern power, since the nineteenth century, looks different. It is dispersed rather than concentrated, continuous rather than intermittent, productive rather than principally repressive. My thesis: the shift is real but partial, the concept of "the normal" is genuinely one of the most insidious inventions of modernity, and reading the two claims together gives us the lecture's strongest diagnosis of contemporary power.
+
+The shift first. Sovereign power, Foucault argues, "relied upon physical force and coercion and it was spectacular (it needed to be seen to be done)" (Slide 8). Disciplinary power, by contrast, is "subtle", "everywhere", and operates not by stopping people but by training them. Slide 10's school example crystallises the form: "registers, progress reports, school photos, records of achievement, testing, key stages" all simultaneously produce knowledge of the child and discipline her. The disciplinary apparatus does not need to coerce; it observes, examines, and normalises. Slide 17 makes the closure explicit: "If power shouted at us all the time we would notice it. Rather, it invites and incites us to behave in certain ways. We discipline ourselves! We self-regulate!"
+
+This shift is not a humanitarian improvement so much as a change in modality. Where the king's torturer exhibited power on the criminal's body, the modern apparatus produces docile bodies that "fit well into the modern capitalist economy and work well in factories and offices. They question little and behave well. And don't resist" (Slide 23). Bentham's panopticon is the architectural diagram of the new regime: a tower from which inmates can be observed without verifying when, producing self-regulation. The cell can hold "a madman, a patient, a condemned man, a worker or a schoolboy" (Foucault, 1977: 314 in Calhoun reader). Schools, hospitals, factories, and the army all instantiate the same logic. Contemporary CCTV networks, university league tables, and HR appraisal systems update the diagram without abandoning it.
+
+Now the normal. Slide 22 frames the question sharply: "Is the concept of the normal one of the most insidious of all concepts of modernity?" The lecturer's answer is implicit but clear. Previous forms of discipline simply stated what was forbidden and what was allowed (Slide 21). The nineteenth-century invention is different: it introduces a standard of "the normal" against which deviation is measured. This produces two effects at once. We are homogenised, in that we must conform to norms, and we are responsibilised, in that we must monitor our own conformity. Slide 21 catalogues the questions we ask ourselves: "Am I different from the rest? Is everyone like me? Am I a good friend?" The prevalence of questionnaires names the apparatus through which the normal is administered.
+
+Why insidious? Because the normal disguises its historicity. A norm appears as a fact about how things naturally are, not as a historically produced standard against which we have been trained to measure ourselves. Bordo's diachronic analysis is decisive here (Slide 25). In the late nineteenth century, plumpness signalled male success and pale skin signalled women's exemption from fieldwork; today the norm has inverted to slenderness and tone, but the form persists. The chasm Bordo names "produces bodies habituated to self-monitoring and self-normalization" (Bordo, 1993: 202-3). Each generation experiences its norms as natural, when each is an invented standard.
+
+Counter-argument and conclusion. Three qualifications. First, sovereign power has not vanished. Wherever the state visibly seizes bodies (corporal punishment, deportation, stop-and-search), the sovereign register persists. Second, the disciplinary shift is uneven; Bordo notes "more demands are made on women than men" (Slide 28), and L8's analyses of race show that disciplinary, biopolitical, and sovereign registers converge on racialised bodies. Third, "the normal" is contested; the body-positivity movement and contemporary critiques of BMI categories show normalising judgements being denaturalised. Yet on balance, the shift is real and the normal is insidious. Foucault's diagnosis names what otherwise hides in plain sight: the historically invented standards against which we are trained to police ourselves.
+
+[~716 words]
+
+### M3: Power is not just repressive, power is productive: what does it produce?
+
+Slide 13 poses the lecture's most generative question: power is productive, but what does it produce? Foucault answers, "in the nineteenth century, new kinds of people (new kinds of subjects) were created or produced through the creation of new institutions such as schools, prisons, psychiatric hospitals." My thesis is that the productive thesis is the conceptual core of disciplinary power, that what it produces is best understood through the lens of the docile body, and that the closure of the disciplinary mechanism in self-regulation is what makes the analysis distinctive.
+
+The productive thesis is a refusal of the repressive hypothesis. The repressive picture, common to liberal and Marxist accounts, treats power as a force that constrains pre-existing subjects. The state forbids; the ruling class exploits; freedom is what power limits. Foucault's intervention is to ask how power makes the subjects it then governs. Slide 13's worked example is the modern prisoner: he is not a pre-existing criminal whom the prison contains but a kind of subject the prison produces. The same applies to the schoolchild, the patient, the soldier, and the conscript. Each is the product of an institutional apparatus, not its raw material. Butler radicalises the thesis on Slide 12: "we understand power as forming the subject as well as providing the very condition of its existence" (Butler, 1997: 1-2). Power is not just what we oppose; it is what we depend on for being who we are.
+
+What power produces, then, is at once new kinds of knowledge and new kinds of people. The school produces the pupil and pedagogy together; the clinic produces the patient and clinical medicine together; the prison produces the delinquent and criminology together. Slide 37 extends the genealogy beyond the cell: "the police force was not only invented for maintaining law and order, nor for assisting governments in their struggle against their enemies, but for assuring urban supplies, hygiene, health" (Foucault, 1982: 215). The modern police produces healthy urban populations, not just punished individuals. Power produces, it does not just forbid.
+
+The product, on Slide 23, has a name. "Q. What Does Disciplinary Power Produce? A. Docile Bodies." The docile body is passive, self-regulating, useful: "ones which are passive and which regulate themselves according to the normalizing judgements of society." Such bodies, the lecturer adds, "fit well into the modern capitalist economy and work well in factories and offices. They question little and behave well. And don't resist. Let alone revolt. The bourgeoisie has won!" The flourish is polemical but important. The disciplinary apparatus produces the subjects capital needs without needing to coerce them.
+
+The mechanism of production is the three aspects of discipline. Hierarchical observation places monitors at asymmetric distance: they see us but we cannot see them (Slide 19). Normalising judgement measures us against the invented standard of "the normal" (Slide 22). The examination combines the two in documented form. These techniques generalise across institutional sites and produce the closure named on Slide 17: "If power shouted at us all the time we would notice it. Rather, it invites and incites us to behave in certain ways. We discipline ourselves! We self-regulate!" The disciplinary apparatus is most efficient when it is invisible, when the subject monitors herself against norms she experiences as her own.
+
+Bordo extends the productive thesis at the level of gendered embodiment. The slender, well-toned body is not coerced; it is produced through the magazine, the mirror, the gym, the fitness tracker, and the social media feed. Bordo's clinching formulation gives the contemporary scene: "the chasm that produces bodies habituated to self-monitoring and self-normalization" (Bordo, 1993: 202-3). The City of London worker at the gym, working out to "show you mean business" (Slide 28), is the productive thesis enacted as personal aspiration.
+
+Counter-argument and conclusion. The productive thesis can be pushed too far. If everything is produced by power, the analysis risks losing the distinction between produced and coerced, between disciplined and dominated. Slide 8's Damiens execution reminds us that sovereign power has not vanished, and L8's analyses of stop-and-search and immigration enforcement show that the visibly coercive register persists. The right reading: the productive thesis names what is distinctive about modern power without exhausting all of contemporary power. What disciplinary power produces is the docile, self-regulating subject of contemporary capitalism. The bourgeoisie may not have entirely won, but the apparatus the lecture names is the political form in which contemporary life is lived.
+
+[~736 words]
+
+### M4: Is the panopticon a model of modernity? Discuss with reference to hierarchical observation, the formation of the conscience of the inmate, and the link between power, visibility, vision and knowledge.
+
+The question is the title of Slide 15, and the lecture answers it in three connected moves: the panopticon is an ideal of a prison; it is also a diagram that generalises across institutions; and it makes power, visibility, and knowledge inseparable in a way that defines modernity. My thesis: yes, the panopticon is a model of modernity, but a particular kind, a diagram rather than a literal architecture, and reading it as a diagram lets us see how disciplinary surveillance has migrated from the cell to the schoolroom, the clinic, the gym, and the algorithmic feed.
+
+The original setting first. Bentham designed the panopticon as an ideal prison: a central watchtower with a light shining out into back-lit cells (Slide 14). Inmates are continuously visible to the supervisor but cannot see into the tower. The architecture produces asymmetric visibility: "in the peripheric ring, one is totally seen, without ever seeing; in the central tower, one sees everything without ever being seen" (Foucault, 1977: 316 in Calhoun reader). Because the inmate cannot verify when she is being watched, she behaves as if continuously observed. The tower can be empty; the apparatus still works.
+
+Slide 15 names the productive effect. "The panopticon encourages the prisoner to behave as if they are continually under surveillance. They begin to inspect or monitor their own behaviour. This opens up an interiority into which both the prison guard and the inmate can look. The Panopticon is where the exercise of power produces the formation of the conscience of the inmate." This is the lecture's strongest formulation of the productive thesis at the level of subjectivity. The panopticon does not just observe a pre-existing conscience; it forms the conscience the inmate then experiences as her own. Power is linked to visibility, to vision, and to knowledge in a single apparatus.
+
+Why does this make the panopticon a model of modernity rather than a model of prisons? Because the diagram travels. The same cellular logic, Foucault notes, can house "a madman, a patient, a condemned man, a worker or a schoolboy" (Foucault, 1977: 314 in Calhoun reader). Slide 10's school is the paradigmatic case without an architectural tower. The "registers, progress reports, school photos, records of achievement, testing, key stages" produce the same panoptic effect through a distributed apparatus of paperwork. Lynch's transcript, "this will go on your permanent record," compresses the diagram into a single sentence (Lynch, 2011: 15-16). The hospital ward, the factory floor, and the barracks all instantiate the diagram. Foucault calls this "an indefinitely generalizable mechanism of panopticism" (Foucault, 1977: 316 in Calhoun reader).
+
+Contemporary scenes update the diagram without abandoning its structure. CCTV networks in public spaces, facial recognition at airports, social media follower counts, fitness tracker dashboards, and HR performance reviews all produce asymmetric visibility, unverifiability, and internalisation. The Instagram filter is panoptic without a literal tower: the camera produces a self that knows it might be watched and behaves accordingly. Bordo's analysis (Slides 25-32) shows the bathroom mirror functioning as the tower, with the woman becoming both watcher and watched, and the slender norm supplying the unverifiable standard. A *Black Mirror* episode in which everyone rates everyone else makes the diagram cultural.
+
+A cross-link with L10's analyses of vision sharpens the point. Berger's claim that "men look at women; women watch themselves being looked at" (Berger, 1972: 47) and Mulvey's male gaze (Mulvey, 1975: 11) describe panoptic structures of vision before Foucault named them. The same disciplinary diagram organises both the prison cell and the cinema screen. Visibility is not neutral; it is organised by relations of power, and those relations produce subjects who watch themselves in the act of being watched.
+
+Counter-argument and conclusion. The panopticon is not the only diagram of modern power. Biopolitical injunctions (Slide 24's salt, 5-a-day, anti-obesity policy) target the population statistically, not the individual cell, and the panoptic figure is the wrong tool for the population aggregate. Sovereign power still operates (Slide 8) where the state visibly seizes bodies. Lynch warns that theory should not "answer everything" (Lynch, 2011: 13). Yet within its proper scope, the panopticon is the right diagram for the disciplinary mode of modernity. Where asymmetric visibility, unverifiability, and self-regulating internalisation are in play (the school, the body, the clinic, the algorithmic feed), the panopticon names the contemporary apparatus precisely. As a diagram, not as a building, it remains a model of modernity.
+
+[~732 words]
+
+### M5: "Am I different from the rest? Is everyone like me?" How does normalising judgement combine with hierarchical observation and the examination to produce the three aspects of discipline?
+
+The questions on Slide 21 sit at the heart of the lecture's analysis of contemporary subjectivity. "Am I different from the rest? Is everyone like me? Am I a good friend?" The lecturer notes that this is why questionnaires are everywhere. My thesis is that these are not innocent questions but the operating noises of normalising judgement, the third and decisive aspect of disciplinary power, and that read with hierarchical observation and the examination they describe the complete mechanism through which disciplinary society produces the self-regulating subject.
+
+The three aspects of discipline are introduced across Slides 19 and 21. Hierarchical observation comes first. Observers "inspect from a distance and are themselves unobserved and are not judged" (Slide 19). The asymmetry is the point: I can be watched without being able to verify when, and the watcher remains invisible to me. The examination comes second: "where we are tested, where we are checked to see how we fit in with the rest. To see how far we fit in with or deviate from the Norm." Normalising judgement is third and most important. Slide 21 makes the historical claim sharply: "Previous forms of discipline simply stated what was forbidden and what was allowed. The revolution in the development of disciplinary society is that it introduces the idea of what is normal."
+
+This is why Slide 22 asks the polemical question: "Is the concept of the normal one of the most insidious of all concepts of modernity?" The lecturer's answer is yes, and the reason is the double effect Slide 21 describes. Disciplinary society "operates both by making us homogenized, we must all conform to norms, to the normal," and by "making us take on responsibility as individuals for matching up to norms." The norm is not just an external standard; we are made responsible for our own conformity to it. The chasm Bordo names is exactly this gap: "media images of self-containment and self-mastery and the reality of constant everyday stress" produce "bodies habituated to self-monitoring and self-normalization" (Bordo, 1993: 202-3).
+
+The three aspects fit together as a single machine. Hierarchical observation produces visibility; normalising judgement produces a standard against which the visible can be evaluated; the examination produces a documented combination of the two. The school is the lecture's paradigm. Registers monitor attendance, progress reports measure against age-appropriate norms, school photos and records of achievement document the combination, key-stage testing examines under controlled conditions (Slide 10). Each instrument simultaneously knows the child and disciplines her. The pupil is observed, judged against the normal, and examined in documents that follow her through life.
+
+Slide 21's questionnaires extend the mechanism into adult life. "Am I different from the rest?" is the self-administered version of the examination. "Is everyone like me?" is the self-administered hierarchical observation. "Am I a good friend?" is the self-administered normalising judgement. The questionnaire is the disciplinary apparatus internalised. Today's BuzzFeed personality quizzes, mental-health self-screening apps, ADHD checklists, and social media self-presentation extend the form. We measure ourselves against invented standards we experience as our own.
+
+Bordo's body norms make the mechanism concrete. Hierarchical observation: the magazine, the mirror, the peer, the City colleague (Slide 28). Normalising judgement: the slender, well-toned body as the standard against which deviation registers as failure ("being fat is equated with being lazy. Of not caring. Of being a failure", Slide 28). Examination: the bathroom scale, the calorie count, the dressing-room verdict, the weekly step total. The mirror reads the self into the norm; the scale documents the result. Slide 32 names the productive closure: "we have to produce ourselves as normal individuals, in control of ourselves."
+
+Counter-argument and conclusion. Two qualifications. First, the three aspects do not exhaust all power. Biopolitical norms target the population through statistical aggregates (Slide 24), and sovereign power still seizes bodies visibly (Slide 8). Second, normalising judgement is contested. Bordo's diachronic move (Slide 25) shows that today's slender norm is no more natural than 1880's plump norm, and Lynch insists that "power relations can always be altered" (Lynch, 2011: 28). Body-positivity movements and contestations of ADHD diagnosis demonstrate contemporary resistance. Yet on balance, the three aspects of discipline name the contemporary apparatus precisely. The questionnaire's questions are not innocent; they are the everyday voice of normalising judgement, and asking them is how we participate in our own discipline.
+
+[~719 words]
+
+### M6: "It is our duty to keep ourselves healthy." What power mechanisms help support such a statement, and how does the consumer-culture imperative that we "produce ourselves as normal individuals, in control of ourselves" extend Foucault's analysis from disciplinary to biopolitical power?
+
+Slide 24 poses the lecture's sharpest question about the biopolitical register. "It is our duty to keep ourselves healthy. This may seem obvious but what power mechanisms help support such a statement?" The lecturer gives three examples: "it is the duty of government to make us reduce our salt level"; "we feel bad if we do not eat 5 portions of fruit/veg per day"; "the government must stop obese children." My thesis is that this duty looks obvious only because we live inside a biopolitical regime that produces it, that the consumer-culture imperative on Slide 32 extends the disciplinary individual body into the biopolitical population, and that reading Slides 24 and 32 together gives us the lecture's clearest diagnosis of contemporary self-government.
+
+The duty unpacked first. None of Slide 24's mechanisms target an individual through coercion. The salt-reduction target acts on the population's aggregate sodium intake; the 5-a-day campaign moralises a dietary norm whose felt failure registers as personal moral failure; the anti-childhood-obesity policy targets a cohort. This is biopower in the sense Lynch describes: power that "does not directly address particular individuals, but rather groups of people and populations as a whole" (Lynch, 2011: 16). Its rationality is "to save lives" by acting on aggregates. The modern police force, Slide 37 reminds us, was instituted not only for law and order but "for assuring urban supplies, hygiene, health" (Foucault, 1982: 215). The biopolitical genealogy is as old as modern urban government.
+
+What is distinctive about contemporary biopolitical injunctions is that they reach into individual conduct as duties. "It is our duty to keep ourselves healthy" frames a population-level rationality as personal moral obligation. We are not coerced into eating five portions of fruit and vegetables; we feel bad if we do not. The felt failure is the apparatus. Government salt-reduction targets work not principally through compulsion of manufacturers but through self-monitoring of consumers who read labels and adjust their intake. Pandemic contact-tracing apps, COVID-era mask mandates, and vaccination drives extend the same logic: population-level rationalities are taken up as personal duties.
+
+Slide 32 completes the picture. "We live in a consumer society, one which runs on us drinking coffee, eating cakes, take-away food etc. But we have to produce ourselves as normal individuals, in control of ourselves, and this means being in control of our bodies." The biopolitical regime sits inside a consumer culture that incites consumption and demands self-mastery simultaneously. The injunction is contradictory: eat the cake and stay slender. Bordo's chasm names exactly this gap. "Self-management in consumer culture becomes more elusive as it becomes more pressing... lies the chasm that produces bodies habituated to self-monitoring and self-normalization" (Bordo, 1993: 202-3). The duty is biopolitical (acting on the population's health) and disciplinary (acting on individual bodies) at once.
+
+Fitness trackers, calorie-counting apps, and smartwatch step-counters automate the regime. They individualise the biopolitical norm: the population-level recommendation to walk 10,000 steps per day becomes the individual's daily target on her wrist. The cohort recommendation to consume less sugar becomes the individual's pre-meal app entry. The disciplinary individual body and the biopolitical population are governed through the same digital apparatus. Where the public-health director once acted on the population, the individual now self-administers the same rationality.
+
+A cross-link with L8 sharpens the point. Race is one of biopower's paradigmatic objects, and pandemic-era disparities in COVID outcomes by ethnicity show biopolitical injunctions falling unevenly on differently positioned populations. Du Bois's "double consciousness" (Du Bois, 1903: 8) names the embodied experience of being folded into the population as both managed object and excluded interiority. Biopolitics is racial from its origins.
+
+Counter-argument and conclusion. The risk is over-generalisation: if everything is biopolitical, the concept loses discriminating power. Lynch warns against using theory to "answer everything" (Lynch, 2011: 13). Sovereign power persists (Slide 8 the Damiens trace), disciplinary power on individual bodies operates alongside biopolitical norms (the school combines registers and 5-a-day), and biopolitical injunctions are resisted (anti-vaccine politics, fat-acceptance movements). Yet on balance, the duty Slide 24 names is biopolitical in form and disciplinary in execution. The salt label is the biopolitical state speaking to the disciplinary subject through the consumer aisle. The duty is real because it has been produced.
+
+[~699 words]
+
+### M7: How does Bordo's analysis of the slender body and Butler's account of power forming the subject together extend Foucault's notion of disciplinary power?
+
+Slide 32 closes the lecture's body sequence with the lecturer's clearest invitation to read Bordo with Foucault. "Power operates more subtly but more closely in the regulation of women's bodies with regard to normalising judgements. Foucault's work on power can help us understand this situation better." Slide 12 supplies the parallel invitation for Butler: power is "what we depend on for our existence and what we harbour and preserve in the beings that we are" (Butler, 1997: 1-2). My thesis: Bordo gives Foucault the gendered specification he did not develop, Butler radicalises the productive thesis at the level of subject formation, and reading them together is reading Foucault at full strength.
+
+Bordo first. Slides 25-32 trace her argument in three moves. The diachronic move (Slide 25) historicises body norms: in the late nineteenth century, plumpness signalled male success, muscle signalled working-class status, and pale skin signalled women's exemption from fieldwork. The norms have inverted, but the form persists. Slide 27 tracks the contemporary scene: "30 years ago we were concerned with weight... encouraged to diet, fight the flab. Nowadays, we have to be slender. Adverts talk of being in trim, well-toned, well-defined." Body parts are framed "in revolt", thighs, stomach, upper arms, calves. The gendered specification (Slide 28): "more demands are made on women than men in terms of producing themselves as normal." The self-regulatory closure (Slide 29): "the chasm that produces bodies habituated to self-monitoring and self-normalization" (Bordo, 1993: 202-3).
+
+What does Bordo add to Foucault? Foucault's three aspects of discipline (Slides 19, 21) were relatively gender-neutral. Bordo applies them to bodies with feminist precision. Hierarchical observation: the magazine, the mirror, the advertising image, the peer group, the Instagram feed. Normalising judgement: the slender, well-toned norm as the standard against which deviation registers as moral failing. The examination: the scale, the calorie count, the dressing-room verdict, the gym-mirror appraisal. Foucault's apparatus is filled in with the gendered content the lecture endorses. As Slide 32 puts it, Foucault's work helps "us understand this situation better/more accurately."
+
+Butler second. Slide 12 cites *The Psychic Life of Power*: "We are used to thinking of power as what presses on the subject from the outside... But if we understand power as *forming* the subject as well as providing the very condition of its existence... then power is not simply what we oppose, but also, in a strong sense, what we depend on for our existence and what we harbour and preserve in the beings that we are" (Butler, 1997: 1-2). Foucault on Slide 18 says power "makes individuals subjects" (Foucault, 1982: 212); Butler radicalises the claim. There is no pre-power subject who resists disciplinary normalisation; the subject is itself a product of the apparatus.
+
+What does Butler add to Foucault? She makes resistance immanent. If power forms the subject, the subject of feminist resistance is itself produced by power, and resistance cannot stand on an authentic pre-disciplinary self. This complicates the politics: there is no return to an untouched body or untouched gender. But it opens a more honest politics of immanent contestation. Bordo's diachronic historicisation is exactly this: showing that today's slender norm is no more natural than 1880's plump one denaturalises the present without claiming an outside.
+
+Reading them together. The contemporary scene is both Bordoian and Butlerian. The Instagram filter is Bordoian (disciplinary observation against a norm) and Butlerian (constitution of the photographed self through filtering). The fitness tracker is Bordoian (self-monitoring against a daily target) and Butlerian (formation of the kind of person whose worth is tracked numerically). A cross-link with L5 sharpens the point: Butler's earlier *Gender Trouble* describes gender as a "stylized repetition of acts" (Butler, 1990: 25), so the disciplinary norms Bordo describes do not regulate a pre-existing gender but constitute it through citational performance.
+
+Counter-argument and conclusion. The risk of pushing the productive thesis is that agency disappears. If power forms the subject, what grounds resistance? Lynch's reading helps: "to understand subjectivity as constituted (in part) through power relations is not to deny that subjects can act intentionally" (Lynch, 2011: 28). Bordo's historicisation and Butler's immanent contestation are agency at the disciplinary scale. Verdict: reading Foucault without Bordo loses the gendered specification; reading Foucault without Butler loses the radical productive thesis. Together they give the lecture's most powerful contemporary diagnosis: the disciplinary subject is produced through gendered norms she experiences as her own.
+
+[~728 words]
+
+### M8 (was Mock Q1, quote-driven): "Visibility is a trap." Discuss with reference to Foucault.
 
 "Visibility is a trap" (Foucault, 1977: 315 in Calhoun reader) appears as Foucault unpacks Bentham's panopticon. The trap is not that the inmate is seen (sovereign power saw bodies too, in the spectacle of the scaffold) but that the inmate is visible while the watcher is invisible, so the inmate behaves as if continuously observed even when no one is in the tower. The line is a compressed theory of disciplinary power; taking it seriously means tracking the trap through the panopticon, nineteenth-century institutions, Bordo's gendered body, and the ultrasound that opens the lecture.
 
@@ -346,7 +516,7 @@ Sixth, the politics. The trap captures the productive character of disciplinary 
 
 "Visibility is a trap" is correct as a description of the disciplinary mode, indispensable as a diagnosis of self-regulation, and incomplete as a complete theory of contemporary observation. Read alongside Bordo and Kember, the trap remains one of the most useful images in social theory.
 
-### Mock Q2 (named-work): Critically assess Foucault's argument in *Discipline and Punish*.
+### M9 (was Mock Q2, named-work): Critically assess Foucault's argument in *Discipline and Punish*.
 
 *Discipline and Punish* (Foucault, 1977) makes a historical claim (Western societies shifted from sovereign to disciplinary power over the long nineteenth century) and a diagnostic claim (the prison's techniques, articulated in the panopticon, became "an indefinitely generalizable mechanism of 'panopticism'" running through schools, hospitals, factories, and the army (Foucault, 1977: 316 in Calhoun reader)).
 
@@ -368,7 +538,7 @@ A further genealogical strength is worth noting. Halewood's critique of modern t
 
 My verdict: *Discipline and Punish* names what is happening with unique precision in the school, prison, hospital, army, clinic, and body. It is convincing at the level of technique and productive subject formation; deliberately incomplete at the level of political economy; and benefits from being read alongside Bordo and Butler. Foucault gives us the anatomy; the structural critique remains the necessary supplement.
 
-### Mock Q3 (two-part): What does Foucault mean by power/knowledge, and why does he treat the two as inseparable?
+### M10 (was Mock Q3, two-part): What does Foucault mean by power/knowledge, and why does he treat the two as inseparable?
 
 Part one: what does Foucault mean by power/knowledge? The hyphen carries the argument. By power/knowledge Foucault means the production of human-scientific knowledge (psychiatric, pedagogical, clinical, demographic) is itself a power operation, and the exercise of power on bodies and populations cannot proceed without producing knowledge about them. Slide 3: the ultrasound "raises the question of power and its relation to knowledge." Slide 15: in the panopticon "power is linked to visibility and vision and to knowledge." Foucault: this power "imposes a law of truth on him which he must recognize... It is a form of power which makes individuals subjects" (Foucault, 1982: 212).
 
@@ -392,7 +562,7 @@ The inseparability is essential to the politics. If knowledge were neutral, crit
 
 Conclusion: power/knowledge is inseparable by historical analysis, not by definition. The thesis applies most cleanly to the human sciences. Regimes of truth can still be better or worse; Foucault was not a strong relativist. The Kember scan, the school's testing regime, and Bordo's body norms each show the inseparability in action, and the analysis is reactivated every time a new diagnostic category, an examination, or a body ideal is introduced.
 
-### Mock Q4 (specific-comparison): Compare Foucault's account of disciplinary power with Marx's account of ideology.
+### M11 (was Mock Q4, specific-comparison): Compare Foucault's account of disciplinary power with Marx's account of ideology.
 
 This essay compares Marx's ideology (Slide 35) and Foucault's disciplinary power (*Discipline and Punish*, 1977). They operate at different registers and are best used together.
 
@@ -408,7 +578,7 @@ Worked examples. The school's regime of registers, progress reports, and key sta
 
 Foucault did not refute Marx; he changed the question. Marx asks who benefits and how consent is secured. Foucault asks how techniques work and how subjects are produced. The lecture holds both registers: Slide 23 names the capitalist benefit of docile bodies; Slides 35-36 frame Foucault as a methodological supplement to, not a dismissal of, Marxism. Gramsci's account of hegemony is the natural bridge between the two. Hegemony is rule "by consent" (Gramsci, 1971: 12), secured in the everyday institutions of civil society (school, church, press, union) rather than by the state alone, and Hall's reading (Hall, 1981: 227) treats ideological and disciplinary techniques as complementary registers of the same problem: how a modern social order reproduces itself without overt coercion. Lynch's reading reinforces the supplementarity: the analytics of power do not abolish the question of who benefits but make it possible to ask it more carefully. The right move is to keep both: ideology critique remains needed for the manosphere's misogynist worldview or for billionaire-influencer self-help; disciplinary critique remains needed for the gym, the HR review, and the ultrasound. To replace ideology with disciplinary power is to lose tools; to dismiss disciplinary power as Marxist heresy is to miss what makes modern power distinctive.
 
-### Mock Q5 (contemporary-application): How does Foucault's notion of biopower help us think about contemporary public-health management?
+### M12 (was Mock Q5, contemporary-application): How does Foucault's notion of biopower help us think about contemporary public-health management?
 
 Public-health management is one of the clearest contemporary expressions of biopower, which Lynch describes as acting "not directly [on] particular individuals, but rather [on] groups of people and populations as a whole" (Lynch, 2011: 16). I argue Foucault's biopower supplies the indispensable vocabulary for what happens in the everyday public-health apparatus, while also revealing the productive ambiguity at the heart of health governance.
 
@@ -436,7 +606,7 @@ Three productive ambiguities.
 
 Verdict: biopower is essential for thinking about contemporary public-health management, from salt-reduction targets and 5-a-day to pandemic-era vaccine drives and digital contact-tracing. It names the population-level rationality, the moralised self-government, and the productive but ambiguous visibility that the lecture's examples disclose. It needs holding in tension with disciplinary analysis of the individual body and with attention to the residual sovereign register that visibly seizes bodies. Used this way, biopower remains the most important single concept for thinking about how modern societies govern life itself.
 
-### Mock Q6 (disjunctive): Is the panopticon a metaphor or a model? Discuss.
+### M13 (was Mock Q6, disjunctive): Is the panopticon a metaphor or a model? Discuss.
 
 The disjunction (metaphor or model) is the key to reading Foucault on the panopticon. The panopticon is best understood as a *diagram*: something between metaphor and model, a schema naming the logical structure of disciplinary surveillance without claiming that any actual institution implements it perfectly, and which therefore travels productively across institutional sites.
 
@@ -462,7 +632,7 @@ Where the diagram strains. The biopolitical injunctions of Slide 24 (salt, 5-a-d
 
 Verdict: the panopticon is a diagram. As metaphor it under-claims; as model it over-claims. As diagram it does just what Foucault wanted: name the disciplinary logic without specifying empirical implementations, and leave room for the biopolitical and sovereign diagrams alongside it. Where asymmetric visibility, unverifiability, and internalisation are in play (school, body, clinic, social-media feed), the panopticon is the right tool; where the population is the target, biopolitics is needed alongside.
 
-### Mock Q7 (topic-as-title): Bordo and the disciplinary body: from the slender norm to self-regulation.
+### M14 (was Mock Q7, topic-as-title): Bordo and the disciplinary body: from the slender norm to self-regulation.
 
 My title names what Slide 28 calls "the intersections of power, the body, discipline and self-regulation... linked to what is regarded as normal." Bordo's analysis is the lecture's clearest contemporary illustration of Foucauldian disciplinary power; her diachronic move is decisive for the productive thesis; and her account exposes the gendered character of disciplinary society Foucault did not fully theorise.
 
@@ -482,7 +652,7 @@ Bordo's account also has a feminist counter built in. hooks' "oppositional gaze"
 
 Conclusion. Bordo's analysis is the lecture's most fully developed contemporary illustration of disciplinary power and docile bodies. The slender body, the City of London gym (Slide 28), the felt failure of missing a 5-a-day target (Slide 24), the consumer-culture paradox (Slide 32) all instantiate the panoptic diagram at the level of embodied selfhood. Butler (Slide 12) extends the analysis to the subject as such: power forms rather than constrains a pre-existing subject. The disciplinary body and the disciplined subject are produced together; the productive thesis of Slide 13 reaches its sharpest form here.
 
-### Mock Q8 (hypothetical): How does Lynch's exposition of Foucault help us read the lecture's account of power?
+### M15 (was Mock Q8, hypothetical): How does Lynch's exposition of Foucault help us read the lecture's account of power?
 
 Lynch's chapter "Foucault's theory of power" supplies the conceptual scaffolding the slides rely on without always making explicit. Lynch's exposition supplies four indispensable supplements: a clearer account of what Foucault is rejecting, a clearer account of the micro/macro articulation, a sharper formulation of the "intentional but non-subjective" character of power, and a precise reading of resistance.
 
@@ -506,7 +676,7 @@ A productive cross-reading is with Hall's reception of Gramsci. Hall (Hall, 1980
 
 Verdict: Lynch's exposition is not an alternative to Foucault but the reader's scaffold for the lecture. It clarifies what is rejected, articulates the micro/macro structure, makes the "intentional but non-subjective" claim defensible, and restores the resistance Slide 17 risks losing. The lecture and Lynch are designed to be read together; Lynch is the lecture's theoretical apparatus made explicit.
 
-### Mock Q9 (single-author how-convincing): How convincing do you find Foucault's claim that "power is everywhere"?
+### M16 (was Mock Q9, single-author how-convincing): How convincing do you find Foucault's claim that "power is everywhere"?
 
 Foucault: "power is everywhere; not because it embraces everything, but because it comes from everywhere" (Foucault, 1978: 93, cited in Lynch, 2011: 25). I find the claim convincing on a careful reading, unconvincing on a careless one, and politically productive only when paired with specifications preventing it from collapsing into cynicism.
 
@@ -534,7 +704,7 @@ Worked examples. The school is a site where power "comes from everywhere" (regis
 
 Verdict: "power is everywhere" is convincing as a description of the dispersed, capillary character of modern power. It is not convincing as a complete theory superseding structural analysis. Read as a methodological injunction (look everywhere) rather than a metaphysical thesis, it is one of the most consequential claims in twentieth-century social theory, and Lynch is the indispensable scaffold for getting it right.
 
-### Mock Q10 (two-authors): Using the work of at least two authors, evaluate Foucault's account of disciplinary power through the contributions of Bordo and Butler.
+### M17 (was Mock Q10, two-authors): Using the work of at least two authors, evaluate Foucault's account of disciplinary power through the contributions of Bordo and Butler.
 
 Bordo and Butler each contribute a different specification of Foucault's productive thesis. I argue: strengthened at bodily discipline (Bordo), transformed at subject formation (Butler), and qualified by the gendered specification Foucault did not develop.
 
@@ -558,7 +728,7 @@ Worked illustrations. The Kember scan (Slide 2) is the clearest meeting point: d
 
 Verdict: Foucault's disciplinary power is strengthened by Bordo's gendered specification and transformed by Butler's account of subject formation. Both extend Foucault to domains he did not develop, and both expose the productive thesis as more radical than Slide 13's compressed version makes it appear. Reading the lecture without Bordo and Butler is reading Foucault without his most generative heirs.
 
-### Mock Q11 (can-we): Can Foucault's framework be used to think about resistance, or does it foreclose it?
+### M18 (was Mock Q11, can-we): Can Foucault's framework be used to think about resistance, or does it foreclose it?
 
 This repeats one of the oldest charges against Foucault: that his account leaves no room for resistance. I argue: yes, Foucault's framework can be used for thinking about resistance, and Lynch's reading makes the case.
 
@@ -582,7 +752,7 @@ Illustrations. Bordo's historicisation of body norms is a disciplinary resistanc
 
 Verdict: Foucault's framework does not foreclose resistance, contrary to the standard prosecution case. What it forecloses is the master-narrative model (the universal subject, the final liberation). What it enables is granular analysis of how power and resistance entangle in specific institutions, bodies, and contested moments. For these tasks, Foucauldian resistance is the right scale of analysis. For structural inequality at scale, Foucault must be supplemented by Marxist and feminist structural critique. The framework opens space for political work; the work itself remains ours.
 
-### Mock Q12 (specific-comparison): Compare Bordo's reading of disciplinary norms with Butler's account of the subject formed by power.
+### M19 (was Mock Q12, specific-comparison): Compare Bordo's reading of disciplinary norms with Butler's account of the subject formed by power.
 
 Bordo and Butler share a Foucauldian commitment to the productive thesis but develop it differently. Bordo's "Reading the Slender Body" (1993) works with disciplinary norms; Butler's *The Psychic Life of Power* (1997) works with the formation of the subject by power.
 

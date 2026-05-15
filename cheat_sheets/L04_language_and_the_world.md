@@ -180,20 +180,29 @@ Across all five thinkers the same lesson appears: language **classifies and eval
 
 ---
 
-## 6. Mock exam questions (12)
+## 6. Mock exam questions (19)
 
-1. "Decolonising the mind requires decolonising the language" (Ngũgĩ). Discuss.
-2. Critically assess Spender's argument in *Man Made Language* with reference to Halewood's chapter on gender and personal pronouns.
-3. What does de Beauvoir mean by "woman is the Other", and why does she treat that othering as linguistically structured?
-4. Compare Ngũgĩ's argument for African-language writing with Achebe's defence of Africanised English.
-5. "Problems with inequality in language are also problems within the world" (Lecture 4 slide 4). Critically explain this slogan with reference to at least two authors.
-6. Is linguistic determinism a coherent thesis or a category error?
-7. How does Halewood use the figure of the "chair" to extend de Beauvoir and Irigaray into Anglophone usage?
-8. Critically explain how the Sapir-Whorf hypothesis is presented and qualified by the lecturer.
-9. How convincing do you find Spender's claim that English is structurally patriarchal?
-10. Using the work of at least two authors, explain how language operates as a vehicle of inequality.
-11. Can sociology be done in English without reproducing the colonial mind?
-12. "Language is not a vehicle but a battleground." Discuss with reference to the lecture's account of Welsh, Gaelic, and Cornish.
+> **Note.** Mocks **M1-M7** below are new composites built from slide-bullet questions (slides 4-6 on "Words for Snow" and the "different world?" framing; slides 13-15 on Spender's grammarians plus de Beauvoir; slide 18 "What is to be done?" with the actor/actress debate; slide 26 "And what of other languages?"; Halewood's pronouns/trans-rights cluster with Tichý and Irigaray; slides 24-25 on Achebe's "I hope not"; slide 21 plus colonial-school passages on Ngũgĩ's imperialism-of-language mechanism). They sit first; **M8-M19** are the previously listed mocks renumbered.
+
+1. **M1.** How does the "words for snow" example both *illustrate* and *undermine* the Sapir-Whorf hypothesis, especially when read through the us/them framing of the lecture's qualification slides?
+2. **M2.** How does Spender's archive of named grammarians (Wilson, Kirkby) relate to de Beauvoir's claim that the man takes himself for granted, especially in the production of the male as unmarked default?
+3. **M3.** Can making women "linguistically visible" (Spender, 1980: 162) both empower and limit gender reform, especially in light of the Marsh actor/actress debate?
+4. **M4.** How does Ngũgĩ's imperialism-of-language analysis relate to the fate of Welsh, Gaelic, and Cornish, especially in the context of class-driven Anglicisation inside the British Isles?
+5. **M5.** How can pronouns both *encode* and *contest* gender hierarchy, especially in the context of trans-pronoun debates and the Czech *šly/šli* example?
+6. **M6.** "Can he ever learn to use it like a native speaker?... I hope not" (Achebe, 1997: 347). What does Achebe's refusal of native-speaker English achieve, and what are its costs, especially in the context of writing as an act of cultural submission or refashioning?
+7. **M7.** How does Ngũgĩ's account of the colonial school (the cane, the "I am stupid" plaques, the "Oxford Readers for Africa") ground his claim that English was "the bearer of all knowledge in the arts and sciences" (Ngũgĩ, 1993: 33)?
+8. **M8.** "Decolonising the mind requires decolonising the language" (Ngũgĩ). Discuss.
+9. **M9.** Critically assess Spender's argument in *Man Made Language* with reference to Halewood's chapter on gender and personal pronouns.
+10. **M10.** What does de Beauvoir mean by "woman is the Other", and why does she treat that othering as linguistically structured?
+11. **M11.** Compare Ngũgĩ's argument for African-language writing with Achebe's defence of Africanised English.
+12. **M12.** "Problems with inequality in language are also problems within the world" (Lecture 4 slide 4). Critically explain this slogan with reference to at least two authors.
+13. **M13.** Is linguistic determinism a coherent thesis or a category error?
+14. **M14.** How does Halewood use the figure of the "chair" to extend de Beauvoir and Irigaray into Anglophone usage?
+15. **M15.** Critically explain how the Sapir-Whorf hypothesis is presented and qualified by the lecturer.
+16. **M16.** How convincing do you find Spender's claim that English is structurally patriarchal?
+17. **M17.** Using the work of at least two authors, explain how language operates as a vehicle of inequality.
+18. **M18.** Can sociology be done in English without reproducing the colonial mind?
+19. **M19.** "Language is not a vehicle but a battleground." Discuss with reference to the lecture's account of Welsh, Gaelic, and Cornish.
 
 ---
 
@@ -307,7 +316,173 @@ The statement comes almost verbatim from the lecture: "Problems with inequality 
 
 *Word count: ~700.*
 
-### Essay 6 / Mock Q1: *"Decolonising the mind requires decolonising the language" (Ngũgĩ). Discuss.*
+### M1: *How does the "words for snow" example both illustrate and undermine the Sapir-Whorf hypothesis, especially when read through the us/them framing of the lecture's qualification slides?*
+
+The "words for snow" example does double duty in Lecture 4. On slide 4 it *illustrates* linguistic relativity at its most intuitive: "Eskimos" allegedly have "over 50 words for 'snow'" and therefore "live in a very different world from 'us'" (Lecture 4 slides 4-5). On slides 7-9 the same example is dismantled to *undermine* the strong, deterministic reading. The example is both the lecture's most vivid illustration and its primary cautionary tale. My argument: the example survives as a teaching device only because the lecture's "us/them" qualification (slide 8) converts it from a claim about cognition into a claim about who gets to name whom.
+
+**How it illustrates the hypothesis.** Brown's formulation is that "the speakers of a language are partners to an agreement to perceive and think of the world in a certain way" (Brown, 1968: 230). The snow case dramatises this. A "wide range of words for snow" is needed in an Arctic environment "to be able to live" (slide 5), and the language tracks the world's relevant distinctions. The stronger determinist reading follows: "the languages of the world are so many moulds of varying shape into which infant minds are poured" (Brown, 1968: 231). On this reading, English speakers without single-word distinctions for *wet/dry/packing snow* cannot fully experience the differentiated snowy world an "Eskimo" speaker inhabits.
+
+**How it undermines the hypothesis.** Slide 7 makes the first qualification: *any* language is "a specific rendering of a specific 'reality'", not "an accurate or objective picture". We have "lost any innocent contact with the world". This dissolves the asymmetry: English speakers are equally rendered, not free of mediation. Slide 9 makes the second technical qualification: Sapir-Whorf "assumes that single words are the main way of indicating the things of the world". English speakers, especially snowball-makers, use *phrases* ("good snow for packing", "bad snow for packing"). English has "as many possible phrases for snow as they do". The supposed cognitive gap is an artefact of the chosen unit of analysis.
+
+**The us/them qualification.** Slide 8 carries the heaviest weight. The phrase "they live in a very different world from 'us'" assumes an "us" and a "them", and "assigns completely different 'realities'" to "so-called indigenous groups". The Western outlook becomes the implicit benchmark; the indigenous group is the exotic other. This is the colonial attitude in epistemological dress. The very label "Eskimo" is, the lecturer notes, "neither accurate nor appropriate" as a name (slide 4; Samson, 2003); it is an externally imposed term. The example is named by the namer, not the named. So the example reproduces the asymmetry it claims to describe.
+
+**Cross-link to Said and Fanon.** This is where L9's Said becomes useful. European discourse "was able to manage, and even produce, the Orient politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-9). The snow example is a miniature Orientalism: "Eskimos" managed and produced through a Western linguistic frame. Fanon's railway carriage shows how naming fixes its subject: "I am being dissected under white eyes, the only real eyes. I am fixed" (Fanon, 1967: 325). "Eskimo" performs the same fixing at a softer register.
+
+**What survives.** Weak relativity survives. Speakers of a shared language live in "an agreement to perceive and think of the world in a certain way" (Brown, 1968: 230); language carves the world into categories unequal in consequence. Spender's "plus male / minus male" (Spender, 1980: 145) and Ngũgĩ's "collective memory bank of a people" (Ngũgĩ, 1993: 30) rely on weak relativity rather than determinism. The Saussurean point that meaning "arises from difference within a system" (Strinati, 1995: 83) reframes Sapir-Whorf structurally: a *langue* organises perception relationally without metaphysically moulding minds. The Czech *šly*/*šli* example (Halewood, 2021: 116) shows the same logic at the level of grammar.
+
+**Contemporary echo.** Generative AI extends the colonial framing algorithmically: ChatGPT defaults to English conceptual categories when "translating" minority experiences. Welsh and Gaelic revivalism resist this from below.
+
+**Conclusion.** "Words for snow" both illustrates and undermines Sapir-Whorf because the example is doing two jobs at once. Surface job: language tracks worldly distinctions, so different languages render different worlds. Hidden job: a Western "us" names an indigenous "them" through a label ("Eskimo") that is itself imposed. The first reading vindicates weak relativity. The second reveals that determinism is a category error dressing colonial othering in cognitive vocabulary. The lecture's qualification slides (4, 8, 9) are the load-bearing move: they keep the useful insight and refuse the colonial extension.
+
+*Word count: ~705.*
+
+### M2: *How does Spender's archive of named grammarians (Wilson, Kirkby) relate to de Beauvoir's claim that the man takes himself for granted, especially in the production of the male as unmarked default?*
+
+Spender's archive and de Beauvoir's phenomenology operate at different levels of the same structure. Spender names the people who *prescribed* male precedence in English grammar; de Beauvoir describes the *lived experience* of being a marked subject in a world built around an unmarked default. Together they show that the male-as-norm pattern is neither a natural feature of language nor a quirk of individual usage but a historically authored, lived-in structure. My argument: the two arguments are mutually constitutive, and reading either without the other loses the bite.
+
+**Spender's archive.** *Man Made Language* (1980) is structural rather than anecdotal because it rests on a paper trail. "The first record we appear to have is that of a Mr Wilson in 1553 who insisted that it was more natural to place the man before the woman, as for example in male and female, husband and wife, brother and sister, son and daughter" (Spender, 1980: 147). Wilson's "natural order" was an explicit assertion of male superiority "reflected in the structure of the language" (Spender, 1980: 147). Two centuries on, "in 1746 John Kirkby formulated his 'Eighty Eight Grammatical Rules'", containing "Rule Number Twenty One": "the male gender was more comprehensive than the female" (Spender, 1980: 148). Spender's point: grammar has authors. The male-as-norm pattern is not a natural feature of English; it was prescriptively legislated by named, dated men.
+
+**De Beauvoir's claim.** *The Second Sex* moves to the experiential register. "A man would never set out to write a book on the peculiar situation of the human male. But if I wish to define myself, I must first of all say: 'I am a woman'" (de Beauvoir, 1988: 15). Man "represents both the positive and the neutral [. . .] whereas woman represents only the negative" (de Beauvoir, 1988: 15). The male is the *unmarked* term; the female is the *marked* term that has to be named to enter discourse. Crucially, de Beauvoir "does not reduce the question of what a woman 'is' to the biological ('sex')"; "the lived societal experience of women ('gender') is not purely 'social'" (slide 28). The two are intertwined.
+
+**How the two fit.** Spender supplies the *production* story; de Beauvoir supplies the *experience* story. Wilson and Kirkby authored rules; generations of speakers grew up inside them. Spender provides the receipts; de Beauvoir provides the testimony. Without Spender, de Beauvoir's unmarked-male claim reads as a regrettable cultural habit. Without de Beauvoir, Spender's archive reads as antiquarian curiosity. Together they show that prescriptive history produces and is reproduced by lived experience.
+
+**The production of the unmarked default.** Three mechanisms. *Ordering.* Wilson's "male and female, husband and wife" (Spender, 1980: 147) puts the male first. *Comprehension.* Kirkby's "more comprehensive" (Spender, 1980: 148) lets the male word include the female (Marsh's "actor" includes "actress", Halewood, 2021: 120). *Taking for granted.* The man does not announce himself because the rules do not require it (de Beauvoir, 1988: 15).
+
+**Cross-link to L5 standpoint theory.** Hartsock deepens the de Beauvoir reading: "women's lives differ structurally from those of men" (Hartsock, 1983: 284), so the "minus male" position is an *epistemic* vantage. Hill Collins extends to Black women: a "standpoint of and for Black women" (Hill Collins, 1986: 70) is required because the de Beauvoirian "woman" was tacitly white.
+
+**Cross-link to L15 Saussure/Barthes.** Saussure's insight that meaning "arises from difference within a system" (Strinati, 1995: 83) shows male/female as paradigmatic opposition. Barthes's myth analysis adds that language's function is "to transform history into nature" (Barthes, 1972: 140). Wilson and Kirkby's prescription has become the "distortions and omissions" speakers do not notice (Spender, 1980: 145), the naturalising movement Barthes describes.
+
+**Halewood's institutional supplement.** "Chair" from Latin *cathedra* carries the bishop's masculine authority through to the committee chair (Halewood, 2021: 128-130). Contemporary echo: AI chatbots default to male pronouns for ungendered occupations; Hindi/Urdu shows the same male-default in another language family.
+
+**Conclusion.** Spender's grammarians and de Beauvoir's "I must first of all say: 'I am a woman'" (de Beauvoir, 1988: 15) are two sides of one structure. The archive shows the male-as-unmarked was authored; the phenomenology shows it is lived in. The default is not natural; it was made and is reproduced in the agreement of every speaker who does not have to announce himself. That is why "the male-as-norm" (slide 12) is structural, and why Spender's "linguistic visibility" (Spender, 1980: 162) is necessary but not sufficient.
+
+*Word count: ~700.*
+
+### M3: *Can making women "linguistically visible" (Spender, 1980: 162) both empower and limit gender reform, especially in light of the Marsh actor/actress debate?*
+
+Spender's prescription is sharp: "for women to become visible, it is necessary that they become linguistically visible… New symbols will need to be created and old symbols will need to be recycled and invested with new images if the male hold of language is to be broken" (Spender, 1980: 162). The Marsh actor/actress debate (Lecture 4 slides 16-17; Halewood, 2021: 120) is the cleanest test case. My argument: linguistic visibility both empowers gender reform (by naming the asymmetry) and limits it (when the reform leaves the unmarked masculine default in place). The two are not contradictions; they are the two halves of any serious vocabulary politics.
+
+**The empowering half.** Spender's slogan operates on a real mechanism. Without a name, an asymmetry is harder to identify, contest or redistribute. The Wilson-Kirkby archive (Spender, 1980: 147-148) shows that the absence of a vocabulary for "patriarchal grammar" allowed centuries of prescription to operate as if natural. Once "male-as-norm" is named, speakers can see what was previously taken for granted, in line with de Beauvoir's: "A man would never set out to write a book on the peculiar situation of the human male" (de Beauvoir, 1988: 15). Linguistic visibility is the entry condition for asking the question.
+
+Concrete cases. *Singular they* has a long pedigree (Shakespeare, Lewis Carroll, the King James Bible, Thackeray, all cited via Marsh in Halewood, 2021: 128) and its revival makes non-binary speakers nameable. *Job-title reform* (firefighter, police officer, chairperson) makes women in those roles visible. *Honorifics* (Ms, Mx) allow speakers to refuse the marital-status marking of Mrs/Miss that Mr does not carry.
+
+**The limiting half: the Marsh case.** David Marsh (*Guardian* production editor) banned "actress" in favour of "actor" (Halewood, 2021: 120). The argument: "actress" compares a woman only to other women, while "actor" can refer to the best actor overall; calling Hattie Jacques an actor makes her comparable to Kenneth Williams as well as Joan Sims. The masculine "can include the female, but not the other way around" (slide 16). "The female has been subsumed into the male (again)."
+
+The lecturer's caution (slide 17): "most occupations, such as that of doctor, teacher, actor were carried out by men" historically. Apparently neutral words like "actor" "provide a yardstick which may not immediately appear to refer to the male". Risk: "by calling all women 'actors' we are lumping them in to what is really a 'masculine' term". The reform "pays lip-service" while ignoring "the more fundamental problem".
+
+**Why this is the limit of Spender.** Spender's "linguistic visibility" can take two forms: (a) coin new symbols for women (Fowler's failed *doctress, teacheress, singeress, danceress*, Halewood, 2021: 120; or *chairperson*); or (b) absorb women into the unmarked term (Marsh's *actor*). Option (a) preserves the marking and risks ghettoising; option (b) erases the marking and risks absorbing women into a yardstick that remains tacitly masculine. Neither, in isolation, dismantles the male-as-norm structure. Halewood's verdict: "tinkering with language to avoid or remove words or phrases that are considered inappropriate or offensive is not enough. What is required is a change in thinking, speaking and being; this will involve changing the world" (Halewood, 2021: 126).
+
+**The "chair" parallel.** Halewood's "chair" from Latin *cathedra* (Halewood, 2021: 128-130) shows the same logic in authority vocabulary. Renaming "chairman" "chair" makes the office open to women without removing the male-ecclesiastical authority embedded in the etymology. Visibility reform unaccompanied by structural reform tinkers.
+
+**Cross-link to L9 Mohanty.** Mohanty's caution about "Western feminism" producing a "monolithic" Third World woman (Mohanty, 1984, cited in L9) reinforces the limit: visibility reform that universalises "woman" can re-marginalise women whose specific positionings are erased.
+
+**Contemporary tests.** *Trans-pronoun debates.* Whittle (2006) reports pronouns are "limiting and exclusionary" for trans speakers (cited Halewood, 2021: 128); singular *they* and neologisms extend Spender's programme but face the same dilemma. *AI bias.* ChatGPT defaults to gender-coded outputs for occupations; visibility reform here means dataset reform, not vocabulary tweaks alone.
+
+**Conclusion.** Linguistic visibility both empowers and limits gender reform. It empowers because naming the asymmetry is a precondition for contesting it; it limits because vocabulary reform alone cannot dismantle the male-as-norm yardstick. The Marsh debate is the case study. The way through is to pair vocabulary reform with the institutional change Halewood demands: "a change in thinking, speaking and being… changing the world" (Halewood, 2021: 126). Spender's "linguistically visible" (Spender, 1980: 162) is necessary; it is not, by itself, sufficient.
+
+*Word count: ~715.*
+
+### M4: *How does Ngũgĩ's imperialism-of-language analysis relate to the fate of Welsh, Gaelic, and Cornish, especially in the context of class-driven Anglicisation inside the British Isles?*
+
+Slide 26 lists only three names: Welsh, Gaelic, Cornish. The brevity is deliberate. The slide generalises Ngũgĩ's imperialism-of-language analysis from Africa to the Anglophone core. My argument: Ngũgĩ's framework travels with one important modification. Inside the British Isles, the carrier of Anglicisation is *class* (market-driven priced-out, "yuppiefication") more than the colonial school, and the same suppression-and-elevation logic produces the same outcome (language death) by softer means.
+
+**The Ngũgĩ framework.** *Moving the Centre* (1993) identifies a two-aspect view of language: "a means of communication" and "a carrier of culture and history" (Ngũgĩ, 1993: 30). When languages meet "on terms of equality and independence", communication dominates. When they meet "as oppressor and oppressed, as for instance under imperialism", language becomes a "weapon" alongside "the Bible and the sword" (Ngũgĩ, 1993: 31). Capture happens in two moves: *suppression* of indigenous languages ("incomprehensible noise from the dark Tower of Babel", Ngũgĩ, 1993: 31; children "caned or made to carry plaques inscribed with the words 'I am stupid'", Ngũgĩ, 1993: 33) and *elevation* of the conqueror's tongue (English as "the bearer of all knowledge in the arts and sciences", Ngũgĩ, 1993: 33; education in the conqueror's language, Ngũgĩ, 1993: 32).
+
+**The British-Isles application.** Ngũgĩ himself extends the analysis. He cites Lyn Marierid of the Welsh Language Society (*Morning Star*, 21 October 1988): rural areas have "become completely Anglicised as ordinary working-class people have been systematically priced out of their native areas" (cited Ngũgĩ, 1993: 36). His structural diagnosis: "Languages… are lost when the predominant class in society has no use for them" (cited Ngũgĩ, 1993: 36). This is the suppression mechanism *without* the colonial school. The Welsh case shows the linguistic prison's market form: rural property prices push working-class Welsh speakers out of Welsh-speaking communities, and the language goes with them.
+
+**The class twist.** Inside the British Isles, the agent of Anglicisation is not the missionary but the market. Marierid: "for generations, the Welsh working class was utterly dependent on the Welsh language and culture in order to be able to access knowledge about themselves [. . .] in order to shape their future" (cited Ngũgĩ, 1993: 36). Welsh is a working-class memory bank; its loss is class disempowerment as well as cultural loss.
+
+**Suppression and elevation, British-Isles style.** Historical legal pressure (Acts of Union 1536/1707, Welsh Not punishments in nineteenth-century schools, near-total displacement of Cornish) parallels Ngũgĩ's colonial school. English became "the bearer of all knowledge" inside the British Isles too. Speakers faced the same choice as Ngũgĩ's colonial student: master the conqueror's tongue or be locked out of the prestige economy.
+
+**Counter-currents.** Welsh-medium schools, S4C, bilingual signage, and the Welsh Language Society have produced one of Europe's most successful minority-language revivals. Gaelic operates similarly in Scotland and Ireland; Maori revivalism extends the same logic. Ngũgĩ's precondition: the revival language must be allowed to *grow*, "never having grown in the graveyard of other languages" (Ngũgĩ, 1993: 41).
+
+**Cross-link to L1 Halewood and L9 Said.** Halewood's bifurcations (Halewood, 2014: Ch. 7) read the British-Isles language hierarchy as one of modernity's signature splits: a "real" national language (English) and a "residual" minority one, with the gulf naturalised. Said's discursive frame applies: a culture that "was able to manage, and even produce" its other "politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-9) operated inside the British Isles too. The category of "Celtic fringe" performed Orientalism's labour on the doorstep.
+
+**Contemporary tests.** *AI translation.* ChatGPT and Google Translate handle English/Welsh with markedly less fluency than English/French; the algorithmic prestige economy extends Anglophone dominance. *Hindi/Urdu split.* The Partition-era division of one speech community into two named languages by political fiat is an Ngũgĩ-style mechanism on a religious-nationalist axis.
+
+**Critical limits.** Welsh and Gaelic are not perfect Ngũgĩ cases (centuries of co-existence preceded market decline); the class point can be overstated (middle-class Welsh-medium schooling is also part of revival); Halewood's "tinkering with language… is not enough" (Halewood, 2021: 126) bites here too. Without economic reform of rural Wales, revival risks becoming a credentialing exercise.
+
+**Conclusion.** Ngũgĩ's imperialism-of-language analysis applies to Welsh, Gaelic and Cornish, with the modification that class-driven, market-mediated Anglicisation replaces the colonial school as the principal mechanism. Suppression and elevation operate as Ngũgĩ describes, in softer institutional forms. Slide 26's three names do the analytical work of generalising Ngũgĩ's framework from Africa to the Anglophone core. The politics of revival are the politics of decolonising, fought on internal-colonial terrain, with class as the decisive variable.
+
+*Word count: ~720.*
+
+### M5: *How can pronouns both encode and contest gender hierarchy, especially in the context of trans-pronoun debates and the Czech šly/šli example?*
+
+Pronouns are small words doing heavy structural work. They *encode* gender hierarchy because the marked/unmarked grid is built into the grammar before any speaker chooses a word, and they *contest* it because pronouns are also where speakers most visibly refuse to be conscripted into the grid. My argument: the trans-pronoun debate and Tichý's Czech *šly*/*šli* example illuminate opposite ends of the same mechanism. The grammar tells the speaker who counts as the default human; the speaker can tell the grammar to revise.
+
+**How pronouns encode gender hierarchy.** The structural case is clearest in gendered grammars. Irigaray's French: *il* covers "he", impersonal "it" (*il fait chaud*, *il pleut*), and any unknown subject; *ils* serves any mixed plural however small the male presence (Halewood, 2021: 114-115). A male dog *le chien* is the default; *la chienne* requires extra knowledge. "Sexual difference cannot [. . .] be reduced to a simple extra-linguistic fact of nature. It conditions language and is conditioned by it" (Irigaray, 1993: 20). The masculine is at once *one* gender and *the* default.
+
+Tichý's Czech (Halewood, 2021: 116). "All the women of the world went for a walk" uses the feminine plural verb *šly*. As soon as John joins, the verb flips to masculine *šli* (Tichý, 2018, cited Halewood, 2021: 116). Every woman in the world plus one man yields a masculine verb. The grammar tells us, every conjugation, who counts as default.
+
+**English, less obviously.** Generic *he*, *mankind*, and indefinite-pronoun defaulting do the same work quietly. Dewey: "houses are usually owned, are mine and yours and his" (cited Halewood, 2021: 119); Whitehead's "men of science". Neutral pronouns participated in the de Beauvoirian asymmetry: man "represents both the positive and the neutral [. . .] whereas woman represents only the negative" (de Beauvoir, 1988: 15).
+
+**How pronouns contest gender hierarchy.** Pronouns are unusually contestable because they appear so often in speech that any reform is immediately visible.
+
+*Singular they.* Has a long literary history (Shakespeare, Lewis Carroll, the King James Bible, Thackeray, all cited via Marsh in Halewood, 2021: 128). Prescribed against by grammarians (a Spender-archive case) and since revived. Spender's "for women to become visible, it is necessary that they become linguistically visible" (Spender, 1980: 162) extends to non-binary speakers via *they*.
+
+*Trans-pronoun politics.* Stephen Whittle (2006) reports that "he/she" pronouns are "limiting and exclusionary" for trans speakers (cited Halewood, 2021: 128). Some prefer *they*; others coin neologisms (*per*, *ze*). Halewood: "we should respect the wishes of those people who do not feel comfortable with traditional pronouns" (Halewood, 2021: 127-128). The contestation operates exactly where the encoding does: the third person, where the speaker is *named for* rather than naming herself.
+
+**Why both at once.** The contestation works *because* the encoding is real. If pronouns did not encode hierarchy, switching them would change nothing; if encoding were total, contestation would be impossible. The contestability is the practical refutation of strong-Whorf: speakers can refashion the grammar. The encoding is the refutation of "language is just words": small word changes carry significant social weight.
+
+**Cross-link to L9 Said/Mohanty.** Pronouns are part of the apparatus that "manages and produces" subjects (Said, 1978: 88-9). The trans-pronoun debate refuses such management. Mohanty's caution against monolithic categories (Mohanty, 1984) extends to pronouns: *they* must not become a new monolith.
+
+**Cross-link to L15 Saussure.** Meaning "arises from difference within a system" (Strinati, 1995: 83), so when *they* becomes a third option, the *he*/*she* binary loses its monopoly on third-person reference.
+
+**Halewood's processual conclusion.** "Man and woman are not ideas or entities that exist continually. They come to be at different points and different times" (Halewood, 2021: 132). Pronouns are part of the *coming-to-be*: the grammar produces gendered subjects who can then revise the grammar.
+
+**Critical complications.** Halewood: "tinkering with language… is not enough" (Halewood, 2021: 126); pronoun reform without supporting institutional change tinkers. Prescriptivist backlash continues (culture-war moves around pronouns). Languages without pronominal gender (Finnish, Hungarian, Turkish) show pronoun reform alone does not produce gender equality.
+
+**Contemporary tests.** ChatGPT historically defaulted to *he* for ungendered occupations. Czech non-binary speakers propose neutral verb forms, the structural revision Tichý's example identifies.
+
+**Conclusion.** Pronouns both encode and contest gender hierarchy. Tichý's Czech shows the encoding at its starkest; trans-pronoun politics show the contestation at its most visible. The two are halves of the same mechanism: the grammar names default humans, and speakers can rename. Gender becomes through language; language can be remade. Pronouns are small, and that is exactly why they carry so much.
+
+*Word count: ~745.*
+
+### M6: *"Can he ever learn to use it like a native speaker?... I hope not" (Achebe, 1997: 347). What does Achebe's refusal of native-speaker English achieve, and what are its costs, especially in the context of writing as an act of cultural submission or refashioning?*
+
+Achebe's "I hope not" is one of the lecture's most consequential single sentences (Lecture 4 slide 25; Achebe, 1997: 347). On its face it is a stylistic remark about creative writing; in context it is a programme. My argument: the refusal achieves three things (it refashions English, it refuses cultural submission, and it broadens what English can carry), and it has two real costs (it concedes the prestige map of European languages, and it leaves indigenous-language readers outside the conversation). The refusal is defensible only when paired with Ngũgĩ's institutional demands.
+
+**The slide-context.** Slide 22 introduces Achebe (1930-2013), Nigerian novelist of *Things Fall Apart* (1958), a "world writer" whose 1958 title quotes the Irish poet W.B. Yeats. Slide 23 sets out his reasoning: writing in Hausa, Igbo or Yoruba reaches only "a smaller group of people"; many Africans are "acquiring English or French as their first language"; writing in English is "not a sign of submission or of abandoning his first language (Igbo)"; "it is not right for anyone to abandon their first language but he has no choice". Slide 24 gives the programmatic line: "fashion an English that is at once universal and able to carry his peculiar experience" (Achebe, 1997: 347). Slide 25 lands the "I hope not": Achebe can learn English "effectively in creative writing" but should *not* learn it "like a native speaker", because "it is neither necessary nor desirable", and "the price a world language must be prepared to pay is submission to many different kinds of use" (Achebe, 1997: 347).
+
+**What the refusal achieves.** *First, refashioning.* "I hope not" inverts the colonial direction of fit. The conventional measure of competence (the native speaker) becomes the wrong measure. English does not absorb the African writer; the African writer reshapes English. The slogan of submission gets reassigned: it is the *world language* that must submit (Achebe, 1997: 347), not the writer.
+
+*Second, refusal of cultural submission.* Achebe insists, on slide 23, that writing in English is "not a sign of submission or of abandoning his first language (Igbo)". The native-speaker norm is the cultural-submission demand he refuses. He keeps the medium and refuses the assimilationist script. The novel's Yeats-quoting title enacts the same move: Achebe inhabits the Anglophone canon as remaker, not pupil. Said's discursive frame, where European culture "was able to manage, and even produce" its colonial subject "politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-9), names what is being refused: native-speaker English was one of the management instruments.
+
+*Third, broadening what English can carry.* The world language must "submit to many different kinds of use" (Achebe, 1997: 347). Achebe makes English carry Igbo proverbs, kinship vocabulary, and ceremonial speech-genres. This converts Anglophone literature into a more heterogeneous archive, and helps non-Anglophone readers see their experience as portable into the world-literary canon rather than untranslatable.
+
+**The costs.** *First, the prestige map.* Achebe's reasoning on slide 23 takes for granted that English reaches more readers because more Africans acquire it first. That premise is itself a colonial residue (Ngũgĩ, 1993: 33: English as "the bearer of all knowledge in the arts and sciences"). Refashioning works within a market the colonial school produced; it does not directly undo the market. *Second, indigenous-language readers.* If African writers continue to write in English, French or Portuguese, then Hausa-, Igbo- or Yoruba-only readers remain outside the conversation. Achebe acknowledges the cost ("it is not right for anyone to abandon their first language", slide 23) but accepts it.
+
+**Cross-link to L9 Fanon.** Fanon shows what Achebe navigates: the colonised speaker is fixed by the coloniser's gaze ("I am fixed", Fanon, 1967: 325). "I hope not" is a stylistic refusal of that fixing: keep the medium, refuse the native-speaker benchmark.
+
+**Cross-link to L15 Saussure.** Meaning "arises from difference within a system" (Strinati, 1995: 83). A non-native English with Igbo cadences enters the Anglophone *langue* as a new set of differences; Achebe's refashioning expands the system rather than imitating an existing point in it.
+
+**Conclusion.** Achebe's "I hope not" achieves refashioning, refusal of cultural submission, and broadening of English. Its costs (the prestige map, indigenous-language readers) bite. The refusal is defensible only when paired with Ngũgĩ's demand that "absolute independence and equality of all nations in the economic, political, and cultural spheres" (Ngũgĩ, 1993: 39) become the condition of any genuine world language. Refashioning is a tactic; equality of conditions is the strategy.
+
+*Word count: ~700.*
+
+### M7: *How does Ngũgĩ's account of the colonial school (the cane, the "I am stupid" plaques, the "Oxford Readers for Africa") ground his claim that English was "the bearer of all knowledge in the arts and sciences" (Ngũgĩ, 1993: 33)?*
+
+The colonial-school passages do the load-bearing argumentative work in Ngũgĩ's chapter. They are the empirical detail that turns "imperialism of language" from a slogan (slide 21) into a documented mechanism. My argument: the cane, the plaques, and the "Oxford Readers for Africa" are not anecdotal colour. They are the three components of a single pedagogical machine that produced English as the bearer of knowledge by *suppressing* indigenous languages, *humiliating* their speakers, and *replacing* their cognitive geography with an English one. Without the school, the slogan is unsupported; with it, the slogan is institutionally exact.
+
+**The slide-claim and the proof-burden.** Slide 21 lists five bullets: language as weapon of colonisation; suppression of indigenous culture; education in the coloniser's language; "the English language was the bearer of all knowledge in the arts and sciences" (Ngũgĩ, 2008: 33); the absence of African-origin languages from the UN. The bullets imply a mechanism; Ngũgĩ's chapter supplies it in three school-room images.
+
+**Image one: the cane.** Children "caught speaking African languages in the vicinity of the school were caned" (Ngũgĩ, 1993: 33). The corporal sanction is the most direct instrument. It enforces the rule that English is the only legitimate medium *on school premises*, and projects the rule outward: punishment in the school produces self-censorship outside it. This is the *suppression* limb of Ngũgĩ's two-move analysis ("suppression of indigenous languages" plus "elevation of the conqueror's language", Ngũgĩ, 1993: 31-32). Foucault's account of disciplinary technologies generalises the mechanism, but Ngũgĩ supplies the colonial-specific version: the cane on the African child for speaking Gĩkũyũ.
+
+**Image two: the plaques.** Children were "made to carry plaques inscribed with the words 'I am stupid' or 'I am an ass'" (Ngũgĩ, 1993: 33). The plaque adds a *subjective* layer to suppression: the speaker of the indigenous tongue is taught to identify with stupidity. Ngũgĩ: "humiliation in relation to our languages was the key" (Ngũgĩ, 1993: 33). De Beauvoir's "if I wish to define myself, I must first of all say: 'I am a woman'" (de Beauvoir, 1988: 15) has a colonial counterpart: the African pupil must wear the inscription that says "I am stupid" for him. The marked-unmarked grid Spender names in gender (Spender, 1980: 145) operates at imperial scale: the English-speaker is unmarked, the Gĩkũyũ-speaker marked as deficient.
+
+**Image three: the "Oxford Readers for Africa".** Ngũgĩ recalls reading about "John and Joan visiting the Thames" before knowing other Kenyan towns (Ngũgĩ, 1993: 34). The reader is the *replacement* limb. The cane and plaque clear the ground; the reader furnishes it. The child's mental map is populated with Oxford, the Thames, John and Joan. Knowledge "in the arts and sciences" (Ngũgĩ, 1993: 33) is thereby encountered first in English settings, with English characters, in English landscapes. The unmarked location for *learning* itself becomes English. This is what makes English "the bearer of all knowledge": not intrinsic capacity, but monopoly on the pedagogical encounter. The hymn "Lead kindly light amidst the encircling gloom" (Ngũgĩ, 1993: 32) is the affective companion: the children's own language is the gloom.
+
+**Why the three images travel.** Slide 26's bare list of Welsh, Gaelic and Cornish is the same machine in a softer institutional form. The "Welsh Not" placard parallels the "I am stupid" plaque; market-driven priced-out Anglicisation (Marierid, cited Ngũgĩ, 1993: 36) is the soft form of the cane. Maori revivalism and Hindi-Urdu splits show the cross-applicability of the pedagogical-imperialism frame.
+
+**Cross-link to L9 Said.** European culture "was able to manage, and even produce" its colonial subject "politically, sociologically, militarily, ideologically, scientifically, and imaginatively" (Said, 1978: 88-9). Ngũgĩ shows the production happening in the smallest unit: a classroom, a cane, a plaque, a primer. AI tutoring and ChatGPT extend the mechanism algorithmically: default world-knowledge templates remain Anglophone.
+
+**Critical complications.** Achebe's "I hope not" (Achebe, 1997: 347) refashions the English the school installed; the cane does not have the last word. Halewood's "tinkering with language… is not enough" (Halewood, 2021: 126) bites: closing colonial schools is necessary but not sufficient. Translation traffic (Ngũgĩ, 1993: 40) shows medium can be loosened from prestige.
+
+**Conclusion.** The cane, the plaques and the Oxford Readers are not decoration. They are the three components of the pedagogical machine that made English "the bearer of all knowledge in the arts and sciences" (Ngũgĩ, 1993: 33). Suppression by sanction, humiliation by inscription, replacement by curriculum: together they produce the imperial language as the only medium of knowing. Slide 21's bullets are exact because the chapter beneath them documents the schoolroom that built them.
+
+*Word count: ~745.*
+
+### M8: *"Decolonising the mind requires decolonising the language" (Ngũgĩ). Discuss.*
 
 I take Ngũgĩ's slogan seriously and defend it, with a twist. Decolonising the language names two projects: a *displacement* project (swap the coloniser's tongue for an African one, as Ngũgĩ urges) and a *refashioning* project (rewire the coloniser's tongue from inside, as Achebe urges). My claim is that the slogan is correct, and that both projects are needed.
 
@@ -327,7 +502,7 @@ I take Ngũgĩ's slogan seriously and defend it, with a twist. Decolonising the 
 
 *Word count: ~715.*
 
-### Essay 7 / Mock Q2: *Critically assess Spender's argument in Man Made Language with reference to Halewood's chapter on gender and personal pronouns.*
+### M9: *Critically assess Spender's argument in Man Made Language with reference to Halewood's chapter on gender and personal pronouns.*
 
 Dale Spender's *Man Made Language* (1980) is the most ambitious structural account of English-as-patriarchal in the SC301 reading list. Halewood's chapter develops, extends and qualifies the argument: it transposes the diagnosis to French and Czech via de Beauvoir and Irigaray, traces the logic through "chair", and warns against language reform as substitute for "thinking, speaking and being" (Halewood, 2021: 126). Halewood's chapter both vindicates Spender and refines her.
 
@@ -345,7 +520,7 @@ Dale Spender's *Man Made Language* (1980) is the most ambitious structural accou
 
 *Word count: ~705.*
 
-### Essay 8 / Mock Q3: *What does de Beauvoir mean by "woman is the Other", and why does she treat that othering as linguistically structured?*
+### M10: *What does de Beauvoir mean by "woman is the Other", and why does she treat that othering as linguistically structured?*
 
 The question has two parts. First, what does de Beauvoir's woman-as-other claim? Second, why is the othering inseparable from language? My answer: woman exists as the *marked* term against an unmarked male default, and de Beauvoir treats this as linguistically structured because the asymmetry is built into grammar and lexicon before any speaker chooses a word.
 
@@ -369,7 +544,7 @@ The "Other" is not just "another person". It is the *constitutive outside* of th
 
 *Word count: ~720.*
 
-### Essay 9 / Mock Q4: *Compare Ngũgĩ's argument for African-language writing with Achebe's defence of Africanised English.*
+### M11: *Compare Ngũgĩ's argument for African-language writing with Achebe's defence of Africanised English.*
 
 Ngũgĩ and Achebe agree on the diagnosis (English in Africa is not a neutral medium) and split on the prescription. Ngũgĩ argues for *displacement*: African writers should write in African languages. Achebe argues for *refashioning*: bend English to carry African experience. I argue the disagreement is less zero-sum than it looks and that a serious decolonial programme needs both.
 
@@ -391,7 +566,7 @@ Ngũgĩ and Achebe agree on the diagnosis (English in Africa is not a neutral me
 
 *Word count: ~725.*
 
-### Essay 10 / Mock Q5: *"Problems with inequality in language are also problems within the world" (Lecture 4 slide 4). Critically explain this slogan with reference to at least two authors.*
+### M12: *"Problems with inequality in language are also problems within the world" (Lecture 4 slide 4). Critically explain this slogan with reference to at least two authors.*
 
 The slogan is the load-bearing line of the lecture, repeated on slide 4 and (in Halewood) at 116. It claims a tight coupling between linguistic structure and worldly distribution. I argue the slogan is correct in three senses (reflection, reproduction, constitution), defending it across two authors (Spender, Ngũgĩ) with supporting moves from Halewood, de Beauvoir and Achebe.
 
@@ -417,7 +592,7 @@ The slogan is the load-bearing line of the lecture, repeated on slide 4 and (in 
 
 *Word count: ~720.*
 
-### Essay 11 / Mock Q6: *Is linguistic determinism a coherent thesis or a category error?*
+### M13: *Is linguistic determinism a coherent thesis or a category error?*
 
 My short answer: linguistic determinism is *not* a coherent thesis. It is a category error, a metaphysical claim about cognitive moulding masquerading as an empirical claim about language use. Once diagnosed, the useful work it was meant to do is taken over by linguistic relativity plus an account of institutional power. I defend this in five moves.
 
@@ -441,7 +616,7 @@ My short answer: linguistic determinism is *not* a coherent thesis. It is a cate
 
 *Word count: ~720.*
 
-### M7: *How does Halewood use the figure of the "chair" to extend de Beauvoir and Irigaray into Anglophone usage?*
+### M14: *How does Halewood use the figure of the "chair" to extend de Beauvoir and Irigaray into Anglophone usage?*
 
 Halewood introduces "chair" to answer a specific objection: that de Beauvoir's and Irigaray's analyses of grammatical gender apply only to French or Czech, not to English (Halewood, 2021: 119). The example shows English carries the same patriarchal structure beneath neutral vocabulary, operating through institutional history rather than morphology. I set out the example, locate it in de Beauvoir/Irigaray, and assess what it adds.
 
@@ -469,7 +644,7 @@ Halewood introduces "chair" to answer a specific objection: that de Beauvoir's a
 
 *Word count: ~705.*
 
-### M8: *Critically explain how the Sapir-Whorf hypothesis is presented and qualified by the lecturer.*
+### M15: *Critically explain how the Sapir-Whorf hypothesis is presented and qualified by the lecturer.*
 
 Sapir-Whorf structures the first third of Lecture 4 (slides 3-9). The lecturer presents it in two forms (relativity and determinism), illustrates both through "Eskimo words for snow", and dismantles the strong reading on three grounds. I work through the presentation and assess what survives.
 
@@ -493,7 +668,7 @@ Sapir-Whorf structures the first third of Lecture 4 (slides 3-9). The lecturer p
 
 *Word count: ~700.*
 
-### M9: *How convincing do you find Spender's claim that English is structurally patriarchal?*
+### M16: *How convincing do you find Spender's claim that English is structurally patriarchal?*
 
 I find Spender's claim broadly convincing as a structural claim about the prescriptive history of standard written English, but only partially convincing as a claim about English as a whole. Three qualifications matter: anglocentrism, under-weighted speaker plasticity, and a binary gender frame that contemporary trans politics has contested.
 
@@ -523,7 +698,7 @@ I find Spender's claim broadly convincing as a structural claim about the prescr
 
 *Word count: ~725.*
 
-### M10: *Using the work of at least two authors, explain how language operates as a vehicle of inequality.*
+### M17: *Using the work of at least two authors, explain how language operates as a vehicle of inequality.*
 
 I draw on Spender and Ngũgĩ, with supporting moves from de Beauvoir, Achebe and Halewood, to argue language operates as a vehicle of inequality through one mechanism: it encodes an unmarked default subject (the male; the European) and makes everyone else a marked deviation. The mechanism runs through two domains (gender, empire) and three sites within each (grammar, vocabulary, institutional history).
 
@@ -543,7 +718,7 @@ I draw on Spender and Ngũgĩ, with supporting moves from de Beauvoir, Achebe an
 
 *Word count: ~720.*
 
-### M11: *Can sociology be done in English without reproducing the colonial mind?*
+### M18: *Can sociology be done in English without reproducing the colonial mind?*
 
 My answer: only partially, and only if done self-consciously. Sociology in English is a contradiction the discipline cannot fully escape but can practise more or less honestly. My position is closer to Achebe than Ngũgĩ: refashion English sociological writing from inside while acknowledging that fully decolonised sociology requires institutional changes the discipline cannot deliver alone.
 
@@ -573,7 +748,7 @@ My answer: only partially, and only if done self-consciously. Sociology in Engli
 
 *Word count: ~720.*
 
-### M12: *"Language is not a vehicle but a battleground." Discuss with reference to the lecture's account of Welsh, Gaelic, and Cornish.*
+### M19: *"Language is not a vehicle but a battleground." Discuss with reference to the lecture's account of Welsh, Gaelic, and Cornish.*
 
 The slogan reframes language away from transport (carrying meaning between speakers) toward contested ground (fought over by competing political projects). The reframe is productive but exaggerated; I defend a careful version: language is *both* vehicle and battleground. The lecture's brief slide on Welsh, Gaelic, and Cornish (slide 26), read with Ngũgĩ's discussion of Welsh, is the cleanest case for the battleground reading.
 

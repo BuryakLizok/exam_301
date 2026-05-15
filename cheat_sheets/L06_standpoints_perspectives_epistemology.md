@@ -84,21 +84,30 @@ The lecture chains these arguments into one claim: epistemology is political. Wh
 
 ---
 
-## 6. Mock exam questions (13)
+## 6. Mock exam questions (20)
 
-1. "The god trick of speaking authoritatively about everything in the world from no particular location or human perspective at all." Discuss with reference to Haraway.
-2. Critically assess Harding's argument in *Whose Science? Whose Knowledge?* in light of the reference-man cases catalogued by Criado-Perez.
-3. What does Haraway mean by the god trick, and why does she treat partiality as a methodological virtue?
-4. Compare Hartsock's feminist standpoint with Haraway's situated knowledge.
-5. How does standpoint theory help us analyse the design of technical artefacts (crash-test dummies, PPE, pharmacology)?
-6. Is standpoint theory an epistemology or a politics? Discuss.
-7. Crash-test dummies, office thermostats and the reference man.
-8. Does the dominance of a homogeneous research community vindicate or undermine Harding's account of strong objectivity?
-9. How convincing do you find Hartsock's argument that women's labour generates a privileged standpoint?
-10. "There is power in looking." Critically discuss with reference to hooks and the oppositional gaze.
-11. Using the work of at least two authors, assess Gilroy's claim that the primal history of modernity should be reconstructed from the slaves' standpoint.
-12. Can sociology pursue objectivity while taking standpoint seriously?
-13. Critically assess Collins's *Black Feminist Thought* as a development of standpoint epistemology.
+*Note: M1-M7 are new mock questions built directly from slide-bullet questions and slide-title phrases in the L6 presentation (recipe: topic anchor from slide title, vocabulary from slide bullets, synthesis of 2-3 bullets, context pin, lecturer phrases verbatim). M8-M20 are the original mock questions, renumbered. No teacher-summary file exists for L6 (the "Lecturesummary" file in the Summaries folder is for L12, Marx/Frankfurt School); the new mocks therefore draw from slides plus revision-doc §L6.*
+
+1. "How do we know what we know?" Using the Big Ben example and Harding's claim that the topics and procedures of science are "man-made", explain why traditional epistemology mistakes one kind of knower for the universal knower.
+2. "Objectivity is male subjectivity" (Spender, 1980). Using the bifurcations of mind/body, rational/irrational, objectivity/subjectivity, men/women, critically discuss why feminist epistemology treats knowledge as partial, situated and constructed.
+3. "This applies not just to 'feminist' epistemology but also to other marginalised or excluded groups." Critically discuss the extension of standpoint epistemology beyond gender, drawing on at least two of Gilroy, hooks, Collins or Du Bois.
+4. What is a "perspective" in the sense the lecture intends? Distinguish it from a viewpoint, a subjective opinion and an imaginary projection, and explain why a perspective must be articulated.
+5. "A perspectival approach to knowledge can produce more not less objectivity." Critically discuss the lecture's headline claim, explaining why feminist epistemology is "not about undermining knowledge…it is about providing better, more robust forms of knowledge".
+6. "Dominated groups don't automatically have the most objective views of the world; a 'standpoint' is an achievement, won from political struggle." Using Hartsock's three propositions on materialist feminism, explain why standpoint is an achievement rather than a given, and what follows for the relation between knowledge production and political struggle.
+7. "In any historical period, the prevailing world view reflects the interests and values of the dominant group." Using the slide's claim that groups excluded from power "occupy a special social position that gives them a privileged epistemological standpoint/a less distorted world view", critically discuss why feminist epistemology treats marginalised positions as epistemically privileged, and what conditions that privilege.
+8. "The god trick of speaking authoritatively about everything in the world from no particular location or human perspective at all." Discuss with reference to Haraway.
+9. Critically assess Harding's argument in *Whose Science? Whose Knowledge?* in light of the reference-man cases catalogued by Criado-Perez.
+10. What does Haraway mean by the god trick, and why does she treat partiality as a methodological virtue?
+11. Compare Hartsock's feminist standpoint with Haraway's situated knowledge.
+12. How does standpoint theory help us analyse the design of technical artefacts (crash-test dummies, PPE, pharmacology)?
+13. Is standpoint theory an epistemology or a politics? Discuss.
+14. Crash-test dummies, office thermostats and the reference man.
+15. Does the dominance of a homogeneous research community vindicate or undermine Harding's account of strong objectivity?
+16. How convincing do you find Hartsock's argument that women's labour generates a privileged standpoint?
+17. "There is power in looking." Critically discuss with reference to hooks and the oppositional gaze.
+18. Using the work of at least two authors, assess Gilroy's claim that the primal history of modernity should be reconstructed from the slaves' standpoint.
+19. Can sociology pursue objectivity while taking standpoint seriously?
+20. Critically assess Collins's *Black Feminist Thought* as a development of standpoint epistemology.
 
 ---
 
@@ -208,7 +217,163 @@ The critique succeeds. It diagnoses a real failure of self-understanding in the 
 
 ## 8. Mock-Q essays
 
-### Mock 1: "The god trick of speaking authoritatively about everything in the world from no particular location or human perspective at all." Discuss with reference to Haraway.
+### Mock 1: "How do we know what we know?" Using the Big Ben example and Harding's claim that the topics and procedures of science are "man-made", explain why traditional epistemology mistakes one kind of knower for the universal knower.
+
+The lecture opens its discussion of epistemology with two questions and a picture: "Do you know that Big Ben is in London? How do you know this?" The pedagogical point is that even mundane knowledge claims rest on socially produced sources, testimony, photographs, schooling, maps, the institutional architecture that decides what counts as evidence. From this elementary point follows a less elementary one: if knowledge is always mediated, then the question of who mediates it, whose testimony, whose photographs, whose schooling, becomes part of the question of what is known. I will argue that the Big Ben example, paired with Harding's claim that the procedures of science are "man-made", exposes how traditional epistemology mistakes one socially located knower for the universal knower, and that this mistake is structural rather than accidental.
+
+Begin with the example. Almost no reader has measured Big Ben's location personally. We know its location because the British state, the BBC, Ordnance Survey, geography textbooks and travel media have agreed on it for generations. The agreement is reliable, but it is an agreement among institutions, not a direct encounter with an unmediated object. Harding generalises the diagnosis: "All thought by humans starts off from socially determinate lives" (Harding, 2004: 128). Knowledge production is not a solitary encounter between a knower and a fact; it is the institutional aggregation of testimonies, instruments and shared assumptions. The Big Ben case makes this benignly visible. The same structure operates, less benignly, throughout the production of scientific knowledge.
+
+Harding's second move is to ask who has been doing the aggregating. "Most philosophers and scientists and sociologists (in the West) have been men. As Sandra Harding puts it, this means that the concerns, the topics and procedures of science, philosophy and much social theory are 'man-made'." Spender extends the same point to language. The methods themselves carry the assumptions of the communities that built them. This is not a complaint about individual men. It is a structural observation: when the testimony pool, the photograph-takers, the textbook-writers, the standards-setters, are demographically narrow on a major axis, the assumptions they share will not show up as assumptions inside the framework. They will look like the world.
+
+The reference-man material in Criado-Perez catalogues what happens when this structure operates in domains less benign than London geography. Crash-test dummies were modelled on the 50th-percentile male (1.77m, 76kg); women are 47% more likely to be seriously injured and 17% more likely to die. PPE was designed around European and US male populations, with employers wrongly assuming smaller sizes would suffice for female workers. Office temperature was calibrated in the 1960s to the male metabolic rate. Doses were modelled on a 70kg "reference man" whose "superpower is being able to represent humanity as a whole. Of course, he does not" (Criado-Perez, 2019). Bags of cement and bricks repeat the pattern. Each is a Big-Ben-structure case (institutional aggregation of testimony) where the testimony pool was narrow. The aggregation is then deployed as if it were a view from nowhere.
+
+This is what Haraway names "the 'God trick' of speaking authoritatively about everything in the world from no particular location or human perspective at all" (Harding, 2004: 4). The trick is not that institutions lie. The trick is that they universalise a particular location, the location of the dominant testimony pool, and then forget that they have done so. Halewood's account of modernity as a structure of bifurcations (Halewood, 2014: Ch. 7) provides the wider frame: the fact/value gulf permits a researcher to treat his own location as a "fact" about objectivity while treating others' locations as "values" to be eliminated. Big Ben's location does not turn on this asymmetry; the reference man does.
+
+Traditional epistemology mistakes one kind of knower for the universal knower not by reasoning badly but by structuring its self-image around a forgetfulness. Harding's remedy, that we "construct new feminist modes of knowledge" producing "better, more robust forms of knowledge", does not abandon the Big Ben structure of institutionally mediated knowledge. It widens the testimony pool, demands disclosure of who is in it, and treats the conceptual framework of any discipline as itself an object of inquiry. The lecture's slogan, "a perspectival approach to knowledge can produce more not less objectivity", follows directly: more locations, more checks, more accurate aggregation.
+
+---
+
+### Mock 2: "Objectivity is male subjectivity" (Spender, 1980). Using the bifurcations of mind/body, rational/irrational, objectivity/subjectivity, men/women, critically discuss why feminist epistemology treats knowledge as partial, situated and constructed.
+
+Spender's epigram, "objectivity is male subjectivity", compresses the central feminist diagnosis of modern epistemology into four words. I will argue that the sentence makes sense, and is largely correct, when read against the bifurcations the lecture rehearses (mind/body, rational/irrational, culture/nature, science/superstition, objectivity/subjectivity, men/women) and that this reading explains why feminist epistemology treats knowledge as partial, situated and constructed rather than universal, view-from-nowhere, and merely discovered.
+
+The bifurcations operate as a single conceptual structure. The first term of each pair is privileged and coded as masculine; the second is denigrated and coded as feminine. Mind, rational, culture, science, objectivity, men is one column; body, irrational, nature, superstition, subjectivity, women is the other. The encoding is not symmetrical: it does not merely describe a difference, it ranks one column above the other, and it presents the ranking as natural. Halewood reads this as the structuring move of modernity (Halewood, 2014: Ch. 7), the fact/value bifurcation that licenses science to claim a vantage outside human valuing while every other discourse is consigned to value. Feminist epistemology refuses both halves of this move.
+
+Spender's sentence operates inside this structure. If objectivity is one term and subjectivity the other; if objectivity is coded as masculine and subjectivity as feminine; if the supposedly universal practice of objectivity is in fact the practice of a community that is overwhelmingly male; then "objectivity is male subjectivity" is the right description. The supposedly neutral, dispassionate, view-from-nowhere position is a specific, located, gendered position presenting itself as no position at all. Haraway names the same trick: "the 'God trick' of speaking authoritatively about everything in the world from no particular location or human perspective at all" (Harding, 2004: 4). Harding's term for the conflation is objectivism, the conflation of the metaphysical claim that there is a knowable world with the methodological claim that detached research achieves universal access to it.
+
+The empirical face of Spender's epigram is the reference-man material. Crash-test dummies modelled on the 50th-percentile male leave women 47% more likely to be seriously injured. PPE designed around European and US male bodies fails female workers. Office temperatures, set in the 1960s to a male metabolic rate, leave women too cold. Pharmacological doses are calibrated to a 70kg "reference man" whose "superpower is being able to represent humanity as a whole. Of course, he does not" (Criado-Perez, 2019). Bags of cement and bricks repeat the pattern. Each is engineering done objectively in the conventional sense, tested, measured, standardised, that was also engineering done from a male subjectivity treated as universal. Spender's sentence is descriptive of the empirical pattern, not just rhetorical.
+
+If this is the diagnosis, why does feminist epistemology treat knowledge as partial, situated and constructed? Three reasons follow from the bifurcations themselves.
+
+First, partial. The bifurcations divide knowable reality into two halves and then treat one half as illegitimate. Mind without body, rational without irrational, culture without nature, science without superstition, objectivity without subjectivity, men without women. Each privileged term is intelligible only against the term it excludes. Knowledge built on this exclusion is partial in the literal sense: it has discarded half the data. Beauvoir's prior observation that "one is not born but rather one becomes a woman" (de Beauvoir, 1949: 13) identifies the second column as a social product, not a natural kind, which means the excluded half is doubly partialised, denigrated and then naturalised.
+
+Second, situated. If objectivity has actually been operating as male subjectivity, then it has been operating from somewhere, a body, a class, a labour position, a national location. Hartsock's standpoint theory takes this seriously: men's and women's understandings differ because of the labour they do and their access to public space, and the dominant group's view attempts to structure social reality for everyone. Knowledge is always made from somewhere. Disclosing the somewhere is part of the work of knowing.
+
+Third, constructed. The bifurcations are not natural categories. They are historical achievements of particular communities, transported into research findings as if they were findings. Harding's strong objectivity is the remedy: "the subject of knowledge be placed on the same critical, causal plane as the objects of knowledge" (Harding, 2004: 136). Hill Collins's matrix of domination (Hill Collins, 1990) extends this by treating race, class, gender and sexuality as interlocking axes of construction, none separable from the others.
+
+The lecture's slogan applies. A perspectival approach produces more, not less, objectivity, because it abandons the bifurcations Spender named and replaces them with disclosed, examined, situated knowing.
+
+---
+
+### Mock 3: "This applies not just to 'feminist' epistemology but also to other marginalised or excluded groups." Critically discuss the extension of standpoint epistemology beyond gender, drawing on at least two of Gilroy, hooks, Collins or Du Bois.
+
+The lecture is clear that standpoint epistemology is not the property of feminism. Why epistemology matters, the slide insists, "applies not just to 'feminist' epistemology but also to other marginalised or excluded groups". The same slide gestures at the generalisation: the concept of a standpoint or perspective "could help us develop knowledge from other 'oppressed' or neglected positions". I will argue that this extension is not an optional addition but a methodological requirement, and that Gilroy, hooks, Collins and Du Bois each operationalise it in ways that strengthen rather than dilute the original framework.
+
+Begin with the structural reason for the extension. Hartsock's framework grounds standpoint in two facts: men's and women's understandings differ because of the labour they do and access to public space, and the dominant group's view attempts to structure social reality for everyone. Neither premise is gender-specific. Both apply wherever a structural axis of dominance produces a homogeneous standard imposed on differently situated others. Race, class, colonial position, sexuality each generate analogous structures. To restrict standpoint to gender would be to repeat the universalisation feminist epistemology was built to refuse.
+
+Du Bois's *The Souls of Black Folk* (1903) is the founding articulation of a racial standpoint. "It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5). Double consciousness is a precise epistemic claim: the subordinate group must understand both its own life and the dominant world that frames it, while the dominant group needs only the second. This is structurally identical to Hartsock's prediction (the dominant view attempts to structure social reality for everyone) and supplies the racial template Collins later systematises.
+
+Collins's matrix of domination is the most systematic generalisation. Race, class, gender and sexuality are not additive but interlocking; each axis shapes lived experience and the knowledge that flows from it. The concept of "outsider within" knowledge, African-American domestic workers' access to white family life from a position of structural exclusion, names the bifurcated consciousness Du Bois first identified, and Harding endorses Collins explicitly when she names the subject of feminist knowledge as "the thinker whose consciousness is bifurcated, the outsider within" (Harding, 2004: 134). The matrix is what happens when you take Hartsock's premises seriously and notice that there is more than one structural axis of dominance.
+
+Gilroy's *Black Atlantic* extends the framework to historiography. "The time has come for the primal history of modernity to be reconstructed from the slaves' point of view." The methodological promise is that political economy reconstructed from the plantation, philosophy reconstructed from the slave narrative, cultural history reconstructed from the Middle Passage, will be more accurate, not less, than histories that take Manchester or Paris as the centre and the slave port as the periphery. Gilroy's "ethics of freedom to set alongside modernity's ethics of law and the new conceptions of selfhood…constructed from the slaves' standpoint" is the historiographical operationalisation of the lecture's general claim that "a perspectival approach to knowledge can produce more not less objectivity".
+
+hooks's oppositional gaze brings the extension to vision. "The gaze has always been political in my life" (hooks, 1992: 115); "the politics of slavery, of racialized power relations, were such that slaves were denied their right to gaze". Punishment for looking, documented historically, generalises to a structural denial of credibility-as-spectator. The oppositional gaze is the active reclamation: "Not only will I stare. I want my look to change reality" (hooks, 1992: 116). Berger's parallel analysis of European art, "men act and women appear" (Berger, 1972: 47), is the gendered version; hooks's contribution is the racialised one. The two together show that the right to look, and to have one's looking credited as knowledge, is unevenly distributed along multiple axes.
+
+What does the extension add? Three things. First, it confirms Hartsock's structural claim by showing it works on axes other than gender. Second, it complicates the singular "women" of 1983 by directing attention to intersections. Third, it integrates standpoint theory with the broader project of decolonising knowledge: indigenous-knowledge perspectives on climate science, for instance, are intelligible within this framework as another instance of the same general argument. The framework, extended, is the more powerful version of the original. Harding's catalogue of standpoint sites (Harding, 2004: 129), holocaust survivors, cannery workers, older lesbians, African-American women in slavery, makes the same point: standpoint is plural by design.
+
+---
+
+### Mock 4: What is a "perspective" in the sense the lecture intends? Distinguish it from a viewpoint, a subjective opinion and an imaginary projection, and explain why a perspective must be articulated.
+
+The lecture is unusually careful about its central term. A perspective, in the sense the lecture intends, "is not just a viewpoint on the world (but it will involve a view), it is not subjective, it is not imaginary, it is experienced (and felt), perhaps by a group of people, but it needs to be 'discovered' or 'articulated'". I will argue that each negation matters and each positive determination is load-bearing, and that the resulting concept is what allows standpoint epistemology to escape both the relativism objection and the essentialism objection.
+
+Begin with the negations. A perspective is not a viewpoint. A viewpoint is the spatial metaphor of looking from one position rather than another; perspectives in this sense are interchangeable, and one could in principle adopt any one of them by changing position. The lecture's perspective is heavier than this. Hartsock's standpoint is grounded in labour and access to public space; one cannot adopt the standpoint of women's reproductive and caring labour by deciding to. The standpoint is shaped by what the body does in the world over time.
+
+A perspective is not subjective. Subjective opinion is the realm classical objectivism wants to expel from science, and if perspectives were merely subjective, the objectivist would be right to expel them. The lecture insists the opposite: a perspective is not opinion. It is not a feeling one happens to have, not a preference, not a taste. It is structural; it is the cognitive consequence of a structural position.
+
+A perspective is not imaginary. One does not invent or fabricate a perspective. It is not what an outsider imagines an insider must feel. It is also not a literary construct. Mohanty's parallel critique sharpens this: when Western feminist scholarship produced "the third world woman" as "an effect of discourse… not a real empirical group" (Mohanty, 1984: 261), the failure was precisely treating a perspective as imaginary projection rather than as the articulated knowledge of an actual community.
+
+Now the positive determinations. A perspective is experienced and felt. It has a phenomenological dimension: the wearer of a perspective lives it, in the body, in the household, in the workplace. Beauvoir's account of woman as a becoming (de Beauvoir, 1949: 13) gives the temporal grammar: the perspective accumulates as the body is shaped by social structure. The reference-man examples in Criado-Perez are the empirical face of this: women experience cold offices, ill-fitting PPE, miscalibrated doses, not as opinions but as bodily facts.
+
+A perspective is held, often, by a group. Standpoints are not individual; they are collective epistemic resources. This is what distinguishes them from idiosyncratic opinion. It is also what gives them political traction: a group of differently-situated people each holding the same articulated perspective is the precondition of standpoint as social-movement practice.
+
+A perspective must be articulated. This is the most important determination, and the one that distinguishes standpoint from mere experience. The lecture is direct: "dominated groups don't automatically have the most objective views of the world; a 'standpoint' is an achievement, won from political struggle; production of knowledge inseparable from political struggle". Harding's gloss in the Reader is the canonical statement: "it is not the experiences or the speech that provides the grounds of feminist claims; it is rather the subsequently articulated observations of, and theory about, the rest of nature and social relations…that look at the world from the perspective of women's lives" (Harding, 1991: 124).
+
+Why articulation matters. Without articulation, experience is private and politically inert; articulation is the move from a felt position to a critical perspective that can be tested, communicated, joined to other perspectives and used as a basis for further inquiry. The Black feminist tradition Collins develops in *Black Feminist Thought* (1990) is the paradigm: African-American women's experience becomes a standpoint when it is theorised through Black feminist intellectual and political community, not before. Gilroy's reconstruction of modernity from the slaves' standpoint is also an articulation, not a recovery of unmediated experience; the slave narratives, the resistance traditions, the Black Atlantic intellectual tradition are what makes the standpoint usable.
+
+The lecture's careful definition does substantial work. It defends standpoint against the charge of relativism (perspectives are structural, not preferential), against the charge of essentialism (they require articulation and are not biological), and against the charge of mere subjectivity (they are experienced and tested in collective practice). The slogan that perspectives produce more, not less, objectivity depends on each of these distinctions holding.
+
+---
+
+### Mock 5: "A perspectival approach to knowledge can produce more not less objectivity." Critically discuss the lecture's headline claim, explaining why feminist epistemology is "not about undermining knowledge…it is about providing better, more robust forms of knowledge".
+
+The lecture's headline is also its central paradox: perspectives, properly understood, produce more rather than less objectivity. Read superficially, the claim sounds contradictory, since perspectives are particular and objectivity is supposed to be universal. Read carefully, the claim is the most important sociological proposition the module defends. I will argue that the paradox dissolves once Harding's distinction between objectivity and objectivism is in place, and that the empirical record vindicates the headline rather than the inherited objectivist alternative.
+
+Begin with what the headline does not mean. It does not mean that feminist epistemology is anti-science. Harding is explicit: "this is not about undermining knowledge, epistemology or objectivity… It is about providing better, more robust forms of knowledge." Nor does it mean that all perspectives are equally good; "judgmental (or epistemological) relativism is anathema to any scientific project, and feminist ones are no exception" (Harding, 2004: 131). The headline rejects both the objectivist position (perspectives are noise, eliminate them) and the relativist position (perspectives are all there is, abandon objectivity).
+
+The pivot is Harding's distinction. Objectivity is the goal: knowledge that tracks reality, is testable, comparable, accountable. Objectivism is the failed methodological model that tried to instantiate it by demanding view-from-nowhere detachment. The model fails empirically. "The concept of value-free, impartial, dispassionate research…has been operationalized to identify and eliminate only those social values and interests that differ among the researchers and critics who are regarded by the scientific community as competent to make such judgements" (Harding, 1991: 143). Assumptions shared by the whole community slip through. The view from nowhere turns out to be the view from somewhere very specific, presented as no view at all, what Haraway calls "the 'God trick' of speaking authoritatively about everything in the world from no particular location or human perspective at all" (Harding, 2004: 4).
+
+The empirical case for the headline is the reference-man material. Crash-test dummies modelled on the 50th-percentile male leave women 47% more likely to be seriously injured. PPE designed around European and US male bodies fits female workers badly; smaller sizes do not suffice. Office temperatures, calibrated in the 1960s to the male metabolic rate, leave women too cold. Pharmacological doses are calibrated to a 70kg "reference man" whose "superpower is being able to represent humanity as a whole. Of course, he does not" (Criado-Perez, 2019). Bags of cement and bricks repeat the pattern; AI bias repeats it at digital scale. Each was objective by conventional standards (tested, measured, peer-reviewed) but produced systematically less accurate accounts than research starting from differently-situated bodies. The honest claim "this dummy represents 50th-percentile male bodies" is more objective than the dishonest claim "this dummy represents passengers".
+
+Strong objectivity is the constructive proposal. "The problem with the conventional conception of objectivity is not that it is too rigorous or too 'objectifying'… but that it is *not rigorous or objectifying enough*" (Harding, 2004: 128). The remedy demands that "the subject of knowledge be placed on the same critical, causal plane as the objects of knowledge" (Harding, 2004: 136). This is "strong reflexivity": the conditions of knowledge production (who funded it, who designed it, whose body it tested) are themselves data. Halewood reads this as the corrective to modernity's fact/value bifurcation (Halewood, 2014: Ch. 7): the gulf the bifurcation imposed between knower and known is closed by treating the knower as part of the system known.
+
+A perspectival approach produces more objectivity because it brings more locations into the analysis. Haraway's situated knowledge supplies the methodological corollary: "the only way to find a larger vision is to be somewhere in particular" (Haraway, 1991: 196). Larger vision is built from disclosed locations, joined and tested against each other, rather than from a single position pretending to be all positions. Collins's matrix of domination directs attention to intersections where multiple axes combine; her "outsider within" supplies the bifurcated consciousness Harding endorses (Harding, 2004: 134).
+
+Two objections. The relativism objection holds that more perspectives means no shared truth; reply, perspectives are tested against each other and the empirical record. The reference-man data is the proof. The politicisation objection holds that integrating standpoint blurs research and advocacy; reply, research ignoring standpoint hides its politics rather than removing them.
+
+The headline is therefore a corrective, not a paradox. Perspectives, disclosed and articulated, produce more objectivity because they widen the field of what can be examined. Feminist epistemology rebuilds the project of reliable knowledge by abandoning the model that confused universality with detachment. The slogan stands.
+
+---
+
+### Mock 6: "Dominated groups don't automatically have the most objective views of the world; a 'standpoint' is an achievement, won from political struggle." Using Hartsock's three propositions on materialist feminism, explain why standpoint is an achievement rather than a given, and what follows for the relation between knowledge production and political struggle.
+
+The slide on Hartsock ends with a sentence the lecturer underlines: "Dominated groups don't automatically have the most objective views of the world; a 'standpoint' is an achievement, won from political struggle; production of knowledge inseparable from political struggle." It refuses epistemic privilege as a property of identity, reroutes it through articulation, and ties knowledge to politics. I will defend each move using Hartsock's three propositions.
+
+The three are: men's and women's understandings differ because of "the work they do ('in' and 'out' of the 'home'), because of their different level of access to the public space"; "the views of the dominating group attempt to structure the world for everybody"; feminist standpoint "provides a way of moving beyond existing gendered social relations, and this is liberating". The first is materialist, the second structural, the third critical-political.
+
+Why is the standpoint not automatic? Two reasons.
+
+First, occupying a structural position is not the same as making sense of it. Hartsock's first proposition says women's labour differs from men's; it does not say doing it delivers a theory of it. Beauvoir's diagnosis, "one is not born but rather one becomes a woman" (de Beauvoir, 1949: 13), supplies the temporal grammar; cross-link to L5. Butler radicalises the point: "the category of 'women,' the subject of feminism, is produced and restrained by the very structures of power through which emancipation is sought" (Butler, 1990: 2). The subject who would articulate is herself an object of what she would describe.
+
+Second, the dominant view "attempts to structure the world for everybody", which means it structures the consciousness of the dominated too. Du Bois's double consciousness, "this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5), states the racial standpoint version; cross-link to L8. Achievement is the work of disentangling.
+
+Harding's gloss is canonical: "it is not the experiences or the speech that provides the grounds of feminist claims; it is rather the subsequently articulated observations of, and theory about, the rest of nature and social relations…that look at the world from the perspective of women's lives" (Harding, 1991: 124). Articulation, not experience, produces standpoint, and the articulation is collective.
+
+What follows for knowledge and politics? Three things.
+
+First, knowledge production becomes inseparable from political struggle in a strict sense. Without the organisation that builds shared analysis, experience stays private. Hill Collins's *Black Feminist Thought* is the paradigm: African-American women's experiences became a standpoint through the Black feminist intellectual community that theorised them. Gilroy's reconstruction of modernity "from the slaves' point of view" relied on the tradition of slave narratives and Black Atlantic scholarship.
+
+Second, standpoint is a critical perspective on the dominant view, not a substitute set of opinions. It reveals what the dominant framework hides, rather than replacing one universal with another. Halewood's reading of modernity as built on bifurcations (Halewood, 2014: Ch. 7) is the wider frame; cross-link to L1.
+
+Third, the politics is integral to objectivity. Harding's strong objectivity demands "the subject of knowledge be placed on the same critical, causal plane as the objects of knowledge" (Harding, 2004: 136). Haraway's situated knowledge supplies the parallel; cross-link to L10.
+
+Two objections. The essentialism worry: doesn't grounding standpoint in women's labour fix women into a category? Achievement is the answer. Labour is the precondition; articulation converts position into standpoint, and men can produce feminist knowledge "from their particular social situation" (Harding, 2004: 135). The voluntarism worry: if standpoint is achieved, why call it privileged? Because the material location supplies evidence the dominant location does not.
+
+Two general illustrations. Climate science has been enriched by Indigenous knowledge along exactly Hartsock's pattern: long-standing community observation, articulated through struggle, supplies evidence mainstream science learned to use only recently. *Black Mirror*'s sharpest episodes dramatise the same gap, with the standpoint of the affected community made legible only through articulation; AI fairness work has had to be politically organised because diverse training data alone did not surface harms.
+
+The lecturer's sentence holds. Standpoint is an achievement, not a gift; production of knowledge is inseparable from political struggle; the slogan that perspectives produce more objectivity stands on that integration.
+
+---
+
+### Mock 7: "In any historical period, the prevailing world view reflects the interests and values of the dominant group." Using the slide's claim that groups excluded from power "occupy a special social position that gives them a privileged epistemological standpoint/a less distorted world view", critically discuss why feminist epistemology treats marginalised positions as epistemically privileged, and what conditions that privilege.
+
+The "Feminist Standpoint Epistemology in Brief" slide compresses the framework into two sentences. "In any historical period, the prevailing world view reflects the interests and values of the dominant group" is the structural premise. "Groups traditionally excluded from power occupy a special social position that gives them a privileged epistemological standpoint, a less distorted world view" is the epistemic claim. I will argue the privilege is real but conditional.
+
+The structural premise is sociological. The prevailing world view is shaped by who holds the means of articulation: journals, universities, design teams, regulatory standards. Harding's diagnosis is exact: conventional method "has been operationalized to identify and eliminate only those social values and interests that differ among the researchers and critics who are regarded by the scientific community as competent" (Harding, 1991: 143). Assumptions shared by the dominant community do not show up as assumptions; they show up as the world.
+
+Why are marginalised positions epistemically privileged?
+
+First, they are bifurcated. The subordinate group must live under the dominant framework and also live its own life, developing a working understanding of both. The dominant group needs only one. Du Bois supplies the founding statement: "this sense of always looking at one's self through the eyes of others" (Du Bois, 1903: 5); cross-link to L8. Hill Collins's "outsider within", which Harding endorses as the model of the feminist knower, "the thinker whose consciousness is bifurcated, the outsider within" (Harding, 2004: 134), generalises the point through the matrix of domination.
+
+Second, marginalised positions encounter the dominant framework as a framework, not as nature. To the dominant group, the office thermostat is comfortable; to the women who shiver through their day, it is calibrated. To the dominant group, PPE is standard; to the worker whose equipment seals badly, it is sized for a body that is not hers. Criado-Perez's catalogue (crash-test dummies, PPE, thermostats, pharmacology and the reference man) is empirical proof that marginalised positions see the framework where the dominant position sees no framework. This is the "less distorted world view" the slide names.
+
+What conditions the privilege? Three things.
+
+First, articulation. The next slide insists "a 'standpoint' is an achievement, won from political struggle". Theorising the bifurcation requires political and intellectual community. Harding: "it is not the experiences or the speech that provides the grounds of feminist claims; it is rather the subsequently articulated observations of, and theory about, the rest of nature and social relations" (Harding, 1991: 124). Without articulation, the marginalised position is descriptively rich but theoretically inert.
+
+Second, plurality. The matrix of domination refuses epistemic privilege to a single-axis category. Mohanty sharpens this: Western feminist scholarship produced "the third world woman" as "an effect of discourse… not a real empirical group" (Mohanty, 1984: 261); cross-link to L9. The privilege is plural by design.
+
+Third, reflexivity. The marginalised standpoint is not exempt from the obligations it imposes on others. Harding's strong objectivity, "the subject of knowledge be placed on the same critical, causal plane as the objects of knowledge" (Harding, 2004: 136), applies equally to standpoint researchers. Standpoint is the more rigorous epistemology, not the more permissive one. Haraway supplies the parallel; cross-link to L10.
+
+What does this look like beyond academic research? Climate science has been enriched by Indigenous knowledge along exactly the slide's pattern: the dominant view reflected one research community's values, and structurally excluded communities hold long observational records that strengthen models when integrated. AI bias has been most clearly diagnosed by the affected communities, whose marginalised position made them able to see distortions engineering teams missed. *Black Mirror* dramatises the same structure: a dominant techno-social system regarded by its architects as neutral, exposing harm visible first to those it does not serve.
+
+Two objections. The relativism objection: why is privileged perspective not just another perspective? Reply, privileged perspectives generate testably less partial accounts; "judgmental (or epistemological) relativism is anathema to any scientific project, and feminist ones are no exception" (Harding, 2004: 131). The romanticism objection: marginalised positions are also distorted by poverty, trauma, exclusion. Reply, the achievement reading; suffering alone does not produce theory.
+
+The slide's two sentences work as a single argument. The dominant world view reflects dominant interests because of who holds the means of articulation; marginalised positions are epistemically privileged because of their bifurcated relation to that view; the privilege is conditional on articulation, plurality and reflexivity. Hartsock supplies the materialist grounding; cross-link to L5. Read with Harding and Haraway, the framework explains why perspectival inquiry produces more, not less, objectivity.
+
+---
+
+### Mock 8: "The god trick of speaking authoritatively about everything in the world from no particular location or human perspective at all." Discuss with reference to Haraway.
 
 Haraway's phrase the god trick is the sharpest diagnosis of what is wrong with the inherited scientific ideal of objectivity. I want to defend it on three grounds: as an accurate description of how mainstream science represents itself, as an account of why that self-representation has damaging empirical consequences, and as the foundation for Haraway's positive proposal that knowledge is constitutively situated. The quotation captures the conceit: a knower who speaks from no body, no time, no class, no gender, claiming authority over every body. This is a structural claim, not a rhetorical jab.
 
@@ -230,7 +395,7 @@ The god trick is therefore not a slogan but a diagnostic concept. It names the o
 
 ---
 
-### Mock 2: Critically assess Harding's argument in *Whose Science? Whose Knowledge?* in light of the reference-man cases catalogued by Criado-Perez.
+### Mock 9: Critically assess Harding's argument in *Whose Science? Whose Knowledge?* in light of the reference-man cases catalogued by Criado-Perez.
 
 Harding's *Whose Science? Whose Knowledge?* (1991) makes three arguments that I want to assess against Criado-Perez's reference-man cases: that conventional objectivity is too weak, that the subject of feminist knowledge is "multiple, heterogeneous, and contradictory or incoherent", and that knowledge is produced by communities rather than individuals. Each is vindicated by the reference-man record, and the book reads even better paired with Criado-Perez.
 
@@ -248,7 +413,7 @@ These reservations notwithstanding, *Whose Science? Whose Knowledge?* offers the
 
 ---
 
-### Mock 3: What does Haraway mean by the god trick, and why does she treat partiality as a methodological virtue?
+### Mock 10: What does Haraway mean by the god trick, and why does she treat partiality as a methodological virtue?
 
 The question has two parts. By the god trick Haraway means the move in which a knower presents their location-bound, body-bound, history-bound perspective as if it were no perspective at all, "speaking authoritatively about everything in the world from no particular location or human perspective at all" (Harding, 2004: 4). By partiality as a methodological virtue she means that disclosure of one's location, and explicit acknowledgement that one sees only some of the picture, is a stronger basis for objectivity than the pretence of seeing all of it. The two halves are connected: the god trick is the vice; situated, partial knowledge is the virtue.
 
@@ -270,7 +435,7 @@ The god trick and partiality-as-virtue are therefore two sides of one argument. 
 
 ---
 
-### Mock 4: Compare Hartsock's feminist standpoint with Haraway's situated knowledge.
+### Mock 11: Compare Hartsock's feminist standpoint with Haraway's situated knowledge.
 
 Hartsock's feminist standpoint and Haraway's situated knowledge are sister theories. Both reject the god trick of view-from-nowhere knowledge. Both insist that location is constitutive of knowing. Both treat disclosed partiality as more scientific than concealed universality. They differ on where the privilege of perspective comes from, how plural the resulting epistemology is, and the political register. I will argue the two are best read together, with Hartsock supplying materialist grounding and Haraway methodological flexibility.
 
@@ -296,7 +461,7 @@ The honest answer is that contemporary sociology uses both. Standpoint thinking 
 
 ---
 
-### Mock 5: How does standpoint theory help us analyse the design of technical artefacts (crash-test dummies, PPE, pharmacology)?
+### Mock 12: How does standpoint theory help us analyse the design of technical artefacts (crash-test dummies, PPE, pharmacology)?
 
 Standpoint theory is, I will argue, the most powerful sociological framework for analysing the design of technical artefacts, because it diagnoses the structural conditions that produce skewed designs rather than just the symptoms. The argument runs through three sites: bodies-into-objects (crash-test dummies, PPE), doses-into-bodies (pharmacology), and environments-around-bodies (office thermostats, bags of cement, bricks).
 
@@ -316,7 +481,7 @@ These limits notwithstanding, standpoint theory provides what surface-level "inc
 
 ---
 
-### Mock 6: Is standpoint theory an epistemology or a politics? Discuss.
+### Mock 13: Is standpoint theory an epistemology or a politics? Discuss.
 
 The question presents a disjunction; my argument is that the disjunction is false. Standpoint theory is constitutively both an epistemology and a politics, and one of its central insights is that the apparent separation between the two is itself a feature of the dominant epistemology it criticises. I will defend this in three steps: show why standpoint theory cannot be reduced to either pole, examine each pole, and argue that the integration is a methodological commitment, not a category confusion.
 
@@ -338,7 +503,7 @@ Is standpoint theory an epistemology or a politics? It is both, and the integrat
 
 ---
 
-### Mock 7: Crash-test dummies, office thermostats and the reference man.
+### Mock 14: Crash-test dummies, office thermostats and the reference man.
 
 The three items in the title are not a list but a single phenomenon under three names. Each is a case in which a homogeneous design community produced a technical artefact calibrated to one kind of body, deployed it as if it served all bodies, and discovered (or refused to discover) that it served some bodies far worse than others. The three cases form the empirical core of the case for strong objectivity: not because the engineering is unscientific, but because conventional engineering objectivity does not catch a particular kind of failure, the failure that lives in the conceptual default, not in the execution.
 
@@ -358,7 +523,7 @@ The remedy is structural rather than procedural. Better statistics will not fix 
 
 ---
 
-### Mock 8: Does the dominance of a homogeneous research community vindicate or undermine Harding's account of strong objectivity?
+### Mock 15: Does the dominance of a homogeneous research community vindicate or undermine Harding's account of strong objectivity?
 
 The question asks whether Harding's framework predicts what happens when a research community is demographically narrow. The empirical record of the reference-man cases vindicates the diagnostic half decisively; whether the remedial half is vindicated depends on whether the community undertakes the structural reforms her framework requires. Harding's account is therefore descriptively confirmed and prescriptively pending.
 
@@ -386,7 +551,7 @@ Both readings are correct, and the disjunction in the question is misleading. Ho
 
 ---
 
-### Mock 9: How convincing do you find Hartsock's argument that women's labour generates a privileged standpoint?
+### Mock 16: How convincing do you find Hartsock's argument that women's labour generates a privileged standpoint?
 
 Hartsock's 1983 essay argues that women's labour, reproductive, domestic, caring, gives systematic access to dimensions of social reality men's labour does not, and that this access, when politically articulated, yields a less partial account of social life. I find the argument substantially convincing, with two qualifications: the privilege is conditional rather than automatic, and the unitary "women" of 1983 must be replaced by the multiple women of the matrix of domination. With those qualifications the argument is one of the most empirically successful claims in late-twentieth-century sociology; without them, it is vulnerable to essentialism.
 
@@ -406,7 +571,7 @@ How convincing? Substantially, with qualifications. The 1983 framework needs the
 
 ---
 
-### Mock 10: "There is power in looking." Critically discuss with reference to hooks and the oppositional gaze.
+### Mock 17: "There is power in looking." Critically discuss with reference to hooks and the oppositional gaze.
 
 hooks's sentence, "there is power in looking" (hooks, 1992: 115), compresses three claims into five words: vision is a site of social power; vision is a site of resistance; and the conditions under which one looks, and is permitted to look, are themselves political. I want to defend each, draw out the oppositional gaze, and argue that the framework is most powerful when read as a contribution to standpoint epistemology.
 
@@ -426,7 +591,7 @@ One critical worry. The metaphor of looking is generative but bounded. Not all s
 
 ---
 
-### Mock 11: Using the work of at least two authors, assess Gilroy's claim that the primal history of modernity should be reconstructed from the slaves' standpoint.
+### Mock 18: Using the work of at least two authors, assess Gilroy's claim that the primal history of modernity should be reconstructed from the slaves' standpoint.
 
 Gilroy's claim that "the time has come for the primal history of modernity to be reconstructed from the slaves' point of view" is the strongest single application of standpoint epistemology to historiography. The argument maps cleanly onto Harding's strong objectivity and Haraway's situated knowledge. I will use both authors to defend the claim, draw out concrete sites, and consider objections.
 
@@ -448,7 +613,7 @@ Gilroy's claim is therefore not a political concession but a strong-objectivity 
 
 ---
 
-### Mock 12: Can sociology pursue objectivity while taking standpoint seriously?
+### Mock 19: Can sociology pursue objectivity while taking standpoint seriously?
 
 The question presents the choice as a constraint to be satisfied. My answer is that sociology cannot pursue objectivity except by taking standpoint seriously: the conjunction is a requirement, not a balancing act. The argument turns on Harding's distinction between objectivity (the goal) and objectivism (the failed methodological model that has tried to instantiate it). Standpoint-aware sociology is the more rigorous route to objectivity, and the apparent tension is an artefact of the objectivism Harding's framework was built to displace.
 
@@ -474,7 +639,7 @@ Sociology can pursue objectivity only by taking standpoint seriously. The disjun
 
 ---
 
-### Mock 13: Critically assess Collins's *Black Feminist Thought* as a development of standpoint epistemology.
+### Mock 20: Critically assess Collins's *Black Feminist Thought* as a development of standpoint epistemology.
 
 Collins's *Black Feminist Thought* (1990) is the most generative single development of standpoint epistemology after Hartsock's 1983 founding. The book does three things at once: it intersectionalises standpoint, replacing the implicitly unitary "women" of 1983 with the multiple, intersecting locations of the matrix of domination; it makes standpoint epistemology empirically richer by directing attention to specific intersections; and it integrates standpoint theory with social-movement politics by treating the production of standpoint knowledge as continuous with the political organisation of marginalised communities. The book is the most useful inheritance from the standpoint tradition for contemporary sociology.
 

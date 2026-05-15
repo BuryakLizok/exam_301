@@ -134,25 +134,193 @@ There is no past-paper question in the 2021–2025 SC301 archive that explicitly
 
 ## §7 Mock exam questions
 
-1. "Lyotard claims that postmodernity is defined by incredulity towards grand narratives." Discuss with reference to contemporary media and politics.
-2. To what extent is Baudrillard's concept of hyperreality useful for analysing contemporary popular culture? Use specific examples.
-3. Critically assess Jameson's claim that postmodernism is the cultural logic of late capitalism.
-4. "Postmodernism is responsible for fake news, conspiracy theories and alternative facts." Evaluate this claim.
-5. Compare and contrast Lyotard's and Baudrillard's accounts of postmodern media.
-6. How does Baudrillard's analysis of Disneyland help us understand contemporary spaces of consumption?
-7. "The Gulf war did not take place." What did Baudrillard mean, and how persuasive is the diagnosis for contemporary televised conflict?
-8. Discuss the claim that reality television marks the end of the Foucauldian panopticon.
-9. Evaluate Mark Fisher's concept of capitalist realism as an extension of Jameson's analysis.
-10. To what extent does pastiche replace parody in postmodern culture? Illustrate with examples.
-11. "Postmodernism exaggerates the role of media in constituting reality." Discuss.
-12. How useful is Baudrillard's distinction between use value, exchange value and sign value for understanding contemporary consumer culture?
-13. Is the breakdown of grand narratives a condition of liberation or of nihilism?
-14. Apply postmodern theory to one contemporary media event of your choice.
-15. "Postmodernism is the truth of late capitalism, not its critique." Discuss.
+*Note: §8 below opens with seven new slide-recipe mocks (M1–M7) built directly from Lecture 16 slide-bullets and the section-headings of the teacher summary `Postmodernism - notes.pdf` (Structuralism/post-structuralism/post-modernism map, Postmodern styles, Lyotard on media, Hypermarket, Political scandals, Reality TV, Jameson's critique). The existing fifteen mocks are renumbered M8–M22 and follow.*
+
+M1. Map the relation between structuralism, post-structuralism and postmodernism, and explain why postmodernism emerges from the breakdown of "grand narratives, truth through science and investigation, mass media and unified systems of control".
+M2. "In architecture, cinema, television, video games. A breakdown of narratives of high / low culture." Discuss postmodern styles across these forms with reference to Lyotard, Baudrillard, Jameson and Strinati.
+M3. "Media no longer transmit a shared worldview. Instead, they circulate discrete, competing messages. No single media narrative can claim authority over others." Discuss Lyotard's account of media with reference to contemporary examples.
+M4. "The hypermarket creates its own spatial / temporal distortions like a satellite having gravitational pull… consumers are screened and tested, surveilled and noted in terms of their consumption. Yet behaviour is playful and whimsical." Evaluate Baudrillard's hypermarket as a model for contemporary consumption spaces, including the slide-14 suggestion of "universities as hypermarket".
+M5. "Baudrillard argues that it's not possible to dissimulate, gives the example of simulating an armed robbery (not possible as to simulate would be to conduct an armed robbery)." Apply this account of simulation, dissimulation and political scandal to a contemporary case.
+M6. "The gaze is invited and is the 'test', 'YOU are the content', the end of the panopticon. Media stages reality. What about social media now?" Answer the slide-19 prompt directly with reference to influencer culture and platform-mediated visibility.
+M7. "Postmodern theory and culture are the primary form of cultural production in Late Capitalism… these produce an ahistoricism where texts become styles and history is represented through pastiche. Alternative (utopian) trajectories for a system other than capitalism collapse into mere fads, narratives, or vague fantasies." Discuss Jameson's diagnosis with reference to the post-apocalyptic cycle of slides 24–26.
+
+M8. "Lyotard claims that postmodernity is defined by incredulity towards grand narratives." Discuss with reference to contemporary media and politics.
+M9. To what extent is Baudrillard's concept of hyperreality useful for analysing contemporary popular culture? Use specific examples.
+M10. Critically assess Jameson's claim that postmodernism is the cultural logic of late capitalism.
+M11. "Postmodernism is responsible for fake news, conspiracy theories and alternative facts." Evaluate this claim.
+M12. Compare and contrast Lyotard's and Baudrillard's accounts of postmodern media.
+M13. How does Baudrillard's analysis of Disneyland help us understand contemporary spaces of consumption?
+M14. "The Gulf war did not take place." What did Baudrillard mean, and how persuasive is the diagnosis for contemporary televised conflict?
+M15. Discuss the claim that reality television marks the end of the Foucauldian panopticon.
+M16. Evaluate Mark Fisher's concept of capitalist realism as an extension of Jameson's analysis.
+M17. To what extent does pastiche replace parody in postmodern culture? Illustrate with examples.
+M18. "Postmodernism exaggerates the role of media in constituting reality." Discuss.
+M19. How useful is Baudrillard's distinction between use value, exchange value and sign value for understanding contemporary consumer culture?
+M20. Is the breakdown of grand narratives a condition of liberation or of nihilism?
+M21. Apply postmodern theory to one contemporary media event of your choice.
+M22. "Postmodernism is the truth of late capitalism, not its critique." Discuss.
 
 ## §8 Full mock essays
 
-### Q1: "Lyotard claims that postmodernity is defined by incredulity towards grand narratives." Discuss.
+*§6 confirms there is no past-paper Q in the 2021–2025 archive that directly maps onto L16, so §8 opens with seven new slide-recipe mocks (M1–M7) drawn straight from the Lecture 16 presentation and the teacher summary `Postmodernism - notes.pdf`. The fifteen earlier mocks follow as M8–M22.*
+
+### M1: Map the relation between structuralism, post-structuralism and postmodernism, and explain why postmodernism emerges from the breakdown of "grand narratives, truth through science and investigation, mass media and unified systems of control".
+
+I argue that the three positions form a continuous trajectory of destabilising meaning, not a clean periodisation, and that postmodernism emerges when modernist confidence in grand narratives, scientific investigation and unified mass media is structurally broken by twentieth-century crisis. The teacher summary's section heading 'From Structuralism to post-structuralism and post-modernism' (Postmodernism notes, p. 1) and slide 3 organise the answer.
+
+Structuralism, in Saussure's foundational account, treats meaning as the effect of a stable system of differences. The sign couples signifier and signified, and reality enters analysis only through structured symbolic systems. The position assumes 'single and stable meaning, objective reality, epistemology' (slide 3). Barthes (1957) extended the model from language to images, food and clothing, but his second-order signifying systems and concept of myth began to expose how stable structures naturalise contingent meanings. Structuralism is the closing form of modernist confidence in unified epistemological grounding.
+
+Post-structuralism inherits the Saussurean machinery but withdraws the assumption of stability. Slide 3 captures the shift: 'meaning is not stable, dependent on interpretation, multiple truths and meanings, reality is socially constructed, no universal truth'. Foucault's analyses of discourse and power dismantle the modernist couple of knower and known by showing that subjects and objects are produced together in historical regimes. Derrida's deconstruction shows that any structure rests on exclusions it cannot fully account for. The position retains the structuralist sensitivity to systems while denying their closure. Reality remains socially constructed, but construction is the work of unstable, contested operations rather than of a stable grammar.
+
+Postmodernism, on slide 3, is 'after modernity, many movements including post-structuralism. May suggest post-modern methods of resistance or nihilism'. The relation is not exclusion but inclusion: postmodernism encompasses post-structuralism but extends the diagnosis beyond textual systems to history, politics and culture. The teacher summary's framing makes the structural break explicit: 'Modernism, grand narratives, truth through science and investigation, mass media and unified systems of control. Post-modernism, breakdown of this (crisis, wars, fall of Communism, technology, media)' (Postmodernism notes, p. 1).
+
+This breakdown is not a philosophical preference but a historical condition. Two World Wars, the Holocaust, the collapse of Soviet communism in 1989, the discrediting of high modernist universalisms, the rise of saturating consumer media, and the proliferation of computing and networked information all eroded the legitimating frameworks of modernity. Lyotard's report on the postmodern condition (1979) names the epistemological correlate: 'postmodernity is a condition in which knowledge is fragmented, instrumentalised, and no longer justified by universal truths, but by efficiency, usefulness, and local rules' (Postmodernism notes, p. 1; Lyotard, 1984: [VERIFY PAGE?]).
+
+Lyotard's account of media (Postmodernism notes, p. 2) follows directly from this: 'Media no longer transmit a shared worldview. Instead, they circulate discrete, competing messages. No single media narrative can claim authority over others'. The 'mass media and unified systems of control' of slide 3's modernist column have given way to plural language games. Habermas (1989) is the productive contrast: the bourgeois public sphere required a shared rule of rational-critical debate; under postmodernity, no such rule survives. Trump's 'THE LEAKS ARE REAL, THE NEWS IS FAKE' on slide 31 is what 'no final authority of the media' looks like in slogan form.
+
+Baudrillard takes the diagnosis further. Where Lyotard remains within a post-structuralist commitment to local rules and language games, Baudrillard's hyperreality (slides 15–16) collapses the gap between sign and referent altogether. Reality and its representation become indistinguishable, and the model precedes the real. This is post-structuralism radicalised into postmodernism proper: where Barthes (1957) still held a 'behind' the myth, Baudrillard's fourth-order simulacrum has no behind at all.
+
+Jameson on slide 22 supplies the political-economic anchor. Postmodern fragmentation is 'the cultural logic of late capitalism'. The breakdown of unified systems of control is not a free-floating epistemic event; it tracks the structural transformation of capitalism into a global, financialised, media-dominated stage. The 'fall of Communism' on slide 3 is the historical moment at which the principal grand-narrative rival to capitalism collapses, leaving capitalism itself as an unchallengeable horizon (Fisher, 2009: 2).
+
+I conclude that the three positions form a continuous trajectory: structuralism gives the model of meaning, post-structuralism dismantles its stability, postmodernism extends the dismantling to history, politics and culture. The slide-3 / teacher-summary diagnosis of 'breakdown' is historically grounded in twentieth-century crises and is most powerfully theorised by Lyotard's language games, Baudrillard's hyperreality and Jameson's cultural logic of late capitalism. The breakdown is real, structural and contested.
+
+### M2: "In architecture, cinema, television, video games. A breakdown of narratives of high / low culture." Discuss postmodern styles across these forms.
+
+I argue that postmodernism is best diagnosed as a style running across architecture, cinema, television and video games, and that its core feature is the breakdown of the high / low culture distinction modernism policed. The teacher summary's heading 'Postmodern styles' (Postmodernism notes, p. 1) and the revision-doc gloss 'In architecture, cinema, television, video games. A breakdown of narratives of high / low culture' (Revision autumn and spring 2026, p. 24) supply the terms.
+
+In architecture the postmodern style is the most visible. Strinati's catalogue runs through Philip Johnson's grandfather-clock-shaped AT&T Building in New York, Charles Moore's Piazza Italia in New Orleans, and Richard Rogers's Lloyds building in the City of London (Strinati, 1995: 216–217). Las Vegas is the popular-architectural radicalisation: 'Las Vegas has been seen as an exemplar of and inspiration for postmodern architecture (Venturi et al. 1977)' (Strinati, 1995: 217). Slide 4 supplements with a Frank Gehry-style sculptural building and a postmodern image-grid of mismatched designer fashion. The unifying feature is pastiche, mixed period signifiers stripped of historical commitment, set against the austere universalism of high-modernist architecture (the International Style). High-modernist purity has given way to playful, eclectic, polystylistic surface.
+
+In cinema the dynamic operates through pastiche and non-linearity. Slide 37 names the iconic cases: 'Blade Runner / Pulp Fiction'. Strinati's catalogue is dense: Body Heat (1981) is 'parasitic on the cinema's past, recycling… the crime thriller of the 1940s', engaging 'retro-nostalgia' (Strinati, 1995: 218); the Rocky and Rambo franchises are 'merely imitations of other films rather than reflections of social reality' (Strinati, 1995: 218); Blade Runner (1982) 'clearly mixes styles from different periods', so that 'we appear to be in the past, the present and the future at the same time' (Strinati, 1995: 218–219); Pulp Fiction organises its narrative as cinephilic citation with 'no central narrator / truth' (slide 40); Who Framed Roger Rabbit? (1988) mixes 'the cartoon strip and the detective story' (Strinati, 1995: 218). The Marvel Cinematic Universe radicalises the pattern as a cinematic universe of comics pastiche, monomyth and genre quotation. Art cinema and pulp genre share a single stylistic vocabulary.
+
+In television the postmodern style is style itself. Slide 37 names Breaking Bad and Only Way Is Essex; slide 40 adds that Breaking Bad asks 'what our real identity is, and whether we even have one'. Strinati's exemplar is Miami Vice, 'heavily reliant upon style and surface' with the 'no earth tones' rule, where 'narrative is parodied and stylised' (Strinati, 1995: 220). Twin Peaks and Wild Palms extend the pattern. Severance, Black Mirror, Squid Game and Stranger Things are the contemporary inheritors. Reality TV pushes the breakdown further: 'YOU are the content' (slide 19).
+
+In video games the postmodern style is more pronounced because the medium is pastiche-generative. The Last of Us (2023) on slide 26 stages 'hyperreal nostalgia for a pre-apocalyptic consumption space'. Fallout 76: Burning Springs (slide 24) is open-world pastiche of 1950s Americana. Open-world franchises like Grand Theft Auto construct pastiche environments quoting cinematic genres. Pop music exemplifies the breakdown in real time: 'mixing, collage constructions, reggae sound systems, rap, house, hip hop and techno' (Strinati, 1995: 222); slide 40 names Girl Talk who mashes up existing songs. Vapourwave, hyperpop and TikTok-bred genre hybrids continue this. The album is now a stylistic anthology.
+
+The theoretical frame is concise. Lyotard's eclecticism quote (slide 9) is the postmodern style as cultural condition: 'Eclecticism is the degree zero of contemporary general culture: you listen to reggae, you watch a western, you eat McDonald's at midday and local cuisine at night, you wear Paris perfume in Tokyo and retro clothes in Hong Kong' (Lyotard, 1984). Baudrillard's hypermarket (slide 14) is the consumption-space equivalent. Jameson's pastiche-against-parody (slide 23) supplies the formal vocabulary.
+
+I qualify the thesis. Strinati notes the high / low distinction has not disappeared so much as been re-managed: 'divide between high / low culture still remains' (slide 38), and 'popular culture has always used mixture of styles' (slide 38). The aesthetic of austerity (IKEA functionalism, Apple minimalism) survives as counter-current. But the dominant tendency is unambiguous.
+
+I conclude that the teacher summary's list, 'architecture, cinema, television, video games', maps a real stylistic configuration whose unifying logic is the breakdown of high / low. The postmodern style is the cultural face of Jameson's late capitalism, the empirical content of Baudrillard's hypermarket, and the texture of Lyotard's incredulity towards grand narratives.
+
+### M3: "Media no longer transmit a shared worldview… No single media narrative can claim authority over others." Discuss Lyotard's account of media with contemporary examples.
+
+I argue that Lyotard's diagnosis on the breakdown of unified media authority is broadly correct, intensifying rather than receding under contemporary platform conditions, and is sharpest when paired with Jameson and Fisher. The teacher summary's section 'Lyotard on media' (Postmodernism notes, pp. 1–2) supplies the anchoring phrases: 'Media no longer transmit a shared worldview. Instead, they circulate discrete, competing messages. No single media narrative can claim authority over others… Media become part of a landscape of plural language games, not a source of consensus. Performativity governs media'.
+
+Lyotard's account begins in The Postmodern Condition (1979) with the breakdown of grand narratives. If knowledge is justified not by universal truth but by 'efficiency, usefulness, and local rules' (Postmodernism notes, p. 1), media authority loses its modernist foundation. The BBC's wartime authority, the New York Times as paper of record, the Walter Cronkite anchor, all presupposed a shared worldview anchored in scientific rationality and a unified national community. Postmodernity dissolves the foundation. What replaces it is a landscape of plural language games. Performativity displaces correspondence: a message works when it satisfies a local rule, not when it tracks a universal referent.
+
+Slide 8 renders this: 'Performativity governs media; knowledge becomes information; media supports / undermines grand-narratives; there is no final authority of the media'. The megaphone-emitting-social-media-icons image captures the proliferation.
+
+Contemporary support is overwhelming. The fragmentation of US cable news into ideologically siloed networks (Fox, MSNBC, CNN), the rise of Substack and newsletter brands, the partisan capture of Twitter under Musk and the emergence of Truth Social all instantiate the diagnosis. No single outlet produces a consensus position on any politically charged question. The Ipsos poll on slide 31 (74% across 29 countries think AI makes fake news easier) registers audiences' own awareness that no outlet has final authority.
+
+Slide 31's Trump quotation 'THE LEAKS ARE REAL, THE NEWS IS FAKE' is the literal performativity Lyotard predicted. The differend (Lyotard's term for two language games meeting without a shared rule) is the structuring condition of contemporary political discourse: pro-Trump and mainstream-journalistic ecologies operate by incommensurable rules of evidence.
+
+Slide 32's conspiracy material (Pizzagate, David Icke's Guide to the Global Conspiracy, the X post claiming Democrats stole the 2024 election, the fake 'FEMA gutting Walmarts in Houston' banner) is a predictable output of Lyotard's diagnosis. In a public sphere with a shared rule these claims would be dismissed. In Lyotard's plural-language-game ecology they find communities for whom the local rule accepts them. QAnon is the radicalised case: a community with its own performativity criteria.
+
+Platform infrastructure intensifies this. TikTok's algorithm serves personalised feeds optimised for engagement; Instagram's For You page and YouTube's recommendation engine reproduce the pattern. The platform business model is engagement, performativity in Lyotard's exact sense. Generative AI sharpens the diagnosis at the level of production: ChatGPT-authored articles, AI-generated images and deepfakes (the AI ICE image and AI CCTV-style 'evidence' on slide 31) detach outputs from any referent.
+
+The contrast with Habermas (1989) makes the stakes precise. Habermas's bourgeois public sphere oriented rational-critical debate to consensus under shared norms; refeudalisation by advertising and PR undermined it, but the regulative ideal survived in his account. Lyotard's ecology has neither shared rule nor consensus horizon. The two diagnoses can be read as complementary stages.
+
+I qualify the diagnosis. Some media narratives still command broad consensus. The BBC retains substantial UK authority; climate-science communication produces shared belief among non-MAGA audiences; sports broadcasting commands consensus on facts of the game. Strinati's point applies (slide 38): metanarratives 'are not in decline' so completely as Lyotard suggests. Nationalism, capitalism and market triumphalism continue with substantial authority.
+
+I pair Lyotard with Jameson and Fisher. Lyotard explains why the ecology has no shared narrative; Jameson explains why it produces engagement-maximising content as routine output; Fisher's precorporation explains why media-literacy responses are framed by capitalist logic before they enter consciousness.
+
+I conclude that Lyotard's account is substantially confirmed. 'No single media narrative can claim authority over others' is now infrastructural rather than philosophical, encoded in platform architectures and political ecologies. The diagnosis describes a dominant tendency, not complete displacement. The strongest position takes Lyotard seriously while pairing him with Jameson, Fisher and Habermas on substrate and stakes.
+
+### M4: "The hypermarket creates its own spatial / temporal distortions like a satellite having gravitational pull… consumers are screened and tested, surveilled and noted in terms of their consumption. Yet behaviour is playful and whimsical." Evaluate Baudrillard's hypermarket, including "universities as hypermarket".
+
+I argue that Baudrillard's hypermarket is one of the lecture's most powerful conceptual tools, capturing the structural logic of contemporary consumption space and extending naturally from malls to universities, festivals, platforms and theme parks. The teacher summary's section 'Hypermarket' (Postmodernism notes, p. 2) and slide 14 supply the language: spatial and temporal distortion, satellite gravitational pull, screening and surveillance, playful and whimsical behaviour, 'universities as hypermarket'.
+
+Baudrillard's account begins with the migration of the modern shopping centre. The hypermarket is no longer 'in the heart of a community' but 'out of the city', creating 'its own spatial / temporal distortions like a satellite having gravitational pull' (Postmodernism notes, p. 2). The migration is not incidental: it produces a new geographical and experiential space, 'new modes of living'. The hypermarket reorganises movement, schedule, sociability and consumption around itself.
+
+The space operates by paradox. Consumers 'are screened and tested, surveilled and noted in terms of their consumption. Yet behaviour is playful and whimsical' (Postmodernism notes, p. 2). The shopper is simultaneously a tested subject under surveillance and a playful agent. This is the key analytic contribution: the hypermarket reconciles disciplinary surveillance and consumer play. Foucault's panopticon describes pure asymmetric visibility; the hypermarket adds the invited gaze of consumption. The data trail and the playful browsing are the same operation.
+
+This is third-order simulation as social space. The slide-14 collage (Next Home, surveillance camera, Lakeside, Download Festival as hypermarket-festival hybrid) gives the density. Lakeside is the British exemplar, an out-of-city satellite mall with gravitational pull on the Thames Gateway. Westfield Stratford and Bluewater function similarly. The festival economy reproduces hypermarket logic: peripheral location, temporal distortion, ticketed entry, surveillance, play. Coachella, Glastonbury and Download all stage the structure.
+
+The slide's 'universities as hypermarket' turn radicalises the diagnosis. The neoliberal marketisation of higher education has converted universities into consumption spaces. Students are screened (admissions tests, NSS surveys), tested and noted (modules, completion rates, employment outcomes), and surveilled (attendance monitoring, learning-analytics platforms), while their behaviour is structured to be playful (extracurricular branding, student-experience marketing, food courts, themed accommodation). Strinati's catalogue of new 'postmodern' occupations (Strinati, 1995: 225) is the labour-market correlate. Fisher's 'business ontology' (Fisher, 2009: 17) is the same diagnosis at another angle.
+
+I extend to four further sites. First, the airport duty-free terminal is hypermarket in pure form: temporal distortion under perpetual fluorescent day, screening and surveillance, playful consumption, branded retail. Second, the theme park: Disneyland (slide 17) is the architectural radicalisation. Third, the streaming platform: Netflix, Amazon Prime and Spotify operate hypermarket logic in digital space, users screened, surveilled and noted while browsing playfully. Fourth, the social-media platform: TikTok, Instagram and X are hypermarket-attention machines whose For You pages reproduce the gravitational structure.
+
+The political stakes are sharp. The shopper 'screened and tested, surveilled and noted' is structurally the same subject as the reality-TV contestant for whom 'YOU are the content' (slide 19). Influencer culture and the creator economy radicalise this: the influencer is the hypermarket-subject made producer.
+
+I qualify the thesis. Strinati's reminder that 'the ability to consume is restricted by economic and cultural inequalities' (Strinati, 1995: 228) anchors the diagnosis in materialism. Hypermarket play is unevenly distributed; the precarious worker on the Lakeside cleaning shift is surveilled differently from the consumer with discretionary spend. The hypermarket model can also flatten variety: the corner shop, farmers' market and public library operate by different logics. The diagnosis describes a dominant tendency.
+
+The connection to Jameson and Fisher closes the analysis. The hypermarket is the spatial form of Jameson's cultural logic of late capitalism. Fisher's 'business ontology' explains why everything (schools, hospitals, universities, friendships) is now hypermarket-shaped. Baudrillard and Fisher are the same diagnosis at different scales.
+
+I conclude that the hypermarket is one of the most powerful concepts the lecture offers. The teacher-summary phrases (spatial / temporal distortion, satellite gravitational pull, screening and surveillance, playful and whimsical) describe the structural logic of contemporary consumption space, and the slide-14 turn to 'universities as hypermarket' is the conceptual move that radicalises it. Qualified by Strinati's reminders about inequality and partial application, the concept remains decisive.
+
+### M5: "Baudrillard argues that it's not possible to dissimulate… to simulate would be to conduct an armed robbery." Apply this to simulation, dissimulation and political scandal.
+
+I argue that Baudrillard's account of simulation and dissimulation, framed by the teacher summary's section 'Political scandals' (Postmodernism notes, p. 3), is the lecture's sharpest tool for analysing how political scandal operates inside hyperreality. The armed-robbery example is a structural claim, not a logical curiosity: under hyperreality the gap between pretending and doing has collapsed, so scandal cannot mark an aberration from a non-scandalous baseline because no baseline exists.
+
+Baudrillard's definitions are precise. 'Simulation, to feign / pretend (eg pretending one is sick by making oneself sick), gap between the two collapses. Dissimulation, reveal the pretence. Political scandal is a pretence that government is not scandalous' (Postmodernism notes, p. 3). The armed-robbery example shows that simulation cannot stay within feigning: to brandish a weapon at a teller and demand money is to commit armed robbery whether one intends to keep the money or not. Simulating produces the thing simulated.
+
+The implication for scandal is structural. Watergate appears as an aberration from legitimate government. Baudrillard argues this appearance is itself the simulation: scandal-as-aberration is the dissimulation concealing that government and capitalism are continuously scandalous. The teacher summary captures this: 'Watergate, Baudrillard argues that it is not a scandal but exists as the hyperreal to covers up that Government / capitalism itself is corrupt and a scandal, an aberration. Attempts dissimulation: an imaginary effect, like Disneyland, concealing that reality no more exists outside than inside the bounds of an artificial parameter' (Postmodernism notes, p. 3). The Watergate-as-Disneyland analogy is decisive: both demarcate an artificial zone to validate the surrounding zone as proper, when both operate by the same hyperreal logic.
+
+Slide 18 catalogues the contemporary archive: 'Nixon resigns' front page; Trump calling Americans to join ICE; Prince Andrew with Virginia Giuffre and Ghislaine Maxwell; Epstein with Trump; Mandelson with Starmer; Keir Starmer with British military. Each image stages the deterrence-machine function. The Prince Andrew photograph operates as scandal while concealing the systemic structure of elite impunity that produced it. The Mandelson / Starmer image stages scandal of association while concealing that the political class operates through such associations routinely.
+
+I apply the diagnosis to a contemporary case. The cycle of British political scandals over the past decade (expenses, Partygate, Owen Paterson lobbying, donor scandals, conflict-of-interest disclosures) is reported as exceptional. Outrage cycles through media attention, investigation, resignation or non-resignation, then dissipation. The Baudrillardian reading is that the cycle itself is the dissimulation. The structural condition is continuous: lobbying, donor influence, revolving-door employment and unequal access are systemic. Each scandal stages an aberration to conceal the absence of any non-scandalous baseline. Scandal is not the breakdown of legitimacy but its renewal through theatrical exception.
+
+The armed-robbery example sharpens this. To pretend to be a corrupt politician is to be a corrupt politician inside the simulation. Trump's open transactional politics on slide 18 instantiates this. Boris Johnson's Partygate denials performed the structure: denials of rule-breaking were themselves rule-breaking insofar as they instrumentalised parliamentary statement.
+
+The information ecology radicalises this. The fake Time cover on slide 31 is not a pretence of being on Time; it is an act of self-publication inside an ecology that consumes the fake as real. The AI ICE image and AI CCTV-style 'evidence' on slide 31 are not pretences of evidence; they are evidentiary acts. To circulate a fake 'Huge Death Camps, FEMA gutting Walmarts in Houston' banner (slide 32) is to conduct a small act of political violence inside an ecology that cannot adjudicate it.
+
+The connection to the surrounding theory closes the picture. Disneyland (slide 17) is the spatial form: it conceals that 'all of Los Angeles and the America surrounding it are no longer real'. Scandal is the temporal form. The Gulf War (slide 20) is the geopolitical form.
+
+I qualify the thesis. Strinati's reminder applies: 'Most people would still be able to distinguish between the 'reality' created by the media, and that which exists elsewhere' (Strinati, 1995: 228). Baudrillard's hyperbole risks denying that reform sometimes follows scandal: Watergate did remove Nixon; Partygate fixed-penalty notices damaged Johnson. The diagnosis describes a dominant tendency, not complete foreclosure. Habermas's regulative ideal survives in the residual operation of investigative journalism and parliamentary accountability.
+
+I conclude that the armed-robbery example is a structural diagnosis. To simulate political legitimacy is to perform it; to simulate scandal-as-aberration is to enact dissimulation. The slide-18 archive confirms the diagnosis: each scandal is the deterrence machine that conceals the continuous scandalousness of the political-economic order. Qualified by Strinati, the diagnosis remains decisive.
+
+### M6: "The gaze is invited and is the 'test', 'YOU are the content', the end of the panopticon… What about social media now?" Answer the slide-19 prompt.
+
+I answer the slide-19 prompt directly. Social media now is the radicalised continuation of the structure Baudrillard diagnosed for reality television: the gaze is no longer panoptic but invited, the subject becomes the content, and visibility is performance offered to a desired audience. The teacher summary's section 'Reality TV' (Postmodernism notes, p. 4) and slide 19 supply the language: 'Real and represented are identical, they implode into one thing, no perceptual distance. The eye of TV is no longer a panoptic gaze, the gaze is invited and is the 'test', 'YOU are the content', the end of the panopticon. Media stages reality'.
+
+The diagnosis on Reality TV terrain is precise. Big Brother (slide 19) stages contestants who volunteer for total visibility; the show's value is constituted by their performance; contestants do not pre-exist the show. The gaze is asked-for. The 'test' is whether the contestant generates content the audience desires. The panopticon is overturned because the central observer is solicited rather than hidden.
+
+Social media now generalises this to whole populations. The Instagram feed, TikTok For You page, YouTube channel and X timeline are arenas where subjects offer themselves for visibility. The selfie is the elementary unit: an image taken for the gaze, by the subject who solicits it. The story format intensifies it as continuous performance. The reel radicalises it: short-form video designed for algorithmic distribution to strangers, where success is measured by performance metrics.
+
+The influencer is the figure in whom the diagnosis is most complete. Slide 37 names 'new occupations (influencer)' as the structural outcome of media saturation. The influencer's feed is their life rather than its representation. Outfit, meal, gym session, friendship, romance, holiday and family event are content-events from the moment they occur, often planned around their content potential. The slide-19 prompt 'What about social media now?' has its answer here: social media now is the universalisation of the influencer structure.
+
+The creator economy radicalises this. OnlyFans, Patreon, Substack and Twitch mean visibility is a livelihood. The Twitch streamer broadcasting hours of everyday life is panopticon-after-its-end: continuous voluntary visibility for a paying audience. Mukbang creators, ASMR creators and vlog families all instantiate the same structure: invited gaze, performative subject, content-as-life.
+
+Baudrillard's implosion framework explains why. There is no perceptual distance between lived and broadcast life because broadcasting has become the dominant mode of living. The TikTok dance is not a representation of dancing; it is dancing-for-TikTok, a new social practice constituted by the platform. The 'photo dump' is not a documentation of a weekend; it is a weekend curated to produce the dump.
+
+The political implications are sharp. Sign value (slides 12–13) operates through this structure: brands accumulate sign value through influencer association, influencers through brand association, audiences through identification. The hypermarket's structure (slide 14, 'screened and tested, surveilled and noted… playful and whimsical') is reproduced inside the platform.
+
+I qualify the diagnosis. The end-of-panopticon claim is too strong if read literally. Panoptic surveillance persists alongside invited self-display. Workplace monitoring, state intelligence harvesting of platform data, school proctoring software and predictive policing all surveil panoptically. The hybrid regime, invited gaze plus persistent panoptic surveillance, is closer to truth than either alone. The user is both content-creator and surveilled data-subject.
+
+Strinati's reminders apply (slide 38). 'Most people would still be able to distinguish between the 'reality' created by the media, and that which exists elsewhere' (Strinati, 1995: 228). Audiences read influencer content inside multiple discourses: critical reception, parasocial identification, ironic distance. Hall's (1980) encoding/decoding restores agency: viewers can decode dominantly, negotiatedly or oppositionally.
+
+The Habermasian contrast sharpens the stakes. Habermas's rational-critical public sphere required private individuals oriented to consensus through shared norms. The TikTok / X / Instagram subject enters as a brand-self oriented to engagement. Habermas (1989) on refeudalisation has run further: rational-critical debate has reformatted into content-economy performance. The slide-31 fake-news material is the consequence: when subjects are content-generators rather than rational-critical citizens, fake news is routine output. Slide-32 conspiracy ecologies (QAnon, Pizzagate, Icke) operate inside the same structure: communities of self-displaying subjects producing content for one another.
+
+I conclude that the slide-19 prompt has its answer. Social media now is the radicalised universalisation of the reality-TV structure Baudrillard diagnosed. 'YOU are the content' is no longer a contestant's situation; it is the user's. The end of the panopticon is qualified by platform and state surveillance, but the dominant cultural form is the invited gaze. The influencer is the figure of the postmodern subject; the creator economy is its infrastructure.
+
+### M7: "These produce an ahistoricism where texts become styles and history is represented through pastiche. Alternative (utopian) trajectories for a system other than capitalism collapse into mere fads, narratives, or vague fantasies." Discuss Jameson with the post-apocalyptic cycle.
+
+I argue that Jameson's diagnosis on slide 23, repeated verbatim in the teacher summary's 'Jameson's critique of post-modernism' (Postmodernism notes, p. 4), is the lecture's most concentrated statement of the postmodern condition, and the post-apocalyptic cycle on slides 24–26 is its demonstration. Ahistoricism, pastiche and the collapse of utopian trajectories are the cultural form in which late capitalism stages its own ungraspable end.
+
+Jameson's claim has three components. First, postmodern theory and culture are the primary form of cultural production in late capitalism across art, architecture, literature and film. Second, they produce ahistoricism where texts become styles and history is represented through pastiche. Third, alternative utopian trajectories collapse into 'mere fads, narratives, or vague fantasies'.
+
+The first component locates postmodernism inside political economy: Jameson analyses the cultural face of Mandel's third stage of capitalism, global, financialised, media-dominated. Postmodern culture is not external to late capitalism but its self-expression. The line from Adorno and Horkheimer's culture industry (1944) is direct: the culture-industry thesis radicalises into a condition in which cultural production is shaped by financialised media corporations.
+
+The second component identifies the mechanism. Ahistoricism converts history from sequence to stylistic option. Strinati's catalogue is concentrated: Body Heat (1981) recycles the 1940s crime thriller in 'retro-nostalgia' (Strinati, 1995: 218); the Rocky and Rambo franchises are 'merely imitations of other films rather than reflections of social reality' (Strinati, 1995: 218); Blade Runner (1982) mixes styles 'from different periods' so that 'we appear to be in the past, the present and the future at the same time' (Strinati, 1995: 218–219); the MCU is pastiche assembly of comics history, monomyth and genre. Stranger Things, Severance and vapourwave continue this. History becomes a wardrobe of styles.
+
+The third component is the political diagnosis. Substantive alternatives to capitalism degrade into fashion (eco-localism), narrative (utopian science fiction), or fantasy (Star Trek replicator economics). This is Fisher's capitalist realism in advance: it becomes impossible 'even to imagine a coherent alternative' (Fisher, 2009: 2).
+
+The post-apocalyptic cycle on slides 24–26 is the demonstration. The Last of Us (HBO 2023), The Walking Dead and Fallout 76: Burning Springs form a coherent phenomenon. Slide 24: 'Our consumption of post-apocalyptic cinema and television (and video games) is a parody of our own demise'. Slide 25: 'Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world' (Jameson, 2003: 76).
+
+The cycle works in three ways. First, it converts collapse into entertainment, the apocalypse precorporated (Fisher, 2009: 9) as prestige content. Second, it stages capitalist relations as eternal: characters organise around scarcity, exchange, property and self-interest, rendering feral capitalism rather than non-capitalist forms. Third, the abandoned-mall sequence on slide 26 stages hyperreal nostalgia for the pre-apocalyptic consumption space, the third order at work.
+
+This is Jameson's third component exactly. The post-apocalyptic narrative claims to imagine an alternative to capitalism but imagines capitalism continuing in degraded form. The genuine alternative, a coordinated post-capitalist mode of organising scarcity, is unimaginable. Utopian trajectories appear as fads (eco-preppers), narratives (the post-apocalyptic franchise) or fantasies (the cosy-apocalypse aesthetic).
+
+Fisher's hauntology (slide 28) captures the affective texture. Capitalist media is figuratively haunted by ghosts of former utopias; the bust of Marx in a wintry forest is hauntology made image, and the post-apocalyptic cycle is its mourning ritual.
+
+I qualify Jameson. First, the diagnosis can flatten variety: Strinati notes Miami Vice 'parodied and stylised the established conventions of the genre' (Strinati, 1995: 220), so pastiche carries residual parodic charge. Second, Jameson sometimes treats culture as a reliable index of the economic base, underweighting the relative autonomy Hall and British Cultural Studies insist on. Third, the third component risks self-fulfilling pessimism; slide-34 'not guilty' resources retain some purchase.
+
+Nevertheless, the thesis explains things rivals do not. It explains why post-apocalyptic cinema, television and video games are dominant; why their affect is nostalgia for the lost consumption space (slide 26); and why imagined collapse stages capitalism continuing. Westworld, Black Mirror, Severance and Squid Game all instantiate the diagnosis.
+
+I conclude that Jameson's slide-23 diagnosis is the lecture's most powerful statement of the postmodern condition. Ahistoricism, pastiche and the collapse of utopian trajectories operate together; the slide-24–26 cycle demonstrates it; Fisher extends it. The qualifications leave the analytic core intact.
+
+### M8: "Lyotard claims that postmodernity is defined by incredulity towards grand narratives." Discuss.
 
 I argue that incredulity towards grand narratives is real and intensifying, but that what has replaced grand narratives is not their disappearance, rather their multiplication into competing language games with media as the privileged stage. Some grand narratives have proven resilient, but even resilient ones now operate inside the postmodern condition rather than against it.
 
@@ -170,7 +338,7 @@ I push back on the political diagnosis. Postmodernism is sometimes blamed for fa
 
 In conclusion, Lyotard's thesis is substantially confirmed by contemporary media and politics. Incredulity towards grand narratives is real, accelerating and structural. What has replaced grand narratives is a noisy proliferation of competing little narratives, language games and performances, with no shared rule to adjudicate them. The honest response is to take Lyotard seriously without nostalgia for grand narratives that were always already exclusionary, and without celebrating fragmentation in ways that hand the public sphere over to disinformation entrepreneurs.
 
-### Q2: Hyperreality and contemporary popular culture
+### M9: Hyperreality and contemporary popular culture
 
 I argue that Baudrillard's account of simulation in *Simulacra and Simulation* (1981), and his concept of hyperreality, remains the most powerful lens for analysing contemporary popular culture. I demonstrate this through Disneyland, the hypermarket, reality television, the Gulf War broadcast and *The Last of Us*, and qualify the thesis by recognising that hyperreality can become a totalising frame that loses analytic edge.
 
@@ -190,7 +358,7 @@ I qualify the thesis. Hyperreality can become a totalising frame in which every 
 
 In conclusion, Baudrillard's account remains the most powerful lens for contemporary popular culture, from Disneyland to reality TV to the Gulf War broadcast and *The Last of Us*. The concept identifies a structural feature of late capitalism: signs without referents, measured by performativity, that constitute the real rather than represent it.
 
-### Q3: Jameson and the cultural logic of late capitalism
+### M10: Jameson and the cultural logic of late capitalism
 
 I argue that Jameson's notion of postmodernism as the cultural logic of late capitalism is the most important corrective to Baudrillard's nihilism and Lyotard's celebratory pluralism, because it materialises postmodernism inside a specific stage of capitalist development. I defend the thesis through ahistoricism and pastiche, the "end of the world" line, the post-apocalyptic cycle on slides 24–26, and Fisher's extension. I qualify the thesis because Jameson sometimes flattens the variety of postmodern practices.
 
@@ -208,7 +376,7 @@ Nevertheless, the thesis explains things no rival explains: why post-apocalyptic
 
 In conclusion, Jameson's notion of postmodernism as the cultural logic of late capitalism is the necessary materialist anchor for postmodern theory. It rescues Baudrillard's diagnosis from nihilism by giving it political-economic ground; it rescues Lyotard's account by showing that the absence of metanarratives is itself ideological. It remains the most powerful single concept the lecture offers.
 
-### Q4: Is postmodernism responsible for fake news, conspiracy theories and alternative facts?
+### M11: Is postmodernism responsible for fake news, conspiracy theories and alternative facts?
 
 I argue that postmodernism is not responsible for fake news, conspiracy theories and alternative facts, but that it correctly diagnoses the conditions under which they thrive. I work through the lecture's "guilty/not guilty" framing, defend a qualified "not guilty" verdict, and conclude that the political-economic causes of disinformation lie elsewhere, in platform capitalism, state strategic communication and the collapse of trusted journalism.
 
@@ -224,7 +392,7 @@ I qualify the "not guilty" verdict. Some postmodern intellectuals have been irre
 
 In conclusion, postmodernism is not guilty as charged. It is the diagnosis, not the disease. The political-economic causes lie in media saturation, the proliferation of new "postmodern" occupations producing engagement at any epistemic cost, and the erosion of unified identities, all of which Strinati names. Postmodernism describes the cultural soil in which these phenomena grow, but the wholesale blaming of Lyotard, Baudrillard and Jameson is a category error.
 
-### Q5: Compare and contrast Lyotard and Baudrillard on postmodern media
+### M12: Compare and contrast Lyotard and Baudrillard on postmodern media
 
 I argue that Lyotard and Baudrillard share a diagnosis of the breakdown of unified media authority but differ sharply on what replaces it. Lyotard's account turns on language games, performativity and proliferating little narratives; Baudrillard's on simulation, hyperreality and the implosion of representation. I work through three sites, news, reality TV and political scandal, and conclude that both diagnoses are needed.
 
@@ -242,7 +410,7 @@ Both illuminate the slide-31 AI-fabricated imagery (AI-generated ICE images, fak
 
 I conclude that the two accounts should be read together. Lyotard supplies the epistemological diagnosis: language games and the absence of any meta-rule. Baudrillard supplies the ontological diagnosis: the implosion of representation. Lyotard's frame is better for analysing how different media communities coexist; Baudrillard's is better for analysing how individual media objects function. Used together they remain the most powerful pair of tools for analysing the contemporary media environment, from the Gulf War broadcast to reality TV to AI-fabricated imagery.
 
-### Q6: Disneyland and contemporary spaces of consumption
+### M13: Disneyland and contemporary spaces of consumption
 
 I answer this question by arguing that Baudrillard's analysis of Disneyland as third-order simulation provides the indispensable template for understanding contemporary spaces of consumption, from Las Vegas to the hypermarket to the Download Festival to the abandoned mall of *The Last of Us*. I work through the original analysis, extend it to four sites foregrounded in the lecture's own slides, and qualify it by noting that not every contemporary consumption space is fully hyperreal.
 
@@ -262,7 +430,7 @@ I also note the ethnographic point. Visitors to Disneyland are not duped. They k
 
 In conclusion, Baudrillard's analysis of Disneyland is the indispensable template for understanding contemporary spaces of consumption from Las Vegas to the hypermarket to the Download Festival to the *Last of Us* abandoned mall. The third order, the model preceding and exceeding the real, is the dominant logic of these spaces. The analysis must be qualified by Strinati's reminders about audience competence and unequal access, but it remains the most powerful single concept the lecture offers for the analysis of consumption.
 
-### Q7: The Gulf War did not take place
+### M14: The Gulf War did not take place
 
 I argue that Baudrillard's *The Gulf War Did Not Take Place* (1995) is not the absurd literal claim that nothing happened in Iraq in 1991. It is the diagnostic claim that the war as available to audiences was a hyperreal televisual spectacle whose relation to ground events was systematically indeterminate. I work through the argument, the iconography of slide 20, and the connections to Baudrillard's surrounding theses on simulation, dissimulation and reality TV.
 
@@ -280,7 +448,7 @@ The diagnosis applies asymmetrically. State actors with broadcasting capacity be
 
 In conclusion, *The Gulf War Did Not Take Place* is not the literal claim that nothing happened but the diagnostic claim that the war as available to audiences was a hyperreal spectacle whose relation to ground events was systematically indeterminate. The diagnosis is structurally linked to Baudrillard's analyses of political scandal (slide 18) and reality TV (slide 19): all describe the implosion of real and represented. Qualified by Strinati, it remains the most powerful single diagnosis the lecture offers of war as media event.
 
-### Q8: Reality TV and the end of the panopticon
+### M15: Reality TV and the end of the panopticon
 
 I argue that Baudrillard's claim that reality television marks the end of the Foucauldian panopticon is broadly correct: the panoptic gaze of disciplinary modernity has been replaced by an invited gaze of self-display in which "YOU are the content". I work through Foucault's panopticon, Baudrillard's revision, *Big Brother*, the influencer (slide 37), and qualify with Strinati.
 
@@ -300,7 +468,7 @@ The dialogical and discourse-theoretical approaches Strinati flags (Foucault on 
 
 In conclusion, Baudrillard's claim is broadly correct at the level of phenomenology: the panoptic gaze has been replaced by an invited gaze in which subjects offer themselves as content. The slide-19 "what about social media now?" prompt extends the diagnosis from television to influencer culture. The diagnosis must be qualified by Strinati on audience competence and by the dialogical-discursive corrective: audiences still distinguish staged reality from lived reality, and panoptic surveillance persists alongside invited self-display. The diagnosis describes a tendency rather than a completed displacement.
 
-### Q9: Mark Fisher and Capitalist Realism as an extension of Jameson
+### M16: Mark Fisher and Capitalist Realism as an extension of Jameson
 
 I argue that Mark Fisher's *Capitalist Realism* (2009) is the most important extension of Jameson's diagnosis, sharpening the "end of the world easier than end of capitalism" line into a fully developed account of how late capitalism forecloses alternative imagination. I work through Fisher's key concepts, capitalist realism, business ontology, precorporation and hauntology, and apply them to contemporary case studies.
 
@@ -322,7 +490,7 @@ I also note Fisher's pedagogical power. *Capitalist Realism* is short, accessibl
 
 In conclusion, Fisher's *Capitalist Realism* is the most important extension of Jameson's diagnosis. The concepts, capitalist realism, business ontology, precorporation, hauntology, give Jameson's "end of the world easier than end of capitalism" line operational purchase. The diagnosis must be qualified by the slide-34 "not guilty" resources and by Strinati's limits, but it remains the most powerful single account the lecture offers of how late capitalism forecloses the imagination of alternatives.
 
-### Q10: Pastiche, parody and postmodern culture
+### M17: Pastiche, parody and postmodern culture
 
 I argue that Jameson's distinction between parody and pastiche is one of the lecture's most analytically powerful tools, and that pastiche has indeed replaced parody as the dominant mode of contemporary culture, but not as a complete replacement; certain works recover critical parody inside pastiche-saturated environments.
 
@@ -342,7 +510,7 @@ I qualify the thesis. First, parody is not extinct. Strinati notes that *Miami V
 
 In conclusion, pastiche has replaced parody as the dominant mode of contemporary culture, from *Body Heat*, *Blade Runner* and the *Rocky*/*Rambo* franchises to *Miami Vice*, *Twin Peaks*, *Stranger Things* and Girl Talk, and from Philip Johnson's AT&T to Frank Gehry. The replacement is not complete (residual parody persists), but the broad Jamesonian claim that contemporary culture is dominated by ahistorical pastiche is well supported.
 
-### Q11: Does postmodernism exaggerate the role of media in constituting reality?
+### M18: Does postmodernism exaggerate the role of media in constituting reality?
 
 I argue that postmodernism does sometimes exaggerate the role of media in constituting reality, and that this is the most defensible criticism of the tradition, but that the exaggeration captures a real structural feature of late modernity that other approaches miss.
 
@@ -360,7 +528,7 @@ The most extreme version of the charge is that postmodernism denies the reality 
 
 In conclusion, postmodernism does exaggerate the role of media in constituting reality, and this is the most defensible criticism. But the exaggeration captures a real structural feature: the increasing extent to which social reality is constituted through media operations. The proper response is to retain the constitutive thesis while supplementing it with materialist political economy, ethnographic study of audiences and recognition of the persistent importance of non-mediated experience.
 
-### Q12: Use, exchange and sign value
+### M19: Use, exchange and sign value
 
 I argue that Baudrillard's sign value alongside Marx's use value and exchange value is the lecture's most analytically productive single concept, because it captures the dominant logic of contemporary consumer culture in a way that neither classical economics nor classical Marxism can.
 
@@ -378,7 +546,7 @@ The political stakes. The dominance of sign value means contemporary consumption
 
 In conclusion, Baudrillard's sign value alongside Marx's use and exchange value is the lecture's most analytically productive single concept. The dominance of sign value is the structural feature of late capitalist consumption, anchored by the slide-11/12/13 trainer sequence and extended by the hypermarket diagnosis. Qualified by Strinati on material inequality and the persistent usefulness of commodities, the concept remains the most powerful single tool the lecture offers for the analysis of consumption.
 
-### Q13: Liberation or nihilism?
+### M20: Liberation or nihilism?
 
 I argue that the breakdown of grand narratives is neither uniquely liberating nor uniquely nihilist but produces a contested terrain whose political valence depends on what fills the vacuum. I work through both sides via the slide-33/34 "guilty/not guilty" debate.
 
@@ -396,7 +564,7 @@ The slide-34 resources of critique (alternative modalities, polyvocality, irony,
 
 In conclusion, the breakdown is neither uniquely liberating nor uniquely nihilist. It produces a contested terrain whose political valence depends on what fills the vacuum, with the slide-32 conspiracy cluster as the nihilist symptom and the postmodern aesthetic resources of slides 4 and 37 as the liberating ones. Strinati's "Meta-narratives are not in decline" qualifies the premise, and the slide-34 resources answer the nihilism charge.
 
-### Q14: Apply postmodern theory to a current media event
+### M21: Apply postmodern theory to a current media event
 
 I take as my current media event the slide-31 cluster on fake news and AI-generated imagery: Trump's "THE LEAKS ARE REAL, THE NEWS IS FAKE", the fake *Time* Magazine cover, the AI-generated ICE image with wrong-uniform and missing-windows annotation, and the AI-generated CCTV-style "evidence" images. I work through Lyotard, Baudrillard and Jameson in turn, draw on slide-35's "pure event" prompt, and conclude with a synthesis.
 
@@ -420,7 +588,7 @@ The proper response combines all three. Lyotard suggests building local truth pr
 
 In conclusion, the slide-31 fake-news and AI-imagery cluster is a textbook demonstration of Lyotard's epistemological, Baudrillard's ontological and Jameson/Fisher's political-economic diagnoses. Slide 35's "pure event" prompt frames the cluster correctly: this is not the revenge of the real but the steady-state hyperreality the lecture has been describing throughout.
 
-### Q15: Postmodernism as truth of late capitalism, not its critique
+### M22: Postmodernism as truth of late capitalism, not its critique
 
 I argue that this is Jameson's deepest insight: postmodernism is the truth of late capitalism rather than its critique, because postmodernism describes the cultural logic that late capitalism actually produces. I distinguish strong and weak versions, defend the strong version, and conclude with a qualification about the possibility of critique inside the postmodern condition.
 

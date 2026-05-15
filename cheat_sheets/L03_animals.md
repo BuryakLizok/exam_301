@@ -86,19 +86,28 @@ The critical question is whether this expanded sociology can still do the politi
 
 ## 7. Mock exam questions
 
-1. **M1.** "The social *is* animal." Discuss.
-2. **M2.** What does Haraway mean by companion species, and why does she treat it as ontologically prior to "human" or "animal"?
-3. **M3.** Horsepower, industrialisation and the limits of Marxism.
-4. **M4.** How convincing do you find Carter and Charles's diagnosis of anthroponormativity in *The Animal Challenge to Sociology*?
-5. **M5.** Critically assess Carter and Charles's argument with reference to a contemporary case of human–animal entanglement (pheasant shoots, wolves under EU jurisdiction, or industrial food production).
-6. **M6.** Why does the lecturer "blame Talcott Parsons" for the disappearance of animals from twentieth-century sociology? Answer with reference to Carter and Charles and to the Durkheim and Weber excerpts.
-7. **M7.** Is animal studies the next step in sociology or a category mistake?
-8. **M8.** Compare Haraway's companion species with Carter and Charles's "constitutive of society" framing.
-9. **M9.** Can sociology decentre the human without dissolving its disciplinary identity?
-10. **M10.** "Animals can communicate, but they don't obviously have human language." Discuss with reference to at least two readings.
-11. **M11.** Using the work of at least two authors, assess whether animal welfare and animal rights demand the same sociological framework, given Haraway's wariness of certain "prolife" framings (Haraway, 2016: 28).
-12. **M12.** What does the Greenebaum (2012) typology of vegans add to the Carter and Charles diagnosis of the animal challenge to sociology?
-13. **M13.** "Pets are kin." Discuss the politics and ethics of treating companion animals as family with reference to Haraway and Kimbo.
+*M1-M5 follow the lecturer's exam-question recipe most closely (slide-title anchor + slide-bullet questions fused into one composite + lecturer phrases preserved). M6+ are the earlier wave, renumbered.*
+
+1. **M1.** *Key "argument" (slide 7).* How can human-animal relations be made "fair", or at least not exploitative, given the lecturer's suggestion that "perhaps it is only possible for us to be human, and to live in a society, through our relations with animals", and given the slide's insistence that we move beyond the symbolic importance of pets to "real" animals?
+2. **M2.** *Human Exceptionalism and the Chain of Being (slides 8-9).* How does the doctrine of human exceptionalism rest both on supposedly unique human capacities (intentions, morality, symbolism, consciousness) and on the older Judaeo-Christian Chain of Being, and what does this dual genealogy mean for sociology's tacit picture of "us"?
+3. **M3.** *Making the familiar strange (slide 23).* Why did sociology forget the horses, and what other roles do animals play in our society that sociology still has to learn to see?
+4. **M4.** *Dr Alexandra Kimbo (slide 28).* How can sociology "think with (and for) other animals, as opposed to about them", how can it "take into account what matters for nonhuman animals", and how does this method change the questions sociology asks?
+5. **M5.** *Turning the questions round (slide 32).* Why do we want to keep agency, culture, symbols and rights to ourselves, and what is at stake in turning these questions round, including the lecturer's question "Do animals have souls?"
+6. **M6.** *Part 2, the Neglected Role of Animals in Modernity (slide 15).* What does it mean for sociology that "Modernity (especially in its industrial phase) marked a major shift in our use of, and attitude towards, animals", that "we have forgotten or ignored the role of animals in Sociology", and that "modern societies are only possible because of a whole range of animals (We could not be modern without animals)"?
+7. **M7.** *Back to Carter and Charles: A bit like the "rise" of feminism? (slide 24).* How well does the four-stage feminist analogy (pre-feminist neglect, critique, "adding women in", full theoretical integration) describe where animal studies currently sits inside sociology, and what is gained and lost by reading the animal challenge through the rise of feminism?
+8. **M8.** "The social *is* animal." Discuss.
+9. **M9.** What does Haraway mean by companion species, and why does she treat it as ontologically prior to "human" or "animal"?
+10. **M10.** Horsepower, industrialisation and the limits of Marxism.
+11. **M11.** How convincing do you find Carter and Charles's diagnosis of anthroponormativity in *The Animal Challenge to Sociology*?
+12. **M12.** Critically assess Carter and Charles's argument with reference to a contemporary case of human-animal entanglement (pheasant shoots, wolves under EU jurisdiction, or industrial food production).
+13. **M13.** Why does the lecturer "blame Talcott Parsons" for the disappearance of animals from twentieth-century sociology? Answer with reference to Carter and Charles and to the Durkheim and Weber excerpts.
+14. **M14.** Is animal studies the next step in sociology or a category mistake?
+15. **M15.** Compare Haraway's companion species with Carter and Charles's "constitutive of society" framing.
+16. **M16.** Can sociology decentre the human without dissolving its disciplinary identity?
+17. **M17.** "Animals can communicate, but they don't obviously have human language." Discuss with reference to at least two readings.
+18. **M18.** Using the work of at least two authors, assess whether animal welfare and animal rights demand the same sociological framework, given Haraway's wariness of certain "prolife" framings (Haraway, 2016: 28).
+19. **M19.** What does the Greenebaum (2012) typology of vegans add to the Carter and Charles diagnosis of the animal challenge to sociology?
+20. **M20.** "Pets are kin." Discuss the politics and ethics of treating companion animals as family with reference to Haraway and Kimbo.
 
 ## 8. Essay answers
 
@@ -168,7 +177,181 @@ One defence is worth considering. Some sociologists (slide 31 lists Mead, Goffma
 
 The three limitations connect. The historical-empirical gives an inaccurate picture of past societies. The conceptual produces analytic tools that cannot grasp present societies. The normative leaves a discipline ill-equipped for multispecies questions. I conclude, with Carter and Charles, that "the social *is* animal" (Carter and Charles, 2018: 93), and the definition we should defend is closer to "sociology is the study of multispecies relations through which human-and-animal worlds are made."
 
-### M1: "The social *is* animal." Discuss.
+### M1: *Key "argument" (slide 7).* How can human-animal relations be made "fair", or at least not exploitative, given the lecturer's suggestion that "perhaps it is only possible for us to be human, and to live in a society, through our relations with animals", and given the slide's insistence that we move beyond the symbolic importance of pets to "real" animals?
+
+The slide fuses three things: the ethics of human-animal relations, the constitutive role those relations play in producing us as human, and the distinction between symbolic readings of pets and the "real" animals that build, feed and trouble our societies. Fairness in this domain is unintelligible inside the human-only sociology slide 7 names as the obstacle, and Carter and Charles plus Haraway supply the apparatus.
+
+The "real animals" qualifier is doing the work. When sociology has noticed animals at all, it has often noticed them as symbols (slide 13: "animals become important as symbols, as bearers of meaning… For example: Pets"). Carter and Charles cut against this directly: "there is virtually no area of social life that is untouched by animals" (Bryant 1979, cited Carter and Charles, 2018: 79), and the animals are not metaphors. They are horses pulling streetcars, pheasants bred for shoot, chickens in battery cages, dogs co-evolved with humans.
+
+Why "only possible for us to be human… through our relations with animals"? Because the human is co-produced. Greene's history is the strongest case: "Horses provided virtually all the power for the internal circulation of city life because no other prime mover could compete with them technologically" (Greene, 2008: 170). Industrial modernity, the historical condition of the modern human, ran on horses as "living machines" (Greene, 2008: 4). Haraway extends it to species-level co-constitution: "the partners do not precede the knotting" (Haraway, 2016: 13); dogs and humans are "training each other in acts of communication we barely understand" (Haraway, 2003). Carter and Charles formalise it: agency is "an emergent product of the engagement between purpose and the contextual conditions of action" (Carter and Charles, 2018: 90), "always agency in relation to other agents" (Carter and Charles, 2018: 92). The human is one species occupying the social entanglement, not the species that owns it.
+
+What does "fair" mean once the human is decentred? Three layers.
+
+First, descriptive fairness. Greene's horses are erased from Marx's industrial story; pheasants are described as country sport rather than as "a complex entanglement of social actors from various classes, genders and species" (Carter and Charles, 2018: 92); wolves under jurisdictional patchwork ("agency therefore changes depending on whether they are in one or another national jurisdiction", Carter and Charles, 2018: 91) appear in conservation policy but not in political sociology. Fair description precedes fair treatment.
+
+Second, structural fairness. Animal relations are "frequently ones of domination and exploitation" (Carter and Charles, 2018: 80): "sheep do not decide when they are to be slaughtered; chickens do not decide to live in cramped and insanitary battery cages; wolves and pheasants are unaware of the shooting season" (Carter and Charles, 2018: 92). Foucault's biopower, "the macro-level of populations" managed through statistical knowledge (Lynch, 2011: 26), names the technique that factory farming and intensive agriculture apply at species scale. Fairness here means making this visible as politics rather than naturalising it as biology.
+
+Third, relational fairness. Haraway's response-ability: "we are all responsible to and for shaping conditions for multispecies flourishing in the face of terrible histories… but we are not all response-able in the same ways. The differences matter, in ecologies, economies, species, lives" (Haraway, 2016: 29). Fairness is graduated obligation across asymmetric relations, not symmetrical reciprocity. PigeonBlog (Beatriz da Costa, 2006) shows graduated practice: racing pigeons "had to learn what their humans were interested in seeing" (Haraway, 2016: 18); humans "render each other capable of mutual trust" (Haraway, 2016: 22). Fairness sits in the rendering-capable.
+
+The "real animals" register has bite. The pet on Instagram is a symbolic animal; the broiler chicken whose short life enables that pet's food is a real animal. Halewood's diagnosis of bifurcation as the master modern move (Halewood, 2014: 1) is the philosophical backbone: the nature/culture cut that lets sociology treat real animals as biology's problem is the same cut that lets industrial food production proceed unremarked.
+
+So the slide's three threads come together. Becoming human happens through entanglement with real animals; sociology has been the discipline that hides this; making the relations fair requires first making them visible. "The social *is* animal" (Carter and Charles, 2018: 93). Slide 7's question is the working agenda of multispecies sociology.
+
+### M2: *Human Exceptionalism and the Chain of Being (slides 8-9).* How does the doctrine of human exceptionalism rest both on supposedly unique human capacities (intentions, morality, symbolism, consciousness) and on the older Judaeo-Christian Chain of Being, and what does this dual genealogy mean for sociology's tacit picture of "us"?
+
+Slides 8 and 9 trace human exceptionalism back through two sources usually held apart. One is a list of supposedly unique human properties (intentions, morality, symbolism, consciousness). The other is the Judaeo-Christian Great Chain of Being. The dual genealogy matters: a doctrine sociology presents as rational inference from human capacities is also a theological inheritance, and recognising this changes what counts as justifying it.
+
+Begin with the property list. Slide 8: humans are exceptions to natural law "because they (supposedly) have capacities/properties which do not exist elsewhere in the universe… Intentions, Morality, Symbolism, Consciousness." Carter and Charles unpack the same list: "the human species is exempt from natural constraints and processes… and is evolutionarily unique" (Carter and Charles, 2018: 81). The Weberian inheritance gives this its sociological form: meaning-making, Verstehen, value-oriented action (slide 12). The discipline's tacit "we" is the species defined by this list.
+
+The property argument is empirically and conceptually unstable. Carter and Charles cite de Waal that "animals such as chimpanzees, bonobos and whales (to name but a few) have cultures which are peculiar to specific social groups and persist across generations" (Carter and Charles, 2018: 88); Haraway notes pigeons pass mirror tests (Haraway, 2016: 18). Conceptually, defining the social as symbolic, the symbolic as human, and concluding the social is human is circular. Anthroponormativity does the work empirical investigation should (Carter and Charles, 2018: 88).
+
+The second genealogy. Slide 9 traces human exceptionalism to the Chain of Being: God, angels, humans, animals, elements, inanimate matter. The Chain is an ordered cosmology with humans positioned just below the divine. The supposedly secular property list inherits its structure: humans sit just below the angels, and the marks of that position get rationalised as natural capacities.
+
+Carter and Charles do not develop the Chain explicitly, but their account of sociology's "fraught relationship with biology" (Carter and Charles, 2018: 80) reads as its secular afterlife. Halewood's diagnosis (Halewood, 2014: 1) of bifurcation as the master modern move sharpens this: the Cartesian carve-up of subject and object translates the Chain's ordering into a method. The L8 lecture on race makes the parallel point about Blumenbach and Linnaeus: scientific racism inherited the same hierarchy and applied it within the human species. Gilroy's reading of the orangutan-and-Negro frontispiece (Gilroy, 1998: 254) shows racial and species hierarchies were drawn on the same scaffolding. Anthroponormativity and white normativity are siblings.
+
+What does the dual genealogy mean for sociology's tacit "us"?
+
+First, the "us" is parochial. The Judaeo-Christian ordering is one cosmology among many; indigenous cosmologies refuse the strict human-above-animal placement. A discipline that universalises a culturally specific ordering as "human nature" misperceives its object. Carter and Charles's call for a multispecies sociology is also a decolonising move.
+
+Second, the "us" is unstable. Once the property list is granted to other species (chimpanzee culture, pigeon mirror-recognition, dog social cognition), the doctrine wobbles. Slide 31 lists the symbolic-interactionist defenders (Mead, Goffman, Barthes, Saussure, Baudrillard), but slide 32 turns the question round: "Why do we want to keep culture to ourselves? Why do we want to keep rights to ourselves? Do animals have souls?" The dual genealogy explains why the impulse runs so deep: it is not just a property claim but a cosmological commitment.
+
+Third, the "us" is consequential. The Chain placed humans above animals; modernity placed European humans above other humans on the same scaffolding. Factory farming, intensive agriculture, biodiversity loss and the climate change pressure of the Anthropocene are politically and ecologically continuous with the doctrine. Carter and Charles warn that without revision sociology is "in danger of rendering it irrelevant in the age of the Anthropocene" (Carter and Charles, 2018: 81).
+
+Haraway's "not 'posthuman' but 'com-post'" (Haraway, 2016: 11) names the alternative. Composting refuses the upward orientation of the Chain: humans are with the animals, the soils, the microbes, not above them. Companion species "are relentlessly becoming-with" (Haraway, 2016: 13); kinds are produced through entanglement, not assigned by hierarchy. Kimbo's "How to think with (and for) other animals, as opposed to about them" (slide 28) is the methodological consequence.
+
+So the dual genealogy strips the doctrine of its self-image as neutral inference. The property list is the secular face; the Chain of Being is the cosmological substrate. Sociology's tacit "us" is the heir of both. Multispecies sociology disowns the inheritance without disowning the discipline.
+
+### M3: *Making the familiar strange (slide 23).* Why did sociology forget the horses, and what other roles do animals play in our society that sociology still has to learn to see?
+
+The slide's instruction is doubled: defamiliarise the horse (why did we forget?) and recognise the wider field of animal-shaped social life (what else has been missed?). The forgetting is structural, and what remains unseen is everything the structural forgetting still hides.
+
+Greene's quantitative point makes the absence remarkable: "Horses provided virtually all the power for the internal circulation of city life because no other prime mover could compete with them technologically" (Greene, 2008: 170). "With 131,000 horses in New York City by 1900, the result was 1,300-3,300 tons of horse manure daily" (Greene, 2008: 174). The horse was the prime mover of nineteenth-century industrial cities. Sociology, institutionalising in those cities, missed them.
+
+Slide 23 gives the lecturer's answer: "People would, perhaps, not have noticed horses, just as we don't notice what makes our society tick, the internet cables, etc." Ubiquity made invisibility, and "making the familiar strange is one of the main roles of sociology." But the ubiquity story is only half the answer. The other half is structural, and Carter and Charles supply it.
+
+Three structural reasons. First, the "fraught relationship with biology" (Carter and Charles, 2018: 80): sociology institutionalised by defending "the autonomy and specificity of human social life" (Benton 1991: 12, cited Carter and Charles, 2018: 82). Second, human exceptionalism: "the human species is exempt from natural constraints… and is evolutionarily unique" (Carter and Charles, 2018: 81). Horses were tools or scenery, not constitutive. Third, urban-industrial provincialism: by the time sociology matured, food and traction animals had been removed from cities, and sociologists experienced themselves as "increasingly remote from most other animals" (Carter and Charles, 2018: 84).
+
+To these Carter and Charles add anthroponormativity (Carter and Charles, 2018: 88), the conceptual habit fixing the rest in place. Halewood's diagnosis of bifurcation as the master modern move (Halewood, 2014: 1) is the philosophical substrate: once nature and culture are carved apart, animals are unsociological by definition. The forgetting is structural at every level.
+
+What else has been missed? The slide invites the inventory.
+
+Power and labour. Greene's horses are one case; pit ponies, plough horses, war-horses, race-horses extend it. Marx's productive labour was always already multispecies; the Communist Manifesto contains no horses. A multispecies political economy reads the same archive differently.
+
+Food. Factory farming and intensive agriculture are the dominant mode of animal-protein production in contemporary capitalism. Sheep, chickens and pigs are agents whose "choices, when they are exercised, are already circumscribed (the caged chicken cannot walk freely…)" (Carter and Charles, 2018: 92). Foucault's biopower (Lynch, 2011: 26) names the technique applied at species scale.
+
+Infrastructure. Slide 18 flags pollinating insects as silent infrastructure of the food system. Bees as the technological condition of agriculture; their decline as biodiversity loss with direct social consequences. Marx's bee as Carter and Charles's foil was already misperceived.
+
+Politics. Wolves under EU jurisdiction (Carter and Charles, 2018: 91): "in Sweden, wolves are protected but in the north, where the Sami live, they can be killed because they might threaten the Sami's herds of reindeer." Multispecies political geography organised by national law.
+
+Class and leisure. The British pheasant shoot is "a complex entanglement of social actors from various classes, genders and species, all of whom are enmeshed in overlapping webs of agential conditions" (Carter and Charles, 2018: 92): pheasants bred "in their hundreds of thousands so that they can be shot"; dogs trained to beat and pick up; gun-room gendering.
+
+Kin and family. Pets, companion animals, the pet-food industry as the economic shadow of multispecies kinship. Haraway's companion species: dogs and humans "training each other in acts of communication we barely understand" (Haraway, 2003). The L10 connection runs straight through: refusing "the god-trick of seeing everything from nowhere" (Haraway, 1991: 189) is what allows the dog's standpoint to count.
+
+Environment. Climate change, biodiversity loss, zoonotic disease (COVID-19), Amazon clearance for beef production, palm-oil clearance of orangutan habitat. Slide 35 names the harms.
+
+Citizen science. PigeonBlog (Beatriz da Costa, 2006): racing pigeons with DIY sensors mapping air pollution that "official government air pollution monitoring devices" could not (Haraway, 2016: 21).
+
+Berger's L10 line ("Seeing comes before words", Berger, 1972: 7) gives the methodological register: defamiliarisation is restoring vision. The horse was always there; sociology's habit was to look past it. Restoring the horse is one item on a longer list.
+
+So the forgetting is structural and the list of unseen roles is long. Sociology's task is not to add animals to the index but to recognise that the index was always already animal. Greene's horses are the test case; the wider field is everything they index.
+
+### M4: *Dr Alexandra Kimbo (slide 28).* How can sociology "think with (and for) other animals, as opposed to about them", how can it "take into account what matters for nonhuman animals", and how does this method change the questions sociology asks?
+
+Kimbo's three slide-28 questions are not separate provocations but one methodological programme. Thinking with animals rather than about them, taking what matters to them into account, and asking the right questions are three moments of a single move from object-sociology to relational sociology.
+
+Thinking *with* rather than *about* names a shift in epistemic stance. Object-sociology treats animals as things sociologists describe from a human vantage. Relational sociology treats them as partners whose standpoints shape what can be known. Haraway's companion species ontology is the developed version: "the partners do not precede the knotting; species of all kinds are consequent upon worldly subject- and object-shaping entanglements" (Haraway, 2016: 13). To think with is to take the entanglement as the unit of analysis. Despret on the pigeon loft puts it sharply: "without the lover of pigeons, without the knowledge and know-how of men and birds, without selection, apprenticeship, without transmission of practices, what then would remain would be pigeons, but not homing pigeons, not voyageurs" (Despret, cited Haraway, 2016: 25).
+
+Slide 29 puts the affective register on this: "Harald and I may express love differently, and each have unique perspectives, but the possibility of loving exists nonetheless… If two individual bodies (or centres of experiences and flows of feeling) open themselves up or attune to each other… shared experience is what matters foremost." Attunement is the operative term. Methodologically, attunement is closer to participant observation than survey research, and closer still to the multispecies ethnography Haraway demonstrates in PigeonBlog.
+
+Taking what matters to the animal into account is the second moment. Carter and Charles's relational realism makes this tractable: agency is "an emergent product of the engagement between purpose and the contextual conditions of action" (Carter and Charles, 2018: 90). What matters to a chicken in a battery cage is movement, light, social contact, freedom from pain; the cage thwarts these. Animals have purposes engaging conditions, and sociology can describe these without anthropomorphism. Halewood's diagnosis of bifurcation (Halewood, 2014: 1) names the carve-up being refused: the move that lets the chicken count as biology rather than as social life.
+
+Haraway's "rendered capable" extends the point: "becoming-with… is how partners are, in Vinciane Despret's terms, rendered capable" (Haraway, 2016: 12). PigeonBlog's pigeons "had to learn what their humans were interested in seeing" (Haraway, 2016: 18); reciprocally, the humans had to render the pigeons capable. Mattering is mutual.
+
+The third moment, "asking the right questions", names the consequence. Once you think with animals and take what matters to them seriously, the standard questions look wrong. Three examples.
+
+First, "do animals have language/rights/souls?" presupposes the bifurcation it asks about. Slide 32: "Why don't we want animals to have agency, subjectivity, the ability to use symbols? Why do we want to keep culture to ourselves?" The interesting question is not whether animals meet the criteria but why we set the criteria as we did. Berger's L10 line that "seeing comes before words" (Berger, 1972: 7) reinforces it: pre-linguistic embodied attunement is a real register of social life.
+
+Second, "how should humans treat animals?" presupposes humans as the only relevant agents. Haraway's response-ability rephrases: "we are not all response-able in the same ways. The differences matter, in ecologies, economies, species, lives" (Haraway, 2016: 29). The question becomes: in this entanglement, who renders whom capable of what, and what obligations are produced?
+
+Third, "what is the social?" gets reopened. Slide 30: "what would sociology be like if we started from the position that we are just one kind of animal among others?" The disciplinary self-definition that closed this question (Parsons, slide 40) is reopened. Carter and Charles answer: "the social *is* animal" (Carter and Charles, 2018: 93).
+
+The method changes what counts as data. Kimbo's PhD title (*Sociology, Sociality and Animals: Beyond the social/natural divide*) names the boundary crossed. Multispecies ethnography, ethological attention to animal behaviour, and slide 29's practical-affective attunement become methodological resources. The COVID-19 zoonotic moment, factory farming, climate change and biodiversity loss are the empirical situations the method is built to describe.
+
+A residual worry is methodological adequacy: animals do not fill out questionnaires. The honest answer is that the methods are being built. Despret, Haraway and Kimbo are inventing them, and sociology's history of method innovation (the ethnographic turn, feminist standpoint, post-colonial reflexivity) shows the discipline can do this work.
+
+So slide 28's three questions name a single move. Think with the animal; take what matters to it into account; and you will find yourself asking different questions about agency, ethics and the social.
+
+### M5: *Turning the questions round (slide 32).* Why do we want to keep agency, culture, symbols and rights to ourselves, and what is at stake in turning these questions round, including the lecturer's question "Do animals have souls?"
+
+Slide 32 makes a decisive methodological move. The standard form asks whether animals qualify for traits humans hold (agency, culture, symbols, rights, souls). The slide turns this round: why do we want to keep these things to ourselves? The reframing shifts the burden of justification from the animal to the human, and once the burden shifts, the standard defences look like motivated reasoning.
+
+The standard form. Slide 31 lists the defenders of the language/culture/agency line: Mead, Goffman, Barthes, Saussure, Baudrillard. Their case is that humans alone possess reflexive symbol-use, and the social as symbolic order is therefore properly human. Carter and Charles: "Alger and Alger argue that the centrality of Mead to the sociological tradition and his assumption that other animals are incapable of symbolic thought explains sociology's lack of attention to animals" (Carter and Charles, 2018: 81). The animal must clear a bar to enter the social; failing the bar excludes it.
+
+The reframe takes the bar itself as the explicandum. Carter and Charles's answer is anthroponormativity: "much of the conceptual vocabulary of the social sciences is configured around assumptions about the human" (Carter and Charles, 2018: 88). The bar is configured around human capacities by definition. The slide from "different in structure" to "not really social" is a normative move dressed up as a category judgement.
+
+Why do we want to keep these things to ourselves? Four interlocking reasons.
+
+First, identity. Slide 30: "what would sociology be like if we started from the position that we are just one kind of animal among others?" The "we" defined by exception loses its specialness if the exceptions are shared. The doctrine that "the human species is exempt from natural constraints… and is evolutionarily unique" (Carter and Charles, 2018: 81) anchors a sense of self that admitting animal agency unsettles.
+
+Second, theology. Slide 9 traces the doctrine to the Chain of Being. The soul is the marker of human placement just below the angels; "do animals have souls?" reopens a cosmological commitment. The L8 archive of scientific racism shows the same scaffolding ran through racial classifications: Linnaeus and Blumenbach rest on the Chain's logic, and Gilroy's reading of the orangutan-and-Negro frontispiece (Gilroy, 1998: 254) shows racial and species hierarchies were drawn together.
+
+Third, political economy. Animals are inputs to capitalist production: traction (Greene's horses), food (factory farming and intensive agriculture), companionship (the pet-food industry). Recognising animal agency, culture or rights threatens the legal and economic infrastructure that treats animals as property; upgrading them would dismantle entire industries.
+
+Fourth, discipline. Parsons gave sociology a stable object by defining sociality as human (Carter and Charles, 2018: 85). Surrendering the boundary feels like surrendering the discipline. The L7 connection to Foucault on discipline as the production of stable objects through partitioning (Lynch, 2011) is direct: keeping agency for humans is a disciplinary move in the strict sense.
+
+What is at stake in turning the question round?
+
+Empirically, accuracy. Animal communication, animal culture (de Waal: "chimpanzees, bonobos and whales… have cultures which are peculiar to specific social groups and persist across generations", Carter and Charles, 2018: 88), animal cognition (pigeons passing mirror tests, Haraway, 2016: 18) are documented. The exception-claim survives mostly by definitional fiat.
+
+Conceptually, the social. Relational agency ("an emergent product of the engagement between purpose and the contextual conditions of action", Carter and Charles, 2018: 90) is sociologically respectable and includes animals naturally. "The social *is* animal" (Carter and Charles, 2018: 93) becomes intelligible.
+
+Politically, multispecies justice. The pheasant shoot (Carter and Charles, 2018: 92), the wolf with jurisdictionally variable agency (Carter and Charles, 2018: 91), the chimpanzee personhood litigation flagged on slide 31, and the climate change and biodiversity loss pressures of the Anthropocene all become political objects.
+
+Methodologically, Kimbo's "thinking with" (slide 28) becomes available. Haraway's "becoming-with… how partners are, in Vinciane Despret's terms, rendered capable" (Haraway, 2016: 12) gives the operational vocabulary.
+
+The "do animals have souls?" question is the limit case. Asked in the standard form it is a theological argument with no sociological purchase. Turned round, it asks what work we do by reserving the soul for humans. The answer is identity, hierarchy and property. Haraway's "not 'posthuman' but 'com-post'" (Haraway, 2016: 11) names the alternative.
+
+So turning the question round is not a debating trick. It exposes the motivated reasoning behind the standard form and clears the ground for a sociology that can describe what humans and animals do together. The stakes are identity, hierarchy, property and discipline; the gain is a sociology adequate to its century.
+
+### M6: *Part 2, the Neglected Role of Animals in Modernity (slide 15).* What does it mean for sociology that "Modernity (especially in its industrial phase) marked a major shift in our use of, and attitude towards, animals", that "we have forgotten or ignored the role of animals in Sociology", and that "modern societies are only possible because of a whole range of animals (We could not be modern without animals)"?
+
+Slide 15 sets out three claims that together carry the argument of Part 2: industrial modernity reorganised human-animal relations, sociology forgot the reorganisation, and modern societies depend constitutively on animals. Treated separately, each is a thesis about a different moment (history, discipline, ontology); treated together, they make a single sociological accusation.
+
+The first claim: industrial modernity "marked a major shift" in attitude and use. Slides 16 to 18 show pets, food animals, pollinating insects. Slides 19 to 22 reconstruct the nineteenth-century city. Slide 22 reads horses as "living machines" (Greene, 2008: 4) and lists war-horse, race-horse, plough horse and pit ponies. The lecturer notes "we get no sense of this in Marx and Engel's Communist Manifesto" (slide 20). Carter and Charles agree: "the contribution of animals and even their centrality to processes of industrialisation have been erased in sociological conceptions of the social" (Carter and Charles, 2018: 84).
+
+The second claim: sociology forgot. The causes Carter and Charles diagnose are "a fraught relationship with biology" (Carter and Charles, 2018: 80), the defence of "the autonomy and specificity of human social life" (Benton, 1991: 12, cited Carter and Charles, 2018: 82), and the experience of urban dwellers as "increasingly remote from most other animals" (Carter and Charles, 2018: 84). Slide 23 supplies the lecturer's complement: "people would, perhaps, not have noticed horses, just as we don't notice what makes our society tick, the internet cables, etc.", and "making the familiar strange is one of the main roles of sociology". Halewood's diagnosis of "bifurcation" as the master modern move (Halewood, 2014: 1) names the underlying habit: once nature and culture are carved apart, animals are pre-sorted onto the unsociological side by definition.
+
+The third claim is the strongest: "we could not be modern without animals." Greene's line is the test case: "Horses provided virtually all the power for the internal circulation of city life because no other prime mover could compete with them technologically" (Greene, 2008: 170). The "131,000 horses in New York City by 1900" producing "1,300-3,300 tons of horse manure daily" (Greene, 2008: 174) are the dependence in operation. Carter and Charles formalise: the horse was "an essential 'prime mover' of industrial development" (Carter and Charles, 2018: 86). Slide 22's list extends the claim: pit ponies underwrite coal extraction, plough horses the agricultural revolution, war-horses empire.
+
+The claims generalise. Slide 16's pets are the commodified-companion economy; slide 17's food animals are factory farming and intensive agriculture extending nineteenth-century dependence into twenty-first-century industrial scale, with Foucault's biopower as the genealogy of how breeding cohorts and slaughter quotas are governed at population level (Lynch, 2011: 26); slide 18's pollinating insects are silent infrastructure of the food system, their decline as biodiversity loss with direct social consequences.
+
+Three consequences. First, conceptual. The categories built to describe modernity (labour, production, urbanisation) need rework, not extension. Carter and Charles's relational agency does this work: agency is "an emergent product of the engagement between purpose and the contextual conditions of action" (Carter and Charles, 2018: 90), inclusive by construction of horses, pheasants and bees. Second, political. Animal relations are "frequently ones of domination and exploitation" (Carter and Charles, 2018: 80); "sheep do not decide when they are to be slaughtered; chickens do not decide to live in cramped and insanitary battery cages" (Carter and Charles, 2018: 92). The political economy of industrialised animal lives is sociology's proper object once anthroponormativity is dropped. Third, ecological. Carter and Charles warn sociology is "in danger of rendering it irrelevant in the age of the Anthropocene" (Carter and Charles, 2018: 81). The externalities of climate change, biodiversity loss, the COVID-19 zoonotic moment and Amazon clearance for beef production (slide 35) cannot be described inside a human-only social.
+
+Haraway's becoming-with completes the case. "The partners do not precede the knotting" (Haraway, 2016: 13) describes the horse-human industrial pairing better than any "humans plus animals" account: the carthorse is a co-produced kind whose breeding, training and labour are inseparable from the process. Berger's L10 "Seeing comes before words" (Berger, 1972: 7) underwrites the recovery: defamiliarisation is restoring vision to what was always visible.
+
+So the triple thesis on slide 15 is a single sociological claim. Industrial modernity reorganised human-animal relations, sociology forgot the reorganisation, and modern societies are constitutively multispecies. To take any of the three seriously is to take all three. "The social *is* animal" (Carter and Charles, 2018: 93) is the slogan that fits the slide.
+
+### M7: *Back to Carter and Charles: A bit like the "rise" of feminism? (slide 24).* How well does the four-stage feminist analogy (pre-feminist neglect, critique, "adding women in", full theoretical integration) describe where animal studies currently sits inside sociology, and what is gained and lost by reading the animal challenge through the rise of feminism?
+
+Slide 24 reproduces Carter and Charles's four-stage model and ends with the operative question: "Where are we up to with animals?" The analogy works well at diagnosis, less well at prediction, and is best read as a heuristic that brings the disciplinary politics of animal studies into focus.
+
+Begin with what the analogy gets right. Slide 24's stages map onto Carter and Charles's reconstruction: "pre-feminist era, women not the focus of sociological research, except in the 'family'", "a critique of the neglect", "the attempt to 'add women in'", "the full integration of gender into sociology (as you see in SC 301)" (slide 24; Carter and Charles, 2018: 80). The pattern repeats. There was a pre-animal-studies era in which animals were not the focus, except as symbols (slide 13: "animals become important as symbols, as bearers of meaning, for example, pets"). There is now a critique, of which Carter and Charles's article is itself an instance ("there is virtually no area of social life that is untouched by animals", Bryant 1979, cited Carter and Charles, 2018: 79). There are attempts to "add animals in" through case studies (the pheasant shoot, EU wolves, PigeonBlog, Greenebaum's vegan typology). Carter and Charles locate the field "experiencing the second and third stages" (Carter and Charles, 2018: 80).
+
+What the analogy gains. First, it names the disciplinary politics clearly. The "category mistake" objection (sociology studies humans, not animals) is structurally identical to the objection feminism faced ("sociology studies public life, not domestic"). Second, the analogy underwrites the move from "addition" to "integration". Feminist sociology did not stop at adding women; it reworked work, family, agency and the body. Multispecies sociology, on the analogy, has to rework labour (Greene's horses), family (companion species) and the political (pheasant shoots, wolf jurisdictions). Third, it gives the reform a credible institutional path, with the Anthropocene framing accelerating it.
+
+What the analogy loses. First, the demographic engine of feminist sociology is missing. Women entered the academy and spoke for themselves; animals cannot. The conditions of stage-three-to-stage-four progress in feminism were partly the presence of women as graduate students, faculty and reviewers. Animal studies has to substitute methodological invention (Despret's ethology, Haraway's multispecies ethnography, Kimbo's "thinking with") and external drivers (the Anthropocene, factory farming as a public issue, the COVID-19 zoonotic moment).
+
+Second, the analogy risks importing the "addition" framing it is meant to escape. Reading the field as "where are we up to in adding animals?" can soften the radicalism of Carter and Charles's conclusion that "the social *is* animal" (Carter and Charles, 2018: 93). "Addition" is stage three; "the social *is* animal" is stage four. The slide-24 question is sharper than it looks because the right answer reorders the question itself.
+
+Third, the gender-animal analogy has uncomfortable predecessors. The L8 archive of scientific racism shows the human-animal hierarchy was always racialised: Linnaeus and Blumenbach built racial classification on the species scaffolding, and Gilroy's reading of the orangutan-and-Negro frontispiece (Gilroy, 1998: 254) reveals racial and species hierarchies were drawn together. The analogy has to be used carefully so that recovering the animal does not rehearse the demeaning of the human-other.
+
+Fourth, the analogy under-specifies what stage four would look like. Carter and Charles indicate the direction with relational agency: agency is "an emergent product of the engagement between purpose and the contextual conditions of action" (Carter and Charles, 2018: 90). Haraway indicates it with becoming-with: "the partners do not precede the knotting" (Haraway, 2016: 13). Kimbo indicates it with "thinking with (and for) other animals, as opposed to about them" (slide 28). The stage-four discipline is being built.
+
+A sharper question is what the analogy fits within. Carter and Charles set anthroponormativity alongside heteronormativity and white normativity as analogous "definitional moves" pretending to be category judgements (Carter and Charles, 2018: 88). The four-stage feminist model is one instance of a broader pattern of disciplinary correction that includes feminist sociology, post-colonial sociology and critical race sociology. The L1 lecture on Halewood's "bifurcation" diagnosis (Halewood, 2014: 1) names the underlying Cartesian carve-up these movements together contest. Animal studies sits inside this broader programme, not just alongside feminism.
+
+So the analogy is a useful diagnostic. It locates the field between stages two and three, names the inheritance from earlier corrections, and makes the integration project credible. It is a poor predictor because of the missing demographic engine. The honest use is heuristic. "The social *is* animal" (Carter and Charles, 2018: 93) is what stage four turns out to mean.
+
+### M8: "The social *is* animal." Discuss.
 
 The line is Carter and Charles's (Carter and Charles, 2018: 93), the most compressed statement of a sociological revolution the discipline has not yet absorbed. I unpack what it does not say, defend what it does say, and test it on Greene's horses and Haraway's PigeonBlog.
 
@@ -186,7 +369,7 @@ The recurring objection is that extending the social to animals dissolves sociol
 
 So I take "the social *is* animal" as a programme rather than slogan: rework society, agency and social action to take animals seriously as constitutive, then use the resulting vocabulary on horsepower, the pheasant shoot, the EU wolf, and PigeonBlog. Carter and Charles supply the diagnostic; Haraway supplies the method.
 
-### M2: What does Haraway mean by companion species, and why does she treat it as ontologically prior to "human" or "animal"?
+### M9: What does Haraway mean by companion species, and why does she treat it as ontologically prior to "human" or "animal"?
 
 Haraway means by companion species not a list of cute domesticated animals but a relational ontology in which partners come into being through their entanglement rather than meeting as pre-formed kinds. She insists on this priority because the alternative (starting from "human" and "animal" as given categories and asking how they relate) smuggles human exceptionalism back under the cover of taxonomy. I will explain the concept and defend the priority claim.
 
@@ -208,7 +391,7 @@ A second objection comes from Carter and Charles, who want a realist commitment 
 
 So companion species is the ontological claim that kinds are consequent upon entanglement: relation prior to relata. Without it, multispecies sociology slides back into "humans plus animals", the anthroponormativity Carter and Charles name.
 
-### M3: Horsepower, industrialisation and the limits of Marxism.
+### M10: Horsepower, industrialisation and the limits of Marxism.
 
 The horse is not a footnote to Marxism but a stress test for it: Marx's productive labour, his metabolism with nature, and his political economy of industrial capitalism cannot be told without horses, and the fact that he tells them without horses exposes the anthroponormativity at the heart of his apparatus.
 
@@ -226,7 +409,7 @@ Haraway's contribution is becoming-with. Horse and human are not separate kinds 
 
 The limits of Marxism are the limits of its anthroponormative inheritance, showing up exactly where industrial modernity is most obviously multispecies. Marxism is not refuted by horses; it is forced to grow. A multispecies political economy keeps what is best in Marx (exploitation, accumulation, crisis) while losing a contingent disciplinary blinker. Greene's horses are the test case the discipline still has to pass.
 
-### M4: How convincing do you find Carter and Charles's diagnosis of anthroponormativity in *The Animal Challenge to Sociology*?
+### M11: How convincing do you find Carter and Charles's diagnosis of anthroponormativity in *The Animal Challenge to Sociology*?
 
 I find the diagnosis very convincing as a diagnostic move and persuasive but incomplete as a programme for repair. Its strength is that it names a structural exclusion sociology has treated as methodological commonplace; its weakness is that it does most of its work negatively. On balance, highly successful.
 
@@ -248,7 +431,7 @@ Despite these limits the diagnosis is convincing. Empirically, the cases it orga
 
 The line I find most persuasive is the closing one: "ideas about what it means to be human, about what society is, about what the limits of the social might be taken to be, and about the sustainability of life on a planet shared with other species change once they no longer presume human exceptionalism" (Carter and Charles, 2018: 93). The single move opens the discipline up. I find the diagnosis highly convincing, enough to make the rest of the work intelligible.
 
-### M5: Critically assess Carter and Charles's argument with reference to a contemporary case of human-animal entanglement (pheasant shoots, wolves under EU jurisdiction, or industrial food production).
+### M12: Critically assess Carter and Charles's argument with reference to a contemporary case of human-animal entanglement (pheasant shoots, wolves under EU jurisdiction, or industrial food production).
 
 Carter and Charles argue that sociology has misperceived its object by silently restricting "the social" to the human, and that the empirical, conceptual and political costs of this are now too great to defend. I test the argument against the pheasant shoot, which they themselves develop in the article's closing pages.
 
@@ -268,7 +451,7 @@ A residual worry is normative reach. Carter and Charles state that "this is not 
 
 The argument holds up well under the test. It explains the phenomenon, supplies the vocabulary and articulates the politics. Where it needs help it gets it from Haraway. "The social *is* animal" (Carter and Charles, 2018: 93) is the most economical description of what the pheasant shoot actually is.
 
-### M6: Why does the lecturer "blame Talcott Parsons" for the disappearance of animals from twentieth-century sociology? Answer with reference to Carter and Charles and to the Durkheim and Weber excerpts.
+### M13: Why does the lecturer "blame Talcott Parsons" for the disappearance of animals from twentieth-century sociology? Answer with reference to Carter and Charles and to the Durkheim and Weber excerpts.
 
 The lecturer's slide 40 is direct: "I blame Talcott Parsons!" The charge is justified: Carter and Charles back it up with a textually careful account of how Parsons consolidated the human-only social, and the Durkheim and Weber excerpts show how much narrower Parsons made things than the classical thinkers had been.
 
@@ -288,7 +471,7 @@ The charge is well-founded. Carter and Charles's positive argument: the price wa
 
 So the lecturer's joke is a serious historical claim. Parsons did not start the human-only social, but he made it doctrinal. The Durkheim and Weber excerpts show how much was lost. Carter and Charles's diagnosis is the bill come due.
 
-### M7: Is animal studies the next step in sociology or a category mistake?
+### M14: Is animal studies the next step in sociology or a category mistake?
 
 I argue animal studies is the next step in sociology, modelled on Carter and Charles's account on the analogous step feminism took, and that the category-mistake objection rests on a circular definition. The field's work is to move from stage two to stage four of the feminist trajectory; the objection defends a definitional move that has not survived analogous challenges.
 
@@ -308,7 +491,7 @@ The analogy with feminism is sharper as diagnosis than as prediction. Women ente
 
 So animal studies is the next step, on the trajectory gender, race and post-coloniality took. The category-mistake charge is the contemporary version of charges once made against women's studies. Each relied on a definitional move that did not survive scrutiny; anthroponormativity is the name of the move when the boundary is species. The work has begun.
 
-### M8: Compare Haraway's companion species with Carter and Charles's "constitutive of society" framing.
+### M15: Compare Haraway's companion species with Carter and Charles's "constitutive of society" framing.
 
 The two framings are complementary moves toward the same multispecies sociology, operating at different registers: Haraway supplies a relational ontology, Carter and Charles supply structural-realist disciplinary reform. The most useful sociology uses both.
 
@@ -326,7 +509,7 @@ Consider PigeonBlog. Carter and Charles would describe it as multispecies practi
 
 The two framings are not rivals. They are layers: disciplinary repair from Carter and Charles, relational ontology from Haraway. "The social *is* animal" (Carter and Charles, 2018: 93) and "the partners do not precede the knotting" (Haraway, 2016: 13) say the same thing from different angles. Read one without the other and the sociology is partial.
 
-### M9: Can sociology decentre the human without dissolving its disciplinary identity?
+### M16: Can sociology decentre the human without dissolving its disciplinary identity?
 
 Yes, and Carter and Charles's article demonstrates that the decentring can be done from inside the discipline rather than at its expense. The worry is that taking animals seriously will collapse sociology into biology, Latourian flat ontology, or philosophical post-humanism. All three slides are avoidable if we rework concepts rather than abandon them, and the resulting discipline is more, not less, recognisably sociological.
 
@@ -348,7 +531,7 @@ Disciplinary identity as institution: the worry is that admitting animals will m
 
 Carter and Charles's closing line names the wager. "Ideas about what it means to be human, about what society is, about what the limits of the social might be taken to be, and about the sustainability of life on a planet shared with other species change once they no longer presume human exceptionalism" (Carter and Charles, 2018: 93). Change, not dissolve. Sociology is what survives the change; what falls away is anthroponormativity, not the discipline.
 
-### M10: "Animals can communicate, but they don't obviously have human language." Discuss with reference to at least two readings.
+### M17: "Animals can communicate, but they don't obviously have human language." Discuss with reference to at least two readings.
 
 The quotation, from slide 31 on "retaining an element of human exceptionalism", is a useful starting point for an argument that the language line is not where the action is in multispecies sociology. With reference to Carter and Charles and Haraway, the distinction between communication and human language is real but does not justify excluding animals from sociology, because language is not the basis on which either includes animals in the social.
 
@@ -370,7 +553,7 @@ Could the language line be defended on weaker grounds ("human social practice is
 
 So the quotation is true but undercuts itself. Animals communicate without human language; Carter and Charles and Haraway both build multispecies sociology on grounds that do not require animals to share human language. The language line is worth preserving as a fact; it is not a justification for anthroponormative exclusion. The lecturer's slide 31 makes the point: animals "can communicate (though they don't obviously have human language)" and "animals have culture." That sentence ends the case for language-based exclusion.
 
-### M11: Using the work of at least two authors, assess whether animal welfare and animal rights demand the same sociological framework, given Haraway's wariness of certain "prolife" framings (Haraway, 2016: 28).
+### M18: Using the work of at least two authors, assess whether animal welfare and animal rights demand the same sociological framework, given Haraway's wariness of certain "prolife" framings (Haraway, 2016: 28).
 
 Drawing on Carter and Charles and Haraway, animal welfare and animal rights do not demand the same political framework, but both fit inside a multispecies sociology whose categories accommodate them while preserving the political distinctness of each. Sociology can describe both without endorsing either.
 
@@ -392,7 +575,7 @@ Two cases sharpen the point. The Batman Park egg-replacement scheme is closer to
 
 So welfare and rights are politically distinct but sociologically compatible. Different politics, shared sociology. Haraway's wariness of "prolife" framings (Haraway, 2016: 28) shows the welfare/rights binary is not the only normative terrain. The sociology keeps all the projects intelligible.
 
-### M12: What does the Greenebaum (2012) typology of vegans add to the Carter and Charles diagnosis of the animal challenge to sociology?
+### M19: What does the Greenebaum (2012) typology of vegans add to the Carter and Charles diagnosis of the animal challenge to sociology?
 
 Slide 34 introduces Greenebaum's three-type typology alongside "Should we eat animals?": health vegans (lose weight, improve health), environmental vegans (concerned with the impact of industrial/intensive farming, though they may buy leather rather than plastic), and ethical vegans (moral and political views). The typology adds three concrete things to Carter and Charles's diagnosis: anthroponormativity's contemporary register, the limits of any single ethical framing, and the Anthropocene stake at which Carter and Charles end.
 
@@ -412,7 +595,7 @@ One further connection. The pheasant shoot is a "complex entanglement of social 
 
 So Greenebaum (2012) adds concreteness, plurality and Anthropocene urgency to the diagnosis. The typology does not by itself rework sociology's concepts; that is Carter and Charles's work. It shows the diagnosis landing in ordinary practice, which makes it matter beyond the academy.
 
-### M13: "Pets are kin." Discuss the politics and ethics of treating companion animals as family with reference to Haraway and Kimbo.
+### M20: "Pets are kin." Discuss the politics and ethics of treating companion animals as family with reference to Haraway and Kimbo.
 
 The phrase condenses one of the most politically and ethically charged sites in human-animal relations. Through Haraway's companion species and the lecturer's presentation of Kimbo's work, treating companion animals as family is sociologically defensible and politically productive, but only if held alongside an honest recognition of the structural asymmetries that distinguish pet-keeping from human family relations.
 

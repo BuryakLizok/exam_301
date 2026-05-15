@@ -137,29 +137,38 @@ Structuralism and semiology argue that meaning in language and culture is not na
 
 ---
 
-## §7. Mock-Q bank (12-15, mixed styles)
+## §7. Mock-Q bank
 
-1. *Direct concept Q.* Explain what Saussure means by the arbitrariness of the sign, and assess its usefulness for analysing popular culture.
-2. *Apply-the-method Q.* Using the techniques of semiology, analyse a contemporary advertising campaign of your choice.
-3. *Compare-and-contrast Q.* Compare Lévi-Strauss's structuralism with Barthes's semiology. Which is more useful for studying popular culture today?
-4. *"How convincing" Q.* How convincing is Barthes's claim that the function of myth is to "transform history into nature"?
-5. *Provocation Q.* "Semiology tells us nothing about power." Discuss.
-6. *Critic-led Q.* Critically assess Stuart Hall's reworking of structuralism.
-7. *Historical Q.* Why did the "linguistic turn" become so important to the sociology of media and culture in the 1960s-70s?
-8. *Case-led Q.* What does Barthes's reading of the Paris-Match cover tell us about race, empire and cultural signs?
-9. *Audience-side Q.* Are audiences "myth-consumers" or active decoders? Discuss with reference to Barthes and Hall.
-10. *Late-capitalism Q.* "In late capitalism, third-order chains of signification have no end." Discuss.
-11. *Gender Q.* How well does Barthes's semiology travel into feminist analyses of popular culture?
-12. *Method-critique Q.* Is semiology a science or a form of literary criticism?
-13. *Politics-of-signs Q.* What can semiology contribute to understanding the politics of national and imperial symbols (Barthes's Paris-Match cover, the O2 "Wear the Rose" rugby campaign, the "Decolonize" graffiti on the semiotics slide)?
-14. *Resistance Q.* Can popular culture be used to "rob myth of myth"? Discuss with reference to culture jamming, parody and irony.
-15. *Synthesis Q.* "We need Saussure to identify the structure, Barthes to read the myth, and Hall to bring back power." Discuss.
+> Note: M1-M7 are fresh slide-recipe composites drawn directly from the L15 deck and the teacher's Lecture 15 summary. M8-M22 are the previous mock bank, renumbered.
+
+1. *Slide-recipe Q.* The teacher's L15 summary contrasts "Culturalist - lived experience, historical context, and agency" with "Structuralist - the deep structures that organise meaning". Critically assess this contrast through Saussure, Barthes and Hall.
+2. *Slide-recipe Q.* The L15 deck insists that signs are not natural and stages this with the slide bullet "'…destroy the idea that signs are natural'" alongside the traffic-lights image. Why is the arbitrariness of the sign politically important for the analysis of popular culture?
+3. *Slide-recipe Q.* The teacher's summary writes that the Saussurean "model can be applied beyond language but also in terms of images, fashion, food, advertising, film, news, and popular culture". How far can semiology travel across these registers, and where does it run into trouble?
+4. *Slide-recipe Q.* The teacher's summary offers two worked examples of connotation: "The man does not simply wear a suit. The suit connotes professionalism, success, authority. The car does not simply exist. It connotes freedom, masculinity, status, aspiration." Use Barthes's denotation / connotation / myth to analyse how brand advertising mythologises everyday objects.
+5. *Slide-recipe Q.* The teacher's summary defines myth as "a way of making historically specific, culturally constructed meanings appear natural, timeless, and obvious". Discuss with reference to at least two of Barthes's worked examples on the slides (the Paris-Match cover, the Citroën DS, wrestling, the seventy women novelists, the toys, the horoscopes) and one contemporary case.
+6. *Slide-recipe Q.* The L15 semiotics slide lists "Different approaches to semiotics: Marxist / Feminist / Decolonial / Post-modernist". Which of these four approaches is the most productive extension of Barthes for studying popular culture today?
+7. *Slide-recipe Q.* The teacher's summary writes that Hall "does not abandon structuralism. Instead, he reworks it, combining semiology with Marxism, ideology theory, and sociology." Discuss what this combination gains over Barthes's mythology programme.
+8. *Direct concept Q.* Explain what Saussure means by the arbitrariness of the sign, and assess its usefulness for analysing popular culture.
+9. *Apply-the-method Q.* Using the techniques of semiology, analyse a contemporary advertising campaign of your choice.
+10. *Compare-and-contrast Q.* Compare Lévi-Strauss's structuralism with Barthes's semiology. Which is more useful for studying popular culture today?
+11. *"How convincing" Q.* How convincing is Barthes's claim that the function of myth is to "transform history into nature"?
+12. *Provocation Q.* "Semiology tells us nothing about power." Discuss.
+13. *Critic-led Q.* Critically assess Stuart Hall's reworking of structuralism.
+14. *Historical Q.* Why did the "linguistic turn" become so important to the sociology of media and culture in the 1960s-70s?
+15. *Case-led Q.* What does Barthes's reading of the Paris-Match cover tell us about race, empire and cultural signs?
+16. *Audience-side Q.* Are audiences "myth-consumers" or active decoders? Discuss with reference to Barthes and Hall.
+17. *Late-capitalism Q.* "In late capitalism, third-order chains of signification have no end." Discuss.
+18. *Gender Q.* How well does Barthes's semiology travel into feminist analyses of popular culture?
+19. *Method-critique Q.* Is semiology a science or a form of literary criticism?
+20. *Politics-of-signs Q.* What can semiology contribute to understanding the politics of national and imperial symbols (Barthes's Paris-Match cover, the O2 "Wear the Rose" rugby campaign, the "Decolonize" graffiti on the semiotics slide)?
+21. *Resistance Q.* Can popular culture be used to "rob myth of myth"? Discuss with reference to culture jamming, parody and irony.
+22. *Synthesis Q.* "We need Saussure to identify the structure, Barthes to read the myth, and Hall to bring back power." Discuss.
 
 ---
 
 ## §8. Full essays (650-750 words each)
 
-> Three past-Q essays first, then twelve mock-Q essays. First person, active voice. Quotes pinned where possible; `[VERIFY p.?]` where the page is uncertain. Word counts logged at the end of each.
+> Three past-Q essays first (reverse-chronological: 2023, 2022, 2021), then seven new slide-recipe mocks (M1-M7), then the previous mock-Q essays renumbered M8-M19. First person, active voice. Quotes pinned where possible; `[VERIFY p.?]` where the page is uncertain. Word counts logged at the end of each.
 
 ---
 
@@ -223,7 +232,183 @@ So Barthes is right that popular culture is ideological in his precise sense; it
 
 ---
 
-### 8.4 Mock 1. Explain what Saussure means by the arbitrariness of the sign, and assess its usefulness for analysing popular culture.
+### 8.4 Mock 1. The teacher's L15 summary contrasts "Culturalist - lived experience, historical context, and agency" with "Structuralist - the deep structures that organise meaning". Critically assess this contrast through Saussure, Barthes and Hall.
+
+The teacher's summary frames the L15 lecture around a sharp pair: culturalism, which prioritises lived experience, historical context and agency, and structuralism, which prioritises the deep structures that organise meaning. The opposition is real, but the most useful sociological position does not pick one side; it works the contrast as a productive tension. Saussure and early Barthes sit at the structuralist pole; Williams and Thompson sit at the culturalist pole; Hall, characteristically, sutures the two. I want to argue that the structuralist pole gives us the analytical sharpness culturalism on its own lacks, and the culturalist pole gives the politics and the social texture that structuralism on its own evacuates.
+
+Begin with the structuralist side. Saussure's claim is that language is "a structured system of signs, organised through difference and governed by rules that exist independently of individual intention" (lecture slide). Signifier and signified are inseparable but the relation between them is arbitrary, and meaning arises from position within a *langue*, not from things in the world. The lecture's traffic-lights image dramatises this nicely: red means "stop" because the system fixes the difference between red, amber and green, not because red is intrinsically stop-coloured. Strinati notes the strict relational logic: "there is no intrinsic, natural or essential reason why a particular concept should be linked with one sound image rather than another" (Strinati, 1995: 83). Barthes extends the apparatus to images, fashion, food, advertising, film, news and popular culture, and adds the second and third orders: connotation and myth. The Hugo Boss suit, the Jeep Compass, the O2 "Wear the Rose" rose: all readable as positions within structured systems of difference.
+
+The culturalist side is just as serious. Williams insists that culture is "a whole way of life" (Williams, 1958: 6), that "culture is ordinary" and that meaning is lived rather than abstractly coded. Thompson's emphasis is on agency and historical experience: working-class culture is a record of how people make, contest and remake their world. From this angle, Saussure looks too clean: real human beings do not live inside *langue*; they live inside particular households, workplaces, schools, neighbourhoods and traditions, and signs acquire weight from those settings.
+
+So which is right? Both, on different problems. The structuralist eye is unbeatable for analysing the surface of media culture. When I want to decode the Hugo Boss advert, the Jeep advert, or the Paris-Match cover, "denotation -> connotation -> myth" is the apparatus that gets me precise readings. The teacher's summary makes the point: the model "can be applied beyond language but also in terms of images, fashion, food, advertising, film, news, and popular culture". Without it, criticism collapses into impressionistic taste, the failure mode of the Leavisite tradition.
+
+But the culturalist eye is essential when I want to understand why a sign has weight here and not there. The Femininity-paradigm slide ("Obedient / Servile / Passive / Submissive…") is meaningful only because actual girls grow up inside actual households and schools that enforce it; the Jeep advert works because suburban driving feels suffocating; the "Wear the Rose" campaign mobilises real sporting affect because England's rugby culture is a lived inheritance. Williams reminds us that the sign sits inside what he calls a structure of feeling, the dense lived weather of an ordinary life. Strip the sign from that weather and you produce, as Strinati warns, a semiology that "tends to ignore the context of industrial production" and that loses the "social relationships in which" meaning is located (Strinati, 1995: 117).
+
+Hall is the natural mediator. The teacher's summary names the move precisely: he "does not abandon structuralism. Instead, he reworks it, combining semiology with Marxism, ideology theory, and sociology." His encoding/decoding diagram, reproduced on the lecture slide titled "Hall: building on structuralism?", routes the relational sign back through production institutions and audience reception, that is, back through the culturalist field. The encoder works inside "frameworks of knowledge, relations of production, technical infrastructure"; the audience decodes inside its own analogous frameworks. The result is a model in which "deep structures that organise meaning" actually meet "lived experience, historical context, and agency".
+
+My assessment, then, is that the culturalist/structuralist contrast in the teacher's summary is heuristically useful but methodologically misleading if treated as a forced choice. Saussure and Barthes give the apparatus; Williams and Thompson give the social ground; Hall integrates the two. For SC301 purposes the best position holds the apparatus in one hand and the way of life in the other. Neither survives alone.
+
+(Word count: ~735.)
+
+---
+
+### 8.5 Mock 2. The L15 deck insists that signs are not natural and stages this with the slide bullet "'…destroy the idea that signs are natural'" alongside the traffic-lights image. Why is the arbitrariness of the sign politically important for the analysis of popular culture?
+
+The slide bullet "'…destroy the idea that signs are natural'" is the political hinge of the entire L15 lecture, and the traffic-lights image is its first dramatisation. Red signifies "stop" because the highway-code system fixes the difference between red, amber and green; nothing in the colour red is intrinsically stop-shaped. If the arbitrary-but-conventional sign is the rule, then any sign that feels natural is a politically charged achievement, not a fact of nature. That is why the principle matters for popular culture.
+
+Begin with the Saussurean formula. The sign is signifier (physical form) plus signified (mental concept). The relation between them is arbitrary; "there is no intrinsic, natural or essential reason why a particular concept should be linked with one sound image rather than another" (Strinati, 1995: 83). Meaning emerges from position within a *langue*, not from things in the world. The teacher's summary repeats the point: "Language is not a collection of names for things. It is a structured system of differences." Barthes's denotation / connotation / myth machinery presupposes the arbitrary sign.
+
+The political payoff comes immediately. If the sign is arbitrary, then anything that presents itself as "just how things are" can be reopened. Three areas matter.
+
+First, *gender*. The lecture's Femininity slide lists "Obedient / Servile / Passive / Submissive / Emotional / Sensitive / Private sphere / Reproductive / Child care / Domestic labour"; the Masculinity slide lists "Manly / Virile / Muscular / Heroic / Wise / Aggressive / Dominant / Sexually active / Successful / Public sphere". If these were natural, they would not vary across cultures and histories, but the lecture's fashion-history silhouette strip (1775 to 1952) shows even body shapes change diachronically. Dick Bruna's *The school*, where the boy wears blue and the girl wears red, looks intuitive but is an arbitrary fixing within a particular sign-system. Spender's *Man Made Language* extends the point below the level of image to language itself, arguing that "there are two fundamental categories, male and minus male" (Spender, 1980: 20). The arbitrariness of the sign licenses the feminist denaturalisation of gender.
+
+Second, *commerce*. Brand connotation only works if audiences forget the arbitrariness. The Hugo Boss suit "connotes professionalism, success, authority" (teacher's summary); the Jeep Compass advert connotes "freedom, masculinity, status, aspiration" (teacher's summary). Strip the arbitrariness away and the suit is fabric; the Jeep is a fuel-hungry 4x4. The lecture's "A Rose is a Rose?" slide spells this out: roses denote "a flower bush in the garden" but the system has fixed them as romance, with the alternative connotations of "pain, rugby, England, Labour Party" available. Critical consumers re-open arbitrariness; brand managers depend on keeping it closed.
+
+Third, *empire and race*. Barthes's Paris-Match cover does exactly the political work the lecture warns against: it takes the arbitrary cultural signifier of a saluting Black French soldier and transforms it into the "natural" sign of "French imperiality… that France is a great Empire" (Barthes, 1972: 125-126). The myth depends on the audience taking the signifier-signified pairing as natural. Ngũgĩ names the analogous operation in language: "the bullet was the means of the physical subjugation. Language was the means of the spiritual subjugation" (Ngũgĩ, 1986: 9). Decolonial semiotics, listed on the lecture's "Different approaches to semiotics" slide alongside Marxist, Feminist and Post-modernist approaches, is built on the principle that no imperial sign is innocent.
+
+There is a methodological consequence. The lecture's third-order chain slides (DEATH cigarettes, Liquid Death, Dutch Barn vodka with Ricky Gervais, the Camel and *Joe Chemo* pair, the Absolut counter-ads "Absolut Liver Failure", "Absolut Impotence", "Absolut Drunk") show that re-arbitrarising a sign is one of the central moves of culture jamming. Barthes himself invites it: "Since myth robs language of something, why not rob myth?" (Barthes, 1972: 135). The arbitrariness of the sign opens the door for resistance, not just for ideology.
+
+The honest qualification: arbitrariness is a starting heuristic, not the final word. Iconic and indexical signs (the semiotics infographic slide) resist Saussure's strong claim; once a sign is mythologised, Barthes concedes that "mythical signification… is never arbitrary; it is always in part motivated" (Barthes, 1972: 136). The political agent of the motivation, capital, patriarchy, the colonial state, needs naming. Hall does this, and the analyst must follow him. But the foundational claim still does the political work the lecture says it does: it lets us treat any sign of popular culture as a denaturalisable object, and that is the precondition of any critical analysis at all.
+
+(Word count: ~740.)
+
+---
+
+### 8.6 Mock 3. The teacher's summary writes that the Saussurean "model can be applied beyond language but also in terms of images, fashion, food, advertising, film, news, and popular culture". How far can semiology travel across these registers, and where does it run into trouble?
+
+The teacher's summary captures the bold promise of semiology in one sentence: the Saussurean model "can be applied beyond language but also in terms of images, fashion, food, advertising, film, news, and popular culture". My answer is that the model travels remarkably well across all of these, because each is a system of structured differences, but that the travel runs into specific kinds of trouble at the edges of production, audience and historicity. Semiology is a generous method whose limits are systematic.
+
+Begin with the warrant. Saussure proposed semiology as "a science which studies the life of signs within society" (Strinati, 1995: 85), in which linguistics is only one branch. Barthes carries out the programme: in *Mythologies* he reads wrestling, wine, soap, the Citroën DS, the Paris-Match cover, toys and horoscopes. The L15 deck rehearses the full sweep. The Hugo Boss suit and Jeep Compass advert illustrate *advertising*; the O2 "Wear the Rose" campaign and the HSBC "creating wealth" advert add brand and finance; the fashion-history silhouette strip illustrates *fashion*; the *Joe Chemo* parody and the Absolut counter-ads illustrate culture jamming; the "Decolonize" graffiti illustrates *street culture*. Each is read using denotation, connotation and myth.
+
+Three things make the travel work.
+
+First, the model is *abstract enough to scale*. Signifier/signified, paradigm/syntagm and the three orders of signification are operators, not contents. They apply to any system of differences. A *Vogue* fashion spread, a McDonald's golden-arches logo, a *Bake Off* tent, a Taylor Swift album cover, an England football kit: all admit the same reading.
+
+Second, the model *names a real social fact*. Popular culture really is saturated with signs that operate at more than one level. Brand managers know this; advertising creatives know this; the Camel campaign's mascot, settings and slogans are designed precisely as connotation-stacking devices. Saying that a Jeep advert connotes "freedom, masculinity, status, aspiration" (teacher's summary) is not an act of interpretive overreach; it is naming what the advert is for.
+
+Third, the *examples cluster*. Brands lean on the same connotative paradigms across registers: masculinity-as-rugged in the Camel campaigns and the Jeep advert and the Marlboro Man; femininity-as-care in Bruna's *The school*, the women-with-children novelists photo, and the "clean girl" aesthetic on the styles-in-late-capitalism slide. Semiology lets us see the connections across registers.
+
+But the travel hits trouble in five places.
+
+First, *empirical validation*. Strinati's running objection is that "Barthes does not attempt to indicate why his interpretation is to be preferred to others" (Strinati, 1995: 114). When the analyst tells me that roses signify passion, why not "pain, rugby, England, Labour Party" as the lecture's "A Rose is a Rose?" slide also allows? The semiologist's eye is unbeatable on the example but unreliable on the rule. Cross-register travel multiplies this problem: the same image moves through different audiences in different ways.
+
+Second, *production*. Semiology "tends to ignore the context of industrial production" (Strinati, 1995: 117). Advertising is made by agencies, film by studios, news by newsrooms, fashion by fashion houses. The Hugo Boss myth is not a free-floating cultural surface but a marketing output by a specific firm with a specific market segment. Travel without political economy gives only half the picture.
+
+Third, *audiences*. The travel assumes the model decodes texts that audiences then absorb. But audiences are not blank screens. Hall's encoding/decoding model insists on dominant, negotiated and oppositional readings, and the lecture slide titled "Hall: building on structuralism?" marks the corrective. Cross-register travel runs out of the analyst's office quickly; my reading of *Bake Off* is not the audience's.
+
+Fourth, *iconicity and indexicality*. Peirce's distinction between symbolic, iconic and indexical signs, reproduced on the semiotics infographic slide, presses on Saussure's strong claim that the sign is arbitrary. A photograph is iconic; smoke is indexical of fire. Travel into film and news, both photograph-saturated registers, has to soften the arbitrariness thesis.
+
+Fifth, *historicity*. The fashion-history slide is the lecture's own corrective. What looks "natural" in one synchronic frame, the eighteenth-century silhouette, the 1950s housewife, the 2020s "clean girl", is a diachronic artefact. Lévi-Strauss's strong synchronic reading "freezes" culture (Strinati, 1995: 111-112) and loses this; Barthes is better but still under-historicised at the level of audience.
+
+My answer: the model travels well across the registers the teacher names. It is the most generous transferable apparatus the sociology of culture has. But the travel works best when the analyst does not pretend the model has no edges. Add Hall on production and reception, add Williams on lived experience, add iconicity, and the travel is sound.
+
+(Word count: ~745.)
+
+---
+
+### 8.7 Mock 4. The teacher's summary offers two worked examples of connotation: "The man does not simply wear a suit. The suit connotes professionalism, success, authority. The car does not simply exist. It connotes freedom, masculinity, status, aspiration." Use Barthes's denotation / connotation / myth to analyse how brand advertising mythologises everyday objects.
+
+The teacher's two examples, the suit and the car, are the cleanest possible entry into Barthes's three-tier semiological apparatus. I will run the apparatus across each, then add two more brand cases from the L15 slides, then turn to the critique that makes the reading politically usable.
+
+Take the suit first. *Denotatively*, the Hugo Boss "BOSS" advert shows a man in coat-and-suit against a neutral background, "most obvious level… literal meaning" (lecture slide). *Connotatively*, tailoring connotes seriousness, the dark colour restraint, the cut wealth; the teacher's summary names the set as "professionalism, success, authority". *Mythically*, the suit transforms the historically specific dress code of nineteenth- and twentieth-century European bourgeois masculinity into a timeless, natural emblem of seriousness. "The very principle of myth: it transforms history into nature" (Barthes, 1972: 140). A class- and gender-coded inheritance becomes the obvious form of authority.
+
+Now the car. The Jeep Compass advert ("Upgrade your adventures") shows a 4x4 in a mountain landscape at sunset. *Denotatively*, an automobile, a road, a horizon, a slogan. *Connotatively*, the teacher's summary lists "freedom, masculinity, status, aspiration"; the 4x4's bulk connotes capacity for difficult terrain, the mountains connote nature as adventure. *Mythically*, the Jeep transforms motorised transport into a sign of self-actualisation; a polluting industrial product becomes a natural extension of the masculine consumer's autonomy. The myth makes the SUV feel inevitable.
+
+Two more cases sharpen the pattern. The lecture's HSBC "Why should creating wealth overwhelm you" advert shows a woman in red against a financial skyline. Denotatively, a woman, a skyline, a slogan. Connotatively, wealth as inspiration, finance as glamour, the city as horizon. Mythically, global finance is mythologised as personal empowerment. The O2 "Wear the Rose" rugby campaign uses the England rose. Denotatively, a flower-based national symbol. Connotatively, athletic effort and national pride. Mythically, sport-as-nation. The "A Rose is a Rose?" slide makes the worked version explicit: "myth = romance being commodified; being robbed of its innocent meaning… the mythical signification is motivated; it is not arbitrary".
+
+The pattern is the same in each case: a quotidian object (suit, car, advert) is taken up as the signifier of a connotative set, and that set hardens into a worldview that feels natural. Saussure's arbitrary sign is the precondition (the suit could just be cloth); Barthes's three orders are the mechanism (denotation -> connotation -> myth); the brand is the agent. The teacher's summary's two short examples model the analytic move with exemplary economy.
+
+But the analysis cannot stop at the myth. Strinati, the spring reading, presses three caveats that turn the analysis into something usable rather than something clever.
+
+First, *production*. Semiology "tends to ignore the context of industrial production" (Strinati, 1995: 117). The Hugo Boss suit and the Jeep Compass exist inside corporate marketing, supply chains, advertising budgets and segmented markets. The myth is not free-floating; it is bought. The Frankfurt diagnosis of the culture industry, "amusement under late capitalism is the prolongation of work" (Adorno and Horkheimer, 2002: 109), reminds us that the suit and the car are also commodities whose mythologies generate sales.
+
+Second, *audience*. Hall's encoding/decoding model insists that audiences decode in dominant, negotiated and oppositional ways. The "Hall: building on structuralism?" slide makes this explicit: "Differential reception of the audience". I can see the Jeep advert as inspirational (dominant), as cliched (negotiated), or as evidence of consumer manipulation (oppositional). My students will not all read it the same way.
+
+Third, *resistance*. Barthes invites the third-order robbery: "Since myth robs language of something, why not rob myth?" (Barthes, 1972: 135). The lecture's *Joe Chemo* parody on the Camel myth, the Absolut counter-ads ("Absolut Liver Failure", "Absolut Impotence"), and the Dutch Barn vodka advert sold by Ricky Gervais all demonstrate the move. Each takes a brand myth as the first term of a new chain and turns the chain against the brand.
+
+The synthesis. Brand advertising mythologises everyday objects by performing Barthes's three-tier operation: it strips the object of its arbitrariness, dresses it in connotation, and lets the connotation harden into the natural. Once we see the operation, the suit becomes cloth, the car becomes a machine, and the analyst (or culture jammer) can rob the myth back. Critical sociology is exactly this re-arbitrarising work.
+
+(Word count: ~745.)
+
+---
+
+### 8.8 Mock 5. The teacher's summary defines myth as "a way of making historically specific, culturally constructed meanings appear natural, timeless, and obvious". Discuss with reference to at least two of Barthes's worked examples on the slides and one contemporary case.
+
+The teacher's compact definition is the heart of Barthes's project: myth is the operation that makes "historically specific, culturally constructed meanings appear natural, timeless, and obvious". The wording is almost a paraphrase of Barthes's own line that "the very principle of myth: it transforms history into nature" (Barthes, 1972: 140). To discuss the claim I will run two of Barthes's worked examples from the L15 slides, the Paris-Match cover and the seventy women novelists, then a contemporary case, the Hugo Boss / Jeep brand template (which fuses two slides), and then assess where the definition holds and where it strains.
+
+Take the Paris-Match cover first. Barthes describes the scene precisely: "I am at the barber's, and a copy of Paris-Match is offered to me. On the cover, a young Negro in a French uniform is saluting, with his eyes uplifted, probably fixed on a fold of the tricolour" (Barthes, 1972: 125). *Denotatively*, a soldier saluting a flag. *Connotatively*, "a purposeful mixture of Frenchness and militariness" (Barthes, 1972: 125). *Mythically*, "French imperiality… France is a great Empire, that all her sons, without any colour discrimination, faithfully serve under her flag, and that there is no better answer to the detractors of an alleged colonialism than the zeal shown by this Negro in serving his so-called oppressors" (Barthes, 1972: 125-126). The teacher's three adjectives, natural, timeless, obvious, name exactly what the cover achieves. The specific history of French colonial recruitment, racial hierarchy and imperial violence is laundered into the obviousness of multi-racial military loyalty. Strinati glosses the operation: the soldier's "real history" is "placed in another system, that of the myth, which denies his history and culture" (Strinati, 1995: 105).
+
+Now the seventy women novelists. The *Elle* feature reproduced in *Mythologies* shows women writers each captioned with their number of children. *Denotatively*, a magazine spread of working writers. *Connotatively*, women novelists who are *also* mothers, motherhood foregrounded. *Mythically*, what Barthes calls "the eternal statute of womanhood": "women are on the earth to give children to men… your freedom is a luxury, it is possible only if you first acknowledge the obligations of your nature" (Barthes, 1972: 56-58). The teacher's adjectives again hit: the spread makes a historically specific division of labour appear natural (women's nature is to mother), timeless (this is "eternal"), and obvious (no argument is offered, just numbers). Strinati paraphrases: "the role of women as mothers is made to appear natural and inevitable, the related connotation being that the power and dominance of men is equally natural and inevitable" (Strinati, 1995: 110).
+
+Now the contemporary case. The Hugo Boss and Jeep slides run the same operation in a different register. The suit connotes "professionalism, success, authority" (teacher's summary) and mythologises bourgeois professional masculinity as the natural form of seriousness. The Jeep Compass advert connotes "freedom, masculinity, status, aspiration" (teacher's summary) and mythologises consumer mobility as freedom. McDonald's golden arches connote convenience and mythologise corporate fast food as natural urban refreshment. The teacher's three adjectives apply in each case: history converted into nature, the specific into the timeless, the contingent into the obvious.
+
+So the definition does hold across cases that range from a 1950s magazine cover to a 1970s feminist target to a 21st-century branding template. That is exactly what we should want from a useful theoretical sentence: it pays off across registers.
+
+But the definition strains in three places, and an honest essay says so.
+
+First, *empirical validation*. Strinati's standing objection: "Barthes does not attempt to indicate why his interpretation is to be preferred to others" (Strinati, 1995: 114). The myth-reading is persuasive, not falsifiable. Why "French imperiality" rather than, say, "the obedient soldier as ambivalent figure of decolonisation"?
+
+Second, *audience differentiation*. Barthes's myth-consumer "takes the signification for a system of facts" (Barthes, 1972: 142). Hall's encoding/decoding slide ("Hall: building on structuralism?") replaces this passive reader with dominant, negotiated and oppositional positions. Many Black readers of the Paris-Match cover did not in fact accept French imperiality.
+
+Third, *the agent*. Barthes locates myth in "bourgeois ideology" (Strinati, 1995: 117). The seventy-novelists case is patriarchal as much as bourgeois; the Paris-Match cover is colonial as much as bourgeois. The mythological agent has to be named more precisely than "the bourgeoisie".
+
+The teacher's definition is therefore essentially right, and the apparatus delivers usable readings, but the analyst still has to specify which history, which actors, which audiences, in each case. With those specifications, the definition is one of the most productive sentences a sociology of culture has.
+
+(Word count: ~745.)
+
+---
+
+### 8.9 Mock 6. The L15 semiotics slide lists "Different approaches to semiotics: Marxist / Feminist / Decolonial / Post-modernist". Which of these four approaches is the most productive extension of Barthes for studying popular culture today?
+
+The L15 deck's "Semiotics / Semiology" slide pluralises Barthes by listing four contemporary approaches: Marxist, Feminist, Decolonial and Post-modernist. The question of which is most productive today is a real one: each picks up a different limit of Barthes and extends the apparatus in a different direction. My answer is qualified: the Marxist extension, in its Hall-Gramscian form, is the most productive for the SC301 register, because it provides the political-economic and institutional ground the other three rely on. But each is indispensable for specific tasks, and the best practice combines them.
+
+Begin with the Marxist extension. Barthes's project was already proto-Marxist, framed as "the close analysis of the processes of meaning by which the bourgeoisie converts its historical class-culture into universal nature" (in Strinati, 1995: 100). The trouble is that this version of class is thin; Strinati calls it "fairly crude" (Strinati, 1995: 117). The decisive Marxist extension is Hall's, which routes semiology through Gramsci. Gramsci's hegemony, "the 'spontaneous' consent given by the great masses of the population to the general direction imposed on social life by the dominant fundamental group" (Gramsci, 1971: 12), specifies which fraction of capital, which institutions and which alliances do the mythologising. Hall's encoding/decoding slide (lecture slide "Hall: building on structuralism?") restores production and reception. With Hall in hand, the Hugo Boss myth becomes a small hegemonic move by a particular fashion-corporate alliance; the Jeep Compass myth becomes a contribution to the consent automotive capital still needs in an age of climate crisis. This is semiology become political sociology.
+
+The feminist extension is just as essential, and the L15 deck reaches for it directly. The Femininity-paradigm slide ("Obedient / Servile / Passive / Submissive…") and the Masculinity-paradigm slide ("Manly / Virile / Muscular / Heroic…") apply semiology to gender; Dick Bruna's *The school* is the worked case. Barthes's seventy women novelists, mythologising the "eternal statute of womanhood" where "women are on the earth to give children to men" (Barthes, 1972: 56), is feminist semiology *avant la lettre*. Spender's *Man Made Language* extends the analysis to language itself: "there are two fundamental categories, male and minus male" (Spender, 1980: 20). The feminist extension is unbeatable for gendered iconography in advertising, royal weddings, Instagram and the "clean girl" aesthetic as third-order myth.
+
+The decolonial extension addresses the limit Barthes himself failed to cross. His Paris-Match reading names "French imperiality" but does so inside a class-bound theory of ideology. Decolonial semiotics, building on Fanon, Spivak and Ngũgĩ, redescribes the cultural surface of empire. Ngũgĩ's formula, "the bullet was the means of the physical subjugation. Language was the means of the spiritual subjugation" (Ngũgĩ, 1986: 9), is the linguistic turn read from the colonial periphery. The "Decolonize" graffiti on the L15 semiotics slide is the contemporary trace of this approach: a third-order signifier that robs the imperial myth of itself. For analysing public-monument debates, the cultural politics of museums, the global Black Lives Matter movement and the iconographies of contemporary anti-racist culture, the decolonial extension is the right tool.
+
+The post-modernist extension takes the chain in the opposite direction. It accepts Barthes's invitation to keep robbing myth: "Since myth robs language of something, why not rob myth?" (Barthes, 1972: 135). The lecture's third-order chains slide (DEATH cigarettes, Liquid Death, Dutch Barn vodka with Ricky Gervais) and its "Styles in late capitalism" slide (roadmen, clean girls, content creators, looksmaxxers, the Harry Potter fandom, gamers, with the caption "knowingness, excess, parody, irony") are post-modernist semiology. Baudrillard's claim that the sign now circulates as "models of a real without origin or reality: a hyperreal" (Baudrillard, 1994: 1) is the limit case. The post-modernist extension is excellent at reading deepfakes, AI chatbots, streaming-algorithm aesthetics, content-moderation memes, brand authenticity ironies (OK Cola's deadpan slogans). It struggles, however, with political traction; if everything is simulacrum, where is the lever?
+
+The verdict. All four extensions are productive, and the strongest reader uses all four. But the Marxist-Hallian extension is the most productive *as a base*: it specifies the institutions, the political economy and the reception structure that the other three need to land. Feminist extension layers gender onto that base; decolonial extension layers race and empire; post-modernist extension layers irony and recursion. On a SC301 essay, my preferred move is therefore Hall as base, then whichever of the other three the question demands.
+
+(Word count: ~745.)
+
+---
+
+### 8.10 Mock 7. The teacher's summary writes that Hall "does not abandon structuralism. Instead, he reworks it, combining semiology with Marxism, ideology theory, and sociology." Discuss what this combination gains over Barthes's mythology programme.
+
+The teacher's summary is precise about Hall's move: he "does not abandon structuralism. Instead, he reworks it, combining semiology with Marxism, ideology theory, and sociology." The wording is important. Hall is not throwing Saussure and Barthes away; he is wiring their apparatus into a wider sociology so that it can do political work. The combination gains four things over Barthes's mythology programme, and an honest essay also names the residual limits.
+
+Start with what Hall keeps. The encoding/decoding diagram reproduced on the L15 slide ("Hall: building on structuralism?") still has the relational sign at its centre: a "Visual / Aural - signifier" passes through "Signified" inside the production process. Hall takes the Saussurean machinery, signifier/signified, paradigm/syntagm, the three orders, as the *grammar* of cultural communication. He just stops pretending that grammar is a self-enclosed system.
+
+Now the four gains.
+
+First, *Marxism*. Barthes's class theory is thin: he gestures at "the bourgeoisie" (Strinati, 1995: 117) but never specifies which fractions or institutions do the mythologising. Hall's Marxism is Gramscian, importing hegemony as "the 'spontaneous' consent given by the great masses of the population to the general direction imposed on social life by the dominant fundamental group" (Gramsci, 1971: 12). Read this way, a Hugo Boss advert is a small contribution to the consent that corporate capitalism needs; the Jeep Compass advert is a sign-trace of automotive capital's continuing hegemonic claim on personal autonomy. Hall later applied this directly to Thatcherism and to British racial politics.
+
+Second, *ideology theory*. Barthes's myth is described as a "second-order semiological system" (Barthes, 1972: 117), but Barthes does not theorise ideology as such. Hall imports Althusserian and post-Althusserian ideology theory: ideology works through specific institutions (schools, families, media), through specific subject-positions, and through specific interpellations. The Femininity-paradigm slide on the L15 deck becomes legible as an ideological apparatus that interpellates female subjects, not just as a myth.
+
+Third, *sociology*. Barthes is, characteristically, a literary critic with sociological ambitions; Hall is a sociologist with literary-critical resources. The encoding/decoding slide marks the move: encoding happens inside "frameworks of knowledge, relations of production, technical infrastructure"; decoding happens inside the audience's own analogous frameworks. The result is a sociology of meaning. Strinati's standing complaints, that semiology "tends to ignore the context of industrial production" and that "meaning is not a quality of the sign itself but of the social relationships in which it can be located" (Strinati, 1995: 117), are answered. Williams's broader culturalist insistence that culture is "a whole way of life" (Williams, 1958: 6) is incorporated.
+
+Fourth, *audience activity*. Barthes's myth-consumer is passive: he "takes the signification for a system of facts" (Barthes, 1972: 142). Hall's three audience positions, dominant-hegemonic, negotiated, oppositional, restore agency to the reader. The same Camel "Smooth Character" advert can be read as cool (dominant), as kitsch (negotiated), or as a public-health crime scene (oppositional, which the *Joe Chemo* parody on the L15 slide makes literal). The Absolut "Absolut Liver Failure" counter-ad reads the Absolut myth oppositionally. Audiences are not just consumed by mythologies; they negotiate and resist.
+
+The combined gain is large. Where Barthes gives a sharp diagnosis of a mechanism, Hall gives a usable sociology of how that mechanism actually works in production, in institutions and in reception. The L15 "Rethinking Modernity" map shows structuralism feeding into British Cultural Studies through exactly this combination.
+
+But the combination is not without its own limits.
+
+First, the encoder-decoder model leans toward broadcast-era media. The "Styles in late capitalism" slide names a contemporary environment, roadmen, clean girls, content creators, looksmaxxers, gamers, in which encoders and decoders overlap and platform algorithms iterate signification in real time. TikTok and Instagram complicate the clean encode/decode binary.
+
+Second, the model retains a structuralist residue. Post-structuralists (Foucault, the later Barthes himself in his "death of the author" move, Barthes, 1977) press on whether there is a stable meaning at all to decode. Hall's three-position model risks tidying that plurality.
+
+Third, the Marxist base can underspecify race, gender and sexuality if it leans too hard on class. Hall himself supplies the corrective in his later race work, but the apparatus has to be pushed by intersectional theorists to land on all the registers of difference.
+
+My verdict, then, is that the combination of semiology with Marxism, ideology theory and sociology is what makes structuralism socially serious, and that the teacher's summary sentence captures the right diagnosis. Hall's reworking is the move that turns Barthes from a brilliant diagnostician into the founding figure of a usable critical sociology of culture.
+
+(Word count: ~745.)
+
+---
+
+### 8.11 Mock 8. Explain what Saussure means by the arbitrariness of the sign, and assess its usefulness for analysing popular culture.
 
 When Saussure argues that the sign is arbitrary, he is making the foundational move that allows cultural studies to exist at all. The claim is that the relation between signifier (the physical form: sound, mark, image) and signified (the mental concept) is not natural or motivated. "There is no intrinsic, natural or essential reason why a particular concept should be linked with one sound image rather than another" (Strinati, 1995: 83). The English "dog" and the French "chien" point to the same concept because each language's system of differences fixes the link; nothing in the animal demands either sound. Meaning, in this picture, is not a property of things in the world. It is a property of the *langue*: the structured system of differences that allows us to say "dog" rather than "god".
 
@@ -241,7 +426,7 @@ The pragmatic upshot is that arbitrariness is a starting heuristic, not the fina
 
 ---
 
-### 8.5 Mock 2. Using the techniques of semiology, analyse a contemporary advertising campaign of your choice.
+### 8.12 Mock 9. Using the techniques of semiology, analyse a contemporary advertising campaign of your choice.
 
 I take the Camel cigarette campaigns reproduced on the lecture slides as my object, because the deck pairs them with their parody (*Joe Chemo*) and so lets me run the full semiological apparatus across both a myth and its third-order robbing.
 
@@ -265,7 +450,7 @@ What semiology gives me here is a way of seeing how an advertising campaign does
 
 ---
 
-### 8.6 Mock 3. Compare Lévi-Strauss's structuralism with Barthes's semiology. Which is more useful for studying popular culture today?
+### 8.13 Mock 10. Compare Lévi-Strauss's structuralism with Barthes's semiology. Which is more useful for studying popular culture today?
 
 Lévi-Strauss's structuralism and Barthes's semiology share an inheritance from Saussure and a commitment to reading culture as a system of signs rather than a window onto things. But they part company on universality, on history, and on politics, and the second of those differences is the one that matters most for studying popular culture today. My short answer: Barthes is more useful, but only when reworked.
 
@@ -291,7 +476,7 @@ My verdict, then, is that Barthes is the more useful starting point for studying
 
 ---
 
-### 8.7 Mock 4. How convincing is Barthes's claim that the function of myth is "to transform history into nature"?
+### 8.14 Mock 11. How convincing is Barthes's claim that the function of myth is "to transform history into nature"?
 
 I find Barthes's claim that myth functions to transform history into nature highly convincing as a diagnosis of a specific, real and recurring mechanism in cultural life, but only partly convincing as a complete theory of how popular culture works. The diagnosis names something genuine; the theory under-specifies how the trick gets pulled off, who pulls it, and on whom.
 
@@ -315,7 +500,7 @@ The honest assessment is therefore: yes, Barthes is right that one major functio
 
 ---
 
-### 8.8 Mock 5. "Semiology tells us nothing about power." Discuss.
+### 8.15 Mock 12. "Semiology tells us nothing about power." Discuss.
 
 The provocation that semiology tells us nothing about power is too strong, but it has a real grain of truth, and it is exactly the grain that Stuart Hall's reworking is designed to handle. Semiology gives us a great deal about *one face* of power, the cultural-symbolic face by which ideologies naturalise themselves, and very little about other faces unless we add political economy and audience research to it. The honest answer is "semiology tells us about one register of power well, and is silent on others".
 
@@ -333,7 +518,7 @@ So my position is this. The provocation is wrong as a flat claim: semiology give
 
 ---
 
-### 8.9 Mock 6. Critically assess Stuart Hall's reworking of structuralism.
+### 8.16 Mock 13. Critically assess Stuart Hall's reworking of structuralism.
 
 Stuart Hall's reworking of structuralism is, in my view, the move that rescues semiology from being a clever but politically thin reading practice and turns it into a usable sociology of culture. The lecture slide titled "Hall: building on structuralism?" frames the question well: Hall does not abandon Saussure or Barthes; he keeps the signifier/signified machinery, but he wires it into media production, institutional power and audience reception. The teacher's summary makes the same point: "Structuralism is extremely powerful at explaining how meaning is organised, but it is much less good at explaining power and inequality in concrete social contexts, media institutions and production and audience interpretation and resistance… he reworks it, combining semiology with Marxism, ideology theory, and sociology" (teacher's summary).
 
@@ -359,7 +544,7 @@ My assessment is therefore strongly positive but qualified: Hall's reworking is 
 
 ---
 
-### 8.10 Mock 7. Why did the "linguistic turn" become so important to the sociology of media and culture in the 1960s-70s?
+### 8.17 Mock 14. Why did the "linguistic turn" become so important to the sociology of media and culture in the 1960s-70s?
 
 The linguistic turn became important to the sociology of media and culture in the 1960s and 1970s because it gave the discipline a usable, supple and politically charged set of tools precisely at the moment when the media environment was expanding and existing theoretical paradigms were running into trouble. Strinati's framing is useful here: structuralism and semiology "benefited from the increasing interest in theory taken by social science in the 1960s, and their reputation is said to owe something to their concern with societies which are increasingly inundated with popular culture" (Strinati, 1995: 80). The lecture's "Rethinking Modernity" map situates structuralism alongside Marxism, the Frankfurt School, British Cultural Studies and feminism in exactly this period.
 
@@ -381,7 +566,7 @@ But the underlying point holds: in a decade when media and culture were becoming
 
 ---
 
-### 8.11 Mock 8. What does Barthes's reading of the Paris-Match cover tell us about race, empire and cultural signs?
+### 8.18 Mock 15. What does Barthes's reading of the Paris-Match cover tell us about race, empire and cultural signs?
 
 Barthes's reading of the Paris-Match cover is one of the foundational case studies of cultural semiology, and it tells us more about race, empire and cultural signs together than almost any other short passage in twentieth-century theory. It also exposes both the strengths and the limits of Barthes's frame on questions of racial power.
 
@@ -407,7 +592,7 @@ Barthes's reading of the Paris-Match cover therefore tells us that race, empire 
 
 ---
 
-### 8.12 Mock 9. Are audiences "myth-consumers" or active decoders? Discuss with reference to Barthes and Hall.
+### 8.19 Mock 16. Are audiences "myth-consumers" or active decoders? Discuss with reference to Barthes and Hall.
 
 The honest sociological answer is that audiences are *both*, and the interesting empirical question is when and how each picture applies. Barthes's "myth-consumer" describes a real phenomenon, the moment of taking a coded sign as a natural fact, and Hall's "active decoder" describes another real phenomenon, the moment of recognising, negotiating or resisting the coding. The strongest theoretical position holds both at once.
 
@@ -429,7 +614,7 @@ My conclusion is therefore that Barthes is right that audiences sometimes consum
 
 ---
 
-### 8.13 Mock 10. "In late capitalism, third-order chains of signification have no end." Discuss.
+### 8.20 Mock 17. "In late capitalism, third-order chains of signification have no end." Discuss.
 
 The slogan that in late capitalism third-order chains of signification have no end is half-right and half-misleading, and getting which half is which is the substance of the answer. The lecture's slide titled "Third order chains of signification in 'late capitalism'", featuring DEATH cigarettes branded with a skull, Liquid Death mountain water with its black-metal aesthetic, and a Dutch Barn vodka advert sold by Ricky Gervais ("Buying Dutch Barn will make a person rich & happy. And that person is Ricky Gervais"), is the visual joke that underwrites the slogan. Those products do not just sell themselves; they sell themselves *as* the parody of selling themselves. The myth is robbed before it even sets.
 
@@ -455,7 +640,7 @@ My conclusion is that the slogan captures something real about late-capitalist s
 
 ---
 
-### 8.14 Mock 11. How well does Barthes's semiology travel into feminist analyses of popular culture?
+### 8.21 Mock 18. How well does Barthes's semiology travel into feminist analyses of popular culture?
 
 Barthes's semiology travels surprisingly well into feminist analyses of popular culture. The lecture's own examples, Dick Bruna's *The school* with its blue boy and red girl, the Femininity paradigm slide ("Obedient / Servile / Passive / Submissive / Emotional / Sensitive / Private sphere / Reproductive / Child care / Domestic labour") and the Masculinity slide ("Manly / Virile / Muscular / Heroic / Wise / Aggressive / Dominant / Sexually active / Successful / Public sphere"), point directly to the productive uses. But the travel is incomplete: Barthes's class-bound theory of ideology has to be extended to make feminist sense of gendered signs.
 
@@ -481,7 +666,7 @@ My assessment is therefore that Barthes's semiology is *necessary* for feminist 
 
 ---
 
-### 8.15 Mock 12. Is semiology a science or a form of literary criticism?
+### 8.22 Mock 19. Is semiology a science or a form of literary criticism?
 
 The honest answer is that semiology was conceived as a science, has often functioned as literary criticism, and is most defensible today as a *systematic interpretive method* whose status sits between the two. The interesting move is not to decide which label is correct but to see what each pressure brings out about the method's strengths and weaknesses.
 

@@ -135,20 +135,29 @@ The arc of feminist theory in this lecture is a movement from rights, to experie
 
 ---
 
-## 7. Mock exam questions (12 total)
+## 7. Mock exam questions (17 total)
 
-1. "The personal is political." Discuss with reference to Hall and Walby on the public/private split.
-2. Critically assess hooks's argument that home can function as a site of resistance.
-3. What does de Beauvoir mean by "one is not born, but rather becomes, a woman", and why does she treat lived experience as central?
-4. Compare Hartsock's feminist standpoint with Hill Collins's matrix of domination.
-5. How does Crenshaw's intersectionality refine Beauvoir's account of woman-as-other?
-6. Is queer theory a vindication or a refutation of feminist standpoint theory?
-7. Does Harding's strong objectivity rescue or replace standpoint theory?
-8. How does Criado-Perez's account of the gender data gap illustrate Harding's strong objectivity?
-9. How convincing do you find Butler's argument that "woman" is not a stable category?
-10. "Women's labour is essential but their power within society is not" (Hartsock). Discuss with reference to Adichie's *We Should All Be Feminists*.
-11. Using the work of at least two authors, explain why universalist feminism fails Black women.
-12. Can feminism survive without a universal subject?
+*Note: M1-M7 are new slide-recipe composites built from L5 slide titles and bullet-questions; M8-M19 are the existing mocks renumbered.*
+
+1. Should feminism aim to join the male club, change its rules, or start another club? Discuss with reference to Wollstonecraft and de Beauvoir.
+2. Is the political strength of feminism determined by how many women it can speak for, or by whose voices it begins from?
+3. Pre-1980s feminism stands accused of being universalising, essentialising and ahistorical. How decisively do these three charges reshape feminist theory?
+4. Explain Hartsock's claim that women occupy a "unique social position", and assess what the duality of women's experience contributes to feminist knowledge.
+5. Why does it matter that "gender" is an arbitrary category for organising the world? Discuss with reference to de Beauvoir and Butler.
+6. With reference to Hall and Walby, explain how patriarchy operates through the sexual division of labour, and assess whether the public/private split has outlived its analytical usefulness.
+7. "We can't think gender without thinking 'race'" (Hill Collins). Using the matrix of domination and Crenshaw's intersectionality, assess what Black feminist thought adds to the analysis of woman-as-other.
+8. "The personal is political." Discuss with reference to Hall and Walby on the public/private split.
+9. Critically assess hooks's argument that home can function as a site of resistance.
+10. What does de Beauvoir mean by "one is not born, but rather becomes, a woman", and why does she treat lived experience as central?
+11. Compare Hartsock's feminist standpoint with Hill Collins's matrix of domination.
+12. How does Crenshaw's intersectionality refine Beauvoir's account of woman-as-other?
+13. Is queer theory a vindication or a refutation of feminist standpoint theory?
+14. Does Harding's strong objectivity rescue or replace standpoint theory?
+15. How does Criado-Perez's account of the gender data gap illustrate Harding's strong objectivity?
+16. How convincing do you find Butler's argument that "woman" is not a stable category?
+17. "Women's labour is essential but their power within society is not" (Hartsock). Discuss with reference to Adichie's *We Should All Be Feminists*.
+18. Using the work of at least two authors, explain why universalist feminism fails Black women.
+19. Can feminism survive without a universal subject?
 
 ---
 
@@ -256,7 +265,157 @@ So: yes, it is still possible to talk of feminism as a unified project, and we s
 
 ---
 
-### Mock 1: "The personal is political." Discuss with reference to Hall and Walby on the public/private split.
+### Mock 1: Should feminism aim to join the male club, change its rules, or start another club? Discuss with reference to Wollstonecraft and de Beauvoir.
+
+The lecturer's deliberately provocative trichotomy ("Is the aim of feminism simply to join the (male) club? Or should it aim to change the rules? Or to start another club?") is a useful way to plot the trajectory from first-wave liberal feminism to Beauvoir's existential break and onwards. I argue that the rules themselves must change, because joining the club leaves the patriarchal architecture intact, while starting another club risks abandoning the political work feminism alone performs. The defensible position is rule-changing, retaining the strategic singular while plurialising its content.
+
+The "joining" position is Wollstonecraft's. *A Vindication of the Rights of Woman* (1792), written in the Enlightenment afterglow of the French Revolution, claims for women the rational personhood that liberalism already extended to men. The agenda is vote, education, equal pay, equal access to political life. The strength of this position is that it operates on the universalist register liberalism already grants; the weakness, which Beauvoir later names, is that "universal" rationality was already masculine. Wollstonecraft can demand entry without questioning the architecture of the building. The Lean In framing is the contemporary corporate descendant: lean further into a structure designed against you, and call the result emancipation.
+
+Beauvoir's intervention in *The Second Sex* (1949) refuses the joining frame. "Humanity is male and man defines woman not in herself but as relative to him; she is not regarded as an autonomous being… He is the Subject, he is the Absolute; she is the Other" (de Beauvoir, 1949: 6). Once the club is unmasked as a male universal, joining it means accepting a position pre-marked as derivative. "One is not born but rather one becomes a woman" makes the disqualification socially produced; the response is to alter the social production, not to perform better within it. The L4 work on language makes the same diagnosis structurally: "a man would never set out to write a book on the peculiar situation of the human male" (de Beauvoir, 1988: 15) because the male is the unmarked default. Joining the club leaves the marking in place.
+
+The "rule-changing" position therefore follows from Beauvoir's diagnosis. If woman is constituted through experience as other, then equality requires altering the conditions of constitution, not adjusting the membership list. Hartsock translates this into epistemology: women's dual position as insiders (essential to social reproduction) and outsiders (denied power) generates a vantage on the patriarchal architecture itself. "Just as Marx's understanding of the world from the standpoint of the proletariat enabled him to go beneath bourgeois ideology, so a feminist standpoint can allow us to understand patriarchal institutions and ideologies as perverse inversions of more human social relations" (Hartsock, 1983: 142). The rules of the club, not its membership, are the object of critique.
+
+Criado-Perez supplies the contemporary engineering proof. The "reference man" is the club's working assumption: a Caucasian male, 25 to 30, 70 kilograms, representing humanity. Joining the club, on these terms, means crash-test dummies modelled on the male body that leave women 47% more likely to be seriously injured, stab vests that get a British female police officer killed in 1997, office formulas calibrated to a male resting metabolic rate, smartphones at the upper limit of male hand size. Changing the rules means redesigning the dummies, the vests, the formulas, the phones. Harding's strong objectivity (L6) is the methodological articulation: start research from women's lives, treat the subject of knowledge as part of the object of knowledge (Harding, 2004: 136). #MeToo and post-Roe America are the political analogue: rule changing rather than entry-bargaining.
+
+The "another club" position has force where racial terror has poisoned mainstream institutions. Hill Collins and hooks insist that Black women's standpoint generates a different feminist tradition, and that the home, far from being uniformly repressive, can be a site of refuge and resistance: "There is power in looking" (hooks, 1992: 115). But Adichie's defence of the singular word holds: dropping "feminist" for "human rights" "would be a way of pretending that it was not women who have, for centuries, been excluded". The plural is internal to the singular, not its replacement.
+
+So my answer: change the rules. Wollstonecraft's joining is necessary but insufficient; Beauvoir's diagnosis demands more; the architectural critique that follows, from Hartsock through Hill Collins, Crenshaw, hooks and Butler to Criado-Perez, is the rule-changing programme. Another-club separatism is a tactical response to particular failures, not the general strategy. (Word count: 720.)
+
+---
+
+### Mock 2: Is the political strength of feminism determined by how many women it can speak for, or by whose voices it begins from?
+
+The opening framing of the lecture sets the question sharply: "the more people that feminism can 'talk for', the stronger its arguments… the more people that feminism can claim to represent, the more powerful its arguments. Or maybe you disagree?" I disagree, and the disagreement is the central methodological lesson of the module. Political strength does not come from the size of the demographic claimed, but from the analytic location chosen as starting point. To start from the wrong location is to lose strength even while gaining numbers.
+
+The numerical view is intuitive. A movement representing more people commands more legitimacy and more leverage. First-wave feminism rallied around suffrage on something like this principle: every woman is a voter denied. Wollstonecraft's *A Vindication of the Rights of Woman* (1792) extends the universalist Enlightenment subject to women; the more women included, the stronger the claim. #MeToo at its high point operated similarly: the cumulative volume of testimony was its own argument. The cost-of-living crisis presents the same shape: care work disproportionately performed by women is a structural diagnosis that gains traction by counting.
+
+But the numerical view has a built-in flaw, exposed by Black feminism, intersectionality and post-structuralism. Counting requires a category; categories require a default; defaults privilege some lives over others. The lecture is explicit: pre-1980s feminism was universalising (presuming a shared history of oppression), essentialising (presuming being a woman is enough) and ahistorical (neglecting "how white women have benefited from colonialism"). Talking for "all women" without specifying the location from which one begins produces a "woman" who is implicitly white, middle-class, partnered, straight, cis. Hill Collins reframes: "Black feminist thought consists of ideas produced by Black women that clarify a standpoint of and for Black women" (Hill Collins, 1986: 70). Crenshaw's intersectionality is the diagnostic; hooks's oppositional gaze the political consequence. The Lean In versus Black/intersectional contrast is the live political register: a feminism that maximises numerical reach by flattening difference is less strong, not more.
+
+Harding makes the methodological case. "Standpoint theorists themselves all explicitly argue that marginal lives that are not their own provide better grounds for certain kinds of knowledge" (Harding, 2004: 129). The privileged starting point is not the largest demographic but the most marginalised. "Strong objectivity requires that the subject of knowledge be placed on the same critical, causal plane as the objects of knowledge" (Harding, 2004: 136); strong objectivity demands strong reflexivity. The strongest feminism is therefore the one that explicitly names whose lives it begins from, not the one that claims to begin from no one in particular.
+
+Criado-Perez supplies the practical illustration. The reference man is engineering's universal: crash-test dummies until 2011 used a 50th-percentile male, the "female" dummy is "just a scaled-down male dummy", office thermostats are calibrated to male resting metabolic rates, Apple Health launched without a period tracker, Google speech recognition is 70% more likely to recognise male speech. The result is empirically worse engineering: women 47% more likely to be seriously injured, 17% more likely to die. Starting from women's bodies produces more accurate science. The numerical move ("we represent humanity") is exactly what blocks accuracy; the locational move ("we start from women's lives") is what supplies it. This is Harding's strong objectivity in cars, masks, thermostats and phones.
+
+Adichie's *We Should All Be Feminists* converges. She begins from autobiographical episodes (the Lagos parking attendant thanking Louis, the hotel staff reading a woman alone as a sex worker, the Nsukka class monitor episode where the highest-scoring girl is passed over because the role "had to be a boy"). The political power of these episodes is not statistical; it is analytic, because they are mobilised from specific lives. Her defence of the word: dropping "feminist" for "human rights" "would be a way of pretending that it was not women who have, for centuries, been excluded". The singular term retains political traction precisely because its plural starting points are named.
+
+So my answer: feminism's political strength is determined by whose voices it begins from, not how many it claims to speak for. Numerical reach without locational specificity reproduces the universalising error pre-1980s feminism is rightly criticised for. The strongest contemporary feminism starts from marginalised lives, plurialises its standpoints, and uses the singular "feminism" as a strategic political category whose interior is reflexively plural. Numbers follow strength; they do not generate it. (Word count: 740.)
+
+---
+
+### Mock 3: Pre-1980s feminism stands accused of being universalising, essentialising and ahistorical. How decisively do these three charges reshape feminist theory?
+
+The lecture's triplet, that "feminism until 1980s did not pay enough attention to differences between woman" because it was universalising (presuming a shared history of oppression), essentialising (presuming being a woman is enough) and ahistorical (neglecting "how white women have benefited from colonialism"), is the diagnostic that organises everything Black, post-structuralist and standpoint feminism does after 1980. I argue the charges are decisive in reshaping theory but not in dissolving the project: they make pluralism mandatory while leaving the strategic singular intact.
+
+Start with the charge of universalising. Wollstonecraft (1792) and Beauvoir (1949) both rely on a working subject "woman" generalised from their own historical and class position. The lecture asks of Beauvoir specifically: "Can she really describe and account for the way in which ALL women have been oppressed all over the world, in every age?" The honest answer is no. Beauvoir's diagnosis ("humanity is male and man defines woman not in herself but as relative to him… He is the Subject, he is the Absolute; she is the Other" (de Beauvoir, 1949: 6)) names a structural pattern but generalises a particular experience. The reshape: Hill Collins specifies "ideas produced by Black women that clarify a standpoint of and for Black women" (Hill Collins, 1986: 70); the matrix of domination shows that "structural, disciplinary, hegemonic, and interpersonal domains of power reappear across quite different forms of oppression". Crenshaw formalises intersectionality. The decisive shift is from one standpoint to many, from a presumed shared history to differentially located histories.
+
+Now essentialising. The charge is that pre-1980s feminism treats "being a woman" as politically sufficient: anatomical or social womanhood automatically grounds feminist claims. Butler delivers the decisive answer: "Feminist critique ought also to understand how the category of 'women,' the subject of feminism, is produced and restrained by the very structures of power through which emancipation is sought" (Butler, 1990: 2). Gender is performative; "woman" is constituted through the very acts that present themselves as expressing it. The reshape: the subject of feminism is itself an object of feminist critique. Standpoint theory absorbs this through reflexivity; Harding's "strong objectivity requires what we can think of as 'strong reflexivity'… the subject of knowledge must be considered as part of the object of knowledge" (Harding, 2004: 136). Current trans-rights debates within feminism are the live register: anyone arguing that "woman" is self-evident is operating on the essentialism the post-1980s critique forbade.
+
+The ahistorical charge is the most politically pointed. It accuses feminism of forgetting that white women have benefited from colonialism, slavery and racial capitalism, and that the singular "woman" therefore conceals a power relation among women. Mohanty (L9) develops the international version: Western feminism produces "the third world woman" as "ignorant, poor, uneducated, tradition-bound, domestic, family-oriented, victimized" (Mohanty, 1984: 261). hooks registers the home as refuge under racial terror, not only as repression. The L8 lineage matters: Du Bois's "double consciousness", "always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5), is the conceptual ancestor of Hill Collins's outsider within. Gilroy's Black Atlantic shows modernity from the standpoint of those it enslaved. Feminism that absorbs these becomes historically richer; feminism that does not collapses into Lean In universalism.
+
+How decisively do the three charges reshape theory? Decisively at the level of method, less so at the level of political subject. Method: plural standpoints, intersectional architecture, performative subject, strong reflexivity. These are no longer optional. A strategic "woman" persists, but only as openly constructed and held under interrogation. Criado-Perez's gender data gap is the instance where the strategic singular still does work: crash-test dummies, stab vests, office thermostats, the missing period tracker. These harms are recognisably gendered across race and class; intersectionality refines but does not erase them.
+
+So the three charges reshape feminist theory by making the singular strategic, the standpoints plural, and the subject reflexive. The project survives, sharper than before, because the charges were absorbed rather than refused. Harding's synthesis: "There is no single, ideal woman's life from which standpoint theories recommend that thought start. Instead, one must turn to all of the lives that are marginalized in different ways… The different feminisms inform each other" (Harding, 2004: 131). The charges did not end feminism; they matured it. (Word count: 720.)
+
+---
+
+### Mock 4: Explain Hartsock's claim that women occupy a "unique social position", and assess what the duality of women's experience contributes to feminist knowledge.
+
+Hartsock's claim that women occupy a unique social position is best read as the epistemological hinge of feminism: women are insiders to the system because their labour is essential to its reproduction, and outsiders because they are denied power within it, and this dual location generates a critical vantage unavailable to dominant-group thinkers. The lecturer summarises the three lessons drawn from first- and second-wave feminism as "the importance of different standpoints/perspectives", how "experiences can provide insights into the operations of power", and how "there can be a duality to experience". Hartsock is the systematic articulation of all three.
+
+Begin with the structural claim. "Women's lives differ structurally from those of men" (Hartsock, 1983: 284). The difference is material: women have historically been allocated the responsibility for social reproduction (childbirth, childrearing, domestic labour, emotional work, care), while men have been assigned material and financial production. The public/private split historicised by Hall (1980) and Walby (1986) is the institutional form: with industrial capitalism, the home is reinvented as feminised private, and "women's role becomes the inconspicuous work of making the work of the (male) wage-worker possible". Women as wasteful consumers, men as productive workers. The asymmetry is what Hartsock means by women's "unique social position": essential, yet powerless.
+
+The duality is the next move. Women are *inside*: their labour underwrites the continuation of the system. The economy, the household, the wage relation all depend on the unwaged or low-waged labour of women. They are *outside*: they have no commensurate power within the system. They are not its directors. This dual location is not an accident of biography; it is the structural condition of women as a class. Hartsock builds on Marx's analogous analysis of the proletariat: "just as Marx's understanding of the world from the standpoint of the proletariat enabled him to go beneath bourgeois ideology, so a feminist standpoint can allow us to understand patriarchal institutions and ideologies as perverse inversions of more human social relations" (Hartsock, 1983: 142). The proletariat's dual position (essential to capital, dispossessed by capital) generated critique; women's dual position generates feminist critique.
+
+What does the duality contribute to feminist knowledge? Four contributions.
+
+First, epistemic privilege. The insider/outsider position generates analytic vantage that those purely inside power cannot occupy. Hill Collins's "outsider within" formalises the same insight (Hill Collins, 1986). The L8 lineage runs through Du Bois: "always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5). The duality is structurally the same; the feminist application is Hartsock's.
+
+Second, the standpoint is achieved, not given. Hartsock insists feminist standpoint requires political and theoretical work; mere anatomy does not deliver insight. This protects the position from biological essentialism and aligns with Butler's later destabilisation: "the category of 'women,' the subject of feminism, is produced and restrained by the very structures of power through which emancipation is sought" (Butler, 1990: 2). The standpoint is a practice, not a property.
+
+Third, the duality grounds the personal-is-political slogan. Hartsock translates consciousness-raising into theory: the patterns women individually experience are systemic precisely because women occupy a shared structural location. Adichie's parking-attendant episode (the gratitude rerouted through her male friend Louis) and her Nsukka class-monitor episode (the highest-scoring girl passed over because "the monitor had to be a boy") are concrete cases of insider essentiality coupled with outsider powerlessness.
+
+Fourth, the duality has empirical payoff. Criado-Perez's gender data gap is the engineering verification: starting from women's lives produces better cars, vests, offices, phones, healthcare. Women are 47% more likely to be seriously injured in a comparable crash because engineering starts from the reference man. Starting from women's bodies would have produced different dummies, vests and thermostats. Harding's strong objectivity (L6) operationalises Hartsock methodologically: "the subject of knowledge must be considered as part of the object of knowledge" (Harding, 2004: 136).
+
+Two qualifications. The duality is intersectionally differentiated: Hill Collins's matrix shows the insider/outsider position varies by race, class and sexuality; the Black domestic worker's position is not the white middle-class housewife's. The standpoint is, as Harding insists, plural: "There is no single, ideal woman's life from which standpoint theories recommend that thought start" (Harding, 2004: 131). And Butler's caution applies: the duality is itself produced by the gender system, not pre-political.
+
+So Hartsock's "unique social position" contributes the structural location, the epistemic principle and the political duality on which contemporary feminist sociology still operates. (Word count: 745.)
+
+---
+
+### Mock 5: Why does it matter that "gender" is an arbitrary category for organising the world? Discuss with reference to de Beauvoir and Butler.
+
+The lecturer's etymological detour ("De Beauvoir uses the French word 'genre' which is translated into English as 'gender'… These words come from the Latin word 'genus'. Genus indicates a 'type' or 'kind'… Genus, genre, and gender (especially in the grammatical sense) indicates ways of organizing the world and our thoughts about the world according to certain arbitrary categories") is not idle philology. It signals that gender is a sorting device, not a discovery of natural kinds. I argue this matters because once gender is recognised as an organising category rather than a natural fact, both feminism's analytical scope and its political possibilities expand. Beauvoir opens the move; Butler radicalises it.
+
+Begin with Beauvoir. *The Second Sex* (1949) asks "what is a woman?" and answers, scandalously for 1949, that there is no essential answer: "one is not born but rather one becomes a woman". The category "woman" is produced through socialisation, mythology, juridical positioning and interpersonal recognition. The structural finding: "humanity is male and man defines woman not in herself but as relative to him; she is not regarded as an autonomous being… He is the Subject, he is the Absolute; she is the Other" (de Beauvoir, 1949: 6). The male is taken as the universal human, woman as the marked term. Recognising gender as a sorting device makes this asymmetry visible: humanity is being organised under one of two arbitrary categories, and the category "male" is silently set as the unmarked default. The L4 work on language operationalises the same point: "a man would never set out to write a book on the peculiar situation of the human male. But if I wish to define myself, I must first of all say: 'I am a woman'" (de Beauvoir, 1988: 15).
+
+Why this matters analytically. First, the world's representation is exposed as partial. "The representation of the world, like the world itself, is the work of men; they describe it from the point of view which is theirs and which they confuse with the absolute truth" (de Beauvoir, 1949: 236). Once gender is an organising category, this partiality becomes a finding rather than a feature. Second, the sorting device produces the very objects it claims to describe; women are not simply found to be other, they are made other by being sorted. Third, what is sorted can be sorted differently. The anti-essentialist move is also a political opening: the category is contingent, hence contestable.
+
+Butler radicalises. "Feminist critique ought also to understand how the category of 'women,' the subject of feminism, is produced and restrained by the very structures of power through which emancipation is sought" (Butler, 1990: 2). Gender is performative: the repeated acts that present themselves as expressions of gender are the means by which gender is constituted. The heterosexual matrix produces "woman" and "man" as the only intelligible categories; anything not fitting (intersex bodies, trans subjectivities, non-binary identities) is rendered unthinkable. The lecturer's "arbitrary categories for organising the world" is exactly Butler's diagnosis at the level of grammar: gender is a sorting principle, and the sorting principle is what feminism must analyse.
+
+Three consequences.
+
+First, the analytical scope of feminism widens. If gender is an organising category, then the question is not only how women are treated but how the category is produced and what it excludes. Current trans-rights debates within feminism turn on whether the category is self-evident or constructed; Butler's answer is decisive.
+
+Second, the political programme changes. Beauvoir's "one becomes a woman" makes a different becoming possible; Adichie generalises: "Culture does not make people. People make culture. If it is true that the full humanity of women is not our culture, then we can and must make it our culture." Rule changing rather than club joining (the slide 4 question) follows from the arbitrariness diagnosis.
+
+Third, the empirical payoff is intersectional. Hill Collins and Crenshaw show that gender is always co-sorted with race and class; the matrix of domination operates through "structural, disciplinary, hegemonic, and interpersonal domains of power" simultaneously (Hill Collins). Criado-Perez documents the engineering consequence: the reference man as the unmarked category produces a gender data gap with women 47% more likely to be seriously injured in a comparable crash. The data gap becomes analysable, not natural.
+
+So it matters that gender is arbitrary because arbitrariness is the condition of contestability. Beauvoir opens the move by making "woman" a process; Butler completes it by making the category an effect of power. Feminism without this collapses back into the universalism the post-1980s critique exposed. (Word count: 745.)
+
+---
+
+### Mock 6: With reference to Hall and Walby, explain how patriarchy operates through the sexual division of labour, and assess whether the public/private split has outlived its analytical usefulness.
+
+The lecturer's slide on second-wave feminism foregrounds three terms in a vertical list under the heading "PATRIARCHY": "Reproduction as a form of labour" and "Exploitation of women's work". I argue that patriarchy operates centrally through the sexual division of labour, that Hall (1980) and Walby (1986) supply the decisive historical account of how the public/private split institutionalises this division, and that the split is empirically alive rather than outdated. The architecture has shifted shape but not function.
+
+Start with the historical claim. The lecture is explicit that the "public-private split was established with the rise of capitalism. New relations of production, new employment practices, and the establishment of factories, led to a new mode and sphere of social existence." Production migrated from "small-scale domestic level to the large-scale, anonymous level"; "you go out to work. In factories." The dwelling place was thereby reinvented as private and feminised, and "the modern notion of domesticity is created". This is not a natural arrangement of life into spheres; it is a specific historical product of nineteenth-century industrial capitalism. Hall and Walby establish that the split is therefore contingent and political, not anthropological.
+
+The sexual division of labour follows. Once production is relocated, "women's role becomes the inconspicuous work of making the work of the (male) wage-worker possible through the provision of sustenance (material and emotional) in the home", together with "the production of more miniature wage-labourers (children)". The lecturer's epigram is brutal: "Women as wasteful consumers, men as productive workers" (Hall, 1980; Walby, 1986). Patriarchy is not, on this reading, a free-standing ideology that men hold about women; it is an organisational principle that allocates social reproduction to women and material production to men, and then represents this allocation as nature. "Domestic sphere becomes invisible" is the ideological consequence of the structural one.
+
+Hartsock supplies the theoretical translation. "Women have been given the responsibility for certain areas of production and reproduction such as childbirth and child-rearing", whereas men are assigned the role of "producing material and financial goods"; therefore "women's lives differ structurally from those of men" (Hartsock, 1983: 284). The duality Hartsock identifies, women as inside (essential to social reproduction) and outside (denied power), is the epistemic upshot of Hall and Walby's structural account. Patriarchy as the division of labour is what produces the standpoint, not the other way around. The L6 standpoint material extends this: Harding's "strong objectivity requires that the subject of knowledge be placed on the same critical, causal plane as the objects of knowledge" (Harding, 2004: 136), which is, methodologically, what starting from women's allocated labour requires.
+
+Beauvoir's diagnosis interlocks. "Humanity is male and man defines woman not in herself but as relative to him… He is the Subject, he is the Absolute; she is the Other" (de Beauvoir, 1949: 6). The subject/other asymmetry is the cultural shape of the division of labour: the public worker is the subject, the private domestic the other. The L4 work confirms this at the level of language: "a man would never set out to write a book on the peculiar situation of the human male" (de Beauvoir, 1988: 15) because male labour is unmarked while female labour requires accounting for.
+
+Now the assessment. Has the public/private split outlived its analytical usefulness? Three reasons it has not.
+
+First, the split keeps reorganising itself rather than dissolving. Care work, disproportionately performed by women, remains structurally privatised even where formally waged. The cost-of-living crisis intensifies this: unpaid and underpaid reproductive labour absorbs the shock of shrinking real wages. The Lean In framing, which promises that lean-in professionalism resolves the asymmetry, leaves the division of labour intact and merely admits a thin layer of women to the public side.
+
+Second, the split reproduces across radically different cultural settings. Adichie's Igbo extended-family meetings, from which she is excluded "because I am female", are not the British factory system; the asymmetry recurs. The Lagos parking-attendant episode where Louis is thanked for money Adichie has given works on the same logic: women's contribution is essential, recognition runs through the man. Hall and Walby's industrial-capitalism story is one cultural instance of a broader pattern, not the only one.
+
+Third, the empirical payoff persists. Criado-Perez documents how the "reference man" of engineering, a Caucasian male 25 to 30, 70kg, takes the male public worker as the unmarked human. Crash-test dummies modelled on him leave women 47% more likely to be seriously injured in a comparable crash. The split's afterlife in design has lethal consequences.
+
+Three qualifications. Hill Collins's matrix and Crenshaw's intersectionality plurialise the split: the Black domestic worker's private is also the white employer's public, so a single public/private map flattens too much. hooks adds that home, for Black women under racial terror, is also refuge: "the 'gaze' has always been political in my life… There is power in looking" (hooks, 1992: 115). And Butler reminds us the category "women" through which patriarchy is theorised is itself produced by power (Butler, 1990: 2).
+
+So patriarchy operates through the sexual division of labour, and the public/private split remains analytically useful, provided it is read intersectionally, historically, and as a continuing political artefact rather than a natural map. The architecture is alive; the question is whose labour holds it up. (Word count: 730.)
+
+---
+
+### Mock 7: "We can't think gender without thinking 'race'" (Hill Collins). Using the matrix of domination and Crenshaw's intersectionality, assess what Black feminist thought adds to the analysis of woman-as-other.
+
+The lecturer's "Black feminist thought" slide quotes Hill Collins twice, gives the matrix of domination, and concludes with the sharp formulation "we can't think gender without thinking 'race'". The next slide defines Crenshaw's intersectionality as the notion that "different types of discrimination intersect and often compound experiences of exclusion and social subjugation". I argue that Black feminist thought adds three things to the woman-as-other analysis: a plural standpoint to replace the singular, a matrix architecture to replace single-axis diagnosis, and a political agency to replace pure victimhood. The result is a sharper, not diluted, feminism.
+
+Start with Beauvoir as the position being supplemented. "Humanity is male and man defines woman not in herself but as relative to him… He is the Subject, he is the Absolute; she is the Other" (de Beauvoir, 1949: 6) is a structural diagnosis of othering. The lecturer's critique of Beauvoir is direct: "Does de Beauvoir try to 'universalize' her argument/situation? Is her account historically and socially limited (she is a middle class, white, European intellectual)? Can she really describe and account for the way in which ALL women have been oppressed all over the world, in every age?" The honest answer is no. The "woman" of *The Second Sex* is a particular woman, generalised. This is the universalising charge the lecture lays against pre-1980s feminism, alongside essentialising and ahistoricism.
+
+Hill Collins formulates the alternative. "Black feminist thought consists of ideas produced by Black women that clarify a standpoint of and for Black women" (Hill Collins, 1986: 70). The standpoint is named, not assumed. The matrix of domination follows: "structural, disciplinary, hegemonic, and interpersonal domains of power reappear across quite different forms of oppression". Power is not a single axis but a four-domain architecture, and the architecture recurs across different oppressions. The lecturer's gloss is decisive: "Gender does not exist 'on its own'… 'Race' (or the idea of race) is equally important, if not more important, than 'gender'. Indeed, we can't think gender without thinking 'race'."
+
+Crenshaw's intersectionality is the diagnostic tool. The lecture defines it as "the notion that different types of discrimination intersect and often compound experiences of exclusion and social subjugation". A Black woman is not Beauvoir's other in single-axis form; she is othered by race and gender simultaneously, and the compound is its own analytic object, not the sum of two parts. The Lean In versus Black/intersectional contrast is the contemporary political register: a corporate feminism premised on white middle-class professional women cannot register the harms Crenshaw names.
+
+What does this add to woman-as-other? Three contributions.
+
+First, the standpoint becomes plural. Hartsock's "women's lives differ structurally from those of men" (Hartsock, 1983: 284) is correct but needs differentiation. The Black domestic worker and her white employer occupy structurally different positions on the gender axis itself, because their gendering is racially mediated. Hill Collins's standpoint claim "of and for Black women" is the methodological consequence. The L8 lineage matters: Du Bois's "double consciousness", "always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity" (Du Bois, 1903: 5), is the structural form Hill Collins inherits and pluralises into the matrix. Gilroy's Black Atlantic shows modernity from the standpoint of those it enslaved; Black feminism extends this to gender.
+
+Second, the architecture becomes matricial rather than linear. Beauvoir's other is othered along one axis; the matrix shows that othering operates simultaneously through structural (laws, formal institutions), disciplinary (bureaucratic enforcement), hegemonic (culture, common sense), and interpersonal (face-to-face encounters) domains. Adichie's parking-attendant episode runs all four: structural (Igbo inheritance rules), disciplinary (restaurant routines), hegemonic (the assumption that "Louis is a man" suffices to redirect thanks), interpersonal (the gift exchange). The matrix names the architecture; intersectionality names how axes co-produce experience.
+
+Third, agency becomes intrinsic. Beauvoir's woman is described as object, not subject. hooks insists: "the 'gaze' has always been political in my life… There is power in looking" (hooks, 1992: 115). The othered subject is also capable of looking back; resistance is not added later but lived in the same moment as the othering. hooks adds, against second-wave universalism, that home for Black women is also refuge from racial terror, not only constraint. The L10 vision work connects this: Mulvey's male gaze names a structural pattern, hooks's oppositional gaze names the practice of refusing it. The othered subject of Beauvoir becomes the looking subject of hooks.
+
+Two qualifications. Mohanty (L9) warns that Western feminism produces "the third world woman" as "ignorant, poor, uneducated, tradition-bound, domestic, family-oriented, victimized" (Mohanty, 1984: 261); Black feminist thought must not be flattened into a single Black standpoint either. Harding's synthesis applies: "There is no single, ideal woman's life from which standpoint theories recommend that thought start" (Harding, 2004: 131). And Butler's destabilisation runs alongside: "the category of 'women,' the subject of feminism, is produced and restrained by the very structures of power through which emancipation is sought" (Butler, 1990: 2). The matrix must be read as itself reflexively constructed.
+
+The political register is alive. Black Lives Matter and post-Roe America are intelligible together only through intersectional categories; restrictions on reproductive control fall hardest where the matrix predicts. The cost-of-living crisis intensifies the same pattern: low-paid care work is gendered, racialised and classed at once.
+
+So Black feminist thought does not refute woman-as-other; it makes the diagnosis precise. Beauvoir's pattern survives; the diagnostic apparatus gets sharper. We cannot think gender without thinking race because the othering of women is racially co-produced, and a feminism that ignores this reproduces the colonial gaze it claims to dismantle. (Word count: 745.)
+
+---
+
+### Mock 8: "The personal is political." Discuss with reference to Hall and Walby on the public/private split.
 
 I argue that the second-wave slogan "the personal is political" remains one of feminism's most analytically powerful tools. It does not claim that private life is identical with the political; it claims that the boundary between personal and political is itself politically produced, and therefore contestable. Hall (1980) and Walby (1986) historicise that boundary; Hartsock translates the historicisation into epistemology; Adichie and Criado-Perez document its present effects.
 
@@ -280,7 +439,7 @@ The slogan, read through intersectional revision, remains one of feminism's most
 
 ---
 
-### Mock 2: Critically assess hooks's argument that home can function as a site of resistance.
+### Mock 9: Critically assess hooks's argument that home can function as a site of resistance.
 
 "Collins and bell hooks both questioned second-wave understandings of the home as a site of repression and subjugation"; for Black women, home can be a refuge as well as a constraint. I assess this argument as broadly correct, sharper than mainstream second-wave framing, and necessary to any feminism that does not collapse into Beauvoir's universalising mistake.
 
@@ -306,7 +465,7 @@ So hooks is right: the home can be a site of resistance, particularly where the 
 
 ---
 
-### Mock 3: What does de Beauvoir mean by "one is not born, but rather becomes, a woman", and why does she treat lived experience as central?
+### Mock 10: What does de Beauvoir mean by "one is not born, but rather becomes, a woman", and why does she treat lived experience as central?
 
 The sentence contains two of the most consequential moves in twentieth-century feminist theory: an anti-essentialist account of gender, and a methodological commitment to lived experience as the ground of philosophical knowledge. Together they make *The Second Sex* (1949) the hinge between liberal first-wave feminism and the second-wave, standpoint and post-structuralist traditions that follow.
 
@@ -332,7 +491,7 @@ So the sentence means: woman is a process, not an essence; and one must read tha
 
 ---
 
-### Mock 4: Compare Hartsock's feminist standpoint with Hill Collins's matrix of domination.
+### Mock 11: Compare Hartsock's feminist standpoint with Hill Collins's matrix of domination.
 
 Hartsock and Hill Collins are doing related but distinct work, and the most defensible contemporary feminist sociology requires both. Hartsock supplies an epistemology: a theory of how knowledge is produced from structurally located lives. Hill Collins supplies an ontology of power: a theory of how oppression is organised across domains and axes. Each completes what the other leaves under-theorised.
 
@@ -364,7 +523,7 @@ So which is more useful? Neither alone. For epistemic and methodological questio
 
 ---
 
-### Mock 5: How does Crenshaw's intersectionality refine Beauvoir's account of woman-as-other?
+### Mock 12: How does Crenshaw's intersectionality refine Beauvoir's account of woman-as-other?
 
 Crenshaw's intersectionality is best read as a refinement, not a refutation, of Beauvoir's woman-as-other. Beauvoir names the structural asymmetry in which "humanity is male and man defines woman not in herself but as relative to him" (de Beauvoir, 1949: 6); Crenshaw shows the asymmetry is not single-axis. Read together, they deliver a sharper analytic apparatus than either alone.
 
@@ -398,7 +557,7 @@ So Crenshaw refines Beauvoir by plurialising the othered subject without abandon
 
 ---
 
-### Mock 6: Is queer theory a vindication or a refutation of feminist standpoint theory?
+### Mock 13: Is queer theory a vindication or a refutation of feminist standpoint theory?
 
 Against the disjunction, queer theory is best read as a *modification* of feminist standpoint theory: neither vindication nor refutation, but a critical extension that exposes a flaw in the original formulation while preserving its core epistemic claim. Harding's reformulation integrates the queer-theoretical correction without abandoning standpoint epistemology.
 
@@ -432,7 +591,7 @@ So the answer is neither pure vindication nor pure refutation. The corrected sta
 
 ---
 
-### Mock 7: Does Harding's strong objectivity rescue or replace standpoint theory?
+### Mock 14: Does Harding's strong objectivity rescue or replace standpoint theory?
 
 Harding's strong objectivity rescues standpoint theory rather than replacing it. The core claim, that knowledge is produced from socially located lives and that marginalised locations generate privileged resources, is preserved. Harding adds a methodological apparatus that defends the claim against charges of ethnocentrism, relativism, and unique-abilities-of-the-oppressed essentialism.
 
@@ -464,7 +623,7 @@ So Harding rescues. Standpoint theory was vulnerable in its raw form; strong obj
 
 ---
 
-### Mock 8: How does Criado-Perez's account of the gender data gap illustrate Harding's strong objectivity?
+### Mock 15: How does Criado-Perez's account of the gender data gap illustrate Harding's strong objectivity?
 
 Criado-Perez's *Guardian* extract is an extended empirical illustration of exactly what Harding's strong objectivity demands. The reference man is the unreflexive subject of modern engineering; the gender data gap is what strong objectivity, had it been practised, would have prevented. Together the texts give the most operational current statement of standpoint epistemology.
 
@@ -500,7 +659,7 @@ So the gender data gap is Harding's strong objectivity made flesh, or rather mad
 
 ---
 
-### Mock 9: How convincing do you find Butler's argument that "woman" is not a stable category?
+### Mock 16: How convincing do you find Butler's argument that "woman" is not a stable category?
 
 Butler's argument is convincing in its core claim (that the category "woman" is produced and restrained by the very structures of power feminism aims to dismantle) but requires reading in a modified form that integrates standpoint and intersectional critique. The destabilisation of "woman" is not an argument against using the category but for using it reflexively.
 
@@ -530,7 +689,7 @@ So my assessment: very convincing in core, requiring modification at the edges. 
 
 ---
 
-### Mock 10: "Women's labour is essential but their power within society is not" (Hartsock). Discuss with reference to Adichie's *We Should All Be Feminists*.
+### Mock 17: "Women's labour is essential but their power within society is not" (Hartsock). Discuss with reference to Adichie's *We Should All Be Feminists*.
 
 Hartsock's epigram remains the sharpest one-sentence statement of patriarchy's structural form, and Adichie's *We Should All Be Feminists* (2014), despite its register of personal narrative, is a sustained empirical illustration of exactly the asymmetry Hartsock names. Read together they do the analytic work neither does alone.
 
@@ -562,7 +721,7 @@ Adichie's defence of the word "feminist" articulates the political stake of Hart
 
 ---
 
-### Mock 11: Using the work of at least two authors, explain why universalist feminism fails Black women.
+### Mock 18: Using the work of at least two authors, explain why universalist feminism fails Black women.
 
 Using Hill Collins, Crenshaw and hooks, I argue universalist feminism fails Black women in three connected ways: it misdescribes their experience, mishandles their exclusion from rights regimes, and misidentifies the targets of political action. The corrective is not adding Black voices to an unchanged universalism but starting analysis from a different ground.
 
@@ -592,7 +751,7 @@ So universalist feminism fails Black women descriptively, structurally and polit
 
 ---
 
-### Mock 12: Can feminism survive without a universal subject?
+### Mock 19: Can feminism survive without a universal subject?
 
 Feminism can survive, and must, without a universal subject in the metaphysical sense, while retaining "woman" as a strategic, plural, operational category. The death of the universal subject of pre-1980s feminism is not the death of feminism but its maturation. Harding's strong objectivity supplies the synthesis; Hill Collins, Crenshaw, hooks, Butler and Adichie converge on it from different directions.
 
