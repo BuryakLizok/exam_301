@@ -61,9 +61,9 @@ L14 is the spine of the Spring term's "culture, class, media" arc and it sits at
 
 **Past-Q list empty for this Spring lecture.** A scan of the 2021–2025 SC301 past-paper archive returns no questions explicitly on Williams, Hoggart, Thompson, Hall, or "Culture is Ordinary" as such. This is unusual for a lecture that supplies so much vocabulary, and it makes the mock-questions in §7 the only authentic preparation material. Treat the L14 toolkit (culture is ordinary, structure of feeling, encoding/decoding, hegemony, lived experience of class) as a *transferable* exam resource: even when no question explicitly names Williams, his framework is the right answer to questions on class culture, media, ideology, popular culture and modernity.
 
-## §7. Mock-Q bank (nineteen)
+## §7. Mock exam questions (19 total)
 
-*Note: M1–M7 are slide-recipe mocks built directly from lecture-deck SC301Lecture14a slide titles and teacher-summary headings (Lecture 14 Notes); M8–M19 are the earlier mock bank, retained and renumbered.*
+*Note: M1-M7 are slide-recipe mocks built directly from lecture-deck SC301Lecture14a slide titles and teacher-summary headings (Lecture 14 Notes); M8-M19 are the earlier mock bank, retained and renumbered.*
 
 M1. **Slide-recipe: "British Cultural Studies: Origins" (slide 3) + teacher-summary "Origins".** British Cultural Studies emerges in post-war Britain, where "class still matters enormously, but its cultural forms are changing" (Lecture 14 Notes). Discuss the origins of British Cultural Studies as a response to the post-war transformation of working-class life, and explain why the field "rejects both" elite high culture and Marxist reflectionism in favour of treating culture as "ordinary, lived, contested, and deeply political" (Lecture 14 Notes).
 
@@ -92,7 +92,9 @@ M17. **Politics of culture.** "Culture is a site of struggle." Discuss with refe
 M18. **Quote-detonator.** "There is a distinct working-class way of life, which I for one value" (Williams, 1958: 15). Use this passage to evaluate the politics of British Cultural Studies.
 M19. **Synoptic / against determinism.** British Cultural Studies rejects both elite literary "high culture" and the Marxist base-superstructure model. What does it put in their place, and at what cost?
 
-## §8. Full essays
+## §8. Mock exam answers
+
+*This section contains mock-exam answers only. No past-year exam questions exist for this Spring-term lecture (see §6), so there are no past-Q essays. Essays M1-M19 correspond to the mock questions listed in §7.*
 
 ### Essay M1. Origins of British Cultural Studies in post-war Britain. Why a new field, and why now?
 

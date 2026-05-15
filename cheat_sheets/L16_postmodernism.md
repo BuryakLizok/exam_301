@@ -128,11 +128,11 @@ The slides stage an explicit "guilty/not guilty" debate. The case against postmo
 
 The essential reading flags the limits of postmodernism in explaining media. It exaggerates the role of media and commercialism in forming reality; it rehashes Frankfurt School claims about the culture industry without acknowledging the debt; metanarratives are not actually in decline (nationalism, market triumphalism, climate science); the high/low culture divide persists; and popular culture has always used mixtures of styles, so pastiche is nothing new. The reading suggests these limits can be overcome by bringing postmodernism into dialogue with post-structuralism (media as discourse and dialogic) and cultural populism (anti-elitist working-class cultures).
 
-## §6 Past exam questions: none direct
+## §6 Past-year exam questions
 
-There is no past-paper question in the 2021–2025 SC301 archive that explicitly names Lyotard, Baudrillard, Jameson or postmodernism. The cross-applicable nearest neighbour is 2025 Q6, which addresses taste, morality and contemporary capitalism, a Jamesonian / Fisherian register can answer it from this lecture. Wider 2021–2025 debates around media authority, public sphere fragmentation, surveillance, the relation of culture industry to ideology, and the contemporary digital economy can all be answered productively from L16 material. I therefore treat the mocks in §7–§8 as the operative exam preparation, written in the style and on the topics most likely to be examined given the lecture's emphases.
+**Past-Q list empty for this Spring lecture.** There is no past-paper question in the 2021-2025 SC301 archive that explicitly names Lyotard, Baudrillard, Jameson or postmodernism. The nearest cross-applicable neighbour is 2025 Q6 (taste, morality and contemporary capitalism), which a Jamesonian / Fisherian register from this lecture can answer. Wider 2021-2025 debates around media authority, public sphere fragmentation, surveillance, the relation of culture industry to ideology, and the contemporary digital economy can all be answered productively from L16 material. The mocks in §7-§8 are therefore the operative exam preparation for this lecture.
 
-## §7 Mock exam questions
+## §7 Mock exam questions (22 total)
 
 *Note: §8 below opens with seven new slide-recipe mocks (M1–M7) built directly from Lecture 16 slide-bullets and the section-headings of the teacher summary `Postmodernism - notes.pdf` (Structuralism/post-structuralism/post-modernism map, Postmodern styles, Lyotard on media, Hypermarket, Political scandals, Reality TV, Jameson's critique). The existing fifteen mocks are renumbered M8–M22 and follow.*
 
@@ -160,9 +160,9 @@ M20. Is the breakdown of grand narratives a condition of liberation or of nihili
 M21. Apply postmodern theory to one contemporary media event of your choice.
 M22. "Postmodernism is the truth of late capitalism, not its critique." Discuss.
 
-## §8 Full mock essays
+## §8 Mock exam answers
 
-*§6 confirms there is no past-paper Q in the 2021–2025 archive that directly maps onto L16, so §8 opens with seven new slide-recipe mocks (M1–M7) drawn straight from the Lecture 16 presentation and the teacher summary `Postmodernism - notes.pdf`. The fifteen earlier mocks follow as M8–M22.*
+*This section contains mock-exam answers only. No past-year exam questions exist for this Spring-term lecture (see §6), so there are no past-Q essays. M1-M7 are slide-recipe mocks drawn from the Lecture 16 presentation and the teacher summary `Postmodernism - notes.pdf`; M8-M22 are the earlier mock bank, renumbered.*
 
 ### M1: Map the relation between structuralism, post-structuralism and postmodernism, and explain why postmodernism emerges from the breakdown of "grand narratives, truth through science and investigation, mass media and unified systems of control".
 

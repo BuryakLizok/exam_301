@@ -82,7 +82,48 @@ Lecture 9 opens by returning to the Cantino Planisphere and to Howard French's a
 
 ---
 
-## 7. Past-Year Exam Answers
+## 7. Past-year exam questions
+
+- **2025 (Q11):** How have post-colonial theorists challenged the distinction between 'the West and the Rest'?
+- **2025 (Q13):** Outline and assess if Southern theory addresses inequalities in the Global South.
+- **2025 (Q15):** Critically discuss two aspects of the Gandhian view on technology.
+- **2024 (Q10):** What is postcolonial theory? In what ways is it a critique of modernity?
+- **2024 (Q11):** What is a Southern theory? What are the limitations of the concept?
+- **2023 (Q11):** How have post-colonial theorists challenged the distinction between "the West and the Rest"?
+- **2023 (Q13):** Critically analyse Southern Theory as an alternative to European Modernity. What are its limits?
+- **2023 (Q14):** How are non-western models proposing a different relationship between modernity and technology? Discuss with examples.
+- **2022 (Q13):** How does the concept of "the West" set itself up in distinction to "the Rest"?
+- **2022 (Q15):** Why is it important to examine social theory which emerges from beyond the West?
+- **2021 (Q13):** Using at least two theorists, outline and assess the postcolonial critique of "the West".
+- **2021 (Q16):** In what ways does 'Southern theory' take forward debates in 'Western' social theory?
+
+## 8. Mock exam questions (17 total)
+
+*Mocks 1-7 are slide-recipe composites built from verbatim slide titles and slide-bullet vocabulary (Lecture 9 PDF; Revision 2026; Revision 2025 slides on Post-Colonial Theory, The Global South, Technology and Modernity, Multiple Modernities). Mocks 8-17 are the previously-drafted bank, renumbered.*
+
+1. **Mock 1.** "3 elements to colonialism: settlement, the economic relationship, unequal power relations" (slide 7). Discuss how the three elements work together in the L9 framework.
+2. **Mock 2.** "Rational/Irrational, Cultured/Savage, Mind/Body, Progress/Tradition, Science/Magic" (slide 9). How does Hall's table of binaries organise the West/Rest discourse?
+3. **Mock 3.** "The relationship between Occident and Orient is a relationship of power, of domination" (Said, slide 10). How does Said's biographical position on the slide bear on the claim?
+4. **Mock 4.** "The Orient is a construction" with effects on Iraq, EU boundaries, Immigration, Islam, 'Arabia' (slide 12). Why does Said insist the Orient is a construction without being merely imaginary, and what makes the contemporary list possible?
+5. **Mock 5.** "This average third world woman leads an essentially truncated life" (Mohanty, slides 19-20). What does the figure do for Western feminism, and what is at stake in refusing it?
+6. **Mock 6.** "Look, a Negro!" + "Being an object, being a subject" (Fanon, slides 25-27). How do the slide-25 "4 crucial points" structure the railway scene?
+7. **Mock 7.** "We must not ignore the role of Africa in the development of modernity" + "invert the current view" (French, slides 3-4). How does the Cantino Planisphere ground L9's argument that European modernity is global from the start?
+8. **Mock 8.** "The Orient is an idea that has a history" (Said). Discuss.
+9. **Mock 9.** Critically assess Said's argument in *Orientalism* in light of how the L9 lecture itself frames contemporary Orientalist effects.
+10. **Mock 10.** What does Fanon mean by the "white gaze", and why does it produce a doubled consciousness rather than simply an external constraint?
+11. **Mock 11.** Compare Said's Orientalism with Mohanty's "Third World Woman".
+12. **Mock 12.** Why does the L9 lecture end on Spivak's question "Who can speak for whom?", and what does the question add to Hall, Said, Fanon and Mohanty?
+13. **Mock 13.** How do the cartographic slides at the end of the lecture (Cantino Planisphere, Mercator, Gall-Peters, World Turned Upside Down) function as an argument?
+14. **Mock 14.** How does the L9 framework treat the relation between "the West" and capitalism?
+15. **Mock 15.** What is "post-colonial" in "post-colonial theory"? Is the "post" a date or a theoretical stance?
+16. **Mock 16.** Why does the L9 lecture not include Homi Bhabha on hybridity and mimicry, and what is gained or lost by this omission?
+17. **Mock 17.** How do the L9 readings handle internal heterogeneity, on both sides of the West/Rest binary?
+
+---
+
+## 9. Past-year exam answers
+
+*Most recent year first.*
 
 ### 2025 Q11, How have post-colonial theorists challenged the distinction between 'the West and the Rest'?
 
@@ -290,9 +331,9 @@ Caveats are needed. First, the extension thesis must not subordinate the periphe
 
 ---
 
-## 8. Mock Exam Answers
+## 10. Mock exam answers
 
-The mock questions that follow span a deliberate variety of question types, quoted-aphorism, named-work, two-part, comparison, contemporary application, topic-as-title, "how convincing?", and multi-author. M1-M7 are seven fresh slide-recipe mocks built directly from verbatim slide titles and slide-bullet vocabulary, anchored to the lecturer's exact phrases on slides 7, 9, 10, 12, 19-22, 25-28 and 2-4. M8-M17 are the previously-drafted mocks, renumbered from their original M1-M10 positions. No teacher summary exists for L9 (the autumn "Summaries from the teacher" folder contains notes for L11, L14 and L15 only); the slide-recipe questions therefore lean directly on the Lecture 9 PDF, the Revision 2026 L9 section, and the Revision 2025 slides on "Post-Colonial Theory", "The Global South", "Technology and Modernity" and "Multiple Modernities". Questions whose substance fell outside the L9 materials (Bhabha on hybridity, museum repatriation cases, postcolonial nationalisms not attested in the slides, climate testimony at COP, the rise of China and India as named topics, and the decolonising-sociology debate as a named programme) have been retired or rewritten because they cannot be defended from the L9 source set.
+*Mock answers in the same M-number order as the question list in §8. Mocks 1-7 are slide-recipe composites; Mocks 8-17 are the previously-drafted bank, renumbered. No teacher summary exists for L9 (the autumn "Summaries from the teacher" folder contains notes for L11, L14 and L15 only); the slide-recipe questions therefore lean directly on the Lecture 9 PDF, the Revision 2026 L9 section, and the Revision 2025 slides on "Post-Colonial Theory", "The Global South", "Technology and Modernity" and "Multiple Modernities".*
 
 ### Mock 1, "3 elements to colonialism: settlement, the economic relationship, unequal power relations" (slide 7). Discuss how the three elements work together in the L9 framework.
 

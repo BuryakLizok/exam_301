@@ -135,7 +135,7 @@ The arc of feminist theory in this lecture is a movement from rights, to experie
 
 ---
 
-## 7. Mock exam questions (17 total)
+## 7. Mock exam questions (19 total)
 
 *Note: M1-M7 are new slide-recipe composites built from L5 slide titles and bullet-questions; M8-M19 are the existing mocks renumbered.*
 

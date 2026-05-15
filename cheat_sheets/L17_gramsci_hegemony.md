@@ -160,13 +160,13 @@ This Gramscian turn is the hinge between the modernist canon (Marx, Frankfurt Sc
 
 ---
 
-## §6. Past-Year Exam Questions
+## §6. Past-year exam questions
 
-There are **no past-year questions specifically on Gramsci and Hegemony in the 2021–2025 exam archive**. The module's Spring half has consistently sampled the Frankfurt School, Hall on encoding/decoding, Hebdige on subculture, Hall on race, postmodernism, post-feminism and Hegemony Now in particular years, but the L17 material has not generated a stand-alone past question. Likely exam appearances would (a) embed Gramsci within questions on media-and-power, ideology, or popular culture, or (b) draw it in alongside Hall (race, encoding/decoding) or *Hegemony Now*. The mock questions in §7 therefore mix narrow Gramsci-only prompts with hybrid prompts that mirror the cross-thinker style of recent papers.
+**Past-Q list empty for this Spring lecture.** There are no past-year questions specifically on Gramsci and Hegemony in the 2021-2025 exam archive. The module's Spring half has consistently sampled the Frankfurt School, Hall on encoding/decoding, Hebdige on subculture, Hall on race, postmodernism, post-feminism and *Hegemony Now* in particular years, but the L17 material has not generated a stand-alone past question. Likely exam appearances would (a) embed Gramsci within questions on media-and-power, ideology, or popular culture, or (b) draw it in alongside Hall (race, encoding/decoding) or *Hegemony Now*. The mock questions in §7 therefore mix narrow Gramsci-only prompts with hybrid prompts that mirror the cross-thinker style of recent papers.
 
 ---
 
-## §7. Mock Exam Questions (19)
+## §7. Mock exam questions (19 total)
 
 **Note:** Mocks M1–M7 below are slide-recipe composites, each built directly from a Lecture 17 slide title or a heading in the teacher's *Gramsci and the turn to hegemony* summary, with vocabulary tracked back to specific bullets. They are designed to mirror the patterns the lecturer and teacher have already foregrounded in their own framings. Mocks M8–M19 are the existing prompts (formerly M1–M12), renumbered.
 
@@ -210,7 +210,9 @@ There are **no past-year questions specifically on Gramsci and Hegemony in the 2
 
 ---
 
-## §8. Full Essays (650–750 words each)
+## §8. Mock exam answers
+
+*This section contains mock-exam answers only (650-750 words each). No past-year exam questions exist for this Spring-term lecture (see §6), so there are no past-Q essays. Essays M1-M19 correspond to the mock questions listed in §7: M1-M7 are slide-recipe composites built from Lecture 17 slide titles and teacher-summary headings; M8-M19 are the earlier mock bank, renumbered.*
 
 ---
 

@@ -73,7 +73,13 @@ Magritte's *The Treachery of Images* (1948) and *The Key of Dreams* (Berger, 197
 
 ---
 
-## 7. Mock exam questions (22 total)
+## 7. Past-year exam questions
+
+- **2025 (Q12) / 2023 (Q12):** Donna Haraway stated 'How we see the world is always a matter of power'. Explain and discuss its relevance for sociology today. *(The same question was set verbatim in 2025 and 2023; treated as a single combined item.)*
+- **2022 (Q14):** Critically examine the links between vision, power and knowledge.
+- **2021 (Q14):** 'There are various ways of seeing the world, but they are all linked to questions of power.' Critically analyse.
+
+## 8. Mock exam questions (22 total)
 
 *Note: M1-M7 are new slide-recipe composites built from L10 slide titles, slide-bullet vocabulary and the teacher's "Feminist media theory" summary; M8-M22 are the existing mocks renumbered.*
 
@@ -102,9 +108,13 @@ Magritte's *The Treachery of Images* (1948) and *The Key of Dreams* (Berger, 197
 
 ---
 
-## 8. Essay answers
+## 9. Essay answers
 
-### Past-Q 2025 Q12 / 2023 Q12 - Donna Haraway stated 'How we see the world is always a matter of power'. Explain and discuss its relevance for sociology today.
+*Past-year essays first (most recent first), then mock essays in M-number order.*
+
+### Past-year exam answers
+
+### 2025 (Q12) / 2023 (Q12) - Donna Haraway stated 'How we see the world is always a matter of power'. Explain and discuss its relevance for sociology today.
 
 Haraway's claim is the keystone of a feminist epistemology that breaks with the modern dream of disembodied objectivity. To say "how we see the world is always a matter of power" is to insist that vision is an active, embodied, historically located practice. I unpack what Haraway means, place her in the lineage of theorists of vision and power, and argue her position is more sociologically urgent today than in 1988.
 
@@ -122,7 +132,7 @@ There are limits. Situated knowledge can be misread as relativism and used to de
 
 Haraway's statement is not a slogan but a research programme. Every dataset is also a gaze, every theory a position, every photograph a way of seeing. To take it seriously is to make sociology answerable for what it learns how to see.
 
-### Past-Q 2022 Q14 - Critically examine the links between vision, power and knowledge.
+### 2022 (Q14) - Critically examine the links between vision, power and knowledge.
 
 Vision, power and knowledge form an inseparable triad in modern sociology, and ways of seeing is the most productive way to grasp it. I move from Berger through Foucault, Mulvey and hooks to Haraway, before pulling them together around the course's examples.
 
@@ -142,7 +152,7 @@ The triad has limits. Foucault's panopticon can over-determine subjects as docil
 
 Still, the central insight holds. Vision, power and knowledge are mutually constitutive. Every photograph is a position; every dataset is a gaze; every map is an argument. Sociology's task is to make these positions visible, refuse the god trick and take responsibility for how it learns to see.
 
-### Past-Q 2021 Q14 - 'There are various ways of seeing the world, but they are all linked to questions of power.' Critically analyse.
+### 2021 (Q14) - 'There are various ways of seeing the world, but they are all linked to questions of power.' Critically analyse.
 
 The statement names the most important insight of the sociology of vision: pluralism of perspectives does not dissolve power but expresses it. I unpack the claim, defend it against simple relativism and explore where it leads.
 
@@ -162,9 +172,9 @@ There are objections. The claim can sound deterministic; I respond that "linked 
 
 The statement holds. Plurality of ways of seeing is the condition of the modern visual field; power is what organises and weights that plurality. Sociology's task is to map the field, expose the god trick and amplify the subjugated gazes that have always been positioned within it.
 
-### Past-Q 2021 Q14 (variant phrasing) - see above
-
 ---
+
+### Mock exam answers
 
 ### Mock 1 - "To gaze implies more than to look at" (Schroeder). Drawing on Slide 7's pairing of Schroeder with modernity, inequality, colonisation and slavery, discuss vision as a relation of power.
 

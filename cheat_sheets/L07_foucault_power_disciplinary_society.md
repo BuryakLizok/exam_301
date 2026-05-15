@@ -128,7 +128,18 @@ Behind all of this stands Foucault's polemic against traditional sociological th
 - Treating Foucault as a "postmodernist" who denies truth; he writes about regimes of truth, not the abolition of truth.
 - Forgetting the lecture's opening: ideology is not wrong, but it is "much more and much less" than what Foucault wants to analyse.
 
-## 7. List of mock exam questions (19 total)
+## 7. Past-year exam questions
+
+- **2025 (Q9):** How did Foucault challenge traditional sociological approaches to power? How convincing do you find his arguments?
+- **2024 (Q7):** How does Foucault conceptualise disciplinary power? Why is this conceptualisation important?
+- **2024 (Q8):** "Contemporary societies are biopolitical." Critically analyse this statement.
+- **2023 (Q9):** How did Foucault challenge traditional sociological approaches to power? How convincing?
+- **2022 (Q10):** Foucault described the power inherent in contemporary society as "disciplinary". What did he mean by this? How useful do you find this term?
+- **2022 (Q11):** How useful is Foucault's notion of biopower for understanding contemporary society?
+- **2021 (Q10):** Do we live in a "disciplinary society"? Use the work of Foucault to explain your response.
+- **2021 (Q11):** Outline and assess Foucault's discussions of power in terms of the governance of a population.
+
+## 8. Mock exam questions (19 total)
 
 **The first seven (M1-M7) follow the lecturer's actual exam-question-construction pattern most closely; they fuse 2-3 slide-bullet-questions or teacher-summary questions into a single composite, using the lecturer's own vocabulary. They are the most exam-realistic items in this section.**
 
@@ -174,9 +185,11 @@ Behind all of this stands Foucault's polemic against traditional sociological th
 
 ---
 
-## 8. Essay answers
+## 9. Essay answers
 
-### Past-Year Essays
+*Past-year essays first (most recent first), then mock essays in M-number order.*
+
+### Past-year exam answers
 
 ### 2025 (Q9): How did Foucault challenge traditional sociological approaches to power? How convincing do you find his arguments?
 
@@ -374,7 +387,7 @@ Third, agency. If populations are constituted by biopower, what is the locus of 
 
 Assessment: Foucault's discussions of population governance through biopower are essential to contemporary social theory but not sufficient on their own. They illuminate what other vocabularies cannot: the politics of life itself, the everyday management of populations through diet, hygiene, antenatal care, vaccination, contact-tracing, and the moralisation of bodily self-management. They need supplementing with disciplinary analysis of the individual body and attention to the residual sovereign register. Used this way, biopower remains one of the most powerful concepts in the contemporary social-theoretic toolkit.
 
-### Mock Essays
+### Mock exam answers
 
 ### M1: Is power best understood as ideology or as "both much more and much less than ideology"? Discuss with reference to the Kember ultrasound and Foucault's methodological injunction that we must understand HOW power relations operate in society.
 

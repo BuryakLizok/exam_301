@@ -137,7 +137,15 @@ Structuralism and semiology argue that meaning in language and culture is not na
 
 ---
 
-## §7. Mock-Q bank
+## §7. Past-year exam questions
+
+- **2023 (Q7):** Do we need a theory of signs and signification to understand capitalism?
+- **2022 (Q5):** Critically assess Barthes' argument that popular culture is "mythological".
+- **2021 (Q5):** What did Barthes mean when he argued that popular culture is ideological? How convincing do you find his approach?
+
+---
+
+## §8. Mock exam questions (22 total)
 
 > Note: M1-M7 are fresh slide-recipe composites drawn directly from the L15 deck and the teacher's Lecture 15 summary. M8-M22 are the previous mock bank, renumbered.
 
@@ -166,13 +174,15 @@ Structuralism and semiology argue that meaning in language and culture is not na
 
 ---
 
-## §8. Full essays (650-750 words each)
+## §9. Essay answers
 
-> Three past-Q essays first (reverse-chronological: 2023, 2022, 2021), then seven new slide-recipe mocks (M1-M7), then the previous mock-Q essays renumbered M8-M19. First person, active voice. Quotes pinned where possible; `[VERIFY p.?]` where the page is uncertain. Word counts logged at the end of each.
+> Past-year essays first (reverse-chronological: 2023, 2022, 2021), then mock essays. **Note on coverage:** §8 lists 22 mock questions, but only Mocks 1-19 have written essay answers below. Mocks 20-22 are included in the list because they would be productive exam prompts, but no essays have been drafted for them. First person, active voice. Quotes pinned where possible; `[VERIFY p.?]` where the page is uncertain. Word counts logged at the end of each.
 
 ---
 
-### 8.1 Past-Q 2023 (Q7). Do we need a theory of signs and signification to understand capitalism?
+### Past-year exam answers
+
+### 8.1 Past-year 2023 (Q7). Do we need a theory of signs and signification to understand capitalism?
 
 I want to argue that we do need a theory of signs to understand capitalism, but only a theory reworked along Hall's lines. A pure semiology cannot grasp capitalism on its own, because capitalism is also a mode of production, a class structure and a circuit of accumulation. But a Marxism that ignores signs cannot explain why Hugo Boss sells professionalism, why Jeep can sell a 4x4 by attaching it to mountains, or why Liquid Death can sell still water by branding it like a heavy-metal band. The sign and the commodity have become inseparable, and any serious account of contemporary capitalism has to combine the two.
 
@@ -190,7 +200,7 @@ Hall's reworking is what makes semiology adequate to capitalism, and it is no ac
 
 ---
 
-### 8.2 Past-Q 2022 (Q5). Critically assess Barthes' argument that popular culture is "mythological".
+### 8.2 Past-year 2022 (Q5). Critically assess Barthes' argument that popular culture is "mythological".
 
 Barthes's claim that popular culture is mythological is, in my view, both indispensable and over-stated. It is indispensable because he gives us the sharpest tool we have for seeing how popular-cultural signs naturalise specific historical arrangements. It is over-stated because, taken on its own, the argument under-determines questions of audience reception, institutional production and the polysemy of texts that Hall and Strinati raise.
 
@@ -208,7 +218,7 @@ My assessment, then, is that the claim that popular culture is mythological is e
 
 ---
 
-### 8.3 Past-Q 2021 (Q5). What did Barthes mean when he argued that popular culture is ideological? How convincing do you find his approach?
+### 8.3 Past-year 2021 (Q5). What did Barthes mean when he argued that popular culture is ideological? How convincing do you find his approach?
 
 When Barthes argues that popular culture is ideological, he is making a specific and quite technical claim, not just complaining about advertising. His claim is that the popular signs around us, magazine covers, wrestling matches, wine bottles, soap powders, cars, toys, operate at a third order of signification he calls myth, and that the function of myth is to convert the historically specific interests of a dominant class into apparently natural, timeless, obvious truths. Strinati paraphrases the political programme: semiology is "the close analysis of the processes of meaning by which the bourgeoisie converts its historical class-culture into universal nature… the fundamental method of an ideological critique" (Barthes, in Strinati, 1995: 100). Or in Barthes's own words: "the very principle of myth: it transforms history into nature" (Barthes, 1972: 140).
 
@@ -231,6 +241,10 @@ So Barthes is right that popular culture is ideological in his precise sense; it
 (Word count: ~738.)
 
 ---
+
+### Mock exam answers
+
+> Mocks 1-22 below correspond to questions M1-M22 in §8. All twenty-two mock essays are now drafted (the original gap at Mocks 20-22 has been filled).
 
 ### 8.4 Mock 1. The teacher's L15 summary contrasts "Culturalist - lived experience, historical context, and agency" with "Structuralist - the deep structures that organise meaning". Critically assess this contrast through Saussure, Barthes and Hall.
 
@@ -695,6 +709,62 @@ My own view is that the most useful position is the middle one: semiology is a *
 The label "science" carries too much positivist baggage; the label "criticism" sells the method's rigour short. Semiology is best understood as one tool in the interpretive toolkit, indispensable for analysing the cultural surface of contemporary capitalism, and most defensible when used alongside encoding/decoding research, political economy and ethnography. That is neither pure science nor pure criticism, but it is good work.
 
 (Word count: ~740.)
+
+---
+
+### 8.23 Mock 20. What can semiology contribute to understanding the politics of national and imperial symbols (Barthes's Paris-Match cover, the O2 "Wear the Rose" rugby campaign, the "Decolonize" graffiti on the semiotics slide)?
+
+National and imperial symbols are the sharpest test case for semiology because they trade precisely on appearing natural and timeless rather than historically made. I want to argue that semiology contributes three indispensable things to their politics: a method for unpacking how they work, a vocabulary for naming the move from history to nature, and a route into the politics of counter-signs. The L15 slide that pairs the Paris-Match cover with "Wear the Rose" and the "Decolonize" graffiti is a working syllabus for that argument.
+
+Start with the Paris-Match cover, which is Barthes's textbook case. The denotation is straightforward: a young Black soldier in French uniform salutes, his eyes raised, the tricolour presumably outside the frame. The connotation, on Barthes's reading, is "a great mixture of Frenchness and militariness" (Barthes, 1972: 116). The myth, the third-order meaning, "is that France is a great Empire, that all her sons, without any colour discrimination, faithfully serve under her flag, and that there is no better answer to the detractors of an alleged colonialism than the zeal shown by this Negro in serving his so-called oppressors" (Barthes, 1972: 116). The image's political work is to "transform history into nature" (Barthes, 1972: 140): the Algerian war and the long arc of French colonial violence are blotted out by the apparently natural fact of a smiling colonial subject. Without the denotation / connotation / myth apparatus, the image looks innocent.
+
+The "Wear the Rose" rugby campaign performs the same operation inside post-imperial English nationhood. The rose denotes a flower. It connotes Englishness, tradition, a pastoral and chivalric national past. The myth it produces is that England is a continuous community of taste, loyalty and sporting decency, and that the rose is the natural sign of belonging to it. Barthes's principle holds across the historical break: from imperial nation to post-imperial sporting nation, the work of the sign is to feel inevitable. The slide-bullet "destroy the idea that signs are natural" is the political hinge that the analyst can use here. The rose is conventional, not natural; it could have been the oak, the cup, the lion. Once that is visible, the political stakes of the choice become visible too: who counts as inside the rose, who is excluded from its pastoral, and which version of England the campaign mobilises.
+
+The "Decolonize" graffiti is the third move and the most interesting. It is a counter-sign that operates on the mythic register the first two signs depend on. Barthes himself noted that "the best weapon against myth is perhaps to mythify it in its turn, and to produce an artificial myth" (Barthes, 1972: 135). The graffiti does not merely state a position; it intervenes in the sign-economy itself, marking a public monument or surface as a site of contested meaning. Decolonising-the-curriculum debates and the wider conversation around statues and street names work in the same register: they make the naturalised signs of national history feel like signs again. This is semiology used reflexively.
+
+Limits, however, matter. Strinati's reminder is that semiology on its own "tends to ignore the context of industrial production" and that "meaning is not a quality of the sign itself but of the social relationships in which it can be located" (Strinati, 1995: 117). Paris-Match is a magazine industry with readers and editors; the rugby campaign is a corporate sponsorship inside a televised sporting calendar; the graffiti is anonymous public speech with its own production conditions and audiences. A full account needs Hall's reworking, where encoding institutions and decoding audiences are restored, alongside Gramsci's account of hegemony as "the 'spontaneous' consent given by the great masses of the population" (Gramsci, 1971: 12) to dominant cultural leadership.
+
+Semiology cannot replace political economy, audience research or the wider sociology of cultural production. What it does contribute is irreplaceable: it gives the analyst a method for showing exactly how the rose, the salute and the graffiti do their political work at the level of the sign. National and imperial symbols persist by appearing not to be signs at all. The L15 lecture's central instruction, "destroy the idea that signs are natural", is the first political act semiology asks of us. The Paris-Match cover, the "Wear the Rose" campaign and the "Decolonize" graffiti are the three sites where that act is most worth performing today.
+
+(Word count: ~717.)
+
+---
+
+### 8.24 Mock 21. Can popular culture be used to "rob myth of myth"? Discuss with reference to culture jamming, parody and irony.
+
+Barthes's own answer to this question is more cautious than the slogan suggests. He writes that "the best weapon against myth is perhaps to mythify it in its turn, and to produce an artificial myth" (Barthes, 1972: 135), but he also warns that myth's mode is naturalisation, which makes direct critique inside its own register treacherously easy to recuperate. I want to argue that popular culture can rob myth of myth, but that the operation is unstable: parodic counter-signs tend to be re-mythologised by the very system they critique, and the work has to be done repeatedly.
+
+Begin with the textbook cases of culture jamming. Adbusters's campaigns transformed corporate logos into their own critique: Joe Camel became Joe Chemo, the Calvin Klein "Obsession" advert was turned against itself, the Nike swoosh was rebranded as sweatshop emblem. Each operation works at exactly the second-order level Barthes identifies. The brand sign denotes a product; the parody preserves the denotation but inverts the connotation; the parodic myth replaces the corporate myth. Banksy operates in the same register. The Hugo Boss suit, in a culture-jamming reading, denotes a garment, connotes professionalism, and could have its mythological work, the naturalisation of bourgeois masculinity, exposed by a parodic remake. Strinati's principle stands: the function of myth is "to transform history into nature" (citing Barthes, 1972: 140), and culture jamming reverses the direction, denaturalising what was made to feel natural.
+
+Parody and irony work less aggressively but on the same logic. *The Onion* and *The Daily Mash* report fictional news in the perfect house style of real news, denaturalising the conventions of journalism by exaggerating them. *Black Mirror* episodes such as "Fifteen Million Merits" stage a hyper-real version of media spectacle to make its current form feel constructed. *Severance* defamiliarises the office. *Adolescence* in another register defamiliarises crisis-television itself, refusing the genre's usual mythic closure. Each operates as an artificial myth, in Barthes's sense, that exposes the existing myth as a myth.
+
+But there are real limits. The first is Strinati's polysemy concession (Strinati, 1995: 114): parody can be decoded as endorsement. The line between "this advert is ridiculous" and "this advert is now cooler because it knows it is ridiculous" is thin, and many viewers cross it without noticing. The DEATH cigarettes and Liquid Death water referenced in the L15 deck illustrate this: a brand that already parodies the form of branding can sell more product, not less. The second limit is the recuperation problem, which is structural to capitalist popular culture. Punk's countercultural style became Vivienne Westwood and then high-street fashion. Banksy's anti-art became gallery prices and Sotheby's auctions. Che Guevara's revolutionary iconography became t-shirts. Hall's encoding/decoding framework helps name this: yesterday's oppositional reading becomes today's preferred reading once the new sign is naturalised. The decolonial graffiti of one generation becomes the museum installation of the next.
+
+The third limit is theoretical. Strinati notes that Barthes himself treats myth-busting as a literary-critical act rather than a political programme (Strinati, 1995: 114-117). Robbing myth of myth at the level of the text leaves the production conditions, the institutions and the political economy that generate the original myths fully intact. A truly counter-hegemonic operation, in Gramsci's vocabulary (Gramsci, 1971: 12), would need to combine semiotic intervention with a wider war of position across cultural institutions, media production and political organisation.
+
+Where does this leave the question? Popular culture can rob myth of myth. The Adbusters campaigns, *The Onion*, Banksy's interventions, drag's defamiliarisation of gender, BLM-era reworkings of monumental iconography, all demonstrate the operation in working order. But the moment of demystification rarely lasts. Brands recuperate parody; oppositional readings become preferred ones; the artificial myth congeals into a new natural one. The honest answer is yes, briefly, repeatedly, and only when the semiotic operation is part of a wider hegemonic struggle. Barthes's caution stands: there is no single act of myth-busting that liberates popular culture once and for all. There is only the patient, repeated work of making signs feel like signs again.
+
+(Word count: ~665.)
+
+---
+
+### 8.25 Mock 22. "We need Saussure to identify the structure, Barthes to read the myth, and Hall to bring back power." Discuss.
+
+The formula is broadly correct as a division of analytical labour, and it doubles nicely as a revision card. But I want to argue that it understates Hall's contribution, ignores Lévi-Strauss as the bridge between Saussure's linguistics and cultural analysis, and risks reducing semiology to a tidy three-step recipe. Each name in the formula does what it says, but each does more than the slogan allows.
+
+Saussure first. The formula's account of him is accurate: he identifies the structure. The sign is signifier plus signified; the relation between them is arbitrary; meaning emerges from position within a *langue* rather than from things in the world (Saussure, 1916, cited in Strinati, 1995: 83). The traffic-lights image on the lecture deck stages this: red signifies stop because the highway-code system fixes a relational difference, not because red is intrinsically stop-coloured. Without Saussure the apparatus has no foundation. Strinati's gloss is precise: "there is no intrinsic, natural or essential reason why a particular concept should be linked with one sound image rather than another" (Strinati, 1995: 83). The structural insight is the precondition for everything else.
+
+Barthes second. The formula's account is also broadly right: he reads the myth. Barthes inherits Saussure but stretches the apparatus to images, fashion, food, advertising, film, news and popular culture. He adds the two further orders: connotation, the cultural level, and myth, the ideological level. He names the central operation of mythic signification, "to transform history into nature" (Barthes, 1972: 140). The Paris-Match cover, the wine, the steak, the wrestling, the seventy women novelists, the Citroën DS, all become legible once the denotation / connotation / myth machinery is applied. Without Barthes we can identify signs but cannot diagnose their political work.
+
+Hall third, and here the formula does him a disservice. The line says he "brings back power", but Hall does considerably more than add a political moralism to a neutral toolkit. He rewrites the toolkit. First, he restores production through the encoder side of the encoding/decoding model: signs are made in institutions with technical infrastructure, frameworks of knowledge and relations of production. Second, he restores reception through the decoder side: preferred, negotiated and oppositional readings (Hall, 1980). Third, he integrates the model with Marxism via Gramsci's account of hegemony as "the 'spontaneous' consent given by the great masses of the population to the general direction imposed on social life by the dominant fundamental group" (Gramsci, 1971: 12). Fourth, and crucially, he corrects Barthes's class reductionism by integrating race and the post-colonial: 'The Whites of Their Eyes' on the grammar of race in television, *Policing the Crisis* on the moral panic about mugging, the encoding/decoding diagram repurposed as a hegemony/counter-hegemony diagram. The teacher's summary makes the point exactly: Hall "does not abandon structuralism. Instead, he reworks it, combining semiology with Marxism, ideology theory, and sociology." That is not "bringing back power"; it is a reconstruction.
+
+The formula has a fourth missing name: Lévi-Strauss. He is the natural bridge between Saussure's linguistics and Barthes's cultural analysis. He extends Saussurean structure beyond language into kinship, myth and culture, and gives the binary apparatus that Hall later turns to political use: West/Rest, rational/irrational, cultured/savage, mind/body, progress/tradition, science/magic. Strinati notes the cost of leaving him out: "structural analysis tends to ignore the context of industrial production" (Strinati, 1995: 117), but structural analysis is also the apparatus that makes the binaries visible in the first place. Eco's structural reading of the Bond novels (Strinati, 1995: 93-98) is the worked example of how Lévi-Straussian structure produces testable predictions about narrative form.
+
+There is also a fifth missing register: critique from outside the semiotic tradition. Williamson on advertising, Mulvey's male gaze (cross-link to L10), feminist film theory, decolonial semiotics, and the political-economic critiques developed by the Frankfurt School (cross-link to L12). The formula's strength is its tidiness; its weakness is that it makes semiology a closed shop, when the most productive contemporary work crosses the boundary.
+
+As a revision-card slogan, the line works: Saussure for structure, Barthes for myth, Hall for power. As an account of what we actually need to analyse cultural signs in late capitalism, it understates Hall, omits Lévi-Strauss, and ignores the empirical and political registers that surround the tradition. The right formula is the sloganised one expanded: Saussure for the structural apparatus, Lévi-Strauss for the binary extension, Barthes for the mythic operation, Hall for the production-and-reception reconstruction, and the wider critical sociology for the political-economic ground.
+
+(Word count: ~737.)
 
 ---
 
