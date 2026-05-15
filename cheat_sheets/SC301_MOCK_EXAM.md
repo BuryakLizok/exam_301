@@ -1,4 +1,4 @@
-# SC301 Mock Exam Paper — Pre-Exam Practice
+# SC301 Mock Exam Paper - Pre-Exam Practice
 
 **Module:** SC301 Rethinking Modernity (full year)
 **Format:** Open-book, 3 hours, handwritten
@@ -7,131 +7,131 @@
 Each question carries equal weight. Word target per essay: roughly 700-800 words, handwritten (~5 sides of A4 per essay, ~50 minutes per essay including planning).
 
 **Question types are tagged after each question:**
-- 🔁 **Past-Q verbatim** — exactly the wording of a past-year exam question. High recurrence risk; you may see this or a close paraphrase on the real paper.
-- 🔂 **Past-Q variant** — close paraphrase or merger of past-year questions.
-- ✨ **Fresh** — new question modelled on the lecturer's style; tests whether you can adapt the same material to a new framing.
+- 🔁 **Past-Q verbatim** - exactly the wording of a past-year exam question. High recurrence risk; you may see this or a close paraphrase on the real paper.
+- 🔂 **Past-Q variant** - close paraphrase or merger of past-year questions.
+- ✨ **Fresh** - new question modelled on the lecturer's style; tests whether you can adapt the same material to a new framing.
 
 ---
 
-## SECTION A — Autumn Term (Lectures 1-10)
+## SECTION A - Autumn Term (Lectures 1-10)
 
 **Answer at least ONE question from this section.**
 
 ---
 
 **Question 1.** In what ways is modernity a colonial project? Discuss with reference to at least two theorists.
-*🔁 Past-Q verbatim (2024 Q1, with 2024 Q9 follow-up appended)* — maps to **L2** (Dussel, French, Hall) with L8 cross-link (Du Bois, Gilroy).
+*🔁 Past-Q verbatim (2024 Q1, with 2024 Q9 follow-up appended)* - maps to **L2** (Dussel, French, Hall) with L8 cross-link (Du Bois, Gilroy).
 
 ---
 
 **Question 2.** How did Foucault challenge traditional sociological approaches to power? How convincing do you find his arguments?
-*🔁 Past-Q verbatim (2025 Q9, also 2023 Q9)* — maps to **L7** (Foucault, Lynch, Bordo).
+*🔁 Past-Q verbatim (2025 Q9, also 2023 Q9)* - maps to **L7** (Foucault, Lynch, Bordo).
 
 ---
 
 **Question 3.** Why has the distinction between "facts" and "values" been problematic for sociology?
-*🔁 Past-Q verbatim (2023 Q3, also 2025 Q3 in slightly altered form)* — maps to **L1** (Halewood on Weber, Whitehead).
+*🔁 Past-Q verbatim (2023 Q3, also 2025 Q3 in slightly altered form)* - maps to **L1** (Halewood on Weber, Whitehead).
 
 ---
 
 **Question 4.** Why should sociology make efforts to study the relations between humans and animals?
-*🔁 Past-Q verbatim (2023 Q2, also 2024 Q2 and 2021 Q18 in variant form)* — maps to **L3** (Carter & Charles, Haraway).
+*🔁 Past-Q verbatim (2023 Q2, also 2024 Q2 and 2021 Q18 in variant form)* - maps to **L3** (Carter & Charles, Haraway).
 
 ---
 
 **Question 5.** "Inequalities in language are inequalities in the world." Critically discuss with reference to at least one specific case.
-*🔂 Past-Q variant (2021 Q4 paraphrased and tightened)* — maps to **L4** (Ngũgĩ on language and colonialism; Halewood on gendered pronouns; Spender; Adichie).
+*🔂 Past-Q variant (2021 Q4 paraphrased and tightened)* - maps to **L4** (Ngũgĩ on language and colonialism; Halewood on gendered pronouns; Spender; Adichie).
 
 ---
 
 **Question 6.** In what ways does feminist epistemology overturn the canons and practices of traditional epistemology?
-*🔁 Past-Q verbatim (2024 Q5)* — maps to **L6** (Harding, Hartsock, Hill Collins, Haraway).
+*🔁 Past-Q verbatim (2024 Q5)* - maps to **L6** (Harding, Hartsock, Hill Collins, Haraway).
 
 ---
 
 **Question 7.** Foucault described the power inherent in contemporary society as both "disciplinary" and "biopolitical". Critically assess both terms, with reference to concrete examples.
-*🔂 Past-Q variant (merges 2022 Q10 and 2022 Q11; this composite framing has not yet appeared but is exactly the lecturer's recipe)* — maps to **L7** (Foucault, Bordo, Butler).
+*🔂 Past-Q variant (merges 2022 Q10 and 2022 Q11; this composite framing has not yet appeared but is exactly the lecturer's recipe)* - maps to **L7** (Foucault, Bordo, Butler).
 
 ---
 
 **Question 8.** Drawing on at least two of Du Bois, Toni Morrison and Paul Gilroy, discuss the implications of "race" for understanding contemporary society.
-*🔁 Past-Q verbatim (2022 Q12)* — maps to **L8** (Du Bois, Gilroy, Morrison).
+*🔁 Past-Q verbatim (2022 Q12)* - maps to **L8** (Du Bois, Gilroy, Morrison).
 
 ---
 
 **Question 9.** "How we see the world is always a matter of power" (Haraway). Explain this claim and assess its relevance for sociology today.
-*🔁 Past-Q verbatim (2025 Q12 and 2023 Q12)* — maps to **L10** (Haraway, Berger, Mulvey, hooks, Foucault, Kember).
+*🔁 Past-Q verbatim (2025 Q12 and 2023 Q12)* - maps to **L10** (Haraway, Berger, Mulvey, hooks, Foucault, Kember).
 
 ---
 
 **Question 10.** "Sociology can decentre the human only at the cost of dissolving its own disciplinary identity." Discuss with reference to the animal challenge to sociology and at least one further sociological tradition.
-*✨ Fresh* — maps to **L3** (Carter & Charles, Haraway) with cross-link to L1 (Halewood) or L5/L6 (feminism / standpoint).
+*✨ Fresh* - maps to **L3** (Carter & Charles, Haraway) with cross-link to L1 (Halewood) or L5/L6 (feminism / standpoint).
 
 ---
 
 **Question 11.** Using at least two theorists, outline and assess the postcolonial critique of "the West".
-*🔁 Past-Q verbatim (2021 Q13)* — maps to **L9** (Hall, Said, Mohanty, Fanon, Dussel).
+*🔁 Past-Q verbatim (2021 Q13)* - maps to **L9** (Hall, Said, Mohanty, Fanon, Dussel).
 
 ---
 
 **Question 12.** "There are various ways of seeing the world, but they are all linked to questions of power." Critically analyse, with reference to at least two concrete cases.
-*🔁 Past-Q verbatim (2021 Q14)* — maps to **L10** (Berger, Mulvey, hooks, Haraway, Foucault).
+*🔁 Past-Q verbatim (2021 Q14)* - maps to **L10** (Berger, Mulvey, hooks, Haraway, Foucault).
 
 ---
 
-## SECTION B — Spring Term (Lectures 11-17)
+## SECTION B - Spring Term (Lectures 11-17)
 
 **Answer at least ONE question from this section.**
 
 ---
 
 **Question 13.** Do we need a theory of signs and signification to understand capitalism?
-*🔁 Past-Q verbatim (2023 Q7)* — maps to **L15** (Saussure, Barthes, Hall, Strinati).
+*🔁 Past-Q verbatim (2023 Q7)* - maps to **L15** (Saussure, Barthes, Hall, Strinati).
 
 ---
 
 **Question 14.** What did Barthes mean when he argued that popular culture is ideological? How convincing do you find his approach?
-*🔁 Past-Q verbatim (2021 Q5)* — maps to **L15** (Barthes, Hall, Strinati).
+*🔁 Past-Q verbatim (2021 Q5)* - maps to **L15** (Barthes, Hall, Strinati).
 
 ---
 
 **Question 15.** "Popular culture is mythological" (Barthes). Critically assess this argument.
-*🔂 Past-Q variant (2022 Q5 paraphrased)* — maps to **L15** (Barthes on myth, denotation, connotation; Hall's reworking).
+*🔂 Past-Q variant (2022 Q5 paraphrased)* - maps to **L15** (Barthes on myth, denotation, connotation; Hall's reworking).
 
 ---
 
 **Question 16.** "Culture is ordinary" (Raymond Williams). Critically analyse this claim as a critique of the Leavisite reservation of culture for an elite class, with reference to at least one concrete example.
-*✨ Fresh, but built directly from L11's "Possible Critiques" of Arnold/Leavis and from the L14 reading on Williams* — maps to **L14** (Williams 1958) with L11 cross-link (Arnold, Leavis, Strinati).
+*✨ Fresh, but built directly from L11's "Possible Critiques" of Arnold/Leavis and from the L14 reading on Williams* - maps to **L14** (Williams 1958) with L11 cross-link (Arnold, Leavis, Strinati).
 
 ---
 
 **Question 17.** Critically assess Habermas's account of the bourgeois public sphere in light of Fraser's critique.
-*✨ Fresh, but maps directly to the L13 slide-recipe mocks* — maps to **L13** (Habermas, Fraser, Calhoun, with McGuigan/Thompson on contemporary refeudalisation).
+*✨ Fresh, but maps directly to the L13 slide-recipe mocks* - maps to **L13** (Habermas, Fraser, Calhoun, with McGuigan/Thompson on contemporary refeudalisation).
 
 ---
 
 **Question 18.** How useful is the Frankfurt School notion of the culture industry for analysing contemporary streaming platforms and algorithmic recommendation?
-*✨ Fresh — discuss with examples* — maps to **L12** (Adorno, Adorno & Horkheimer, Benjamin) with general-knowledge examples (Spotify, Netflix, TikTok, MCU, K-pop).
+*✨ Fresh - discuss with examples* - maps to **L12** (Adorno, Adorno & Horkheimer, Benjamin) with general-knowledge examples (Spotify, Netflix, TikTok, MCU, K-pop).
 
 ---
 
 **Question 19.** How does Gramsci's distinction between domination and intellectual or moral leadership help us understand the politics of contemporary media?
-*✨ Fresh, modelled on the L17 slide-recipe mocks* — maps to **L17** (Gramsci, Hall, Bennett, Williams & Gilbert) with general-knowledge examples (BBC, Twitter/X, podcasters as organic intellectuals).
+*✨ Fresh, modelled on the L17 slide-recipe mocks* - maps to **L17** (Gramsci, Hall, Bennett, Williams & Gilbert) with general-knowledge examples (BBC, Twitter/X, podcasters as organic intellectuals).
 
 ---
 
 **Question 20.** "Postmodernism is the cultural logic of late capitalism, not its critique" (Jameson). Discuss.
-*✨ Fresh, draws on the L16 mock bank* — maps to **L16** (Jameson, Lyotard, Baudrillard, Fisher, Strinati).
+*✨ Fresh, draws on the L16 mock bank* - maps to **L16** (Jameson, Lyotard, Baudrillard, Fisher, Strinati).
 
 ---
 
 **Question 21.** What does the recurrent moral panic around new popular cultural forms (punk, drill, "brain rot" memes, short-form video) reveal about the deep structure of the mass culture debate?
-*✨ Fresh, discuss with examples* — maps to **L11** (Arnold, Leavis, Strinati, Hall, Bennett) with general-knowledge examples (Sex Pistols, drill, TikTok, Andrew Tate).
+*✨ Fresh, discuss with examples* - maps to **L11** (Arnold, Leavis, Strinati, Hall, Bennett) with general-knowledge examples (Sex Pistols, drill, TikTok, Andrew Tate).
 
 ---
 
 **Question 22.** To what extent does contemporary capitalism utilise elements of taste and morality? Discuss with reference to the Bourdieusian critique of cultural distinction and the Frankfurt School account of the culture industry.
-*🔂 Past-Q variant (2025 Q6 in cross-cutting form — relevant to both Section A and Section B)* — maps to **L11/L12** with cross-link to **L1** (fact/value) and **L17** (hegemony).
+*🔂 Past-Q variant (2025 Q6 in cross-cutting form - relevant to both Section A and Section B)* - maps to **L11/L12** with cross-link to **L1** (fact/value) and **L17** (hegemony).
 
 ---
 
@@ -171,8 +171,8 @@ Each question above has a `→ maps to LX` tag. In the real exam, you'll need to
 
 Two ways:
 
-1. **`SC301_ALL_LECTURES.md`** — the merged master. Use Ctrl+F / your reader's search to jump straight to the relevant `# L<N>` heading. The table of contents at the top has anchor links if your reader supports them.
-2. **The per-lecture file `LXX_*.md`** — go straight there if you know the lecture number.
+1. **`SC301_ALL_LECTURES.md`** - the merged master. Use Ctrl+F / your reader's search to jump straight to the relevant `# L<N>` heading. The table of contents at the top has anchor links if your reader supports them.
+2. **The per-lecture file `LXX_*.md`** - go straight there if you know the lecture number.
 
 ### Step 3: Find the closest existing essay
 
